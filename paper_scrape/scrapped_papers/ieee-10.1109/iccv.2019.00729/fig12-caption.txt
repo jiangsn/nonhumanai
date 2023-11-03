@@ -1,0 +1,1 @@
+Figure 12: (a) show results on non-frontal face images. (b) show results on the Flickr portrait dataset [24].

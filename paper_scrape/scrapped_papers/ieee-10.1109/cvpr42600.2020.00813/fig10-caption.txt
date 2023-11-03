@@ -1,0 +1,1 @@
+Figure 10. LPIPS distance histograms between original and projected images for generated (blue) and real images (orange). Despite the higher image quality of our improved generator, it is much easier to project the generated images into its latent space w. The same projection method was used in all cases.

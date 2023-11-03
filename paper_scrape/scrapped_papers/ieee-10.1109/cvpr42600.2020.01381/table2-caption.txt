@@ -1,0 +1,1 @@
+Table 2. Objective speech quality, intelligibility and wer scores for the grid dataset unseen test split

@@ -1,0 +1,1 @@
+Samples of the training corpus used to optimize the Audio2ExpressionNet.

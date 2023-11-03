@@ -1,0 +1,1 @@
+Figure 7. The SAD error at different levels of trimap dilation.

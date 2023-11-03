@@ -1,0 +1,2 @@
+Table 2. Ablation study on the Carnivores and Birds dataset. “Ours w/o CC” represents a baseline where the content conditioning part in COCO is removed. “Ours w/o CSB” represents a baseline where the CSB is removed. Detailed architecture of these baselines are given in Appendix A of our full technical report 
+[36].

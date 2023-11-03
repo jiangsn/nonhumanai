@@ -1,0 +1,2 @@
+Figure 4: 
+Qualitative ablations. Results of our full method with different loss components removed. The odd rows show zoom-in rendered color and the even rows show corresponding pseudo depth. Each component reduces the overall quality in different ways.

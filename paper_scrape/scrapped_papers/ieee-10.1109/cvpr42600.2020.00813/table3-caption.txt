@@ -1,0 +1,1 @@
+Table 3. Improvement in LSUN datasets measured using FID and ppl. We trained CAR for 57M images, CAT for 88M, CHURCH for 48M, and HORSE for 100M images.

@@ -1,0 +1,634 @@
+{
+    "mainEntity": {
+        "headline": "Grandmaster level in StarCraft II using multi-agent reinforcement learning",
+        "description": "Many real-world applications require artificial agents to compete and coordinate with other agents in complex environments. As a stepping stone to this goal, the domain of StarCraft has emerged as an important challenge for artificial intelligence research, owing to its iconic and enduring status among the most difficult professional esports and its relevance to the real world in terms of its raw complexity and multi-agent challenges. Over the course of a decade and numerous competitions1\u20133, the strongest agents have simplified important aspects of the game, utilized superhuman capabilities, or employed hand-crafted sub-systems4. Despite these advantages, no previous agent has come close to matching the overall skill of top StarCraft players. We chose to address the challenge of StarCraft using general-purpose learning methods that are in principle applicable to other complex domains: a multi-agent reinforcement learning algorithm that uses data from both human and agent games within a diverse league of continually adapting strategies and counter-strategies, each represented by deep neural networks5,6. We evaluated our agent, AlphaStar, in the full game of StarCraft II, through a series of online games against human players. AlphaStar was rated at Grandmaster level for all three StarCraft races and above 99.8% of officially ranked human players. AlphaStar uses a multi-agent reinforcement learning algorithm and has reached Grandmaster level, ranking among the top 0.2% of human players for the real-time strategy game StarCraft II.",
+        "datePublished": "2019-10-30",
+        "dateModified": "2019-10-30",
+        "pageStart": "350",
+        "pageEnd": "354",
+        "sameAs": "https://doi-org.proxy.lib.ohio-state.edu/10.1038/s41586-019-1724-z",
+        "keywords": "Computer science,Statistics,Science,Humanities and Social Sciences,multidisciplinary",
+        "image": "https://static-content.springer.com/image/art%3A10.1038%2Fs41586-019-1724-z/MediaObjects/41586_2019_1724_Fig1_HTML.png",
+        "isPartOf": {
+            "name": "Nature",
+            "issn": [
+                "1476-4687",
+                "0028-0836"
+            ],
+            "volumeNumber": "575",
+            "@type": [
+                "Periodical",
+                "PublicationVolume"
+            ]
+        },
+        "publisher": {
+            "name": "Nature Publishing Group UK",
+            "logo": {
+                "url": "https://www-springernature-com.proxy.lib.ohio-state.edu/app-sn/public/images/logo-springernature.png",
+                "@type": "ImageObject"
+            },
+            "@type": "Organization"
+        },
+        "author": [
+            {
+                "name": "Oriol Vinyals",
+                "affiliation": [
+                    {
+                        "name": "DeepMind",
+                        "address": {
+                            "name": "DeepMind, London, UK",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    }
+                ],
+                "email": "vinyals@google.com",
+                "@type": "Person"
+            },
+            {
+                "name": "Igor Babuschkin",
+                "affiliation": [
+                    {
+                        "name": "DeepMind",
+                        "address": {
+                            "name": "DeepMind, London, UK",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    }
+                ],
+                "@type": "Person"
+            },
+            {
+                "name": "Wojciech M. Czarnecki",
+                "affiliation": [
+                    {
+                        "name": "DeepMind",
+                        "address": {
+                            "name": "DeepMind, London, UK",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    }
+                ],
+                "@type": "Person"
+            },
+            {
+                "name": "Micha\u00ebl Mathieu",
+                "affiliation": [
+                    {
+                        "name": "DeepMind",
+                        "address": {
+                            "name": "DeepMind, London, UK",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    }
+                ],
+                "@type": "Person"
+            },
+            {
+                "name": "Andrew Dudzik",
+                "affiliation": [
+                    {
+                        "name": "DeepMind",
+                        "address": {
+                            "name": "DeepMind, London, UK",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    }
+                ],
+                "@type": "Person"
+            },
+            {
+                "name": "Junyoung Chung",
+                "affiliation": [
+                    {
+                        "name": "DeepMind",
+                        "address": {
+                            "name": "DeepMind, London, UK",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    }
+                ],
+                "@type": "Person"
+            },
+            {
+                "name": "David H. Choi",
+                "affiliation": [
+                    {
+                        "name": "DeepMind",
+                        "address": {
+                            "name": "DeepMind, London, UK",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    }
+                ],
+                "@type": "Person"
+            },
+            {
+                "name": "Richard Powell",
+                "affiliation": [
+                    {
+                        "name": "DeepMind",
+                        "address": {
+                            "name": "DeepMind, London, UK",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    }
+                ],
+                "@type": "Person"
+            },
+            {
+                "name": "Timo Ewalds",
+                "affiliation": [
+                    {
+                        "name": "DeepMind",
+                        "address": {
+                            "name": "DeepMind, London, UK",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    }
+                ],
+                "@type": "Person"
+            },
+            {
+                "name": "Petko Georgiev",
+                "affiliation": [
+                    {
+                        "name": "DeepMind",
+                        "address": {
+                            "name": "DeepMind, London, UK",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    }
+                ],
+                "@type": "Person"
+            },
+            {
+                "name": "Junhyuk Oh",
+                "affiliation": [
+                    {
+                        "name": "DeepMind",
+                        "address": {
+                            "name": "DeepMind, London, UK",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    }
+                ],
+                "@type": "Person"
+            },
+            {
+                "name": "Dan Horgan",
+                "affiliation": [
+                    {
+                        "name": "DeepMind",
+                        "address": {
+                            "name": "DeepMind, London, UK",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    }
+                ],
+                "@type": "Person"
+            },
+            {
+                "name": "Manuel Kroiss",
+                "affiliation": [
+                    {
+                        "name": "DeepMind",
+                        "address": {
+                            "name": "DeepMind, London, UK",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    }
+                ],
+                "@type": "Person"
+            },
+            {
+                "name": "Ivo Danihelka",
+                "affiliation": [
+                    {
+                        "name": "DeepMind",
+                        "address": {
+                            "name": "DeepMind, London, UK",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    }
+                ],
+                "@type": "Person"
+            },
+            {
+                "name": "Aja Huang",
+                "affiliation": [
+                    {
+                        "name": "DeepMind",
+                        "address": {
+                            "name": "DeepMind, London, UK",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    }
+                ],
+                "@type": "Person"
+            },
+            {
+                "name": "Laurent Sifre",
+                "affiliation": [
+                    {
+                        "name": "DeepMind",
+                        "address": {
+                            "name": "DeepMind, London, UK",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    }
+                ],
+                "@type": "Person"
+            },
+            {
+                "name": "Trevor Cai",
+                "affiliation": [
+                    {
+                        "name": "DeepMind",
+                        "address": {
+                            "name": "DeepMind, London, UK",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    }
+                ],
+                "@type": "Person"
+            },
+            {
+                "name": "John P. Agapiou",
+                "affiliation": [
+                    {
+                        "name": "DeepMind",
+                        "address": {
+                            "name": "DeepMind, London, UK",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    }
+                ],
+                "@type": "Person"
+            },
+            {
+                "name": "Max Jaderberg",
+                "affiliation": [
+                    {
+                        "name": "DeepMind",
+                        "address": {
+                            "name": "DeepMind, London, UK",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    }
+                ],
+                "@type": "Person"
+            },
+            {
+                "name": "Alexander S. Vezhnevets",
+                "affiliation": [
+                    {
+                        "name": "DeepMind",
+                        "address": {
+                            "name": "DeepMind, London, UK",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    }
+                ],
+                "@type": "Person"
+            },
+            {
+                "name": "R\u00e9mi Leblond",
+                "affiliation": [
+                    {
+                        "name": "DeepMind",
+                        "address": {
+                            "name": "DeepMind, London, UK",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    }
+                ],
+                "@type": "Person"
+            },
+            {
+                "name": "Tobias Pohlen",
+                "affiliation": [
+                    {
+                        "name": "DeepMind",
+                        "address": {
+                            "name": "DeepMind, London, UK",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    }
+                ],
+                "@type": "Person"
+            },
+            {
+                "name": "Valentin Dalibard",
+                "affiliation": [
+                    {
+                        "name": "DeepMind",
+                        "address": {
+                            "name": "DeepMind, London, UK",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    }
+                ],
+                "@type": "Person"
+            },
+            {
+                "name": "David Budden",
+                "affiliation": [
+                    {
+                        "name": "DeepMind",
+                        "address": {
+                            "name": "DeepMind, London, UK",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    }
+                ],
+                "@type": "Person"
+            },
+            {
+                "name": "Yury Sulsky",
+                "affiliation": [
+                    {
+                        "name": "DeepMind",
+                        "address": {
+                            "name": "DeepMind, London, UK",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    }
+                ],
+                "@type": "Person"
+            },
+            {
+                "name": "James Molloy",
+                "affiliation": [
+                    {
+                        "name": "DeepMind",
+                        "address": {
+                            "name": "DeepMind, London, UK",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    }
+                ],
+                "@type": "Person"
+            },
+            {
+                "name": "Tom L. Paine",
+                "affiliation": [
+                    {
+                        "name": "DeepMind",
+                        "address": {
+                            "name": "DeepMind, London, UK",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    }
+                ],
+                "@type": "Person"
+            },
+            {
+                "name": "Caglar Gulcehre",
+                "affiliation": [
+                    {
+                        "name": "DeepMind",
+                        "address": {
+                            "name": "DeepMind, London, UK",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    }
+                ],
+                "@type": "Person"
+            },
+            {
+                "name": "Ziyu Wang",
+                "affiliation": [
+                    {
+                        "name": "DeepMind",
+                        "address": {
+                            "name": "DeepMind, London, UK",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    }
+                ],
+                "@type": "Person"
+            },
+            {
+                "name": "Tobias Pfaff",
+                "affiliation": [
+                    {
+                        "name": "DeepMind",
+                        "address": {
+                            "name": "DeepMind, London, UK",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    }
+                ],
+                "@type": "Person"
+            },
+            {
+                "name": "Yuhuai Wu",
+                "affiliation": [
+                    {
+                        "name": "DeepMind",
+                        "address": {
+                            "name": "DeepMind, London, UK",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    }
+                ],
+                "@type": "Person"
+            },
+            {
+                "name": "Roman Ring",
+                "affiliation": [
+                    {
+                        "name": "DeepMind",
+                        "address": {
+                            "name": "DeepMind, London, UK",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    }
+                ],
+                "@type": "Person"
+            },
+            {
+                "name": "Dani Yogatama",
+                "affiliation": [
+                    {
+                        "name": "DeepMind",
+                        "address": {
+                            "name": "DeepMind, London, UK",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    }
+                ],
+                "@type": "Person"
+            },
+            {
+                "name": "Dario W\u00fcnsch",
+                "affiliation": [
+                    {
+                        "name": "Team Liquid",
+                        "address": {
+                            "name": "Team Liquid, Utrecht, Netherlands",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    }
+                ],
+                "@type": "Person"
+            },
+            {
+                "name": "Katrina McKinney",
+                "affiliation": [
+                    {
+                        "name": "DeepMind",
+                        "address": {
+                            "name": "DeepMind, London, UK",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    }
+                ],
+                "@type": "Person"
+            },
+            {
+                "name": "Oliver Smith",
+                "affiliation": [
+                    {
+                        "name": "DeepMind",
+                        "address": {
+                            "name": "DeepMind, London, UK",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    }
+                ],
+                "@type": "Person"
+            },
+            {
+                "name": "Tom Schaul",
+                "affiliation": [
+                    {
+                        "name": "DeepMind",
+                        "address": {
+                            "name": "DeepMind, London, UK",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    }
+                ],
+                "@type": "Person"
+            },
+            {
+                "name": "Timothy Lillicrap",
+                "affiliation": [
+                    {
+                        "name": "DeepMind",
+                        "address": {
+                            "name": "DeepMind, London, UK",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    }
+                ],
+                "@type": "Person"
+            },
+            {
+                "name": "Koray Kavukcuoglu",
+                "affiliation": [
+                    {
+                        "name": "DeepMind",
+                        "address": {
+                            "name": "DeepMind, London, UK",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    }
+                ],
+                "@type": "Person"
+            },
+            {
+                "name": "Demis Hassabis",
+                "affiliation": [
+                    {
+                        "name": "DeepMind",
+                        "address": {
+                            "name": "DeepMind, London, UK",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    }
+                ],
+                "@type": "Person"
+            },
+            {
+                "name": "Chris Apps",
+                "affiliation": [
+                    {
+                        "name": "DeepMind",
+                        "address": {
+                            "name": "DeepMind, London, UK",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    }
+                ],
+                "@type": "Person"
+            },
+            {
+                "name": "David Silver",
+                "affiliation": [
+                    {
+                        "name": "DeepMind",
+                        "address": {
+                            "name": "DeepMind, London, UK",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    }
+                ],
+                "email": "davidsilver@google.com",
+                "@type": "Person"
+            }
+        ],
+        "isAccessibleForFree": false,
+        "hasPart": {
+            "isAccessibleForFree": false,
+            "cssSelector": ".main-content",
+            "@type": "WebPageElement"
+        },
+        "@type": "ScholarlyArticle"
+    },
+    "@context": "https://schema.org",
+    "@type": "WebPage"
+}

@@ -1,0 +1,1 @@
+Figure 6 Responses at the highest resolution, the checkered areas indicate not predicted at that resolution, (left) slice through airplane, (middle) slice through front legs of a chair, (right) slice through a car.

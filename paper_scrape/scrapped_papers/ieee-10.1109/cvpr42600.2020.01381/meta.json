@@ -1,0 +1,260 @@
+{
+    "userInfo": {
+        "customerNameRaw": "The Ohio State University",
+        "institutionName": "The Ohio State University",
+        "institute": true,
+        "member": false,
+        "individual": false,
+        "guest": false,
+        "subscribedContent": false,
+        "fileCabinetContent": false,
+        "fileCabinetUser": false,
+        "institutionalFileCabinetUser": false,
+        "products": "IEL|EBOOKS:1974:2014|JRNLARCH:1884:1994|CONFARCH:1951:1999|IBM:1872:2020|VDE|NOKIA BELL LABS|",
+        "instType": "Academic",
+        "userIds": [
+            7827
+        ],
+        "showPatentCitations": true,
+        "showGet802Link": true,
+        "openUrlImgLoc": "http://library-osu-edu.proxy.lib.ohio-state.edu/resources/serialssolutions/buttons/button75x25edit.jpg",
+        "openUrlLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu",
+        "instLogoFile": "7827_OSULHoriz.png",
+        "openUrlTxt": "Find It!",
+        "showOpenUrlLink": true,
+        "marketingInfoCaptured": false,
+        "tracked": false,
+        "ringGoldId": "2647",
+        "delegatedAdmin": false,
+        "desktop": false,
+        "isInstitutionDashboardEnabled": false,
+        "isInstitutionProfileEnabled": false,
+        "isRoamingEnabled": true,
+        "isDelegatedAdmin": false,
+        "isMdl": false,
+        "isCwg": false,
+        "isIel": true,
+        "isAcademic": true
+    },
+    "authors": [
+        {
+            "name": "K R Prajwal",
+            "affiliation": [
+                "IIIT, Hyderabad"
+            ],
+            "firstName": "K R",
+            "lastName": "Prajwal",
+            "id": "37088456169"
+        },
+        {
+            "name": "Rudrabha Mukhopadhyay",
+            "affiliation": [
+                "IIIT, Hyderabad"
+            ],
+            "firstName": "Rudrabha",
+            "lastName": "Mukhopadhyay",
+            "id": "37086565960"
+        },
+        {
+            "name": "Vinay P. Namboodiri",
+            "affiliation": [
+                "IIT, Kanpur"
+            ],
+            "firstName": "Vinay P.",
+            "lastName": "Namboodiri",
+            "id": "37427828700"
+        },
+        {
+            "name": "C.V. Jawahar",
+            "affiliation": [
+                "IIIT, Hyderabad"
+            ],
+            "firstName": "C.V.",
+            "lastName": "Jawahar",
+            "id": "37270075200"
+        }
+    ],
+    "isbn": [
+        {
+            "format": "Electronic ISBN",
+            "value": "978-1-7281-7168-5",
+            "isbnType": ""
+        },
+        {
+            "format": "Print on Demand(PoD) ISBN",
+            "value": "978-1-7281-7169-2",
+            "isbnType": ""
+        }
+    ],
+    "issn": [
+        {
+            "format": "Electronic ISSN",
+            "value": "2575-7075"
+        },
+        {
+            "format": "Print on Demand(PoD) ISSN",
+            "value": "1063-6919"
+        }
+    ],
+    "articleNumber": "9156430",
+    "dbTime": "1 ms",
+    "metrics": {
+        "citationCountPaper": 35,
+        "citationCountPatent": 0,
+        "totalDownloads": 198
+    },
+    "purchaseOptions": {
+        "showOtherFormatPricingTab": false,
+        "showPdfFormatPricingTab": true,
+        "pdfPricingInfoAvailable": true,
+        "otherPricingInfoAvailable": false,
+        "mandatoryBundle": false,
+        "optionalBundle": false,
+        "displayTextWhenOtherFormatPricingNotAvailable": "The purchase and pricing options for this item are unavailable. Select items are only available as part of a subscription package. You may try again later or <a href='https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/xpl/contact' target='_blank'>contact us</a> for more information.",
+        "pdfPricingInfo": [
+            {
+                "memberPrice": "$14.95",
+                "nonMemberPrice": "$33.00",
+                "partNumber": "9156430",
+                "type": "PDF/HTML"
+            }
+        ],
+        "openUrlFullLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu?url_ver=Z39.88-2004&rfr_id=info:sid/IEEE.org:XPLORE&rft_id=info:doi/10.1109/CVPR42600.2020.01381&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&rft.atitle=Learning Individual Speaking Styles for Accurate Lip to Speech Synthesis&rft.jtitle=2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)&rft.date=2020&rft.spage=13793&rft.epage=13802&rft.eissn=2575-7075&rft.au=K R Prajwal&rft.aulast=K R Prajwal&rft.isbn=978-1-7281-7168-5"
+    },
+    "getProgramTermsAccepted": false,
+    "sections": {
+        "abstract": "true",
+        "authors": "true",
+        "figures": "true",
+        "multimedia": "false",
+        "references": "true",
+        "citedby": "true",
+        "keywords": "true",
+        "definitions": "false",
+        "algorithm": "false",
+        "dataset": "false",
+        "cadmore": "false",
+        "footnotes": "true",
+        "disclaimer": "false",
+        "relatedContent": "false",
+        "metrics": "true"
+    },
+    "abstract": "Humans involuntarily tend to infer parts of the conversation from lip movements when the speech is absent or corrupted by external noise. In this work, we explore the task of lip to speech synthesis, i.e., learning to generate natural speech given only the lip movements of a speaker. Acknowledging the importance of contextual and speaker-specific cues for accurate lip-reading, we take a different path from existing works. We focus on learning accurate lip sequences to speech mappings for individual speakers in unconstrained, large vocabulary settings. To this end, we collect and release a large-scale benchmark dataset, the first of its kind, specifically to train and evaluate the single-speaker lip to speech task in natural settings. We propose a novel approach with key design choices to achieve accurate, natural lip to speech synthesis in such unconstrained scenarios for the first time. Extensive evaluation using quantitative, qualitative metrics and human evaluation shows that our method is four times more intelligible than previous works in this space.",
+    "publicationYear": "2020",
+    "pdfPath": "/iel7/9142308/9156271/09156430.pdf",
+    "publicationDate": "June 2020",
+    "doi": "10.1109/CVPR42600.2020.01381",
+    "formulaStrippedArticleTitle": "Learning Individual Speaking Styles for Accurate Lip to Speech Synthesis",
+    "displayPublicationTitle": "2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+    "authorNames": "K R Prajwal;Rudrabha Mukhopadhyay;Vinay P. Namboodiri;C.V. Jawahar",
+    "publicationTitle": "2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+    "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=proceedings&title=Learning+Individual+Speaking+Styles+for+Accurate+Lip+to+Speech+Synthesis&isbn=978-1-7281-7168-5&publicationDate=June+2020&author=K+R+Prajwal&ContentID=10.1109/CVPR42600.2020.01381&orderBeanReset=true&startPage=13793&endPage=13802&proceedingName=2020+IEEE%2FCVF+Conference+on+Computer+Vision+and+Pattern+Recognition+%28CVPR%29",
+    "dateOfInsertion": "05 August 2020",
+    "startPage": "13793",
+    "endPage": "13802",
+    "pdfUrl": "/stamp/stamp.jsp?tp=&arnumber=9156430",
+    "keywords": [
+        {
+            "type": "IEEE Keywords",
+            "kwd": [
+                "Lips",
+                "Vocabulary",
+                "Videos",
+                "Speech synthesis",
+                "Face",
+                "Natural languages",
+                "Task analysis"
+            ]
+        },
+        {
+            "type": "INSPEC: Controlled Indexing",
+            "kwd": [
+                "feature extraction",
+                "image sequences",
+                "learning (artificial intelligence)",
+                "speaker recognition",
+                "speech synthesis"
+            ]
+        },
+        {
+            "type": "INSPEC: Non-Controlled Indexing",
+            "kwd": [
+                "accurate lip to speech synthesis",
+                "speech mappings",
+                "accurate lip sequences",
+                "accurate lip-reading",
+                "speaker-specific cues",
+                "natural speech",
+                "lip movements",
+                "natural lip",
+                "natural settings",
+                "speech task",
+                "single-speaker lip",
+                "large vocabulary settings",
+                "unconstrained vocabulary settings",
+                "individual speakers"
+            ]
+        }
+    ],
+    "doiLink": "https://doi-org.proxy.lib.ohio-state.edu/10.1109/CVPR42600.2020.01381",
+    "displayPublicationDate": "13-19 June 2020",
+    "articleCopyRight": "2020 IEEE",
+    "issueLink": "/xpl/tocresult.jsp?isnumber=9156271&punumber=9142308",
+    "pubLink": "/xpl/conhome/9142308/proceeding",
+    "allowComments": false,
+    "isGetAddressInfoCaptured": false,
+    "isMarketingOptIn": false,
+    "pubTopics": [
+        {
+            "name": "Computing and Processing"
+        }
+    ],
+    "publisher": "IEEE",
+    "displayDocTitle": "Learning Individual Speaking Styles for Accurate Lip to Speech Synthesis",
+    "isStandard": false,
+    "isConference": true,
+    "isBookWithoutChapters": false,
+    "isChapter": false,
+    "isProduct": false,
+    "isEarlyAccess": false,
+    "isOpenAccess": false,
+    "isEphemera": false,
+    "xploreDocumentType": "Conference Publication",
+    "isBook": false,
+    "isJournal": false,
+    "isSpringer": false,
+    "accessionNumber": "19876540",
+    "isFreeDocument": false,
+    "isPromo": false,
+    "isDynamicHtml": true,
+    "htmlLink": "/document/9156430/",
+    "htmlAbstractLink": "/document/9156430/",
+    "isCustomDenial": false,
+    "persistentLink": "https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/servlet/opac?punumber=9142308",
+    "isNow": false,
+    "isSAE": false,
+    "isOUP": false,
+    "isSMPTE": false,
+    "openAccessFlag": "F",
+    "insertDate": "05 August 2020",
+    "ephemeraFlag": "false",
+    "title": "Learning Individual Speaking Styles for Accurate Lip to Speech Synthesis",
+    "confLoc": "Seattle, WA, USA",
+    "html_flag": "false",
+    "ml_html_flag": "true",
+    "sourcePdf": "716800n3793.pdf",
+    "mlTime": "PT0.0862S",
+    "xplore-pub-id": "9142308",
+    "isNumber": "9156271",
+    "rightsLinkFlag": "1",
+    "contentType": "conferences",
+    "publicationNumber": "9142308",
+    "citationCount": "35",
+    "xplore-issue": "9156271",
+    "articleId": "9156430",
+    "contentTypeDisplay": "Conferences",
+    "subType": "IEEE Conference",
+    "_value": "IEEE",
+    "lastupdate": "2023-10-13",
+    "mediaPath": "/mediastore_new/IEEE/content/media/9142308/9156271/9156430"
+}

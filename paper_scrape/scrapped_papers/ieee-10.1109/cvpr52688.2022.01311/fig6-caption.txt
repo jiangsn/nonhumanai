@@ -1,0 +1,1 @@
+Figure 6. Gangealing alignment improves downstream gan training. We show random, untruncated samples from stylegan2 trained on lsun cats versus our aligned lsun cats (both models trained from scratch). Our method improves visual fidelity.

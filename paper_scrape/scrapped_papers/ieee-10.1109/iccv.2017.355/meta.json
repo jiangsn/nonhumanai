@@ -1,0 +1,258 @@
+{
+    "userInfo": {
+        "customerNameRaw": "The Ohio State University",
+        "institutionName": "The Ohio State University",
+        "institute": true,
+        "member": false,
+        "individual": false,
+        "guest": false,
+        "subscribedContent": false,
+        "fileCabinetContent": false,
+        "fileCabinetUser": false,
+        "institutionalFileCabinetUser": false,
+        "products": "IEL|EBOOKS:1974:2014|JRNLARCH:1884:1994|CONFARCH:1951:1999|IBM:1872:2020|VDE|NOKIA BELL LABS|",
+        "instType": "Academic",
+        "userIds": [
+            7827
+        ],
+        "showPatentCitations": true,
+        "showGet802Link": true,
+        "openUrlImgLoc": "http://library-osu-edu.proxy.lib.ohio-state.edu/resources/serialssolutions/buttons/button75x25edit.jpg",
+        "openUrlLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu",
+        "instLogoFile": "7827_OSULHoriz.png",
+        "openUrlTxt": "Find It!",
+        "showOpenUrlLink": true,
+        "marketingInfoCaptured": false,
+        "tracked": false,
+        "ringGoldId": "2647",
+        "delegatedAdmin": false,
+        "desktop": false,
+        "isInstitutionDashboardEnabled": false,
+        "isInstitutionProfileEnabled": false,
+        "isRoamingEnabled": true,
+        "isDelegatedAdmin": false,
+        "isMdl": false,
+        "isCwg": false,
+        "isIel": true,
+        "isAcademic": true
+    },
+    "authors": [
+        {
+            "name": "Andrey Ignatov",
+            "affiliation": [
+                "Computer Vision Laboratory, ETH Zurich, Switzerland"
+            ],
+            "firstName": "Andrey",
+            "lastName": "Ignatov",
+            "id": "37086295732"
+        },
+        {
+            "name": "Nikolay Kobyshev",
+            "affiliation": [
+                "Computer Vision Laboratory, ETH Zurich, Switzerland"
+            ],
+            "firstName": "Nikolay",
+            "lastName": "Kobyshev",
+            "id": "37085336411"
+        },
+        {
+            "name": "Radu Timofte",
+            "affiliation": [
+                "Comput. Vision Lab., ETH Zurich, Zurich, ZH, Switzerland"
+            ],
+            "firstName": "Radu",
+            "lastName": "Timofte",
+            "id": "37393691200"
+        },
+        {
+            "name": "Kenneth Vanhoey",
+            "affiliation": [
+                "Computer Vision Laboratory, ETH Zurich, Switzerland"
+            ],
+            "firstName": "Kenneth",
+            "lastName": "Vanhoey",
+            "id": "37086127022"
+        }
+    ],
+    "isbn": [
+        {
+            "format": "Electronic ISBN",
+            "value": "978-1-5386-1032-9",
+            "isbnType": ""
+        },
+        {
+            "format": "Print on Demand(PoD) ISBN",
+            "value": "978-1-5386-1033-6",
+            "isbnType": ""
+        }
+    ],
+    "issn": [
+        {
+            "format": "Electronic ISSN",
+            "value": "2380-7504"
+        }
+    ],
+    "articleNumber": "8237617",
+    "dbTime": "2 ms",
+    "metrics": {
+        "citationCountPaper": 303,
+        "citationCountPatent": 0,
+        "totalDownloads": 1141
+    },
+    "purchaseOptions": {
+        "showOtherFormatPricingTab": false,
+        "showPdfFormatPricingTab": true,
+        "pdfPricingInfoAvailable": true,
+        "otherPricingInfoAvailable": false,
+        "mandatoryBundle": false,
+        "optionalBundle": false,
+        "displayTextWhenOtherFormatPricingNotAvailable": "The purchase and pricing options for this item are unavailable. Select items are only available as part of a subscription package. You may try again later or <a href='https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/xpl/contact' target='_blank'>contact us</a> for more information.",
+        "pdfPricingInfo": [
+            {
+                "memberPrice": "$14.95",
+                "nonMemberPrice": "$33.00",
+                "partNumber": "8237617",
+                "type": "PDF/HTML"
+            }
+        ],
+        "openUrlFullLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu?url_ver=Z39.88-2004&rfr_id=info:sid/IEEE.org:XPLORE&rft_id=info:doi/10.1109/ICCV.2017.355&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&rft.atitle=DSLR-Quality Photos on Mobile Devices with Deep Convolutional Networks&rft.jtitle=2017 IEEE International Conference on Computer Vision (ICCV)&rft.date=2017&rft.spage=3297&rft.epage=3305&rft.eissn=2380-7504&rft.au=Andrey Ignatov&rft.aulast=Andrey Ignatov&rft.isbn=978-1-5386-1032-9"
+    },
+    "getProgramTermsAccepted": false,
+    "sections": {
+        "abstract": "true",
+        "authors": "true",
+        "figures": "true",
+        "multimedia": "false",
+        "references": "true",
+        "citedby": "true",
+        "keywords": "true",
+        "definitions": "false",
+        "algorithm": "false",
+        "dataset": "false",
+        "cadmore": "false",
+        "footnotes": "true",
+        "disclaimer": "false",
+        "relatedContent": "false",
+        "metrics": "true"
+    },
+    "abstract": "Despite a rapid rise in the quality of built-in smartphone cameras, their physical limitations - small sensor size, compact lenses and the lack of specific hardware, - impede them to achieve the quality results of DSLR cameras. In this work we present an end-to-end deep learning approach that bridges this gap by translating ordinary photos into DSLR-quality images. We propose learning the translation function using a residual convolutional neural network that improves both color rendition and image sharpness. Since the standard mean squared loss is not well suited for measuring perceptual image quality, we introduce a composite perceptual error function that combines content, color and texture losses. The first two losses are defined analytically, while the texture loss is learned in an adversarial fashion. We also present DPED, a large-scale dataset that consists of real photos captured from three different phones and one high-end reflex camera. Our quantitative and qualitative assessments reveal that the enhanced image quality is comparable to that of DSLR-taken photos, while the methodology is generalized to any type of digital camera.",
+    "publicationYear": "2017",
+    "pdfPath": "/iel7/8234942/8237262/08237617.pdf",
+    "publicationDate": "October 2017",
+    "doi": "10.1109/ICCV.2017.355",
+    "formulaStrippedArticleTitle": "DSLR-Quality Photos on Mobile Devices with Deep Convolutional Networks",
+    "displayPublicationTitle": "2017 IEEE International Conference on Computer Vision (ICCV)",
+    "authorNames": "Andrey Ignatov;Nikolay Kobyshev;Radu Timofte;Kenneth Vanhoey",
+    "publicationTitle": "2017 IEEE International Conference on Computer Vision (ICCV)",
+    "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=proceedings&title=DSLR-Quality+Photos+on+Mobile+Devices+with+Deep+Convolutional+Networks&isbn=978-1-5386-1032-9&publicationDate=October+2017&author=Andrey+Ignatov&ContentID=10.1109/ICCV.2017.355&orderBeanReset=true&startPage=3297&endPage=3305&proceedingName=2017+IEEE+International+Conference+on+Computer+Vision+%28ICCV%29",
+    "dateOfInsertion": "25 December 2017",
+    "startPage": "3297",
+    "endPage": "3305",
+    "pdfUrl": "/stamp/stamp.jsp?tp=&arnumber=8237617",
+    "keywords": [
+        {
+            "type": "IEEE Keywords",
+            "kwd": [
+                "Cameras",
+                "Image color analysis",
+                "Training",
+                "Loss measurement",
+                "Image quality",
+                "Mobile handsets"
+            ]
+        },
+        {
+            "type": "INSPEC: Controlled Indexing",
+            "kwd": [
+                "cameras",
+                "image colour analysis",
+                "image enhancement",
+                "image texture",
+                "learning (artificial intelligence)",
+                "mean square error methods",
+                "neural nets"
+            ]
+        },
+        {
+            "type": "INSPEC: Non-Controlled Indexing",
+            "kwd": [
+                "DSLR-quality photos",
+                "mobile devices",
+                "deep convolutional networks",
+                "smartphone cameras",
+                "DSLR cameras",
+                "end-to-end deep learning approach",
+                "residual convolutional neural network",
+                "color rendition",
+                "image sharpness",
+                "composite perceptual error function",
+                "texture loss",
+                "enhanced image quality",
+                "DSLR-taken photos",
+                "digital camera",
+                "mean squared loss"
+            ]
+        }
+    ],
+    "doiLink": "https://doi-org.proxy.lib.ohio-state.edu/10.1109/ICCV.2017.355",
+    "displayPublicationDate": "22-29 October 2017",
+    "articleCopyRight": "2017 IEEE",
+    "issueLink": "/xpl/tocresult.jsp?isnumber=8237262&punumber=8234942",
+    "pubLink": "/xpl/conhome/8234942/proceeding",
+    "allowComments": false,
+    "isGetAddressInfoCaptured": false,
+    "isMarketingOptIn": false,
+    "pubTopics": [
+        {
+            "name": "Computing and Processing"
+        }
+    ],
+    "publisher": "IEEE",
+    "displayDocTitle": "DSLR-Quality Photos on Mobile Devices with Deep Convolutional Networks",
+    "isStandard": false,
+    "isConference": true,
+    "isBookWithoutChapters": false,
+    "isChapter": false,
+    "isProduct": false,
+    "isEarlyAccess": false,
+    "isOpenAccess": false,
+    "isEphemera": false,
+    "xploreDocumentType": "Conference Publication",
+    "isBook": false,
+    "isJournal": false,
+    "isSpringer": false,
+    "accessionNumber": "17453212",
+    "isFreeDocument": false,
+    "isPromo": false,
+    "isDynamicHtml": true,
+    "htmlLink": "/document/8237617/",
+    "htmlAbstractLink": "/document/8237617/",
+    "isCustomDenial": false,
+    "persistentLink": "https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/servlet/opac?punumber=8234942",
+    "isNow": false,
+    "isSAE": false,
+    "isOUP": false,
+    "isSMPTE": false,
+    "openAccessFlag": "F",
+    "insertDate": "25 December 2017",
+    "ephemeraFlag": "false",
+    "title": "DSLR-Quality Photos on Mobile Devices with Deep Convolutional Networks",
+    "confLoc": "Venice, Italy",
+    "html_flag": "false",
+    "ml_html_flag": "true",
+    "sourcePdf": "1032d297.pdf",
+    "mlTime": "PT0.065824S",
+    "xplore-pub-id": "8234942",
+    "isNumber": "8237262",
+    "rightsLinkFlag": "1",
+    "contentType": "conferences",
+    "publicationNumber": "8234942",
+    "citationCount": "303",
+    "xplore-issue": "8237262",
+    "articleId": "8237617",
+    "contentTypeDisplay": "Conferences",
+    "subType": "IEEE Conference",
+    "_value": "IEEE",
+    "lastupdate": "2023-10-17",
+    "mediaPath": "/mediastore_new/IEEE/content/media/8234942/8237262/8237617"
+}

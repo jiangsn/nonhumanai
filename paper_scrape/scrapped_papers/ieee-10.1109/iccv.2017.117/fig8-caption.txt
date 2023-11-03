@@ -1,0 +1,1 @@
+Figure 8: NME-based performance on our large pose renderings of the Florence dataset. The proposed volumetric regression networks, and EOS and 3DDFA are compared.

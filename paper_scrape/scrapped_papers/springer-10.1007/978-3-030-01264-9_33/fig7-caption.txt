@@ -1,0 +1,1 @@
+CED curves on AFLW2000-3D. Evaluation is performed on all points with both the 2D (left) and 3D (right) coordinates. Overall 2000 images from AFLW2000-3D dataset are used here. The mean NME% is showed in the legend.

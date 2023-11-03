@@ -1,0 +1,1 @@
+Figure 8: We train a ‘teacher network’ with our collected sparse supervision signal and use it to ‘inpaint’ a dense supervision signal used to train our region-based system.

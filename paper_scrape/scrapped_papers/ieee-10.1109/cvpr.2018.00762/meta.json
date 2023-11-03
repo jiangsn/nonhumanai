@@ -1,0 +1,241 @@
+{
+    "userInfo": {
+        "customerNameRaw": "The Ohio State University",
+        "institutionName": "The Ohio State University",
+        "institute": true,
+        "member": false,
+        "individual": false,
+        "guest": false,
+        "subscribedContent": false,
+        "fileCabinetContent": false,
+        "fileCabinetUser": false,
+        "institutionalFileCabinetUser": false,
+        "products": "IEL|EBOOKS:1974:2014|JRNLARCH:1884:1994|CONFARCH:1951:1999|IBM:1872:2020|VDE|NOKIA BELL LABS|",
+        "instType": "Academic",
+        "userIds": [
+            7827
+        ],
+        "showPatentCitations": true,
+        "showGet802Link": true,
+        "openUrlImgLoc": "http://library-osu-edu.proxy.lib.ohio-state.edu/resources/serialssolutions/buttons/button75x25edit.jpg",
+        "openUrlLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu",
+        "instLogoFile": "7827_OSULHoriz.png",
+        "openUrlTxt": "Find It!",
+        "showOpenUrlLink": true,
+        "marketingInfoCaptured": false,
+        "tracked": false,
+        "ringGoldId": "2647",
+        "delegatedAdmin": false,
+        "desktop": false,
+        "isInstitutionDashboardEnabled": false,
+        "isInstitutionProfileEnabled": false,
+        "isRoamingEnabled": true,
+        "isDelegatedAdmin": false,
+        "isMdl": false,
+        "isCwg": false,
+        "isIel": true,
+        "isAcademic": true
+    },
+    "authors": [
+        {
+            "name": "Riza Alp G\u00fcler",
+            "affiliation": [
+                "INRIA-CentraleSup\u00e9lec"
+            ],
+            "firstName": "Riza Alp",
+            "lastName": "G\u00fcler",
+            "id": "37086229210"
+        },
+        {
+            "name": "Natalia Neverova",
+            "affiliation": [
+                "Facebook AI Research"
+            ],
+            "firstName": "Natalia",
+            "lastName": "Neverova",
+            "id": "37085668239"
+        },
+        {
+            "name": "Iasonas Kokkinos",
+            "affiliation": [
+                "Facebook AI Research"
+            ],
+            "firstName": "Iasonas",
+            "lastName": "Kokkinos",
+            "id": "37330875100"
+        }
+    ],
+    "isbn": [
+        {
+            "format": "Electronic ISBN",
+            "value": "978-1-5386-6420-9",
+            "isbnType": ""
+        },
+        {
+            "format": "Print on Demand(PoD) ISBN",
+            "value": "978-1-5386-6421-6",
+            "isbnType": ""
+        }
+    ],
+    "issn": [
+        {
+            "format": "Electronic ISSN",
+            "value": "2575-7075"
+        },
+        {
+            "format": "Print on Demand(PoD) ISSN",
+            "value": "1063-6919"
+        }
+    ],
+    "articleNumber": "8578860",
+    "dbTime": "1 ms",
+    "metrics": {
+        "citationCountPaper": 531,
+        "citationCountPatent": 8,
+        "totalDownloads": 1279
+    },
+    "purchaseOptions": {
+        "showOtherFormatPricingTab": false,
+        "showPdfFormatPricingTab": true,
+        "pdfPricingInfoAvailable": true,
+        "otherPricingInfoAvailable": false,
+        "mandatoryBundle": false,
+        "optionalBundle": false,
+        "displayTextWhenOtherFormatPricingNotAvailable": "The purchase and pricing options for this item are unavailable. Select items are only available as part of a subscription package. You may try again later or <a href='https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/xpl/contact' target='_blank'>contact us</a> for more information.",
+        "pdfPricingInfo": [
+            {
+                "memberPrice": "$14.95",
+                "nonMemberPrice": "$33.00",
+                "partNumber": "8578860",
+                "type": "PDF/HTML"
+            }
+        ],
+        "openUrlFullLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu?url_ver=Z39.88-2004&rfr_id=info:sid/IEEE.org:XPLORE&rft_id=info:doi/10.1109/CVPR.2018.00762&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&rft.atitle=DensePose: Dense Human Pose Estimation in the Wild&rft.jtitle=2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition&rft.date=2018&rft.spage=7297&rft.epage=7306&rft.eissn=2575-7075&rft.au=Riza Alp G\u00fcler&rft.aulast=Riza Alp G\u00fcler&rft.isbn=978-1-5386-6420-9"
+    },
+    "getProgramTermsAccepted": false,
+    "sections": {
+        "abstract": "true",
+        "authors": "true",
+        "figures": "true",
+        "multimedia": "false",
+        "references": "true",
+        "citedby": "true",
+        "keywords": "true",
+        "definitions": "false",
+        "algorithm": "false",
+        "dataset": "false",
+        "cadmore": "false",
+        "footnotes": "false",
+        "disclaimer": "false",
+        "relatedContent": "false",
+        "metrics": "true"
+    },
+    "abstract": "In this work we establish dense correspondences between an RGB image and a surface-based representation of the human body, a task we refer to as dense human pose estimation. We gather dense correspondences for 50K persons appearing in the COCO dataset by introducing an efficient annotation pipeline. We then use our dataset to train CNN-based systems that deliver dense correspondence 'in the wild', namely in the presence of background, occlusions and scale variations. We improve our training set's effectiveness by training an inpainting network that can fill in missing ground truth values and report improvements with respect to the best results that would be achievable in the past. We experiment with fully-convolutional networks and region-based models and observe a superiority of the latter. We further improve accuracy through cascading, obtaining a system that delivers highly-accurate results at multiple frames per second on a single gpu. Supplementary materials, data, code, and videos are provided on the project page http://densepose.org.",
+    "publicationYear": "2018",
+    "pdfPath": "/iel7/8576498/8578098/08578860.pdf",
+    "publicationDate": "June 2018",
+    "doi": "10.1109/CVPR.2018.00762",
+    "formulaStrippedArticleTitle": "DensePose: Dense Human Pose Estimation in the Wild",
+    "displayPublicationTitle": "2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+    "authorNames": "Riza Alp G\u00fcler;Natalia Neverova;Iasonas Kokkinos",
+    "publicationTitle": "2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+    "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=proceedings&title=DensePose%3A+Dense+Human+Pose+Estimation+in+the+Wild&isbn=978-1-5386-6420-9&publicationDate=June+2018&author=Riza+Alp+G%C3%BCler&ContentID=10.1109/CVPR.2018.00762&orderBeanReset=true&startPage=7297&endPage=7306&proceedingName=2018+IEEE%2FCVF+Conference+on+Computer+Vision+and+Pattern+Recognition",
+    "dateOfInsertion": "16 December 2018",
+    "startPage": "7297",
+    "endPage": "7306",
+    "pdfUrl": "/stamp/stamp.jsp?tp=&arnumber=8578860",
+    "keywords": [
+        {
+            "type": "IEEE Keywords",
+            "kwd": [
+                "Pose estimation",
+                "Three-dimensional displays",
+                "Task analysis",
+                "Solid modeling",
+                "Training",
+                "Pipelines",
+                "Deformable models"
+            ]
+        },
+        {
+            "type": "INSPEC: Controlled Indexing",
+            "kwd": [
+                "convolutional neural nets",
+                "pose estimation"
+            ]
+        },
+        {
+            "type": "INSPEC: Non-Controlled Indexing",
+            "kwd": [
+                "dense human pose estimation",
+                "surface-based representation",
+                "human body",
+                "COCO dataset",
+                "CNN-based systems",
+                "fully-convolutional networks",
+                "region-based models"
+            ]
+        }
+    ],
+    "doiLink": "https://doi-org.proxy.lib.ohio-state.edu/10.1109/CVPR.2018.00762",
+    "displayPublicationDate": "18-23 June 2018",
+    "articleCopyRight": "2018 IEEE",
+    "issueLink": "/xpl/tocresult.jsp?isnumber=8578098&punumber=8576498",
+    "pubLink": "/xpl/conhome/8576498/proceeding",
+    "allowComments": false,
+    "isGetAddressInfoCaptured": false,
+    "isMarketingOptIn": false,
+    "pubTopics": [
+        {
+            "name": "Computing and Processing"
+        }
+    ],
+    "publisher": "IEEE",
+    "displayDocTitle": "DensePose: Dense Human Pose Estimation in the Wild",
+    "isStandard": false,
+    "isConference": true,
+    "isBookWithoutChapters": false,
+    "isChapter": false,
+    "isProduct": false,
+    "isEarlyAccess": false,
+    "isOpenAccess": false,
+    "isEphemera": false,
+    "xploreDocumentType": "Conference Publication",
+    "isBook": false,
+    "isJournal": false,
+    "isSpringer": false,
+    "accessionNumber": "18347909",
+    "isFreeDocument": false,
+    "isPromo": false,
+    "isDynamicHtml": true,
+    "htmlLink": "/document/8578860/",
+    "htmlAbstractLink": "/document/8578860/",
+    "isCustomDenial": false,
+    "persistentLink": "https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/servlet/opac?punumber=8576498",
+    "isNow": false,
+    "isSAE": false,
+    "isOUP": false,
+    "isSMPTE": false,
+    "openAccessFlag": "F",
+    "insertDate": "16 December 2018",
+    "ephemeraFlag": "false",
+    "title": "DensePose: Dense Human Pose Estimation in the Wild",
+    "confLoc": "Salt Lake City, UT, USA",
+    "html_flag": "false",
+    "ml_html_flag": "true",
+    "sourcePdf": "642000h297.pdf",
+    "mlTime": "PT0.06488S",
+    "xplore-pub-id": "8576498",
+    "isNumber": "8578098",
+    "rightsLinkFlag": "1",
+    "contentType": "conferences",
+    "publicationNumber": "8576498",
+    "citationCount": "531",
+    "xplore-issue": "8578098",
+    "articleId": "8578860",
+    "contentTypeDisplay": "Conferences",
+    "subType": "IEEE Conference",
+    "_value": "IEEE",
+    "lastupdate": "2023-10-14",
+    "mediaPath": "/mediastore_new/IEEE/content/media/8576498/8578098/8578860"
+}

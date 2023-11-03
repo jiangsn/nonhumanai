@@ -1,0 +1,2 @@
+Figure 1: 
+Given a single input image (a), our method estimates an image-aligned motion field (b), and uses it to create a looping video (c).

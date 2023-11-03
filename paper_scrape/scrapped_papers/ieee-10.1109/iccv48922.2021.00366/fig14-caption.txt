@@ -1,0 +1,2 @@
+Figure 14. 
+Face parsing results by networks trained with synthetic data (with and without label adaptation) and real data. Label adaptation addresses systematic differences between synthetic and real labels, e.g. the shape of the nose class, or granularity of hair.

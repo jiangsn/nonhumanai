@@ -1,0 +1,2 @@
+TABLE 2 
+Controlled Experiments. Each Specific Idea in Our Approach Outperforms the Respective Baselines. In Each Condition, We Train for 600K Iterations on GTA and Cityscapes. Lower is Better

@@ -1,0 +1,1 @@
+Table 1: User preference study of hidt against the baselines. N is the number of styles averaged in the few-shot setting. The user score is the share of users that choose hidt in the pairwise comparison. Our results show that all methods are competitive. The increase of N leads to the better quality of FUNIT-t.

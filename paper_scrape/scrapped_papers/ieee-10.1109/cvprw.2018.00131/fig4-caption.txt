@@ -1,0 +1,1 @@
+Figure 4: Training time comparison between curriculum learning and multiscale simultaneous learning. We train the multiscale model and plot the PSNR evaluation of the individual scales. The elapsed epoch is encoded as the line color. Because curriculum learning activates the smaller subnets first, it requires much less time to reach the same evaluation quality.

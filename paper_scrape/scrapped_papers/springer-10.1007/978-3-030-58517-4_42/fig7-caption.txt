@@ -1,0 +1,4 @@
+Visual quality comparison to the image-based methods (a) ‘You said that?’ 
+[5] and (b) ‘Realistic Speech-Driven Facial Animation with GANs’ 
+[32] (driven by the same input audio stream, respectively), including the synchronicity measurements using SyncNet 
+[4] (offset/confidence).

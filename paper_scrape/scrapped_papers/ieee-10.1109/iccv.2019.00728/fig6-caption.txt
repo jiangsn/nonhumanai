@@ -1,0 +1,5 @@
+Figure 6: 
+
+Qualitative face swapping results on [39]. Results for source photo swapped onto target provided for Nirkin et al. 
+[35], DeepFakes 
+[11] and our method on images of faces of subjects it was not trained on.

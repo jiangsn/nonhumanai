@@ -1,0 +1,1 @@
+Left: the simulated table tennis robot in a realistic simulation environment. To approximate reality, Gaussian noise is applied to the 3D position of each ball in simulation. The world coordinate system is identical to that of the robot. Right: our table tennis robot with a KUKA KR 6 R900 robot

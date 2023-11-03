@@ -1,0 +1,1 @@
+Test results on CelebA-HQ. (a) Input. (b) GntIpt. (c) PConv (Ours). (d) Ground Truth.

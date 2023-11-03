@@ -1,0 +1,1 @@
+Table 2. The user study on the real image dataset. The preferred method in each pairwise comparison is emphasized in bold.

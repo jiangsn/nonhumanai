@@ -1,0 +1,2 @@
+Fig. 1. 
+We train convolutional networks to enhance the photorealism of rendered images, using intermediate buffers produced by a conventional rendering engine. Left: frames from a modern computer game (GTA V) [27]. Right: same frames enhanced by our approach to mimic the style of Cityscapes [28]. Enhancements by our method are semantically consistent and non-trivial. For example, our method adds gloss to cars (1st row), reforests parched hills to mimic German climate (2nd row), and paves roads with smoother asphalt (3rd row). Insets magnify marked regions.

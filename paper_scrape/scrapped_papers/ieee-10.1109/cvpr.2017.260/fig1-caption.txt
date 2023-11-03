@@ -1,0 +1,1 @@
+Figure 1: IM2CAD takes a single photo of a real scene (left), and automatically reconstructs its 3D CAD model (right).

@@ -1,0 +1,264 @@
+{
+    "userInfo": {
+        "customerNameRaw": "The Ohio State University",
+        "institutionName": "The Ohio State University",
+        "institute": true,
+        "member": false,
+        "individual": false,
+        "guest": false,
+        "subscribedContent": false,
+        "fileCabinetContent": false,
+        "fileCabinetUser": false,
+        "institutionalFileCabinetUser": false,
+        "products": "IEL|EBOOKS:1974:2014|JRNLARCH:1884:1994|CONFARCH:1951:1999|IBM:1872:2020|VDE|NOKIA BELL LABS|",
+        "instType": "Academic",
+        "userIds": [
+            7827
+        ],
+        "showPatentCitations": true,
+        "showGet802Link": true,
+        "openUrlImgLoc": "http://library-osu-edu.proxy.lib.ohio-state.edu/resources/serialssolutions/buttons/button75x25edit.jpg",
+        "openUrlLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu",
+        "instLogoFile": "7827_OSULHoriz.png",
+        "openUrlTxt": "Find It!",
+        "showOpenUrlLink": true,
+        "marketingInfoCaptured": false,
+        "tracked": false,
+        "ringGoldId": "2647",
+        "delegatedAdmin": false,
+        "desktop": false,
+        "isInstitutionDashboardEnabled": false,
+        "isInstitutionProfileEnabled": false,
+        "isRoamingEnabled": true,
+        "isDelegatedAdmin": false,
+        "isMdl": false,
+        "isCwg": false,
+        "isIel": true,
+        "isAcademic": true
+    },
+    "authors": [
+        {
+            "name": "Peng Zhou",
+            "affiliation": [
+                "University of Maryland, College Park"
+            ],
+            "firstName": "Peng",
+            "lastName": "Zhou",
+            "id": "37086130909"
+        },
+        {
+            "name": "Xintong Han",
+            "affiliation": [
+                "University of Maryland, College Park"
+            ],
+            "firstName": "Xintong",
+            "lastName": "Han",
+            "id": "37085764168"
+        },
+        {
+            "name": "Vlad I. Morariu",
+            "affiliation": [
+                "Adobe Research"
+            ],
+            "firstName": "Vlad I.",
+            "lastName": "Morariu",
+            "id": "38565091500"
+        },
+        {
+            "name": "Larry S. Davis",
+            "affiliation": [
+                "University of Maryland, College Park"
+            ],
+            "firstName": "Larry S.",
+            "lastName": "Davis",
+            "id": "37271076500"
+        }
+    ],
+    "isbn": [
+        {
+            "format": "Electronic ISBN",
+            "value": "978-1-5386-6420-9",
+            "isbnType": ""
+        },
+        {
+            "format": "Print on Demand(PoD) ISBN",
+            "value": "978-1-5386-6421-6",
+            "isbnType": ""
+        }
+    ],
+    "issn": [
+        {
+            "format": "Electronic ISSN",
+            "value": "2575-7075"
+        },
+        {
+            "format": "Print on Demand(PoD) ISSN",
+            "value": "1063-6919"
+        }
+    ],
+    "articleNumber": "8578214",
+    "dbTime": "1 ms",
+    "metrics": {
+        "citationCountPaper": 223,
+        "citationCountPatent": 0,
+        "totalDownloads": 1768
+    },
+    "purchaseOptions": {
+        "showOtherFormatPricingTab": false,
+        "showPdfFormatPricingTab": true,
+        "pdfPricingInfoAvailable": true,
+        "otherPricingInfoAvailable": false,
+        "mandatoryBundle": false,
+        "optionalBundle": false,
+        "displayTextWhenOtherFormatPricingNotAvailable": "The purchase and pricing options for this item are unavailable. Select items are only available as part of a subscription package. You may try again later or <a href='https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/xpl/contact' target='_blank'>contact us</a> for more information.",
+        "pdfPricingInfo": [
+            {
+                "memberPrice": "$14.95",
+                "nonMemberPrice": "$33.00",
+                "partNumber": "8578214",
+                "type": "PDF/HTML"
+            }
+        ],
+        "openUrlFullLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu?url_ver=Z39.88-2004&rfr_id=info:sid/IEEE.org:XPLORE&rft_id=info:doi/10.1109/CVPR.2018.00116&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&rft.atitle=Learning Rich Features for Image Manipulation Detection&rft.jtitle=2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition&rft.date=2018&rft.spage=1053&rft.epage=1061&rft.eissn=2575-7075&rft.au=Peng Zhou&rft.aulast=Peng Zhou&rft.isbn=978-1-5386-6420-9"
+    },
+    "getProgramTermsAccepted": false,
+    "sections": {
+        "abstract": "true",
+        "authors": "true",
+        "figures": "true",
+        "multimedia": "false",
+        "references": "true",
+        "citedby": "true",
+        "keywords": "true",
+        "definitions": "false",
+        "algorithm": "false",
+        "dataset": "false",
+        "cadmore": "false",
+        "footnotes": "false",
+        "disclaimer": "false",
+        "relatedContent": "false",
+        "metrics": "true"
+    },
+    "abstract": "Image manipulation detection is different from traditional semantic object detection because it pays more attention to tampering artifacts than to image content, which suggests that richer features need to be learned. We propose a two-stream Faster R-CNN network and train it end-to-end to detect the tampered regions given a manipulated image. One of the two streams is an RGB stream whose purpose is to extract features from the RGB image input to find tampering artifacts like strong contrast difference, unnatural tampered boundaries, and so on. The other is a noise stream that leverages the noise features extracted from a steganalysis rich model filter layer to discover the noise inconsistency between authentic and tampered regions. We then fuse features from the two streams through a bilinear pooling layer to further incorporate spatial co-occurrence of these two modalities. Experiments on four standard image manipulation datasets demonstrate that our two-stream framework outperforms each individual stream, and also achieves state-of-the-art performance compared to alternative methods with robustness to resizing and compression.",
+    "publicationYear": "2018",
+    "pdfPath": "/iel7/8576498/8578098/08578214.pdf",
+    "publicationDate": "June 2018",
+    "doi": "10.1109/CVPR.2018.00116",
+    "formulaStrippedArticleTitle": "Learning Rich Features for Image Manipulation Detection",
+    "displayPublicationTitle": "2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+    "authorNames": "Peng Zhou;Xintong Han;Vlad I. Morariu;Larry S. Davis",
+    "publicationTitle": "2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+    "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=proceedings&title=Learning+Rich+Features+for+Image+Manipulation+Detection&isbn=978-1-5386-6420-9&publicationDate=June+2018&author=Peng+Zhou&ContentID=10.1109/CVPR.2018.00116&orderBeanReset=true&startPage=1053&endPage=1061&proceedingName=2018+IEEE%2FCVF+Conference+on+Computer+Vision+and+Pattern+Recognition",
+    "dateOfInsertion": "16 December 2018",
+    "startPage": "1053",
+    "endPage": "1061",
+    "pdfUrl": "/stamp/stamp.jsp?tp=&arnumber=8578214",
+    "keywords": [
+        {
+            "type": "IEEE Keywords",
+            "kwd": [
+                "Streaming media",
+                "Feature extraction",
+                "Kernel",
+                "Splicing",
+                "Visualization",
+                "Object detection",
+                "Image forensics"
+            ]
+        },
+        {
+            "type": "INSPEC: Controlled Indexing",
+            "kwd": [
+                "feature extraction",
+                "image colour analysis",
+                "image filtering",
+                "learning (artificial intelligence)",
+                "object detection",
+                "steganography"
+            ]
+        },
+        {
+            "type": "INSPEC: Non-Controlled Indexing",
+            "kwd": [
+                "rich features",
+                "image manipulation detection",
+                "traditional semantic object detection",
+                "RGB stream",
+                "two-stream faster R-CNN network",
+                "tampered region detection",
+                "noise feature extraction",
+                "noise inconsistency",
+                "bilinear pooling layer",
+                "richer feature learning",
+                "two-stream framework",
+                "standard image manipulation datasets",
+                "steganalysis rich model filter layer",
+                "noise stream",
+                "unnatural tampered boundaries",
+                "RGB image input",
+                "image content"
+            ]
+        }
+    ],
+    "doiLink": "https://doi-org.proxy.lib.ohio-state.edu/10.1109/CVPR.2018.00116",
+    "displayPublicationDate": "18-23 June 2018",
+    "articleCopyRight": "2018 IEEE",
+    "issueLink": "/xpl/tocresult.jsp?isnumber=8578098&punumber=8576498",
+    "pubLink": "/xpl/conhome/8576498/proceeding",
+    "allowComments": false,
+    "isGetAddressInfoCaptured": false,
+    "isMarketingOptIn": false,
+    "pubTopics": [
+        {
+            "name": "Computing and Processing"
+        }
+    ],
+    "publisher": "IEEE",
+    "displayDocTitle": "Learning Rich Features for Image Manipulation Detection",
+    "isStandard": false,
+    "isConference": true,
+    "isBookWithoutChapters": false,
+    "isChapter": false,
+    "isProduct": false,
+    "isEarlyAccess": false,
+    "isOpenAccess": false,
+    "isEphemera": false,
+    "xploreDocumentType": "Conference Publication",
+    "isBook": false,
+    "isJournal": false,
+    "isSpringer": false,
+    "accessionNumber": "18347690",
+    "isFreeDocument": false,
+    "isPromo": false,
+    "isDynamicHtml": true,
+    "htmlLink": "/document/8578214/",
+    "htmlAbstractLink": "/document/8578214/",
+    "isCustomDenial": false,
+    "persistentLink": "https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/servlet/opac?punumber=8576498",
+    "isNow": false,
+    "isSAE": false,
+    "isOUP": false,
+    "isSMPTE": false,
+    "openAccessFlag": "F",
+    "insertDate": "16 December 2018",
+    "ephemeraFlag": "false",
+    "title": "Learning Rich Features for Image Manipulation Detection",
+    "confLoc": "Salt Lake City, UT, USA",
+    "html_flag": "false",
+    "ml_html_flag": "true",
+    "sourcePdf": "642000b053.pdf",
+    "mlTime": "PT0.076365S",
+    "xplore-pub-id": "8576498",
+    "isNumber": "8578098",
+    "rightsLinkFlag": "1",
+    "contentType": "conferences",
+    "publicationNumber": "8576498",
+    "citationCount": "223",
+    "xplore-issue": "8578098",
+    "articleId": "8578214",
+    "contentTypeDisplay": "Conferences",
+    "subType": "IEEE Conference",
+    "_value": "IEEE",
+    "lastupdate": "2023-10-07",
+    "mediaPath": "/mediastore_new/IEEE/content/media/8576498/8578098/8578214"
+}

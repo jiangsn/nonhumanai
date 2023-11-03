@@ -1,0 +1,2 @@
+Fig. 2. 
+Targeting different real-world datasets. We train our method to enhance images from GTA (top left) with KITTI, Cityscapes, and Vistas as target datasets. Our method is able to reproduce the characteristic appearance of these datasets (e.g., sensor noise in KITTI, saturation in Cityscapes, fine textures in Vistas) while keeping the structure of the original GTA images. Insets show sample images from the respective target datasets.

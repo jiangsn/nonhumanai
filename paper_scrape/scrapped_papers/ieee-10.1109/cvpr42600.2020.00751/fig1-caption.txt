@@ -1,0 +1,1 @@
+Figure 1: Daytime translation results. Left - original images, right - translated and enhanced images (one style per column).

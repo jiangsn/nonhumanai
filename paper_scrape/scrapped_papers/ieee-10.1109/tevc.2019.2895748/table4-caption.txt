@@ -1,0 +1,2 @@
+TABLE IV 
+FIDs With Unsupervised Image Generation on LSUN Bedroom Dataset. The Method With Lower FID Implies the Generated Distribution is Closer to the Target One

@@ -1,0 +1,1 @@
+Figure 6: DensePose-RCNN architecture: We use a cascade of region proposal generation and feature pooling, followed by a fully-convolutional network that densely predicts discrete part labels and continuous surface coordinates.

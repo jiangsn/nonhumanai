@@ -1,0 +1,1 @@
+Figure 8: Comparing image transfer against PG2. Left: Results on market. Right: Results on DeepFashion. Appearance is inferred from the conditional image, the pose is inferred from the target image. Note that our method does not require labels about person identity.

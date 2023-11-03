@@ -1,0 +1,1 @@
+Figure 4. The three SRM filter kernels used to extract noise features.

@@ -1,0 +1,1 @@
+Figure 3. (Left) Example of a floor-plan with window-to-wall ratios, (Right) The window-to-wall ratios in the floor plan enable us to compute the rays (dashed lines) for the windows given y2 and y3 in our layout problem. Windows are denoted with green lines.

@@ -1,0 +1,1 @@
+Figure 2: Learning curves for the reconstruction task using: A natural image, the same plus i.i.d. Noise, the same randomly scrambled, and white noise. Naturally-looking images result in much faster convergence, whereas noise is rejected.

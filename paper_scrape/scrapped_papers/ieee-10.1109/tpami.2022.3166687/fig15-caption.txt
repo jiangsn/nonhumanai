@@ -1,0 +1,2 @@
+Fig. 15. 
+Perceptual experiment. Randomized blind unlimited-time pairwise comparisons of corresponding images. Values indicate percentage of comparisons in which our method was considered more realistic than the alternative. Chance is at 50%, indicated by the dashed line. Error bars indicate 95% confidence intervals.

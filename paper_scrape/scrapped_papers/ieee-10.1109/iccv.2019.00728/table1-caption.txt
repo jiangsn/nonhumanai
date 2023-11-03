@@ -1,0 +1,3 @@
+Table 1 
+Quantitative Swapping Results. On Faceforensics++ Videos 
+[39].

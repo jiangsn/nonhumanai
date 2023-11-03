@@ -1,0 +1,7 @@
+Fig. 8. Rebucketing for x-flips, y-flips, and xy-swaps. For example bucket ‘B’ accounts for gradient
+ angles between 45^\circ and 90^\circ. When the patch is flipped on the x-axis, the
+ bucketing also needs to be reflected, as shown in the second graph. The third graph shows y-flips, for which the
+ subsequent modulo 180^\circ operation maps
+ back to the 0^\circ to 180^\circ range. The final diagram shows xy-swaps (flip around
+ the x =y line). The different possible
+ combinations of x-flip, y-flip, and xy-swaps account for the 8 different patch transformations.

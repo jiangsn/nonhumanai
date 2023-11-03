@@ -1,0 +1,2 @@
+Figure 1. 
+Examples of text-driven manipulations using StyleCLIP. Top row: input images; Bottom row: our manipulated results. The text prompt used to drive each manipulation appears under each column.

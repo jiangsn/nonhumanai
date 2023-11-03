@@ -1,0 +1,1 @@
+Lighthouse scene. Foam and spray effects are added in a post-process using up to 3.3 million (top) and up to 15 million (bottom) diffuse particles. The level of detail can be controlled without changing the overall behavior

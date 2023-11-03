@@ -1,0 +1,1 @@
+Figure 10. Visual comparison to facebook 3D photos. Our approach fills plausible textures and structures at disocclusions.

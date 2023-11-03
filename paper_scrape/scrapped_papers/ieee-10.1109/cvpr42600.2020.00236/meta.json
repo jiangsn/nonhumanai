@@ -1,0 +1,264 @@
+{
+    "userInfo": {
+        "customerNameRaw": "The Ohio State University",
+        "institutionName": "The Ohio State University",
+        "institute": true,
+        "member": false,
+        "individual": false,
+        "guest": false,
+        "subscribedContent": false,
+        "fileCabinetContent": false,
+        "fileCabinetUser": false,
+        "institutionalFileCabinetUser": false,
+        "products": "IEL|EBOOKS:1974:2014|JRNLARCH:1884:1994|CONFARCH:1951:1999|IBM:1872:2020|VDE|NOKIA BELL LABS|",
+        "instType": "Academic",
+        "userIds": [
+            7827
+        ],
+        "showPatentCitations": true,
+        "showGet802Link": true,
+        "openUrlImgLoc": "http://library-osu-edu.proxy.lib.ohio-state.edu/resources/serialssolutions/buttons/button75x25edit.jpg",
+        "openUrlLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu",
+        "instLogoFile": "7827_OSULHoriz.png",
+        "openUrlTxt": "Find It!",
+        "showOpenUrlLink": true,
+        "marketingInfoCaptured": false,
+        "tracked": false,
+        "ringGoldId": "2647",
+        "delegatedAdmin": false,
+        "desktop": false,
+        "isInstitutionDashboardEnabled": false,
+        "isInstitutionProfileEnabled": false,
+        "isRoamingEnabled": true,
+        "isDelegatedAdmin": false,
+        "isMdl": false,
+        "isCwg": false,
+        "isIel": true,
+        "isAcademic": true
+    },
+    "authors": [
+        {
+            "name": "Soumyadip Sengupta",
+            "affiliation": [
+                "University of Washington"
+            ],
+            "firstName": "Soumyadip",
+            "lastName": "Sengupta",
+            "id": "37085805799"
+        },
+        {
+            "name": "Vivek Jayaram",
+            "affiliation": [
+                "University of Washington"
+            ],
+            "firstName": "Vivek",
+            "lastName": "Jayaram",
+            "id": "37088458200"
+        },
+        {
+            "name": "Brian Curless",
+            "affiliation": [
+                "University of Washington"
+            ],
+            "firstName": "Brian",
+            "lastName": "Curless",
+            "id": "37333354000"
+        },
+        {
+            "name": "Steven M. Seitz",
+            "affiliation": [
+                "University of Washington"
+            ],
+            "firstName": "Steven M.",
+            "lastName": "Seitz",
+            "id": "37298459900"
+        },
+        {
+            "name": "Ira Kemelmacher-Shlizerman",
+            "affiliation": [
+                "University of Washington"
+            ],
+            "firstName": "Ira",
+            "lastName": "Kemelmacher-Shlizerman",
+            "id": "38275248000"
+        }
+    ],
+    "isbn": [
+        {
+            "format": "Electronic ISBN",
+            "value": "978-1-7281-7168-5",
+            "isbnType": ""
+        },
+        {
+            "format": "Print on Demand(PoD) ISBN",
+            "value": "978-1-7281-7169-2",
+            "isbnType": ""
+        }
+    ],
+    "issn": [
+        {
+            "format": "Electronic ISSN",
+            "value": "2575-7075"
+        },
+        {
+            "format": "Print on Demand(PoD) ISSN",
+            "value": "1063-6919"
+        }
+    ],
+    "articleNumber": "9157230",
+    "dbTime": "1 ms",
+    "metrics": {
+        "citationCountPaper": 73,
+        "citationCountPatent": 0,
+        "totalDownloads": 335
+    },
+    "purchaseOptions": {
+        "showOtherFormatPricingTab": false,
+        "showPdfFormatPricingTab": true,
+        "pdfPricingInfoAvailable": true,
+        "otherPricingInfoAvailable": false,
+        "mandatoryBundle": false,
+        "optionalBundle": false,
+        "displayTextWhenOtherFormatPricingNotAvailable": "The purchase and pricing options for this item are unavailable. Select items are only available as part of a subscription package. You may try again later or <a href='https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/xpl/contact' target='_blank'>contact us</a> for more information.",
+        "pdfPricingInfo": [
+            {
+                "memberPrice": "$14.95",
+                "nonMemberPrice": "$33.00",
+                "partNumber": "9157230",
+                "type": "PDF/HTML"
+            }
+        ],
+        "openUrlFullLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu?url_ver=Z39.88-2004&rfr_id=info:sid/IEEE.org:XPLORE&rft_id=info:doi/10.1109/CVPR42600.2020.00236&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&rft.atitle=Background Matting: The World Is Your Green Screen&rft.jtitle=2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)&rft.date=2020&rft.spage=2288&rft.epage=2297&rft.eissn=2575-7075&rft.au=Soumyadip Sengupta&rft.aulast=Soumyadip Sengupta&rft.isbn=978-1-7281-7168-5"
+    },
+    "getProgramTermsAccepted": false,
+    "sections": {
+        "abstract": "true",
+        "authors": "true",
+        "figures": "true",
+        "multimedia": "false",
+        "references": "true",
+        "citedby": "true",
+        "keywords": "true",
+        "definitions": "false",
+        "algorithm": "false",
+        "dataset": "false",
+        "cadmore": "false",
+        "footnotes": "false",
+        "disclaimer": "false",
+        "relatedContent": "false",
+        "metrics": "true"
+    },
+    "abstract": "We propose a method for creating a matte - the per-pixel foreground color and alpha - of a person by taking photos or videos in an everyday setting with a handheld camera. Most existing matting methods require a green screen background or a manually created trimap to produce a good matte. Automatic, trimap-free methods are appearing, but are not of comparable quality. In our trimap free approach, we ask the user to take an additional photo of the background without the subject at the time of capture. This step requires a small amount of foresight but is far less timeconsuming than creating a trimap. We train a deep network with an adversarial loss to predict the matte. We first train a matting network with a supervised loss on ground truth data with synthetic composites. To bridge the domain gap to real imagery with no labeling, we train another matting network guided by the first network and by a discriminator that judges the quality of composites. We demonstrate results on a wide variety of photos and videos and show significant improvement over the state of the art.",
+    "publicationYear": "2020",
+    "pdfPath": "/iel7/9142308/9156271/09157230.pdf",
+    "publicationDate": "June 2020",
+    "doi": "10.1109/CVPR42600.2020.00236",
+    "formulaStrippedArticleTitle": "Background Matting: The World Is Your Green Screen",
+    "displayPublicationTitle": "2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+    "authorNames": "Soumyadip Sengupta;Vivek Jayaram;Brian Curless;Steven M. Seitz;Ira Kemelmacher-Shlizerman",
+    "publicationTitle": "2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+    "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=proceedings&title=Background+Matting%3A+The+World+Is+Your+Green+Screen&isbn=978-1-7281-7168-5&publicationDate=June+2020&author=Soumyadip+Sengupta&ContentID=10.1109/CVPR42600.2020.00236&orderBeanReset=true&startPage=2288&endPage=2297&proceedingName=2020+IEEE%2FCVF+Conference+on+Computer+Vision+and+Pattern+Recognition+%28CVPR%29",
+    "dateOfInsertion": "05 August 2020",
+    "startPage": "2288",
+    "endPage": "2297",
+    "pdfUrl": "/stamp/stamp.jsp?tp=&arnumber=9157230",
+    "keywords": [
+        {
+            "type": "IEEE Keywords",
+            "kwd": [
+                "Videos",
+                "Image color analysis",
+                "Cameras",
+                "Image segmentation",
+                "Training",
+                "Switches",
+                "Motion segmentation"
+            ]
+        },
+        {
+            "type": "INSPEC: Controlled Indexing",
+            "kwd": [
+                "cameras",
+                "feature extraction",
+                "image colour analysis",
+                "image segmentation",
+                "video signal processing"
+            ]
+        },
+        {
+            "type": "INSPEC: Non-Controlled Indexing",
+            "kwd": [
+                "handheld camera",
+                "green screen background",
+                "trimap free approach",
+                "adversarial loss",
+                "matting network",
+                "supervised loss",
+                "ground truth data",
+                "background matting",
+                "per-pixel foreground color"
+            ]
+        }
+    ],
+    "doiLink": "https://doi-org.proxy.lib.ohio-state.edu/10.1109/CVPR42600.2020.00236",
+    "displayPublicationDate": "13-19 June 2020",
+    "articleCopyRight": "2020 IEEE",
+    "issueLink": "/xpl/tocresult.jsp?isnumber=9156271&punumber=9142308",
+    "pubLink": "/xpl/conhome/9142308/proceeding",
+    "allowComments": false,
+    "isGetAddressInfoCaptured": false,
+    "isMarketingOptIn": false,
+    "pubTopics": [
+        {
+            "name": "Computing and Processing"
+        }
+    ],
+    "publisher": "IEEE",
+    "displayDocTitle": "Background Matting: The World Is Your Green Screen",
+    "isStandard": false,
+    "isConference": true,
+    "isBookWithoutChapters": false,
+    "isChapter": false,
+    "isProduct": false,
+    "isEarlyAccess": false,
+    "isOpenAccess": false,
+    "isEphemera": false,
+    "xploreDocumentType": "Conference Publication",
+    "isBook": false,
+    "isJournal": false,
+    "isSpringer": false,
+    "accessionNumber": "19876493",
+    "isFreeDocument": false,
+    "isPromo": false,
+    "isDynamicHtml": true,
+    "htmlLink": "/document/9157230/",
+    "htmlAbstractLink": "/document/9157230/",
+    "isCustomDenial": false,
+    "persistentLink": "https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/servlet/opac?punumber=9142308",
+    "isNow": false,
+    "isSAE": false,
+    "isOUP": false,
+    "isSMPTE": false,
+    "openAccessFlag": "F",
+    "insertDate": "05 August 2020",
+    "ephemeraFlag": "false",
+    "title": "Background Matting: The World Is Your Green Screen",
+    "confLoc": "Seattle, WA, USA",
+    "html_flag": "false",
+    "ml_html_flag": "true",
+    "sourcePdf": "716800c288.pdf",
+    "mlTime": "PT0.061645S",
+    "xplore-pub-id": "9142308",
+    "isNumber": "9156271",
+    "rightsLinkFlag": "1",
+    "contentType": "conferences",
+    "publicationNumber": "9142308",
+    "citationCount": "73",
+    "xplore-issue": "9156271",
+    "articleId": "9157230",
+    "contentTypeDisplay": "Conferences",
+    "subType": "IEEE Conference",
+    "_value": "IEEE",
+    "lastupdate": "2023-10-14",
+    "mediaPath": "/mediastore_new/IEEE/content/media/9142308/9156271/9157230"
+}

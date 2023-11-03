@@ -1,0 +1,1 @@
+Figure 4. For the car dataset, HoloGAN fully captures the full 360° azimuth and elevation (range: 35°).

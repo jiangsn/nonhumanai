@@ -1,0 +1,1 @@
+Figure 7. Samples from datasets studied in this work. For Pacman and Pacman-Maze, training data consists of partially observed states, shown in the red box. Left: Pacman, center: Pacman-Maze, right: VizDoom

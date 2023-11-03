@@ -1,0 +1,2 @@
+Fig. 16. 
+Synthetic 256×256 ImageNet images. We draw a label at random, sample a 64×64 image from the corresponding class-conditional diffusion model, and then apply a 4× SR3 model.

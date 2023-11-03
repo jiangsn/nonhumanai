@@ -1,0 +1,233 @@
+{
+    "userInfo": {
+        "customerNameRaw": "The Ohio State University",
+        "institutionName": "The Ohio State University",
+        "institute": true,
+        "member": false,
+        "individual": false,
+        "guest": false,
+        "subscribedContent": false,
+        "fileCabinetContent": false,
+        "fileCabinetUser": false,
+        "institutionalFileCabinetUser": false,
+        "products": "IEL|EBOOKS:1974:2014|JRNLARCH:1884:1994|CONFARCH:1951:1999|IBM:1872:2020|VDE|NOKIA BELL LABS|",
+        "instType": "Academic",
+        "userIds": [
+            7827
+        ],
+        "showPatentCitations": true,
+        "showGet802Link": true,
+        "openUrlImgLoc": "http://library-osu-edu.proxy.lib.ohio-state.edu/resources/serialssolutions/buttons/button75x25edit.jpg",
+        "openUrlLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu",
+        "instLogoFile": "7827_OSULHoriz.png",
+        "openUrlTxt": "Find It!",
+        "showOpenUrlLink": true,
+        "marketingInfoCaptured": false,
+        "tracked": false,
+        "ringGoldId": "2647",
+        "delegatedAdmin": false,
+        "desktop": false,
+        "isInstitutionDashboardEnabled": false,
+        "isInstitutionProfileEnabled": false,
+        "isRoamingEnabled": true,
+        "isDelegatedAdmin": false,
+        "isMdl": false,
+        "isCwg": false,
+        "isIel": true,
+        "isAcademic": true
+    },
+    "authors": [
+        {
+            "name": "Andrej Karpathy",
+            "affiliation": [
+                "Department of Computer Science, Stanford University"
+            ],
+            "firstName": "Andrej",
+            "lastName": "Karpathy",
+            "id": "37077186100"
+        },
+        {
+            "name": "Li Fei-Fei",
+            "affiliation": [
+                "Department of Computer Science, Stanford University"
+            ],
+            "firstName": "Li",
+            "lastName": "Fei-Fei",
+            "id": "38273560700"
+        }
+    ],
+    "isbn": [
+        {
+            "format": "Electronic ISBN",
+            "value": "978-1-4673-6964-0",
+            "isbnType": ""
+        },
+        {
+            "format": "USB ISBN",
+            "value": "978-1-4673-6963-3",
+            "isbnType": ""
+        }
+    ],
+    "issn": [
+        {
+            "format": "Electronic ISSN",
+            "value": "1063-6919"
+        },
+        {
+            "format": "Print ISSN",
+            "value": "1063-6919"
+        }
+    ],
+    "articleNumber": "7298932",
+    "dbTime": "2 ms",
+    "metrics": {
+        "citationCountPaper": 2154,
+        "citationCountPatent": 47,
+        "totalDownloads": 2605
+    },
+    "purchaseOptions": {
+        "showOtherFormatPricingTab": false,
+        "showPdfFormatPricingTab": true,
+        "pdfPricingInfoAvailable": true,
+        "otherPricingInfoAvailable": false,
+        "mandatoryBundle": false,
+        "optionalBundle": false,
+        "displayTextWhenOtherFormatPricingNotAvailable": "The purchase and pricing options for this item are unavailable. Select items are only available as part of a subscription package. You may try again later or <a href='https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/xpl/contact' target='_blank'>contact us</a> for more information.",
+        "pdfPricingInfo": [
+            {
+                "memberPrice": "$14.95",
+                "nonMemberPrice": "$33.00",
+                "partNumber": "7298932",
+                "type": "PDF/HTML"
+            }
+        ],
+        "openUrlFullLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu?url_ver=Z39.88-2004&rfr_id=info:sid/IEEE.org:XPLORE&rft_id=info:doi/10.1109/CVPR.2015.7298932&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&rft.atitle=Deep visual-semantic alignments for generating image descriptions&rft.jtitle=2015 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)&rft.date=2015&rft.spage=3128&rft.epage=3137&rft.issn=1063-6919&rft.eissn=1063-6919&rft.au=Andrej Karpathy&rft.aulast=Andrej Karpathy&rft.isbn=978-1-4673-6964-0"
+    },
+    "getProgramTermsAccepted": false,
+    "sections": {
+        "abstract": "true",
+        "authors": "true",
+        "figures": "true",
+        "multimedia": "false",
+        "references": "true",
+        "citedby": "true",
+        "keywords": "true",
+        "definitions": "false",
+        "algorithm": "false",
+        "dataset": "false",
+        "cadmore": "false",
+        "footnotes": "true",
+        "disclaimer": "false",
+        "relatedContent": "false",
+        "metrics": "true"
+    },
+    "abstract": "We present a model that generates natural language descriptions of images and their regions. Our approach leverages datasets of images and their sentence descriptions to learn about the inter-modal correspondences between language and visual data. Our alignment model is based on a novel combination of Convolutional Neural Networks over image regions, bidirectional Recurrent Neural Networks over sentences, and a structured objective that aligns the two modalities through a multimodal embedding. We then describe a Multimodal Recurrent Neural Network architecture that uses the inferred alignments to learn to generate novel descriptions of image regions. We demonstrate that our alignment model produces state of the art results in retrieval experiments on Flickr8K, Flickr30K and MSCOCO datasets. We then show that the generated descriptions significantly outperform retrieval baselines on both full images and on a new dataset of region-level annotations.",
+    "publicationYear": "2015",
+    "pdfPath": "/iel7/7293313/7298593/07298932.pdf",
+    "publicationDate": "June 2015",
+    "doi": "10.1109/CVPR.2015.7298932",
+    "formulaStrippedArticleTitle": "Deep visual-semantic alignments for generating image descriptions",
+    "displayPublicationTitle": "2015 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)",
+    "authorNames": "Andrej Karpathy;Li Fei-Fei",
+    "publicationTitle": "2015 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)",
+    "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=proceedings&title=Deep+visual-semantic+alignments+for+generating+image+descriptions&isbn=978-1-4673-6964-0&publicationDate=June+2015&author=Andrej+Karpathy&ContentID=10.1109/CVPR.2015.7298932&orderBeanReset=true&startPage=3128&endPage=3137&proceedingName=2015+IEEE+Conference+on+Computer+Vision+and+Pattern+Recognition+%28CVPR%29",
+    "dateOfInsertion": "15 October 2015",
+    "startPage": "3128",
+    "endPage": "3137",
+    "pdfUrl": "/stamp/stamp.jsp?tp=&arnumber=7298932",
+    "keywords": [
+        {
+            "type": "INSPEC: Controlled Indexing",
+            "kwd": [
+                "image retrieval",
+                "image segmentation",
+                "learning (artificial intelligence)",
+                "natural language processing",
+                "recurrent neural nets"
+            ]
+        },
+        {
+            "type": "INSPEC: Non-Controlled Indexing",
+            "kwd": [
+                "deep visual-semantic alignment",
+                "image description generation",
+                "natural language image description",
+                "sentence description",
+                "learning",
+                "intermodal correspondence",
+                "visual data",
+                "convolutional neural network",
+                "image region",
+                "bidirectional recurrent neural network",
+                "multimodal embedding",
+                "multimodal recurrent neural network architecture",
+                "Flickr8K dataset",
+                "Flickr30K dataset",
+                "MSCOCO dataset",
+                "image retrieval",
+                "region-level annotation"
+            ]
+        }
+    ],
+    "doiLink": "https://doi-org.proxy.lib.ohio-state.edu/10.1109/CVPR.2015.7298932",
+    "displayPublicationDate": "07-12 June 2015",
+    "articleCopyRight": "2015 IEEE",
+    "issueLink": "/xpl/tocresult.jsp?isnumber=7298593&punumber=7293313",
+    "pubLink": "/xpl/conhome/7293313/proceeding",
+    "allowComments": false,
+    "isGetAddressInfoCaptured": false,
+    "isMarketingOptIn": false,
+    "pubTopics": [
+        {
+            "name": "Computing and Processing"
+        }
+    ],
+    "publisher": "IEEE",
+    "displayDocTitle": "Deep visual-semantic alignments for generating image descriptions",
+    "isStandard": false,
+    "isConference": true,
+    "isBookWithoutChapters": false,
+    "isChapter": false,
+    "isProduct": false,
+    "isEarlyAccess": false,
+    "isOpenAccess": false,
+    "isEphemera": false,
+    "xploreDocumentType": "Conference Publication",
+    "isBook": false,
+    "isJournal": false,
+    "isSpringer": false,
+    "accessionNumber": "15524180",
+    "isFreeDocument": false,
+    "isPromo": false,
+    "isDynamicHtml": true,
+    "htmlLink": "/document/7298932/",
+    "htmlAbstractLink": "/document/7298932/",
+    "isCustomDenial": false,
+    "persistentLink": "https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/servlet/opac?punumber=7293313",
+    "isNow": false,
+    "isSAE": false,
+    "isOUP": false,
+    "isSMPTE": false,
+    "openAccessFlag": "F",
+    "insertDate": "15 October 2015",
+    "ephemeraFlag": "false",
+    "title": "Deep visual-semantic alignments for generating image descriptions",
+    "confLoc": "Boston, MA, USA",
+    "html_flag": "true",
+    "ml_html_flag": "true",
+    "sourcePdf": "2A098.pdf",
+    "mlTime": "PT0.084384S",
+    "xplore-pub-id": "7293313",
+    "isNumber": "7298593",
+    "rightsLinkFlag": "1",
+    "contentType": "conferences",
+    "publicationNumber": "7293313",
+    "citationCount": "2154",
+    "xplore-issue": "7298593",
+    "articleId": "7298932",
+    "contentTypeDisplay": "Conferences",
+    "subType": "IEEE Conference",
+    "_value": "IEEE",
+    "lastupdate": "2023-10-20",
+    "mediaPath": "/mediastore_new/IEEE/content/media/7293313/7298593/7298932"
+}

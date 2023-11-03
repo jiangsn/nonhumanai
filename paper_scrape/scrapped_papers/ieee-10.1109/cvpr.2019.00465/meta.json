@@ -1,0 +1,291 @@
+{
+    "userInfo": {
+        "customerNameRaw": "The Ohio State University",
+        "institutionName": "The Ohio State University",
+        "institute": true,
+        "member": false,
+        "individual": false,
+        "guest": false,
+        "subscribedContent": false,
+        "fileCabinetContent": false,
+        "fileCabinetUser": false,
+        "institutionalFileCabinetUser": false,
+        "products": "IEL|EBOOKS:1974:2014|JRNLARCH:1884:1994|CONFARCH:1951:1999|IBM:1872:2020|VDE|NOKIA BELL LABS|",
+        "instType": "Academic",
+        "userIds": [
+            7827
+        ],
+        "showPatentCitations": true,
+        "showGet802Link": true,
+        "openUrlImgLoc": "http://library-osu-edu.proxy.lib.ohio-state.edu/resources/serialssolutions/buttons/button75x25edit.jpg",
+        "openUrlLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu",
+        "instLogoFile": "7827_OSULHoriz.png",
+        "openUrlTxt": "Find It!",
+        "showOpenUrlLink": true,
+        "marketingInfoCaptured": false,
+        "tracked": false,
+        "ringGoldId": "2647",
+        "delegatedAdmin": false,
+        "desktop": false,
+        "isInstitutionDashboardEnabled": false,
+        "isInstitutionProfileEnabled": false,
+        "isRoamingEnabled": true,
+        "isDelegatedAdmin": false,
+        "isMdl": false,
+        "isCwg": false,
+        "isIel": true,
+        "isAcademic": true
+    },
+    "authors": [
+        {
+            "name": "Zhengqi Li",
+            "affiliation": [
+                "Google Research"
+            ],
+            "firstName": "Zhengqi",
+            "lastName": "Li",
+            "id": "37086570504"
+        },
+        {
+            "name": "Tali Dekel",
+            "affiliation": [
+                "Google Research"
+            ],
+            "firstName": "Tali",
+            "lastName": "Dekel",
+            "id": "37073267200"
+        },
+        {
+            "name": "Forrester Cole",
+            "affiliation": [
+                "Google Research"
+            ],
+            "firstName": "Forrester",
+            "lastName": "Cole",
+            "id": "37887497800"
+        },
+        {
+            "name": "Richard Tucker",
+            "affiliation": [
+                "Google Research"
+            ],
+            "firstName": "Richard",
+            "lastName": "Tucker",
+            "id": "37087234101"
+        },
+        {
+            "name": "Noah Snavely",
+            "affiliation": [
+                "Google Research"
+            ],
+            "firstName": "Noah",
+            "lastName": "Snavely",
+            "id": "37397866800"
+        },
+        {
+            "name": "Ce Liu",
+            "affiliation": [
+                "Google Research"
+            ],
+            "firstName": "Ce",
+            "lastName": "Liu",
+            "id": "37089393380"
+        },
+        {
+            "name": "William T. Freeman",
+            "affiliation": [
+                "Google Research"
+            ],
+            "firstName": "William T.",
+            "lastName": "Freeman",
+            "id": "37283735800"
+        }
+    ],
+    "isbn": [
+        {
+            "format": "Electronic ISBN",
+            "value": "978-1-7281-3293-8",
+            "isbnType": ""
+        },
+        {
+            "format": "Print on Demand(PoD) ISBN",
+            "value": "978-1-7281-3294-5",
+            "isbnType": ""
+        }
+    ],
+    "issn": [
+        {
+            "format": "Electronic ISSN",
+            "value": "2575-7075"
+        },
+        {
+            "format": "Print on Demand(PoD) ISSN",
+            "value": "1063-6919"
+        }
+    ],
+    "articleNumber": "8953206",
+    "dbTime": "1 ms",
+    "metrics": {
+        "citationCountPaper": 120,
+        "citationCountPatent": 0,
+        "totalDownloads": 219
+    },
+    "purchaseOptions": {
+        "showOtherFormatPricingTab": false,
+        "showPdfFormatPricingTab": true,
+        "pdfPricingInfoAvailable": true,
+        "otherPricingInfoAvailable": false,
+        "mandatoryBundle": false,
+        "optionalBundle": false,
+        "displayTextWhenOtherFormatPricingNotAvailable": "The purchase and pricing options for this item are unavailable. Select items are only available as part of a subscription package. You may try again later or <a href='https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/xpl/contact' target='_blank'>contact us</a> for more information.",
+        "pdfPricingInfo": [
+            {
+                "memberPrice": "$14.95",
+                "nonMemberPrice": "$33.00",
+                "partNumber": "8953206",
+                "type": "PDF/HTML"
+            }
+        ],
+        "openUrlFullLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu?url_ver=Z39.88-2004&rfr_id=info:sid/IEEE.org:XPLORE&rft_id=info:doi/10.1109/CVPR.2019.00465&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&rft.atitle=Learning the Depths of Moving People by Watching Frozen People&rft.jtitle=2019 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)&rft.date=2019&rft.spage=4516&rft.epage=4525&rft.eissn=2575-7075&rft.au=Zhengqi Li&rft.aulast=Zhengqi Li&rft.isbn=978-1-7281-3293-8"
+    },
+    "getProgramTermsAccepted": false,
+    "sections": {
+        "abstract": "true",
+        "authors": "true",
+        "figures": "true",
+        "multimedia": "false",
+        "references": "true",
+        "citedby": "true",
+        "keywords": "true",
+        "definitions": "false",
+        "algorithm": "false",
+        "dataset": "false",
+        "cadmore": "false",
+        "footnotes": "true",
+        "disclaimer": "false",
+        "relatedContent": "false",
+        "metrics": "true"
+    },
+    "abstract": "We present a method for predicting dense depth in scenarios where both a monocular camera and people in the scene are freely moving. Existing methods for recovering depth for dynamic, non-rigid objects from monocular video impose strong assumptions on the objects\u2019 motion and may only recover sparse depth. In this paper, we take a data-driven approach and learn human depth priors from a new source of data: thousands of Internet videos of people imitating mannequins, i.e., freezing in diverse, natural poses, while a hand-held camera tours the scene. Since the people are stationary, training data can be created from these videos using multi-view stereo reconstruction. At inference time, our method uses motion parallax cues from the static areas of the scenes, and shows clear improvement over state-of-the-art monocular depth prediction methods. We demonstrate our method on real-world sequences of complex human actions captured by a moving hand-held camera, and show various 3D effects produced using our predicted depth.",
+    "publicationYear": "2019",
+    "pdfPath": "/iel7/8938205/8953184/08953206.pdf",
+    "publicationDate": "June 2019",
+    "doi": "10.1109/CVPR.2019.00465",
+    "formulaStrippedArticleTitle": "Learning the Depths of Moving People by Watching Frozen People",
+    "displayPublicationTitle": "2019 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+    "authorNames": "Zhengqi Li;Tali Dekel;Forrester Cole;Richard Tucker;Noah Snavely;Ce Liu;William T. Freeman",
+    "publicationTitle": "2019 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+    "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=proceedings&title=Learning+the+Depths+of+Moving+People+by+Watching+Frozen+People&isbn=978-1-7281-3293-8&publicationDate=June+2019&author=Zhengqi+Li&ContentID=10.1109/CVPR.2019.00465&orderBeanReset=true&startPage=4516&endPage=4525&proceedingName=2019+IEEE%2FCVF+Conference+on+Computer+Vision+and+Pattern+Recognition+%28CVPR%29",
+    "dateOfInsertion": "09 January 2020",
+    "startPage": "4516",
+    "endPage": "4525",
+    "pdfUrl": "/stamp/stamp.jsp?tp=&arnumber=8953206",
+    "keywords": [
+        {
+            "type": "IEEE Keywords",
+            "kwd": [
+                "Computer vision",
+                "Three-dimensional displays",
+                "Dynamics",
+                "Training data",
+                "Prediction methods",
+                "Cameras",
+                "Pattern recognition"
+            ]
+        },
+        {
+            "type": "INSPEC: Controlled Indexing",
+            "kwd": [
+                "image motion analysis",
+                "image reconstruction",
+                "image sequences",
+                "learning (artificial intelligence)",
+                "stereo image processing",
+                "video signal processing"
+            ]
+        },
+        {
+            "type": "INSPEC: Non-Controlled Indexing",
+            "kwd": [
+                "monocular camera",
+                "monocular video",
+                "Internet videos",
+                "multiview stereo reconstruction",
+                "motion parallax cues",
+                "monocular depth prediction",
+                "moving hand-held camera",
+                "frozen people",
+                "depth learning"
+            ]
+        },
+        {
+            "type": "Author Keywords ",
+            "kwd": [
+                "3D from Single Image",
+                "3D from Multiview and Sensors",
+                "Deep Learning"
+            ]
+        }
+    ],
+    "doiLink": "https://doi-org.proxy.lib.ohio-state.edu/10.1109/CVPR.2019.00465",
+    "displayPublicationDate": "15-20 June 2019",
+    "articleCopyRight": "2019 IEEE",
+    "issueLink": "/xpl/tocresult.jsp?isnumber=8953184&punumber=8938205",
+    "pubLink": "/xpl/conhome/8938205/proceeding",
+    "allowComments": false,
+    "isGetAddressInfoCaptured": false,
+    "isMarketingOptIn": false,
+    "pubTopics": [
+        {
+            "name": "Computing and Processing"
+        }
+    ],
+    "publisher": "IEEE",
+    "displayDocTitle": "Learning the Depths of Moving People by Watching Frozen People",
+    "isStandard": false,
+    "isConference": true,
+    "isBookWithoutChapters": false,
+    "isChapter": false,
+    "isProduct": false,
+    "isEarlyAccess": false,
+    "isOpenAccess": false,
+    "isEphemera": false,
+    "xploreDocumentType": "Conference Publication",
+    "isBook": false,
+    "isJournal": false,
+    "isSpringer": false,
+    "accessionNumber": "19263574",
+    "isFreeDocument": false,
+    "isPromo": false,
+    "isDynamicHtml": true,
+    "htmlLink": "/document/8953206/",
+    "htmlAbstractLink": "/document/8953206/",
+    "isCustomDenial": false,
+    "persistentLink": "https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/servlet/opac?punumber=8938205",
+    "isNow": false,
+    "isSAE": false,
+    "isOUP": false,
+    "isSMPTE": false,
+    "openAccessFlag": "F",
+    "insertDate": "09 January 2020",
+    "ephemeraFlag": "false",
+    "title": "Learning the Depths of Moving People by Watching Frozen People",
+    "confLoc": "Long Beach, CA, USA",
+    "html_flag": "false",
+    "ml_html_flag": "true",
+    "sourcePdf": "329300e516.pdf",
+    "mlTime": "PT0.085439S",
+    "xplore-pub-id": "8938205",
+    "isNumber": "8953184",
+    "rightsLinkFlag": "1",
+    "contentType": "conferences",
+    "publicationNumber": "8938205",
+    "citationCount": "120",
+    "xplore-issue": "8953184",
+    "articleId": "8953206",
+    "contentTypeDisplay": "Conferences",
+    "subType": "IEEE Conference",
+    "_value": "IEEE",
+    "lastupdate": "2023-10-14",
+    "mediaPath": "/mediastore_new/IEEE/content/media/8938205/8953184/8953206"
+}

@@ -1,0 +1,1 @@
+Figure 7. Example patches from the synthetic scene used in Table 2, annotated with srgb psnr for each inset. With perfectly clean inputs, training on ldr images is superior, but with any nonzero amount of noise, it is more beneficial to optimize nerf in raw space, where the noise distribution remains unbiased.

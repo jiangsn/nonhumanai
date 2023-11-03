@@ -1,0 +1,242 @@
+{
+    "userInfo": {
+        "customerNameRaw": "The Ohio State University",
+        "institutionName": "The Ohio State University",
+        "institute": true,
+        "member": false,
+        "individual": false,
+        "guest": false,
+        "subscribedContent": false,
+        "fileCabinetContent": false,
+        "fileCabinetUser": false,
+        "institutionalFileCabinetUser": false,
+        "products": "IEL|EBOOKS:1974:2014|JRNLARCH:1884:1994|CONFARCH:1951:1999|IBM:1872:2020|VDE|NOKIA BELL LABS|",
+        "instType": "Academic",
+        "userIds": [
+            7827
+        ],
+        "showPatentCitations": true,
+        "showGet802Link": true,
+        "openUrlImgLoc": "http://library-osu-edu.proxy.lib.ohio-state.edu/resources/serialssolutions/buttons/button75x25edit.jpg",
+        "openUrlLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu",
+        "instLogoFile": "7827_OSULHoriz.png",
+        "openUrlTxt": "Find It!",
+        "showOpenUrlLink": true,
+        "marketingInfoCaptured": false,
+        "tracked": false,
+        "ringGoldId": "2647",
+        "delegatedAdmin": false,
+        "desktop": false,
+        "isInstitutionDashboardEnabled": false,
+        "isInstitutionProfileEnabled": false,
+        "isRoamingEnabled": true,
+        "isDelegatedAdmin": false,
+        "isMdl": false,
+        "isCwg": false,
+        "isIel": true,
+        "isAcademic": true
+    },
+    "authors": [
+        {
+            "name": "Taewon Kang",
+            "affiliation": [
+                "Sejong Academy of Science and Arts, Sejong, Korea"
+            ],
+            "firstName": "Taewon",
+            "lastName": "Kang",
+            "id": "37088377240"
+        },
+        {
+            "name": "Kwang Hee Lee",
+            "affiliation": [
+                "Boeing Korea Engineering and Technology Center (BKETC), Seoul, Korea"
+            ],
+            "firstName": "Kwang Hee",
+            "lastName": "Lee",
+            "id": "37087233956"
+        }
+    ],
+    "isbn": [
+        {
+            "format": "Electronic ISBN",
+            "value": "978-1-7281-6034-4",
+            "isbnType": ""
+        },
+        {
+            "format": "Print on Demand(PoD) ISBN",
+            "value": "978-1-7281-6035-1",
+            "isbnType": ""
+        }
+    ],
+    "issn": [
+        {
+            "format": "Electronic ISSN",
+            "value": "2375-9356"
+        },
+        {
+            "format": "Print on Demand(PoD) ISSN",
+            "value": "2375-933X"
+        }
+    ],
+    "articleNumber": "9070604",
+    "dbTime": "1 ms",
+    "metrics": {
+        "citationCountPaper": 16,
+        "citationCountPatent": 0,
+        "totalDownloads": 447
+    },
+    "purchaseOptions": {
+        "showOtherFormatPricingTab": false,
+        "showPdfFormatPricingTab": true,
+        "pdfPricingInfoAvailable": true,
+        "otherPricingInfoAvailable": false,
+        "mandatoryBundle": false,
+        "optionalBundle": false,
+        "displayTextWhenOtherFormatPricingNotAvailable": "The purchase and pricing options for this item are unavailable. Select items are only available as part of a subscription package. You may try again later or <a href='https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/xpl/contact' target='_blank'>contact us</a> for more information.",
+        "pdfPricingInfo": [
+            {
+                "memberPrice": "$14.95",
+                "nonMemberPrice": "$33.00",
+                "partNumber": "9070604",
+                "type": "PDF/HTML"
+            }
+        ],
+        "openUrlFullLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu?url_ver=Z39.88-2004&rfr_id=info:sid/IEEE.org:XPLORE&rft_id=info:doi/10.1109/BigComp48618.2020.00-92&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&rft.atitle=Unsupervised Image-to-Image Translation with Self-Attention Networks&rft.jtitle=2020 IEEE International Conference on Big Data and Smart Computing (BigComp)&rft.date=2020&rft.spage=102&rft.epage=108&rft.eissn=2375-9356&rft.au=Taewon Kang&rft.aulast=Taewon Kang&rft.isbn=978-1-7281-6034-4"
+    },
+    "getProgramTermsAccepted": false,
+    "sections": {
+        "abstract": "true",
+        "authors": "true",
+        "figures": "true",
+        "multimedia": "false",
+        "references": "true",
+        "citedby": "true",
+        "keywords": "true",
+        "definitions": "false",
+        "algorithm": "false",
+        "dataset": "false",
+        "cadmore": "false",
+        "footnotes": "false",
+        "disclaimer": "false",
+        "relatedContent": "false",
+        "metrics": "true"
+    },
+    "abstract": "Unsupervised image translation aims to learn the transformation from a source domain to a target domain given unpaired training data. Several state-of-the-art works have yielded impressive results in the GANs-based unsupervised image-to-image translation. It fails to capture strong geometric changes between domains, or it produces unsatisfactory results for complex scenes, compared to local texture mapping tasks such as style transfer. Recently, SAGAN (Han Zhang, 2018) showed that the self-attention network produces better results than the convolution-based GAN. However, the effectiveness of the self-attention network in unsupervised image-to-image translation tasks have not been verified. In this paper, we propose an unsupervised image-to-image translation with self-attention networks, in which long range dependency helps to not only capture strong geometric change but also generate details using cues from all feature locations. In experiments, we qualitatively and quantitatively show superiority of the proposed method compared to existing state-of-the-art unsupervised image-to-image translation task.",
+    "publicationYear": "2020",
+    "pdfPath": "/iel7/9050588/9070238/09070604.pdf",
+    "publicationDate": "February 2020",
+    "doi": "10.1109/BigComp48618.2020.00-92",
+    "formulaStrippedArticleTitle": "Unsupervised Image-to-Image Translation with Self-Attention Networks",
+    "displayPublicationTitle": "2020 IEEE International Conference on Big Data and Smart Computing (BigComp)",
+    "authorNames": "Taewon Kang;Kwang Hee Lee",
+    "publicationTitle": "2020 IEEE International Conference on Big Data and Smart Computing (BigComp)",
+    "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=proceedings&title=Unsupervised+Image-to-Image+Translation+with+Self-Attention+Networks&isbn=978-1-7281-6034-4&publicationDate=February+2020&author=Taewon+Kang&ContentID=10.1109/BigComp48618.2020.00-92&orderBeanReset=true&startPage=102&endPage=108&proceedingName=2020+IEEE+International+Conference+on+Big+Data+and+Smart+Computing+%28BigComp%29",
+    "dateOfInsertion": "20 April 2020",
+    "startPage": "102",
+    "endPage": "108",
+    "pdfUrl": "/stamp/stamp.jsp?tp=&arnumber=9070604",
+    "keywords": [
+        {
+            "type": "IEEE Keywords",
+            "kwd": [
+                "Task analysis",
+                "Gallium nitride",
+                "Image resolution",
+                "Image reconstruction",
+                "Image edge detection",
+                "Decoding",
+                "Generators"
+            ]
+        },
+        {
+            "type": "INSPEC: Controlled Indexing",
+            "kwd": [
+                "feature extraction",
+                "image texture",
+                "neural nets",
+                "unsupervised learning"
+            ]
+        },
+        {
+            "type": "INSPEC: Non-Controlled Indexing",
+            "kwd": [
+                "strong geometric change",
+                "self-attention network",
+                "GANs-based unsupervised image-to-image translation",
+                "local texture mapping task",
+                "style transfer",
+                "SAGAN",
+                "feature locations"
+            ]
+        },
+        {
+            "type": "Author Keywords ",
+            "kwd": [
+                "Generative Adversarial Networks",
+                "Image-to-Image Translation",
+                "Self-Attention Networks"
+            ]
+        }
+    ],
+    "doiLink": "https://doi-org.proxy.lib.ohio-state.edu/10.1109/BigComp48618.2020.00-92",
+    "displayPublicationDate": "19-22 February 2020",
+    "articleCopyRight": "2020 IEEE",
+    "issueLink": "/xpl/tocresult.jsp?isnumber=9070238&punumber=9050588",
+    "pubLink": "/xpl/conhome/9050588/proceeding",
+    "allowComments": false,
+    "isGetAddressInfoCaptured": false,
+    "isMarketingOptIn": false,
+    "pubTopics": [
+        {
+            "name": "Communication, Networking and Broadcast Technologies"
+        }
+    ],
+    "publisher": "IEEE",
+    "displayDocTitle": "Unsupervised Image-to-Image Translation with Self-Attention Networks",
+    "isStandard": false,
+    "isConference": true,
+    "isBookWithoutChapters": false,
+    "isChapter": false,
+    "isProduct": false,
+    "isEarlyAccess": false,
+    "isOpenAccess": false,
+    "isEphemera": false,
+    "xploreDocumentType": "Conference Publication",
+    "isBook": false,
+    "isJournal": false,
+    "isSpringer": false,
+    "accessionNumber": "19534917",
+    "isFreeDocument": false,
+    "isPromo": false,
+    "isDynamicHtml": true,
+    "htmlLink": "/document/9070604/",
+    "htmlAbstractLink": "/document/9070604/",
+    "isCustomDenial": false,
+    "persistentLink": "https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/servlet/opac?punumber=9050588",
+    "isNow": false,
+    "isSAE": false,
+    "isOUP": false,
+    "isSMPTE": false,
+    "openAccessFlag": "F",
+    "insertDate": "20 April 2020",
+    "ephemeraFlag": "false",
+    "title": "Unsupervised Image-to-Image Translation with Self-Attention Networks",
+    "confLoc": "Busan, Korea (South)",
+    "html_flag": "false",
+    "ml_html_flag": "true",
+    "sourcePdf": "603400a102.pdf",
+    "mlTime": "PT0.08498S",
+    "xplore-pub-id": "9050588",
+    "isNumber": "9070238",
+    "rightsLinkFlag": "1",
+    "contentType": "conferences",
+    "publicationNumber": "9050588",
+    "citationCount": "16",
+    "xplore-issue": "9070238",
+    "articleId": "9070604",
+    "contentTypeDisplay": "Conferences",
+    "subType": "IEEE Conference",
+    "_value": "IEEE",
+    "lastupdate": "2023-10-08",
+    "mediaPath": "/mediastore_new/IEEE/content/media/9050588/9070238/9070604"
+}

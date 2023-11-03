@@ -1,0 +1,2 @@
+Figure 2. 
+Uncurated set of images produced by our style-based generator (config F) with the FFHQ dataset. Here we used a variation of the truncation trick [38], [4], [31] with ψ = 0.7 for resolutions 42 - 322. Please see the accompanying video for more results.

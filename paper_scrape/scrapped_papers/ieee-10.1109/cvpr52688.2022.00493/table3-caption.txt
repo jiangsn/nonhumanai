@@ -1,0 +1,1 @@
+Table 3. Results on refer-youtube-vos. The upper half is evaluated on the original validation set, while the bottom half is evaluated on the public validation set. ± – ensemble.

@@ -1,0 +1,1 @@
+Figure 3. t-SNE embedding of 3DMatch descriptors for local 3D patches from the redkitchen test scene of 7-scenes [24]. This embedding suggests that our 3DMatch convnet is able to cluster local 3D patches based on local geometric features such as edges (a, f), Planes (e), Corners (c, d), and other geometric structures (g, b, h) In the face of noisy and partial data.

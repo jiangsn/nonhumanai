@@ -1,0 +1,1 @@
+Figure 4. Example results by our stackgan and GAN-INT-cls [26] conditioned on text descriptions from oxford-102 test set (leftmost four columns) and COCO validation set (rightmost four columns).

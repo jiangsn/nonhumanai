@@ -1,0 +1,1 @@
+Classic Actor-Critic algorithms. Instead of a 1D Q-value, a 3D Q-value is proposed to train the corresponding 3D actions

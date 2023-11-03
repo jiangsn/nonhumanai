@@ -1,0 +1,1 @@
+Figure 7. Qualitative comparisons with DeepFillvl [18] on the CelebA-HQ validation sets.

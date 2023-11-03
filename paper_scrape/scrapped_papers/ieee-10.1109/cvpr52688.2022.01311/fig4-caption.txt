@@ -1,0 +1,1 @@
+Figure 4. Image editing with gangealing. By annotating just a single image per-category (our average transformed image), a user can propagate their edits to any image or video in the same category.

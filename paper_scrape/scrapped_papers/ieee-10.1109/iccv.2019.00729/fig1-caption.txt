@@ -1,0 +1,1 @@
+Figure 1: Our algorithm takes a portrait image and a target lighting as input and generates a new portrait image.

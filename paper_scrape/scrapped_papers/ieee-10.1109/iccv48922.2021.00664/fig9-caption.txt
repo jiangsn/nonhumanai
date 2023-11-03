@@ -1,0 +1,2 @@
+Figure 9. 
+Given the input image on the left, we visualize the intermediate outputs of ReStyle applied over pSp [35] and e4e [40].

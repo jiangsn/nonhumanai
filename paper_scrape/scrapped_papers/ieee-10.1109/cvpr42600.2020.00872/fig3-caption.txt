@@ -1,0 +1,1 @@
+Figure 3: Effect of dataset diversity. All detectors are trained on progan, and tested on other generators (ap shown). Training with more classes improves performance. All runs use blur and JPEG augmentation with 50% probability.

@@ -1,0 +1,1 @@
+Figure 1: Our model learns to infer appearance from the queries on the left and can synthesize images with that appearance in different poses given in the top row. An animated version can be found at https://compvis.github.io/vunet.

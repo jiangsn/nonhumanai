@@ -1,0 +1,2 @@
+Figure 10. 
+Limitations of the proposed method. When the depth maps are not estimated well, our method tends to generate blurred results and less clear boundaries.

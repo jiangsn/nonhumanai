@@ -1,0 +1,272 @@
+{
+    "userInfo": {
+        "customerNameRaw": "The Ohio State University",
+        "institutionName": "The Ohio State University",
+        "institute": true,
+        "member": false,
+        "individual": false,
+        "guest": false,
+        "subscribedContent": false,
+        "fileCabinetContent": false,
+        "fileCabinetUser": false,
+        "institutionalFileCabinetUser": false,
+        "products": "IEL|EBOOKS:1974:2014|JRNLARCH:1884:1994|CONFARCH:1951:1999|IBM:1872:2020|VDE|NOKIA BELL LABS|",
+        "instType": "Academic",
+        "userIds": [
+            7827
+        ],
+        "showPatentCitations": true,
+        "showGet802Link": true,
+        "openUrlImgLoc": "http://library-osu-edu.proxy.lib.ohio-state.edu/resources/serialssolutions/buttons/button75x25edit.jpg",
+        "openUrlLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu",
+        "instLogoFile": "7827_OSULHoriz.png",
+        "openUrlTxt": "Find It!",
+        "showOpenUrlLink": true,
+        "marketingInfoCaptured": false,
+        "tracked": false,
+        "ringGoldId": "2647",
+        "delegatedAdmin": false,
+        "desktop": false,
+        "isInstitutionDashboardEnabled": false,
+        "isInstitutionProfileEnabled": false,
+        "isRoamingEnabled": true,
+        "isDelegatedAdmin": false,
+        "isMdl": false,
+        "isCwg": false,
+        "isIel": true,
+        "isAcademic": true
+    },
+    "authors": [
+        {
+            "name": "Tero Karras",
+            "affiliation": [
+                "NVIDIA"
+            ],
+            "firstName": "Tero",
+            "lastName": "Karras",
+            "id": "37588594800"
+        },
+        {
+            "name": "Samuli Laine",
+            "affiliation": [
+                "NVIDIA"
+            ],
+            "firstName": "Samuli",
+            "lastName": "Laine",
+            "id": "37603629800"
+        },
+        {
+            "name": "Miika Aittala",
+            "affiliation": [
+                "NVIDIA"
+            ],
+            "firstName": "Miika",
+            "lastName": "Aittala",
+            "id": "37586748100"
+        },
+        {
+            "name": "Janne Hellsten",
+            "affiliation": [
+                "NVIDIA"
+            ],
+            "firstName": "Janne",
+            "lastName": "Hellsten",
+            "id": "37088456697"
+        },
+        {
+            "name": "Jaakko Lehtinen",
+            "affiliation": [
+                "NVIDIA and Aalto University"
+            ],
+            "firstName": "Jaakko",
+            "lastName": "Lehtinen",
+            "id": "37086107183"
+        },
+        {
+            "name": "Timo Aila",
+            "affiliation": [
+                "NVIDIA"
+            ],
+            "firstName": "Timo",
+            "lastName": "Aila",
+            "id": "37086150518"
+        }
+    ],
+    "isbn": [
+        {
+            "format": "Electronic ISBN",
+            "value": "978-1-7281-7168-5",
+            "isbnType": ""
+        },
+        {
+            "format": "Print on Demand(PoD) ISBN",
+            "value": "978-1-7281-7169-2",
+            "isbnType": ""
+        }
+    ],
+    "issn": [
+        {
+            "format": "Electronic ISSN",
+            "value": "2575-7075"
+        },
+        {
+            "format": "Print on Demand(PoD) ISSN",
+            "value": "1063-6919"
+        }
+    ],
+    "articleNumber": "9156570",
+    "dbTime": "1 ms",
+    "metrics": {
+        "citationCountPaper": 1745,
+        "citationCountPatent": 0,
+        "totalDownloads": 2284
+    },
+    "purchaseOptions": {
+        "showOtherFormatPricingTab": false,
+        "showPdfFormatPricingTab": true,
+        "pdfPricingInfoAvailable": true,
+        "otherPricingInfoAvailable": false,
+        "mandatoryBundle": false,
+        "optionalBundle": false,
+        "displayTextWhenOtherFormatPricingNotAvailable": "The purchase and pricing options for this item are unavailable. Select items are only available as part of a subscription package. You may try again later or <a href='https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/xpl/contact' target='_blank'>contact us</a> for more information.",
+        "pdfPricingInfo": [
+            {
+                "memberPrice": "$14.95",
+                "nonMemberPrice": "$33.00",
+                "partNumber": "9156570",
+                "type": "PDF/HTML"
+            }
+        ],
+        "openUrlFullLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu?url_ver=Z39.88-2004&rfr_id=info:sid/IEEE.org:XPLORE&rft_id=info:doi/10.1109/CVPR42600.2020.00813&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&rft.atitle=Analyzing and Improving the Image Quality of StyleGAN&rft.jtitle=2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)&rft.date=2020&rft.spage=8107&rft.epage=8116&rft.eissn=2575-7075&rft.au=Tero Karras&rft.aulast=Tero Karras&rft.isbn=978-1-7281-7168-5"
+    },
+    "getProgramTermsAccepted": false,
+    "sections": {
+        "abstract": "true",
+        "authors": "true",
+        "figures": "true",
+        "multimedia": "false",
+        "references": "true",
+        "citedby": "true",
+        "keywords": "true",
+        "definitions": "false",
+        "algorithm": "false",
+        "dataset": "false",
+        "cadmore": "false",
+        "footnotes": "true",
+        "disclaimer": "false",
+        "relatedContent": "false",
+        "metrics": "true"
+    },
+    "abstract": "The style-based GAN architecture (StyleGAN) yields state-of-the-art results in data-driven unconditional generative image modeling. We expose and analyze several of its characteristic artifacts, and propose changes in both model architecture and training methods to address them. In particular, we redesign the generator normalization, revisit progressive growing, and regularize the generator to encourage good conditioning in the mapping from latent codes to images. In addition to improving image quality, this path length regularizer yields the additional benefit that the generator becomes significantly easier to invert. This makes it possible to reliably attribute a generated image to a particular network. We furthermore visualize how well the generator utilizes its output resolution, and identify a capacity problem, motivating us to train larger models for additional quality improvements. Overall, our improved model redefines the state of the art in unconditional image modeling, both in terms of existing distribution quality metrics as well as perceived image quality.",
+    "publicationYear": "2020",
+    "pdfPath": "/iel7/9142308/9156271/09156570.pdf",
+    "publicationDate": "June 2020",
+    "doi": "10.1109/CVPR42600.2020.00813",
+    "formulaStrippedArticleTitle": "Analyzing and Improving the Image Quality of StyleGAN",
+    "displayPublicationTitle": "2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+    "authorNames": "Tero Karras;Samuli Laine;Miika Aittala;Janne Hellsten;Jaakko Lehtinen;Timo Aila",
+    "publicationTitle": "2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+    "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=proceedings&title=Analyzing+and+Improving+the+Image+Quality+of+StyleGAN&isbn=978-1-7281-7168-5&publicationDate=June+2020&author=Tero+Karras&ContentID=10.1109/CVPR42600.2020.00813&orderBeanReset=true&startPage=8107&endPage=8116&proceedingName=2020+IEEE%2FCVF+Conference+on+Computer+Vision+and+Pattern+Recognition+%28CVPR%29",
+    "dateOfInsertion": "05 August 2020",
+    "startPage": "8107",
+    "endPage": "8116",
+    "pdfUrl": "/stamp/stamp.jsp?tp=&arnumber=9156570",
+    "keywords": [
+        {
+            "type": "IEEE Keywords",
+            "kwd": [
+                "Generators",
+                "Training",
+                "Image resolution",
+                "Modulation",
+                "Convolution",
+                "Measurement",
+                "Standards"
+            ]
+        },
+        {
+            "type": "INSPEC: Controlled Indexing",
+            "kwd": [
+                "data visualisation",
+                "image coding",
+                "image resolution",
+                "neural net architecture",
+                "unsupervised learning"
+            ]
+        },
+        {
+            "type": "INSPEC: Non-Controlled Indexing",
+            "kwd": [
+                "StyleGAN architecture",
+                "data-driven unconditional generative image modeling",
+                "generator normalization",
+                "unconditional image modeling",
+                "distribution quality metrics",
+                "perceived image quality",
+                "style-based GAN architecture",
+                "image resolution"
+            ]
+        }
+    ],
+    "doiLink": "https://doi-org.proxy.lib.ohio-state.edu/10.1109/CVPR42600.2020.00813",
+    "displayPublicationDate": "13-19 June 2020",
+    "articleCopyRight": "2020 IEEE",
+    "issueLink": "/xpl/tocresult.jsp?isnumber=9156271&punumber=9142308",
+    "pubLink": "/xpl/conhome/9142308/proceeding",
+    "allowComments": false,
+    "isGetAddressInfoCaptured": false,
+    "isMarketingOptIn": false,
+    "pubTopics": [
+        {
+            "name": "Computing and Processing"
+        }
+    ],
+    "publisher": "IEEE",
+    "displayDocTitle": "Analyzing and Improving the Image Quality of StyleGAN",
+    "isStandard": false,
+    "isConference": true,
+    "isBookWithoutChapters": false,
+    "isChapter": false,
+    "isProduct": false,
+    "isEarlyAccess": false,
+    "isOpenAccess": false,
+    "isEphemera": false,
+    "xploreDocumentType": "Conference Publication",
+    "isBook": false,
+    "isJournal": false,
+    "isSpringer": false,
+    "accessionNumber": "19874686",
+    "isFreeDocument": false,
+    "isPromo": false,
+    "isDynamicHtml": true,
+    "htmlLink": "/document/9156570/",
+    "htmlAbstractLink": "/document/9156570/",
+    "isCustomDenial": false,
+    "persistentLink": "https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/servlet/opac?punumber=9142308",
+    "isNow": false,
+    "isSAE": false,
+    "isOUP": false,
+    "isSMPTE": false,
+    "openAccessFlag": "F",
+    "insertDate": "05 August 2020",
+    "ephemeraFlag": "false",
+    "title": "Analyzing and Improving the Image Quality of StyleGAN",
+    "confLoc": "Seattle, WA, USA",
+    "html_flag": "false",
+    "ml_html_flag": "true",
+    "sourcePdf": "716800i107.pdf",
+    "mlTime": "PT0.058404S",
+    "xplore-pub-id": "9142308",
+    "isNumber": "9156271",
+    "rightsLinkFlag": "1",
+    "contentType": "conferences",
+    "publicationNumber": "9142308",
+    "citationCount": "1745",
+    "xplore-issue": "9156271",
+    "articleId": "9156570",
+    "contentTypeDisplay": "Conferences",
+    "subType": "IEEE Conference",
+    "_value": "IEEE",
+    "lastupdate": "2023-10-19",
+    "mediaPath": "/mediastore_new/IEEE/content/media/9142308/9156271/9156570"
+}

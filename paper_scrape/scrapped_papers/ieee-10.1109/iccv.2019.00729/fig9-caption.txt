@@ -1,0 +1,1 @@
+Figure 9: (a) original image, (c) results of RI-based rendering, (d) our results. (b), (d) and (f) show the red rectangle region of (a), (c) and (d) respectively. Note that the proposed method removes the ghost effect and artificial highlights.

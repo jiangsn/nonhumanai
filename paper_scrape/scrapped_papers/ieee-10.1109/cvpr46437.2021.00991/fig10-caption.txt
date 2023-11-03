@@ -1,0 +1,2 @@
+Figure 10: 
+Our video compression framework. On the sender’s side, the driving image encoder extracts keypoint perturbations δd,k and head poses Rd and td. They are then compressed using an entropy encoder and sent to the receiver. The receiver decompresses the message and uses them along with the source image s to generate y, a reconstruction of the input d. Our framework can also change the head pose on the receiver’s side by using the pose offset Ru and tu.

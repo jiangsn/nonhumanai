@@ -1,0 +1,1 @@
+Table 3: 3D room estimation results using voxel IoU on SUN RGB-D [42] and 3DGP [8] datasets (higher is better).

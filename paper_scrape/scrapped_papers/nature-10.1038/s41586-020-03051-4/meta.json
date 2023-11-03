@@ -1,0 +1,238 @@
+{
+    "mainEntity": {
+        "headline": "Mastering Atari, Go, chess and shogi by planning with a learned model",
+        "description": "Constructing agents with planning capabilities has long been one of the main challenges in the pursuit of artificial intelligence. Tree-based planning methods have enjoyed huge success in challenging domains, such as chess1 and Go2, where a perfect simulator is available. However, in real-world problems, the dynamics governing the environment are often complex and unknown. Here we present the MuZero algorithm, which, by combining a tree-based search with a learned model, achieves superhuman performance in a range of challenging and visually complex domains, without any knowledge of their underlying dynamics. The MuZero algorithm learns an iterable model that produces predictions relevant to planning: the action-selection policy, the value function and the reward. When evaluated on 57 different Atari games3\u2014the canonical video game environment for testing artificial intelligence techniques, in which model-based planning approaches have historically struggled4\u2014the MuZero algorithm achieved state-of-the-art performance. When evaluated on Go, chess and shogi\u2014canonical environments for high-performance planning\u2014the MuZero algorithm matched, without any knowledge of the game dynamics, the superhuman performance of the AlphaZero algorithm5 that was supplied with the rules of the game. A reinforcement-learning algorithm that combines a tree-based search with a learned model achieves superhuman performance in high-performance planning and visually complex domains, without any knowledge of their underlying dynamics.",
+        "datePublished": "2020-12-23",
+        "dateModified": "2020-12-23",
+        "pageStart": "604",
+        "pageEnd": "609",
+        "sameAs": "https://doi-org.proxy.lib.ohio-state.edu/10.1038/s41586-020-03051-4",
+        "keywords": "Computational science,Computer science,Science,Humanities and Social Sciences,multidisciplinary",
+        "image": "https://static-content.springer.com/image/art%3A10.1038%2Fs41586-020-03051-4/MediaObjects/41586_2020_3051_Fig1_HTML.png",
+        "isPartOf": {
+            "name": "Nature",
+            "issn": [
+                "1476-4687",
+                "0028-0836"
+            ],
+            "volumeNumber": "588",
+            "@type": [
+                "Periodical",
+                "PublicationVolume"
+            ]
+        },
+        "publisher": {
+            "name": "Nature Publishing Group UK",
+            "logo": {
+                "url": "https://www-springernature-com.proxy.lib.ohio-state.edu/app-sn/public/images/logo-springernature.png",
+                "@type": "ImageObject"
+            },
+            "@type": "Organization"
+        },
+        "author": [
+            {
+                "name": "Julian Schrittwieser",
+                "affiliation": [
+                    {
+                        "name": "DeepMind",
+                        "address": {
+                            "name": "DeepMind, London, UK",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    }
+                ],
+                "@type": "Person"
+            },
+            {
+                "name": "Ioannis Antonoglou",
+                "affiliation": [
+                    {
+                        "name": "DeepMind",
+                        "address": {
+                            "name": "DeepMind, London, UK",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    },
+                    {
+                        "name": "University College London",
+                        "address": {
+                            "name": "University College London, London, UK",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    }
+                ],
+                "@type": "Person"
+            },
+            {
+                "name": "Thomas Hubert",
+                "affiliation": [
+                    {
+                        "name": "DeepMind",
+                        "address": {
+                            "name": "DeepMind, London, UK",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    }
+                ],
+                "@type": "Person"
+            },
+            {
+                "name": "Karen Simonyan",
+                "affiliation": [
+                    {
+                        "name": "DeepMind",
+                        "address": {
+                            "name": "DeepMind, London, UK",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    }
+                ],
+                "@type": "Person"
+            },
+            {
+                "name": "Laurent Sifre",
+                "affiliation": [
+                    {
+                        "name": "DeepMind",
+                        "address": {
+                            "name": "DeepMind, London, UK",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    }
+                ],
+                "@type": "Person"
+            },
+            {
+                "name": "Simon Schmitt",
+                "affiliation": [
+                    {
+                        "name": "DeepMind",
+                        "address": {
+                            "name": "DeepMind, London, UK",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    }
+                ],
+                "@type": "Person"
+            },
+            {
+                "name": "Arthur Guez",
+                "affiliation": [
+                    {
+                        "name": "DeepMind",
+                        "address": {
+                            "name": "DeepMind, London, UK",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    }
+                ],
+                "@type": "Person"
+            },
+            {
+                "name": "Edward Lockhart",
+                "affiliation": [
+                    {
+                        "name": "DeepMind",
+                        "address": {
+                            "name": "DeepMind, London, UK",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    }
+                ],
+                "@type": "Person"
+            },
+            {
+                "name": "Demis Hassabis",
+                "affiliation": [
+                    {
+                        "name": "DeepMind",
+                        "address": {
+                            "name": "DeepMind, London, UK",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    }
+                ],
+                "@type": "Person"
+            },
+            {
+                "name": "Thore Graepel",
+                "affiliation": [
+                    {
+                        "name": "DeepMind",
+                        "address": {
+                            "name": "DeepMind, London, UK",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    },
+                    {
+                        "name": "University College London",
+                        "address": {
+                            "name": "University College London, London, UK",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    }
+                ],
+                "@type": "Person"
+            },
+            {
+                "name": "Timothy Lillicrap",
+                "affiliation": [
+                    {
+                        "name": "DeepMind",
+                        "address": {
+                            "name": "DeepMind, London, UK",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    }
+                ],
+                "@type": "Person"
+            },
+            {
+                "name": "David Silver",
+                "url": "http://orcid.org/0000-0002-5197-2892",
+                "affiliation": [
+                    {
+                        "name": "DeepMind",
+                        "address": {
+                            "name": "DeepMind, London, UK",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    },
+                    {
+                        "name": "University College London",
+                        "address": {
+                            "name": "University College London, London, UK",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    }
+                ],
+                "email": "davidsilver@google.com",
+                "@type": "Person"
+            }
+        ],
+        "isAccessibleForFree": false,
+        "hasPart": {
+            "isAccessibleForFree": false,
+            "cssSelector": ".main-content",
+            "@type": "WebPageElement"
+        },
+        "@type": "ScholarlyArticle"
+    },
+    "@context": "https://schema.org",
+    "@type": "WebPage"
+}

@@ -1,0 +1,265 @@
+{
+    "userInfo": {
+        "customerNameRaw": "The Ohio State University",
+        "institutionName": "The Ohio State University",
+        "institute": true,
+        "member": false,
+        "individual": false,
+        "guest": false,
+        "subscribedContent": false,
+        "fileCabinetContent": false,
+        "fileCabinetUser": false,
+        "institutionalFileCabinetUser": false,
+        "products": "IEL|EBOOKS:1974:2014|JRNLARCH:1884:1994|CONFARCH:1951:1999|IBM:1872:2020|VDE|NOKIA BELL LABS|",
+        "instType": "Academic",
+        "userIds": [
+            7827
+        ],
+        "showPatentCitations": true,
+        "showGet802Link": true,
+        "openUrlImgLoc": "http://library-osu-edu.proxy.lib.ohio-state.edu/resources/serialssolutions/buttons/button75x25edit.jpg",
+        "openUrlLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu",
+        "instLogoFile": "7827_OSULHoriz.png",
+        "openUrlTxt": "Find It!",
+        "showOpenUrlLink": true,
+        "marketingInfoCaptured": false,
+        "tracked": false,
+        "ringGoldId": "2647",
+        "delegatedAdmin": false,
+        "desktop": false,
+        "isInstitutionDashboardEnabled": false,
+        "isInstitutionProfileEnabled": false,
+        "isRoamingEnabled": true,
+        "isDelegatedAdmin": false,
+        "isMdl": false,
+        "isCwg": false,
+        "isIel": true,
+        "isAcademic": true
+    },
+    "authors": [
+        {
+            "name": "Shuai Yang",
+            "affiliation": [
+                "S-Lab, Nanyang Technological University"
+            ],
+            "firstName": "Shuai",
+            "lastName": "Yang",
+            "id": "37085466461"
+        },
+        {
+            "name": "Liming Jiang",
+            "affiliation": [
+                "S-Lab, Nanyang Technological University"
+            ],
+            "firstName": "Liming",
+            "lastName": "Jiang",
+            "id": "37089495764"
+        },
+        {
+            "name": "Ziwei Liu",
+            "affiliation": [
+                "S-Lab, Nanyang Technological University"
+            ],
+            "firstName": "Ziwei",
+            "lastName": "Liu",
+            "id": "37085708953"
+        },
+        {
+            "name": "Chen Change Loy",
+            "affiliation": [
+                "S-Lab, Nanyang Technological University"
+            ],
+            "firstName": "Chen Change",
+            "lastName": "Loy",
+            "id": "37411337800"
+        }
+    ],
+    "isbn": [
+        {
+            "format": "Electronic ISBN",
+            "value": "978-1-6654-6946-3",
+            "isbnType": ""
+        },
+        {
+            "format": "Print on Demand(PoD) ISBN",
+            "value": "978-1-6654-6947-0",
+            "isbnType": ""
+        }
+    ],
+    "issn": [
+        {
+            "format": "Electronic ISSN",
+            "value": "2575-7075"
+        },
+        {
+            "format": "Print on Demand(PoD) ISSN",
+            "value": "1063-6919"
+        }
+    ],
+    "articleNumber": "9880035",
+    "dbTime": "1 ms",
+    "metrics": {
+        "citationCountPaper": 22,
+        "citationCountPatent": 0,
+        "totalDownloads": 124
+    },
+    "purchaseOptions": {
+        "showOtherFormatPricingTab": false,
+        "showPdfFormatPricingTab": true,
+        "pdfPricingInfoAvailable": true,
+        "otherPricingInfoAvailable": false,
+        "mandatoryBundle": false,
+        "optionalBundle": false,
+        "displayTextWhenOtherFormatPricingNotAvailable": "The purchase and pricing options for this item are unavailable. Select items are only available as part of a subscription package. You may try again later or <a href='https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/xpl/contact' target='_blank'>contact us</a> for more information.",
+        "pdfPricingInfo": [
+            {
+                "memberPrice": "$14.95",
+                "nonMemberPrice": "$33.00",
+                "partNumber": "9880035",
+                "type": "PDF/HTML"
+            }
+        ],
+        "openUrlFullLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu?url_ver=Z39.88-2004&rfr_id=info:sid/IEEE.org:XPLORE&rft_id=info:doi/10.1109/CVPR52688.2022.00754&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&rft.atitle=Pastiche Master: Exemplar-Based High-Resolution Portrait Style Transfer&rft.jtitle=2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)&rft.date=2022&rft.spage=7683&rft.epage=7692&rft.eissn=2575-7075&rft.au=Shuai Yang&rft.aulast=Shuai Yang&rft.isbn=978-1-6654-6946-3"
+    },
+    "getProgramTermsAccepted": false,
+    "sections": {
+        "abstract": "true",
+        "authors": "true",
+        "figures": "true",
+        "multimedia": "true",
+        "references": "true",
+        "citedby": "true",
+        "keywords": "true",
+        "definitions": "false",
+        "algorithm": "false",
+        "dataset": "false",
+        "cadmore": "false",
+        "footnotes": "false",
+        "disclaimer": "false",
+        "relatedContent": "false",
+        "metrics": "true"
+    },
+    "abstract": "Recent studies on StyleGAN show high performance on artistic portrait generation by transfer learning with limited data. In this paper, we explore more challenging exemplar-based high-resolution portrait style transfer by introducing a novel DualStyleGAN with flexible control of dual styles of the original face domain and the extended artistic portrait domain. Different from StyleGAN, DualStyleGAN provides a natural way of style transfer by characterizing the content and style of a portrait with an intrinsic style path and a new extrinsic style path, respectively. The del-icately designed extrinsic style path enables our model to modulate both the color and complex structural styles hierarchically to precisely pastiche the style example. Furthermore, a novel progressive fine-tuning scheme is introduced to smoothly transform the generative space of the model to the target domain, even with the above modifications on the network architecture. Experiments demonstrate the superiority of DualStyleGAN over state-of-the-art methods in high-quality portrait style transfer and flexible stylecontrol. Code is available at https://github.com/williamyang1991/DualStyleGAN.",
+    "publicationYear": "2022",
+    "pdfPath": "/iel7/9878378/9878366/09880035.pdf",
+    "publicationDate": "June 2022",
+    "doi": "10.1109/CVPR52688.2022.00754",
+    "formulaStrippedArticleTitle": "Pastiche Master: Exemplar-Based High-Resolution Portrait Style Transfer",
+    "displayPublicationTitle": "2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+    "authorNames": "Shuai Yang;Liming Jiang;Ziwei Liu;Chen Change Loy",
+    "publicationTitle": "2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+    "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=proceedings&title=Pastiche+Master%3A+Exemplar-Based+High-Resolution+Portrait+Style+Transfer&isbn=978-1-6654-6946-3&publicationDate=June+2022&author=Shuai+Yang&ContentID=10.1109/CVPR52688.2022.00754&orderBeanReset=true&startPage=7683&endPage=7692&proceedingName=2022+IEEE%2FCVF+Conference+on+Computer+Vision+and+Pattern+Recognition+%28CVPR%29",
+    "dateOfInsertion": "27 September 2022",
+    "startPage": "7683",
+    "endPage": "7692",
+    "pdfUrl": "/stamp/stamp.jsp?tp=&arnumber=9880035",
+    "keywords": [
+        {
+            "type": "IEEE Keywords",
+            "kwd": [
+                "Computer vision",
+                "Codes",
+                "Image color analysis",
+                "Face recognition",
+                "Computational modeling",
+                "Transfer learning",
+                "Transforms"
+            ]
+        },
+        {
+            "type": "INSPEC: Controlled Indexing",
+            "kwd": [
+                "art",
+                "face recognition",
+                "learning (artificial intelligence)"
+            ]
+        },
+        {
+            "type": "INSPEC: Non-Controlled Indexing",
+            "kwd": [
+                "pastiche master",
+                "StyleGAN",
+                "artistic portrait generation",
+                "transfer learning",
+                "challenging exemplar-based high-resolution portrait style transfer",
+                "dual styles",
+                "original face domain",
+                "extended artistic portrait domain",
+                "DualStyleGAN",
+                "content style",
+                "intrinsic style path",
+                "extrinsic style path",
+                "complex structural styles",
+                "style example",
+                "high-quality portrait style transfer"
+            ]
+        },
+        {
+            "type": "Author Keywords ",
+            "kwd": [
+                "Image and video synthesis and generation; Face and gestures"
+            ]
+        }
+    ],
+    "doiLink": "https://doi-org.proxy.lib.ohio-state.edu/10.1109/CVPR52688.2022.00754",
+    "displayPublicationDate": "18-24 June 2022",
+    "articleCopyRight": "2022 IEEE",
+    "issueLink": "/xpl/tocresult.jsp?isnumber=9878366&punumber=9878378",
+    "pubLink": "/xpl/conhome/9878378/proceeding",
+    "allowComments": false,
+    "isGetAddressInfoCaptured": false,
+    "isMarketingOptIn": false,
+    "pubTopics": [
+        {
+            "name": "Computing and Processing"
+        }
+    ],
+    "publisher": "IEEE",
+    "displayDocTitle": "Pastiche Master: Exemplar-Based High-Resolution Portrait Style Transfer",
+    "isStandard": false,
+    "isConference": true,
+    "isBookWithoutChapters": false,
+    "isChapter": false,
+    "isProduct": false,
+    "isEarlyAccess": false,
+    "isOpenAccess": false,
+    "isEphemera": false,
+    "xploreDocumentType": "Conference Publication",
+    "isBook": false,
+    "isJournal": false,
+    "isSpringer": false,
+    "accessionNumber": "22093460",
+    "isFreeDocument": false,
+    "isPromo": false,
+    "isDynamicHtml": true,
+    "htmlLink": "/document/9880035/",
+    "htmlAbstractLink": "/document/9880035/",
+    "isCustomDenial": false,
+    "persistentLink": "https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/servlet/opac?punumber=9878378",
+    "isNow": false,
+    "isSAE": false,
+    "isOUP": false,
+    "isSMPTE": false,
+    "openAccessFlag": "F",
+    "insertDate": "27 September 2022",
+    "ephemeraFlag": "false",
+    "title": "Pastiche Master: Exemplar-Based High-Resolution Portrait Style Transfer",
+    "confLoc": "New Orleans, LA, USA",
+    "html_flag": "false",
+    "ml_html_flag": "true",
+    "sourcePdf": "694600h683.pdf",
+    "mlTime": "PT0.064171S",
+    "xplore-pub-id": "9878378",
+    "isNumber": "9878366",
+    "rightsLinkFlag": "1",
+    "contentType": "conferences",
+    "publicationNumber": "9878378",
+    "citationCount": "22",
+    "xplore-issue": "9878366",
+    "articleId": "9880035",
+    "contentTypeDisplay": "Conferences",
+    "subType": "IEEE Conference",
+    "_value": "IEEE",
+    "lastupdate": "2023-10-08",
+    "mediaPath": "/mediastore_new/IEEE/content/media/9878378/9878366/9880035"
+}

@@ -1,0 +1,1 @@
+We implemented two versions of our approach: one for processing multi-view recordings offline (a), and one for real-time facial performance capture (b).

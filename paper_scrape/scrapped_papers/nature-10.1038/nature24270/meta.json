@@ -1,0 +1,283 @@
+{
+    "mainEntity": {
+        "headline": "Mastering the game of Go without human knowledge",
+        "description": "A long-standing goal of artificial intelligence is an algorithm that learns, tabula rasa, superhuman proficiency in challenging domains. Recently, AlphaGo became the first program to defeat a world champion in the game of Go. The tree search in AlphaGo evaluated positions and selected moves using deep neural networks. These neural networks were trained by supervised learning from human expert moves, and by reinforcement learning from self-play. Here we introduce an algorithm based solely on reinforcement learning, without human data, guidance or domain knowledge beyond game rules. AlphaGo becomes its own teacher: a neural network is trained to predict AlphaGo\u2019s own move selections and also the winner of AlphaGo\u2019s games. This neural network improves the strength of the tree search, resulting in higher quality move selection and stronger self-play in the next iteration. Starting tabula rasa, our new program AlphaGo Zero achieved superhuman performance, winning 100\u20130 against the previously published, champion-defeating AlphaGo. Starting from zero knowledge and without human data, AlphaGo Zero was able to teach itself to play Go and to develop novel strategies that provide new insights into the oldest of games. To beat world champions at the game of Go, the computer program AlphaGo has relied largely on supervised learning from millions of human expert moves. David Silver and colleagues have now produced a system called AlphaGo Zero, which is based purely on reinforcement learning and learns solely from self-play. Starting from random moves, it can reach superhuman level in just a couple of days of training and five million games of self-play, and can now beat all previous versions of AlphaGo. Because the machine independently discovers the same fundamental principles of the game that took humans millennia to conceptualize, the work suggests that such principles have some universal character, beyond human bias.",
+        "datePublished": "2017-10-19",
+        "dateModified": "2017-10-19",
+        "pageStart": "354",
+        "pageEnd": "359",
+        "sameAs": "https://doi-org.proxy.lib.ohio-state.edu/10.1038/nature24270",
+        "keywords": "Computational science,Computer science,Reward,Science,Humanities and Social Sciences,multidisciplinary",
+        "image": "https://static-content.springer.com/image/art%3A10.1038%2Fnature24270/MediaObjects/41586_2017_Article_BFnature24270_Fig1_HTML.jpg",
+        "isPartOf": {
+            "name": "Nature",
+            "issn": [
+                "1476-4687",
+                "0028-0836"
+            ],
+            "volumeNumber": "550",
+            "@type": [
+                "Periodical",
+                "PublicationVolume"
+            ]
+        },
+        "publisher": {
+            "name": "Nature Publishing Group UK",
+            "logo": {
+                "url": "https://www-springernature-com.proxy.lib.ohio-state.edu/app-sn/public/images/logo-springernature.png",
+                "@type": "ImageObject"
+            },
+            "@type": "Organization"
+        },
+        "author": [
+            {
+                "name": "David Silver",
+                "affiliation": [
+                    {
+                        "name": "DeepMind",
+                        "address": {
+                            "name": "DeepMind, London, UK",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    }
+                ],
+                "email": "davidsilver@google.com",
+                "@type": "Person"
+            },
+            {
+                "name": "Julian Schrittwieser",
+                "affiliation": [
+                    {
+                        "name": "DeepMind",
+                        "address": {
+                            "name": "DeepMind, London, UK",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    }
+                ],
+                "@type": "Person"
+            },
+            {
+                "name": "Karen Simonyan",
+                "affiliation": [
+                    {
+                        "name": "DeepMind",
+                        "address": {
+                            "name": "DeepMind, London, UK",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    }
+                ],
+                "@type": "Person"
+            },
+            {
+                "name": "Ioannis Antonoglou",
+                "affiliation": [
+                    {
+                        "name": "DeepMind",
+                        "address": {
+                            "name": "DeepMind, London, UK",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    }
+                ],
+                "@type": "Person"
+            },
+            {
+                "name": "Aja Huang",
+                "affiliation": [
+                    {
+                        "name": "DeepMind",
+                        "address": {
+                            "name": "DeepMind, London, UK",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    }
+                ],
+                "@type": "Person"
+            },
+            {
+                "name": "Arthur Guez",
+                "affiliation": [
+                    {
+                        "name": "DeepMind",
+                        "address": {
+                            "name": "DeepMind, London, UK",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    }
+                ],
+                "@type": "Person"
+            },
+            {
+                "name": "Thomas Hubert",
+                "affiliation": [
+                    {
+                        "name": "DeepMind",
+                        "address": {
+                            "name": "DeepMind, London, UK",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    }
+                ],
+                "@type": "Person"
+            },
+            {
+                "name": "Lucas Baker",
+                "affiliation": [
+                    {
+                        "name": "DeepMind",
+                        "address": {
+                            "name": "DeepMind, London, UK",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    }
+                ],
+                "@type": "Person"
+            },
+            {
+                "name": "Matthew Lai",
+                "affiliation": [
+                    {
+                        "name": "DeepMind",
+                        "address": {
+                            "name": "DeepMind, London, UK",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    }
+                ],
+                "@type": "Person"
+            },
+            {
+                "name": "Adrian Bolton",
+                "affiliation": [
+                    {
+                        "name": "DeepMind",
+                        "address": {
+                            "name": "DeepMind, London, UK",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    }
+                ],
+                "@type": "Person"
+            },
+            {
+                "name": "Yutian Chen",
+                "affiliation": [
+                    {
+                        "name": "DeepMind",
+                        "address": {
+                            "name": "DeepMind, London, UK",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    }
+                ],
+                "@type": "Person"
+            },
+            {
+                "name": "Timothy Lillicrap",
+                "affiliation": [
+                    {
+                        "name": "DeepMind",
+                        "address": {
+                            "name": "DeepMind, London, UK",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    }
+                ],
+                "@type": "Person"
+            },
+            {
+                "name": "Fan Hui",
+                "affiliation": [
+                    {
+                        "name": "DeepMind",
+                        "address": {
+                            "name": "DeepMind, London, UK",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    }
+                ],
+                "@type": "Person"
+            },
+            {
+                "name": "Laurent Sifre",
+                "affiliation": [
+                    {
+                        "name": "DeepMind",
+                        "address": {
+                            "name": "DeepMind, London, UK",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    }
+                ],
+                "@type": "Person"
+            },
+            {
+                "name": "George van den Driessche",
+                "affiliation": [
+                    {
+                        "name": "DeepMind",
+                        "address": {
+                            "name": "DeepMind, London, UK",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    }
+                ],
+                "@type": "Person"
+            },
+            {
+                "name": "Thore Graepel",
+                "affiliation": [
+                    {
+                        "name": "DeepMind",
+                        "address": {
+                            "name": "DeepMind, London, UK",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    }
+                ],
+                "@type": "Person"
+            },
+            {
+                "name": "Demis Hassabis",
+                "affiliation": [
+                    {
+                        "name": "DeepMind",
+                        "address": {
+                            "name": "DeepMind, London, UK",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    }
+                ],
+                "@type": "Person"
+            }
+        ],
+        "isAccessibleForFree": false,
+        "hasPart": {
+            "isAccessibleForFree": false,
+            "cssSelector": ".main-content",
+            "@type": "WebPageElement"
+        },
+        "@type": "ScholarlyArticle"
+    },
+    "@context": "https://schema.org",
+    "@type": "WebPage"
+}

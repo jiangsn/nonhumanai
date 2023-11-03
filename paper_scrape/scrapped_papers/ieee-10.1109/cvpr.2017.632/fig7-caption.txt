@@ -1,0 +1,1 @@
+Figure 7: Example results on Google maps at 512×512 resolution (model was trained on images at 256×256 resolution, and run convolutionally on the larger images at test time). Contrast adjusted for clarity.

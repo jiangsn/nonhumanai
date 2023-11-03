@@ -1,0 +1,1 @@
+Figure 1. Plenoxel: Plenoptic volume elements for fast optimization of radiance fields. We show that direct optimization of a fully explicit 3D model can match the rendering quality of modern neural based approaches such as NeRF while optimizing over two orders of magnitude faster.

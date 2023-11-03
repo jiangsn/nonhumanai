@@ -1,0 +1,2 @@
+Figure 1. 
+Example of video frame interpolation. We propose a depth-aware video frame interpolation approach to exploit the depth cue for detecting occlusion. Our method estimates optical flow with clear motion boundaries and thus generates high-quality frames.

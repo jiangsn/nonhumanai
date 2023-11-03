@@ -1,0 +1,1 @@
+Figure 9. Artifacts. JAXNeRF and plenoxel exhibit slightly dif-ferent artifacts, as shown here in the specularities in the synthetic drums scene. Note that some artifacts are unavoidable for any underdetermined inverse problem, but the specific artifacts vary depending on the priors induced by the model and regularizer.

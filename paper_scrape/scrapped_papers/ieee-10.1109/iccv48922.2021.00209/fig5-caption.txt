@@ -1,0 +1,2 @@
+Figure 5. 
+Controlling more than one attribute with a single mapper. The driving text for each mapper is indicated below each column.

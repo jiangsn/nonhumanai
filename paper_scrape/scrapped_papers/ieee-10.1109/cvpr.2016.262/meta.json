@@ -1,0 +1,259 @@
+{
+    "userInfo": {
+        "customerNameRaw": "The Ohio State University",
+        "institutionName": "The Ohio State University",
+        "institute": true,
+        "member": false,
+        "individual": false,
+        "guest": false,
+        "subscribedContent": false,
+        "fileCabinetContent": false,
+        "fileCabinetUser": false,
+        "institutionalFileCabinetUser": false,
+        "products": "IEL|EBOOKS:1974:2014|JRNLARCH:1884:1994|CONFARCH:1951:1999|IBM:1872:2020|VDE|NOKIA BELL LABS|",
+        "instType": "Academic",
+        "userIds": [
+            7827
+        ],
+        "showPatentCitations": true,
+        "showGet802Link": true,
+        "openUrlImgLoc": "http://library-osu-edu.proxy.lib.ohio-state.edu/resources/serialssolutions/buttons/button75x25edit.jpg",
+        "openUrlLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu",
+        "instLogoFile": "7827_OSULHoriz.png",
+        "openUrlTxt": "Find It!",
+        "showOpenUrlLink": true,
+        "marketingInfoCaptured": false,
+        "tracked": false,
+        "ringGoldId": "2647",
+        "delegatedAdmin": false,
+        "desktop": false,
+        "isInstitutionDashboardEnabled": false,
+        "isInstitutionProfileEnabled": false,
+        "isRoamingEnabled": true,
+        "isDelegatedAdmin": false,
+        "isMdl": false,
+        "isCwg": false,
+        "isIel": true,
+        "isAcademic": true
+    },
+    "authors": [
+        {
+            "name": "Justus Thies",
+            "affiliation": [
+                "University of Erlangen-Nuremberg"
+            ],
+            "firstName": "Justus",
+            "lastName": "Thies",
+            "id": "37086076816"
+        },
+        {
+            "name": "Michael Zollh\u00f6fer",
+            "affiliation": [
+                "Max-Planck-Institute for Informatics"
+            ],
+            "firstName": "Michael",
+            "lastName": "Zollh\u00f6fer",
+            "id": "37086057527"
+        },
+        {
+            "name": "Marc Stamminger",
+            "affiliation": [
+                "University of Erlangen-Nuremberg"
+            ],
+            "firstName": "Marc",
+            "lastName": "Stamminger",
+            "id": "37373910900"
+        },
+        {
+            "name": "Christian Theobalt",
+            "affiliation": [
+                "Max-Planck-Institute for Informatics"
+            ],
+            "firstName": "Christian",
+            "lastName": "Theobalt",
+            "id": "37266878500"
+        },
+        {
+            "name": "Matthias Nie\u00dfner",
+            "affiliation": [
+                "Stanford University"
+            ],
+            "firstName": "Matthias",
+            "lastName": "Nie\u00dfner",
+            "id": "37085437371"
+        }
+    ],
+    "isbn": [
+        {
+            "format": "Electronic ISBN",
+            "value": "978-1-4673-8851-1",
+            "isbnType": ""
+        },
+        {
+            "format": "Print on Demand(PoD) ISBN",
+            "value": "978-1-4673-8852-8",
+            "isbnType": ""
+        }
+    ],
+    "issn": [
+        {
+            "format": "Electronic ISSN",
+            "value": "1063-6919"
+        }
+    ],
+    "articleNumber": "7780631",
+    "dbTime": "1 ms",
+    "metrics": {
+        "citationCountPaper": 373,
+        "citationCountPatent": 20,
+        "totalDownloads": 2519
+    },
+    "purchaseOptions": {
+        "showOtherFormatPricingTab": false,
+        "showPdfFormatPricingTab": true,
+        "pdfPricingInfoAvailable": true,
+        "otherPricingInfoAvailable": false,
+        "mandatoryBundle": false,
+        "optionalBundle": false,
+        "displayTextWhenOtherFormatPricingNotAvailable": "The purchase and pricing options for this item are unavailable. Select items are only available as part of a subscription package. You may try again later or <a href='https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/xpl/contact' target='_blank'>contact us</a> for more information.",
+        "pdfPricingInfo": [
+            {
+                "memberPrice": "$14.95",
+                "nonMemberPrice": "$33.00",
+                "partNumber": "7780631",
+                "type": "PDF/HTML"
+            }
+        ],
+        "openUrlFullLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu?url_ver=Z39.88-2004&rfr_id=info:sid/IEEE.org:XPLORE&rft_id=info:doi/10.1109/CVPR.2016.262&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&rft.atitle=Face2Face: Real-Time Face Capture and Reenactment of RGB Videos&rft.jtitle=2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)&rft.date=2016&rft.spage=2387&rft.epage=2395&rft.eissn=1063-6919&rft.au=Justus Thies&rft.aulast=Justus Thies&rft.isbn=978-1-4673-8851-1"
+    },
+    "getProgramTermsAccepted": false,
+    "sections": {
+        "abstract": "true",
+        "authors": "true",
+        "figures": "true",
+        "multimedia": "false",
+        "references": "true",
+        "citedby": "true",
+        "keywords": "true",
+        "definitions": "false",
+        "algorithm": "false",
+        "dataset": "false",
+        "cadmore": "false",
+        "footnotes": "false",
+        "disclaimer": "false",
+        "relatedContent": "false",
+        "metrics": "true"
+    },
+    "abstract": "We present a novel approach for real-time facial reenactment of a monocular target video sequence (e.g., Youtube video). The source sequence is also a monocular video stream, captured live with a commodity webcam. Our goal is to animate the facial expressions of the target video by a source actor and re-render the manipulated output video in a photo-realistic fashion. To this end, we first address the under-constrained problem of facial identity recovery from monocular video by non-rigid model-based bundling. At run time, we track facial expressions of both source and target video using a dense photometric consistency measure. Reenactment is then achieved by fast and efficient deformation transfer between source and target. The mouth interior that best matches the re-targeted expression is retrieved from the target sequence and warped to produce an accurate fit. Finally, we convincingly re-render the synthesized target face on top of the corresponding video stream such that it seamlessly blends with the real-world illumination. We demonstrate our method in a live setup, where Youtube videos are reenacted in real time.",
+    "publicationYear": "2016",
+    "pdfPath": "/iel7/7776647/7780329/07780631.pdf",
+    "publicationDate": "June 2016",
+    "doi": "10.1109/CVPR.2016.262",
+    "formulaStrippedArticleTitle": "Face2Face: Real-Time Face Capture and Reenactment of RGB Videos",
+    "displayPublicationTitle": "2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)",
+    "authorNames": "Justus Thies;Michael Zollh\u00f6fer;Marc Stamminger;Christian Theobalt;Matthias Nie\u00dfner",
+    "publicationTitle": "2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)",
+    "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=proceedings&title=Face2Face%3A+Real-Time+Face+Capture+and+Reenactment+of+RGB+Videos&isbn=978-1-4673-8851-1&publicationDate=June+2016&author=Justus+Thies&ContentID=10.1109/CVPR.2016.262&orderBeanReset=true&startPage=2387&endPage=2395&proceedingName=2016+IEEE+Conference+on+Computer+Vision+and+Pattern+Recognition+%28CVPR%29",
+    "dateOfInsertion": "12 December 2016",
+    "startPage": "2387",
+    "endPage": "2395",
+    "pdfUrl": "/stamp/stamp.jsp?tp=&arnumber=7780631",
+    "keywords": [
+        {
+            "type": "IEEE Keywords",
+            "kwd": [
+                "Videos",
+                "Face",
+                "Real-time systems",
+                "Mouth",
+                "Shape",
+                "Target tracking",
+                "Lighting"
+            ]
+        },
+        {
+            "type": "INSPEC: Controlled Indexing",
+            "kwd": [
+                "face recognition",
+                "image colour analysis",
+                "video signal processing"
+            ]
+        },
+        {
+            "type": "INSPEC: Non-Controlled Indexing",
+            "kwd": [
+                "target sequence",
+                "deformation transfer",
+                "dense photometric consistency measure",
+                "nonrigid model based bundling",
+                "facial expressions",
+                "monocular video stream",
+                "monocular target video sequence",
+                "real-time facial reenactment",
+                "RGB video",
+                "real-time face capture"
+            ]
+        }
+    ],
+    "doiLink": "https://doi-org.proxy.lib.ohio-state.edu/10.1109/CVPR.2016.262",
+    "displayPublicationDate": "27-30 June 2016",
+    "articleCopyRight": "2016 IEEE",
+    "issueLink": "/xpl/tocresult.jsp?isnumber=7780329&punumber=7776647",
+    "pubLink": "/xpl/conhome/7776647/proceeding",
+    "allowComments": false,
+    "isGetAddressInfoCaptured": false,
+    "isMarketingOptIn": false,
+    "pubTopics": [
+        {
+            "name": "Computing and Processing"
+        }
+    ],
+    "publisher": "IEEE",
+    "displayDocTitle": "Face2Face: Real-Time Face Capture and Reenactment of RGB Videos",
+    "isStandard": false,
+    "isConference": true,
+    "isBookWithoutChapters": false,
+    "isChapter": false,
+    "isProduct": false,
+    "isEarlyAccess": false,
+    "isOpenAccess": false,
+    "isEphemera": false,
+    "xploreDocumentType": "Conference Publication",
+    "isBook": false,
+    "isJournal": false,
+    "isSpringer": false,
+    "accessionNumber": "16541110",
+    "isFreeDocument": false,
+    "isPromo": false,
+    "isDynamicHtml": true,
+    "htmlLink": "/document/7780631/",
+    "htmlAbstractLink": "/document/7780631/",
+    "isCustomDenial": false,
+    "persistentLink": "https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/servlet/opac?punumber=7776647",
+    "isNow": false,
+    "isSAE": false,
+    "isOUP": false,
+    "isSMPTE": false,
+    "openAccessFlag": "F",
+    "insertDate": "12 December 2016",
+    "ephemeraFlag": "false",
+    "title": "Face2Face: Real-Time Face Capture and Reenactment of RGB Videos",
+    "confLoc": "Las Vegas, NV, USA",
+    "html_flag": "true",
+    "ml_html_flag": "true",
+    "sourcePdf": "8851c387.pdf",
+    "mlTime": "PT0.064941S",
+    "xplore-pub-id": "7776647",
+    "isNumber": "7780329",
+    "rightsLinkFlag": "1",
+    "contentType": "conferences",
+    "publicationNumber": "7776647",
+    "citationCount": "373",
+    "xplore-issue": "7780329",
+    "articleId": "7780631",
+    "contentTypeDisplay": "Conferences",
+    "subType": "IEEE Conference",
+    "_value": "IEEE",
+    "lastupdate": "2023-10-20",
+    "mediaPath": "/mediastore_new/IEEE/content/media/7776647/7780329/7780631"
+}

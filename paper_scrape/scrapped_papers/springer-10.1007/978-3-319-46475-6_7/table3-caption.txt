@@ -1,0 +1,1 @@
+Table 3. Comparison to prior work on the CamVid dataset. We outperform the state-of-the-art system of Kundu et al. by 2.8 % points without utilizing temporal cues.

@@ -1,0 +1,1 @@
+Figure 6: Pruning results of CNNs on segmentation tasks. Numbers on top of the bars are the pruning ratios.

@@ -1,0 +1,108 @@
+[
+    {
+        "GA Key": "UA-26408784-1",
+        "DOI": "10.1007/s00371-018-1600-0",
+        "Page": "article",
+        "springerJournal": true,
+        "page": {
+            "attributes": {
+                "environment": "live"
+            }
+        },
+        "Country": "US",
+        "japan": false,
+        "doi": "10.1007-s00371-018-1600-0",
+        "Journal Title": "The Visual Computer",
+        "Journal Id": 371,
+        "Keywords": "Video and image manipulations, Interactive editing, Physics-based modeling, Scene dynamics",
+        "kwrd": [
+            "Video_and_image_manipulations",
+            "Interactive_editing",
+            "Physics-based_modeling",
+            "Scene_dynamics"
+        ],
+        "Labs": "Y",
+        "ksg": "Krux.segments",
+        "kuid": "Krux.uid",
+        "Has Body": "Y",
+        "Features": [
+            "doNotAutoAssociate",
+            "cobranding",
+            "doNotAutoAssociate",
+            "cobranding"
+        ],
+        "Open Access": "N",
+        "hasAccess": "Y",
+        "bypassPaywall": "N",
+        "user": {
+            "license": {
+                "businessPartnerID": [
+                    "3000266689",
+                    "8200724141"
+                ],
+                "businessPartnerIDString": "3000266689|8200724141"
+            }
+        },
+        "Access Type": "subscription",
+        "Bpids": "3000266689, 8200724141",
+        "Bpnames": "OhioLINK Consortium, Ohio State University Libraries",
+        "BPID": [
+            "3000266689",
+            "8200724141"
+        ],
+        "VG Wort Identifier": "pw-vgzm.415900-10.1007-s00371-018-1600-0",
+        "Full HTML": "Y",
+        "Subject Codes": [
+            "SCI",
+            "SCI22013",
+            "SCI00001",
+            "SCI21000",
+            "SCI22021"
+        ],
+        "pmc": [
+            "I",
+            "I22013",
+            "I00001",
+            "I21000",
+            "I22021"
+        ],
+        "session": {
+            "authentication": {
+                "loginStatus": "N"
+            },
+            "attributes": {
+                "edition": "academic"
+            }
+        },
+        "content": {
+            "serial": {
+                "eissn": "1432-2315",
+                "pissn": "0178-2789"
+            },
+            "type": "Article",
+            "category": {
+                "pmc": {
+                    "primarySubject": "Computer Science",
+                    "primarySubjectCode": "I",
+                    "secondarySubjects": {
+                        "1": "Computer Graphics",
+                        "2": "Computer Science, general",
+                        "3": "Artificial Intelligence",
+                        "4": "Image Processing and Computer Vision"
+                    },
+                    "secondarySubjectCodes": {
+                        "1": "I22013",
+                        "2": "I00001",
+                        "3": "I21000",
+                        "4": "I22021"
+                    }
+                },
+                "sucode": "SC6"
+            },
+            "attributes": {
+                "deliveryPlatform": "oscar"
+            }
+        },
+        "Event Category": "Article"
+    }
+]

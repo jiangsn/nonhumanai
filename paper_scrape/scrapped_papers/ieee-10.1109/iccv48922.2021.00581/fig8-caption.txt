@@ -1,0 +1,2 @@
+Figure 8: 
+Our method reconstructs full body scenes captured by a second user with high quality details.

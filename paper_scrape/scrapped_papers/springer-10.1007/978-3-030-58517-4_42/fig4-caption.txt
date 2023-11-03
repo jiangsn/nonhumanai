@@ -1,0 +1,1 @@
+Audio2ExpressionNet: (a) Per-frame audio-expression estimation network that gets DeepSpeech features as input, (b) to get smooth audio-expressions, we employ a content-aware filtering along the time dimension.

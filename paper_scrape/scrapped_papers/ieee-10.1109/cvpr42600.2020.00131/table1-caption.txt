@@ -1,0 +1,1 @@
+Table 1. Numbers are reported as mean scores ± standard deviation. Higher is better. For Pacman, an agent trained in real environment achieves 3.02 \pm 2.64 which can be regarded as the upper bound. VizDoom is considered solved when a score of 750 is achieved.

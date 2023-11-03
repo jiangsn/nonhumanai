@@ -1,0 +1,1 @@
+Table 1. The lip2wav dataset is the first large-scale dataset tailored towards acting as a reliable benchmark for single-speaker lip to speech synthesis

@@ -1,0 +1,1 @@
+Table 1: Autoencoder real to the synthetic the latent achieved

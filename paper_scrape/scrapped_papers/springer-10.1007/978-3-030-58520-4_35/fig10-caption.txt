@@ -1,0 +1,2 @@
+Results on inverting face, cat face, and bedroom using the same face synthesis model. From left to right: target images, reconstruction results with the outputs from the domain-guided encoder, reconstruction results with the proposed in-domain inversion, reconstruction results by directly optimizing the latent code w/o considering domain alignment
+[29].

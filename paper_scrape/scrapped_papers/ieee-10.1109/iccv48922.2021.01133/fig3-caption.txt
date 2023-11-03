@@ -1,0 +1,2 @@
+Figure 3: 
+Optimization result on video. Here we show a photo snapping motion produced by our framework, video frames from the input motion are included below.

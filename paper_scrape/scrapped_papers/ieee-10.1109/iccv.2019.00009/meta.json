@@ -1,0 +1,280 @@
+{
+    "userInfo": {
+        "customerNameRaw": "The Ohio State University",
+        "institutionName": "The Ohio State University",
+        "institute": true,
+        "member": false,
+        "individual": false,
+        "guest": false,
+        "subscribedContent": false,
+        "fileCabinetContent": false,
+        "fileCabinetUser": false,
+        "institutionalFileCabinetUser": false,
+        "products": "IEL|EBOOKS:1974:2014|JRNLARCH:1884:1994|CONFARCH:1951:1999|IBM:1872:2020|VDE|NOKIA BELL LABS|",
+        "instType": "Academic",
+        "userIds": [
+            7827
+        ],
+        "showPatentCitations": true,
+        "showGet802Link": true,
+        "openUrlImgLoc": "http://library-osu-edu.proxy.lib.ohio-state.edu/resources/serialssolutions/buttons/button75x25edit.jpg",
+        "openUrlLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu",
+        "instLogoFile": "7827_OSULHoriz.png",
+        "openUrlTxt": "Find It!",
+        "showOpenUrlLink": true,
+        "marketingInfoCaptured": false,
+        "tracked": false,
+        "ringGoldId": "2647",
+        "delegatedAdmin": false,
+        "desktop": false,
+        "isInstitutionDashboardEnabled": false,
+        "isInstitutionProfileEnabled": false,
+        "isRoamingEnabled": true,
+        "isDelegatedAdmin": false,
+        "isMdl": false,
+        "isCwg": false,
+        "isIel": true,
+        "isAcademic": true
+    },
+    "authors": [
+        {
+            "name": "Andreas R\u00f6ssler",
+            "affiliation": [
+                "Technical University of Munich"
+            ],
+            "firstName": "Andreas",
+            "lastName": "R\u00f6ssler",
+            "id": "37086121958"
+        },
+        {
+            "name": "Davide Cozzolino",
+            "affiliation": [
+                "University Federico II of Naples"
+            ],
+            "firstName": "Davide",
+            "lastName": "Cozzolino",
+            "id": "37085468576"
+        },
+        {
+            "name": "Luisa Verdoliva",
+            "affiliation": [
+                "University Federico II of Naples"
+            ],
+            "firstName": "Luisa",
+            "lastName": "Verdoliva",
+            "id": "37283465400"
+        },
+        {
+            "name": "Christian Riess",
+            "affiliation": [
+                "University of Erlangen-Nuremberg"
+            ],
+            "firstName": "Christian",
+            "lastName": "Riess",
+            "id": "37392235900"
+        },
+        {
+            "name": "Justus Thies",
+            "affiliation": [
+                "Technical University of Munich"
+            ],
+            "firstName": "Justus",
+            "lastName": "Thies",
+            "id": "37086076816"
+        },
+        {
+            "name": "Matthias Niessner",
+            "affiliation": [
+                "Technical University of Munich"
+            ],
+            "firstName": "Matthias",
+            "lastName": "Niessner",
+            "id": "37085437371"
+        }
+    ],
+    "isbn": [
+        {
+            "format": "Electronic ISBN",
+            "value": "978-1-7281-4803-8",
+            "isbnType": ""
+        },
+        {
+            "format": "Print on Demand(PoD) ISBN",
+            "value": "978-1-7281-4804-5",
+            "isbnType": ""
+        }
+    ],
+    "issn": [
+        {
+            "format": "Electronic ISSN",
+            "value": "2380-7504"
+        },
+        {
+            "format": "Print on Demand(PoD) ISSN",
+            "value": "1550-5499"
+        }
+    ],
+    "articleNumber": "9010912",
+    "dbTime": "2 ms",
+    "metrics": {
+        "citationCountPaper": 777,
+        "citationCountPatent": 1,
+        "totalDownloads": 3258
+    },
+    "purchaseOptions": {
+        "showOtherFormatPricingTab": false,
+        "showPdfFormatPricingTab": true,
+        "pdfPricingInfoAvailable": true,
+        "otherPricingInfoAvailable": false,
+        "mandatoryBundle": false,
+        "optionalBundle": false,
+        "displayTextWhenOtherFormatPricingNotAvailable": "The purchase and pricing options for this item are unavailable. Select items are only available as part of a subscription package. You may try again later or <a href='https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/xpl/contact' target='_blank'>contact us</a> for more information.",
+        "pdfPricingInfo": [
+            {
+                "memberPrice": "$14.95",
+                "nonMemberPrice": "$33.00",
+                "partNumber": "9010912",
+                "type": "PDF/HTML"
+            }
+        ],
+        "openUrlFullLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu?url_ver=Z39.88-2004&rfr_id=info:sid/IEEE.org:XPLORE&rft_id=info:doi/10.1109/ICCV.2019.00009&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&rft.atitle=FaceForensics++: Learning to Detect Manipulated Facial Images&rft.jtitle=2019 IEEE/CVF International Conference on Computer Vision (ICCV)&rft.date=2019&rft.spage=1&rft.epage=11&rft.eissn=2380-7504&rft.au=Andreas R\u00f6ssler&rft.aulast=Andreas R\u00f6ssler&rft.isbn=978-1-7281-4803-8"
+    },
+    "getProgramTermsAccepted": false,
+    "sections": {
+        "abstract": "true",
+        "authors": "true",
+        "figures": "true",
+        "multimedia": "false",
+        "references": "true",
+        "citedby": "true",
+        "keywords": "true",
+        "definitions": "false",
+        "algorithm": "false",
+        "dataset": "false",
+        "cadmore": "false",
+        "footnotes": "true",
+        "disclaimer": "false",
+        "relatedContent": "false",
+        "metrics": "true"
+    },
+    "abstract": "The rapid progress in synthetic image generation and manipulation has now come to a point where it raises significant concerns for the implications towards society. At best, this leads to a loss of trust in digital content, but could potentially cause further harm by spreading false information or fake news. This paper examines the realism of state-of-the-art image manipulations, and how difficult it is to detect them, either automatically or by humans. To standardize the evaluation of detection methods, we propose an automated benchmark for facial manipulation detection. In particular, the benchmark is based on Deep-Fakes, Face2Face, FaceSwap and NeuralTextures as prominent representatives for facial manipulations at random compression level and size. The benchmark is publicly available and contains a hidden test set as well as a database of over 1.8 million manipulated images. This dataset is over an order of magnitude larger than comparable, publicly available, forgery datasets. Based on this data, we performed a thorough analysis of data-driven forgery detectors. We show that the use of additional domain-specific knowledge improves forgery detection to unprecedented accuracy, even in the presence of strong compression, and clearly outperforms human observers.",
+    "publicationYear": "2019",
+    "pdfPath": "/iel7/8972782/9008105/09010912.pdf",
+    "publicationDate": "October 2019",
+    "doi": "10.1109/ICCV.2019.00009",
+    "formulaStrippedArticleTitle": "FaceForensics++: Learning to Detect Manipulated Facial Images",
+    "displayPublicationTitle": "2019 IEEE/CVF International Conference on Computer Vision (ICCV)",
+    "authorNames": "Andreas R\u00f6ssler;Davide Cozzolino;Luisa Verdoliva;Christian Riess;Justus Thies;Matthias Niessner",
+    "publicationTitle": "2019 IEEE/CVF International Conference on Computer Vision (ICCV)",
+    "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=proceedings&title=FaceForensics%2B%2B%3A+Learning+to+Detect+Manipulated+Facial+Images&isbn=978-1-7281-4803-8&publicationDate=October+2019&author=Andreas+R%C3%B6ssler&ContentID=10.1109/ICCV.2019.00009&orderBeanReset=true&startPage=1&endPage=11&proceedingName=2019+IEEE%2FCVF+International+Conference+on+Computer+Vision+%28ICCV%29",
+    "dateOfInsertion": "27 February 2020",
+    "startPage": "1",
+    "endPage": "11",
+    "pdfUrl": "/stamp/stamp.jsp?tp=&arnumber=9010912",
+    "keywords": [
+        {
+            "type": "IEEE Keywords",
+            "kwd": [
+                "Face",
+                "Videos",
+                "Forgery",
+                "Benchmark testing",
+                "Forensics",
+                "Three-dimensional displays",
+                "Databases"
+            ]
+        },
+        {
+            "type": "INSPEC: Controlled Indexing",
+            "kwd": [
+                "data compression",
+                "face recognition",
+                "feature extraction",
+                "image coding",
+                "image enhancement",
+                "image forensics",
+                "image representation",
+                "image texture"
+            ]
+        },
+        {
+            "type": "INSPEC: Non-Controlled Indexing",
+            "kwd": [
+                "facial manipulation detection",
+                "Deep-Fakes",
+                "Face2Face",
+                "facial manipulations",
+                "random compression level",
+                "forgery datasets",
+                "data-driven forgery detectors",
+                "forgery detection",
+                "FaceForensics",
+                "synthetic image generation",
+                "manipulated facial images",
+                "FaceSwap",
+                "NeuralTextures"
+            ]
+        }
+    ],
+    "doiLink": "https://doi-org.proxy.lib.ohio-state.edu/10.1109/ICCV.2019.00009",
+    "displayPublicationDate": "27 October 2019 - 02 November 2019",
+    "articleCopyRight": "2019 IEEE",
+    "issueLink": "/xpl/tocresult.jsp?isnumber=9008105&punumber=8972782",
+    "pubLink": "/xpl/conhome/8972782/proceeding",
+    "allowComments": false,
+    "isGetAddressInfoCaptured": false,
+    "isMarketingOptIn": false,
+    "pubTopics": [
+        {
+            "name": "Computing and Processing"
+        }
+    ],
+    "publisher": "IEEE",
+    "displayDocTitle": "FaceForensics++: Learning to Detect Manipulated Facial Images",
+    "isStandard": false,
+    "isConference": true,
+    "isBookWithoutChapters": false,
+    "isChapter": false,
+    "isProduct": false,
+    "isEarlyAccess": false,
+    "isOpenAccess": false,
+    "isEphemera": false,
+    "xploreDocumentType": "Conference Publication",
+    "isBook": false,
+    "isJournal": false,
+    "isSpringer": false,
+    "accessionNumber": "19398261",
+    "isFreeDocument": false,
+    "isPromo": false,
+    "isDynamicHtml": true,
+    "htmlLink": "/document/9010912/",
+    "htmlAbstractLink": "/document/9010912/",
+    "isCustomDenial": false,
+    "persistentLink": "https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/servlet/opac?punumber=8972782",
+    "isNow": false,
+    "isSAE": false,
+    "isOUP": false,
+    "isSMPTE": false,
+    "openAccessFlag": "F",
+    "insertDate": "27 February 2020",
+    "ephemeraFlag": "false",
+    "title": "FaceForensics++: Learning to Detect Manipulated Facial Images",
+    "confLoc": "Seoul, Korea (South)",
+    "html_flag": "false",
+    "ml_html_flag": "true",
+    "sourcePdf": "480300a001.pdf",
+    "mlTime": "PT0.077945S",
+    "xplore-pub-id": "8972782",
+    "isNumber": "9008105",
+    "rightsLinkFlag": "1",
+    "contentType": "conferences",
+    "publicationNumber": "8972782",
+    "citationCount": "777",
+    "xplore-issue": "9008105",
+    "articleId": "9010912",
+    "contentTypeDisplay": "Conferences",
+    "subType": "IEEE Conference",
+    "_value": "IEEE",
+    "lastupdate": "2023-10-19",
+    "mediaPath": "/mediastore_new/IEEE/content/media/8972782/9008105/9010912"
+}

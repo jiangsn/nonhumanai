@@ -1,0 +1,1 @@
+Figure 3. A synthesized view of the multi-view family scene, comparing a fully implicit mip-nerf representation (left), a dense voxel grid (center), and our tri-plane representation (right). Even though neither voxels nor tri-planes model view-dependent effects, they achieve high quality.

@@ -1,0 +1,1 @@
+Fig. 1: Evaluation map: 500 m x 500 m x 50 m. The environment contains complex navigation challenges composed of multiple sequential jumps, climbable objects and elevators.

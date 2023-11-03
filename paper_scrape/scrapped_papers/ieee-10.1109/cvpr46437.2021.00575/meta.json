@@ -1,0 +1,274 @@
+{
+    "userInfo": {
+        "customerNameRaw": "The Ohio State University",
+        "institutionName": "The Ohio State University",
+        "institute": true,
+        "member": false,
+        "individual": false,
+        "guest": false,
+        "subscribedContent": false,
+        "fileCabinetContent": false,
+        "fileCabinetUser": false,
+        "institutionalFileCabinetUser": false,
+        "products": "IEL|EBOOKS:1974:2014|JRNLARCH:1884:1994|CONFARCH:1951:1999|IBM:1872:2020|VDE|NOKIA BELL LABS|",
+        "instType": "Academic",
+        "userIds": [
+            7827
+        ],
+        "showPatentCitations": true,
+        "showGet802Link": true,
+        "openUrlImgLoc": "http://library-osu-edu.proxy.lib.ohio-state.edu/resources/serialssolutions/buttons/button75x25edit.jpg",
+        "openUrlLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu",
+        "instLogoFile": "7827_OSULHoriz.png",
+        "openUrlTxt": "Find It!",
+        "showOpenUrlLink": true,
+        "marketingInfoCaptured": false,
+        "tracked": false,
+        "ringGoldId": "2647",
+        "delegatedAdmin": false,
+        "desktop": false,
+        "isInstitutionDashboardEnabled": false,
+        "isInstitutionProfileEnabled": false,
+        "isRoamingEnabled": true,
+        "isDelegatedAdmin": false,
+        "isMdl": false,
+        "isCwg": false,
+        "isIel": true,
+        "isAcademic": true
+    },
+    "authors": [
+        {
+            "name": "Aleksander Holynski",
+            "affiliation": [
+                "University of Washington"
+            ],
+            "firstName": "Aleksander",
+            "lastName": "Holynski",
+            "id": "37088456109"
+        },
+        {
+            "name": "Brian Curless",
+            "affiliation": [
+                "University of Washington"
+            ],
+            "firstName": "Brian",
+            "lastName": "Curless",
+            "id": "37333354000"
+        },
+        {
+            "name": "Steven M. Seitz",
+            "affiliation": [
+                "University of Washington"
+            ],
+            "firstName": "Steven M.",
+            "lastName": "Seitz",
+            "id": "37298459900"
+        },
+        {
+            "name": "Richard Szeliski",
+            "affiliation": [
+                "University of Washington"
+            ],
+            "firstName": "Richard",
+            "lastName": "Szeliski",
+            "id": "37282879100"
+        }
+    ],
+    "isbn": [
+        {
+            "format": "Electronic ISBN",
+            "value": "978-1-6654-4509-2",
+            "isbnType": ""
+        },
+        {
+            "format": "Print on Demand(PoD) ISBN",
+            "value": "978-1-6654-4510-8",
+            "isbnType": ""
+        }
+    ],
+    "issn": [
+        {
+            "format": "Electronic ISSN",
+            "value": "2575-7075"
+        },
+        {
+            "format": "Print on Demand(PoD) ISSN",
+            "value": "1063-6919"
+        }
+    ],
+    "articleNumber": "9577820",
+    "dbTime": "1 ms",
+    "metrics": {
+        "citationCountPaper": 15,
+        "citationCountPatent": 0,
+        "totalDownloads": 49
+    },
+    "purchaseOptions": {
+        "showOtherFormatPricingTab": false,
+        "showPdfFormatPricingTab": true,
+        "pdfPricingInfoAvailable": true,
+        "otherPricingInfoAvailable": false,
+        "mandatoryBundle": false,
+        "optionalBundle": false,
+        "displayTextWhenOtherFormatPricingNotAvailable": "The purchase and pricing options for this item are unavailable. Select items are only available as part of a subscription package. You may try again later or <a href='https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/xpl/contact' target='_blank'>contact us</a> for more information.",
+        "pdfPricingInfo": [
+            {
+                "memberPrice": "$14.95",
+                "nonMemberPrice": "$33.00",
+                "partNumber": "9577820",
+                "type": "PDF/HTML"
+            }
+        ],
+        "openUrlFullLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu?url_ver=Z39.88-2004&rfr_id=info:sid/IEEE.org:XPLORE&rft_id=info:doi/10.1109/CVPR46437.2021.00575&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&rft.atitle=Animating Pictures with Eulerian Motion Fields&rft.jtitle=2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)&rft.date=2021&rft.spage=5806&rft.epage=5815&rft.eissn=2575-7075&rft.au=Aleksander Holynski&rft.aulast=Aleksander Holynski&rft.isbn=978-1-6654-4509-2"
+    },
+    "getProgramTermsAccepted": false,
+    "sections": {
+        "abstract": "true",
+        "authors": "true",
+        "figures": "true",
+        "multimedia": "false",
+        "references": "true",
+        "citedby": "true",
+        "keywords": "true",
+        "definitions": "false",
+        "algorithm": "false",
+        "dataset": "false",
+        "cadmore": "false",
+        "footnotes": "true",
+        "disclaimer": "false",
+        "relatedContent": "false",
+        "metrics": "true"
+    },
+    "abstract": "In this paper, we demonstrate a fully automatic method for converting a still image into a realistic animated looping video. We target scenes with continuous fluid motion, such as flowing water and billowing smoke. Our method relies on the observation that this type of natural motion can be convincingly reproduced from a static Eulerian motion description, i.e. a single, temporally constant flow field that defines the immediate motion of a particle at a given 2D location. We use an image-to-image translation network to encode motion priors of natural scenes collected from on-line videos, so that for a new photo, we can synthesize a corresponding motion field. The image is then animated using the generated motion through a deep warping technique: pixels are encoded as deep features, those features are warped via Eulerian motion, and the resulting warped feature maps are decoded as images. In order to produce continuous, seamlessly looping video textures, we propose a novel video looping technique that flows features both for-ward and backward in time and then blends the results. We demonstrate the effectiveness and robustness of our method by applying it to a large collection of examples including beaches, waterfalls, and flowing rivers.",
+    "publicationYear": "2021",
+    "pdfPath": "/iel7/9577055/9577056/09577820.pdf",
+    "publicationDate": "June 2021",
+    "doi": "10.1109/CVPR46437.2021.00575",
+    "formulaStrippedArticleTitle": "Animating Pictures with Eulerian Motion Fields",
+    "displayPublicationTitle": "2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+    "authorNames": "Aleksander Holynski;Brian Curless;Steven M. Seitz;Richard Szeliski",
+    "publicationTitle": "2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+    "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=proceedings&title=Animating+Pictures+with+Eulerian+Motion+Fields&isbn=978-1-6654-4509-2&publicationDate=June+2021&author=Aleksander+Holynski&ContentID=10.1109/CVPR46437.2021.00575&orderBeanReset=true&startPage=5806&endPage=5815&proceedingName=2021+IEEE%2FCVF+Conference+on+Computer+Vision+and+Pattern+Recognition+%28CVPR%29",
+    "dateOfInsertion": "02 November 2021",
+    "startPage": "5806",
+    "endPage": "5815",
+    "pdfUrl": "/stamp/stamp.jsp?tp=&arnumber=9577820",
+    "keywords": [
+        {
+            "type": "IEEE Keywords",
+            "kwd": [
+                "Computer vision",
+                "Fluids",
+                "Animation",
+                "Robustness",
+                "Rivers",
+                "Pattern recognition"
+            ]
+        },
+        {
+            "type": "INSPEC: Controlled Indexing",
+            "kwd": [
+                "computer animation",
+                "image motion analysis",
+                "image representation",
+                "image segmentation",
+                "image sequences",
+                "image texture",
+                "motion estimation",
+                "natural scenes",
+                "video signal processing"
+            ]
+        },
+        {
+            "type": "INSPEC: Non-Controlled Indexing",
+            "kwd": [
+                "animating pictures",
+                "Eulerian motion fields",
+                "fully automatic method",
+                "realistic animated looping video",
+                "continuous fluid motion",
+                "water",
+                "billowing smoke",
+                "natural motion",
+                "static Eulerian motion description",
+                "single flow field",
+                "temporally constant flow field",
+                "immediate motion",
+                "given 2D location",
+                "image-to-image translation network",
+                "motion priors",
+                "natural scenes",
+                "on-line videos",
+                "corresponding motion field",
+                "generated motion",
+                "deep warping technique",
+                "deep features",
+                "resulting warped feature maps",
+                "video textures",
+                "video looping technique",
+                "flowing rivers"
+            ]
+        }
+    ],
+    "doiLink": "https://doi-org.proxy.lib.ohio-state.edu/10.1109/CVPR46437.2021.00575",
+    "displayPublicationDate": "20-25 June 2021",
+    "articleCopyRight": "2021 IEEE",
+    "issueLink": "/xpl/tocresult.jsp?isnumber=9577056&punumber=9577055",
+    "pubLink": "/xpl/conhome/9577055/proceeding",
+    "allowComments": false,
+    "isGetAddressInfoCaptured": false,
+    "isMarketingOptIn": false,
+    "pubTopics": [
+        {
+            "name": "Computing and Processing"
+        }
+    ],
+    "publisher": "IEEE",
+    "displayDocTitle": "Animating Pictures with Eulerian Motion Fields",
+    "isStandard": false,
+    "isConference": true,
+    "isBookWithoutChapters": false,
+    "isChapter": false,
+    "isProduct": false,
+    "isEarlyAccess": false,
+    "isOpenAccess": false,
+    "isEphemera": false,
+    "xploreDocumentType": "Conference Publication",
+    "isBook": false,
+    "isJournal": false,
+    "isSpringer": false,
+    "accessionNumber": "21274610",
+    "isFreeDocument": false,
+    "isPromo": false,
+    "isDynamicHtml": true,
+    "htmlLink": "/document/9577820/",
+    "htmlAbstractLink": "/document/9577820/",
+    "isCustomDenial": false,
+    "persistentLink": "https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/servlet/opac?punumber=9577055",
+    "isNow": false,
+    "isSAE": false,
+    "isOUP": false,
+    "isSMPTE": false,
+    "openAccessFlag": "F",
+    "insertDate": "02 November 2021",
+    "ephemeraFlag": "false",
+    "title": "Animating Pictures with Eulerian Motion Fields",
+    "confLoc": "Nashville, TN, USA",
+    "html_flag": "false",
+    "ml_html_flag": "true",
+    "sourcePdf": "450900f806.pdf",
+    "mlTime": "PT0.059472S",
+    "xplore-pub-id": "9577055",
+    "isNumber": "9577056",
+    "rightsLinkFlag": "1",
+    "contentType": "conferences",
+    "publicationNumber": "9577055",
+    "citationCount": "15",
+    "xplore-issue": "9577056",
+    "articleId": "9577820",
+    "contentTypeDisplay": "Conferences",
+    "subType": "IEEE Conference",
+    "_value": "IEEE",
+    "lastupdate": "2023-10-08",
+    "mediaPath": "/mediastore_new/IEEE/content/media/9577055/9577056/9577820"
+}

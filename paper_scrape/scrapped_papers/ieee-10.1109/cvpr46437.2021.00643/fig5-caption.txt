@@ -1,0 +1,2 @@
+Figure 5: 
+Dynamic and static components. Our method learns static and dynamic components in the combined representation. Note person is almost still in the bottom example.

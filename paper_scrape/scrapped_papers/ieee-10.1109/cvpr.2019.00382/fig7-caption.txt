@@ -1,0 +1,2 @@
+Figure 7. 
+Visual comparisons on the Middlebury EVALUATION set. The proposed method reconstructs a clear shape of the ball and restores more details on the slippers and foot.

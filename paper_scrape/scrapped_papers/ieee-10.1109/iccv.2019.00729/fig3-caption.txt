@@ -1,0 +1,1 @@
+Figure 3: We show the original face overlaid with normal estimated by 3DDFA[11] in (a) and our refined normal in (b). The second row of(a) and (b) show the right eye region. (c) shows the final normal map.

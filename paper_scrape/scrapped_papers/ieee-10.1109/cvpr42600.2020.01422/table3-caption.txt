@@ -1,0 +1,1 @@
+Table 3: Running time comparison (in seconds). Cpu: intel core i7-8550U, GPU: NVIDIA TITAN xp. * denotes methods using gpu

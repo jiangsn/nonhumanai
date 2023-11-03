@@ -1,0 +1,1 @@
+Table 2. Controlled experiments on the CamVid dataset. Training with the full CamVid training set augmented by the synthetic images increases the mean IoU by 3.9 % points. Synthetic images also allow reducing the amount of labeled real-world training data by a factor of 3.

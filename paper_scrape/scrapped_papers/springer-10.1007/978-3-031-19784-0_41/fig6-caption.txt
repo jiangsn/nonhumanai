@@ -1,0 +1,1 @@
+Text2LIVE video results. A representative frame from the original and edited videos are shown for each example, along with the target text prompt. In car-turn, both foreground and background atlases are edited sequentially (see Sect. 4). The original and edited atlases are shown on the right. Full video results are included in the SM.

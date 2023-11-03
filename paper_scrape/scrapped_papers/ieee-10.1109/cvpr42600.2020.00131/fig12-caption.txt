@@ -1,0 +1,1 @@
+Figure 12. Box plot for come-back-home metric. Lower is better. As a reference, a pair of randomly selected frames from the same episode gives a score of 1.17\pm 0.56

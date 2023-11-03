@@ -1,0 +1,1 @@
+Figure 3. Illustration of facial destylization. The destylized results of (a) in each stage are sequentially shown in (b)-(d) with the exaggerated eyes gradually turning realistic. (e)-(g): Regularization prevents overfitting to the face-irrelevant green toy. (h)-(j): z+e serves as a good initial value to fit the complex cartoon faces.

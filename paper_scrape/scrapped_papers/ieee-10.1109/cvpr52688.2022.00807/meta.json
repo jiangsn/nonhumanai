@@ -1,0 +1,297 @@
+{
+    "userInfo": {
+        "customerNameRaw": "The Ohio State University",
+        "institutionName": "The Ohio State University",
+        "institute": true,
+        "member": false,
+        "individual": false,
+        "guest": false,
+        "subscribedContent": false,
+        "fileCabinetContent": false,
+        "fileCabinetUser": false,
+        "institutionalFileCabinetUser": false,
+        "products": "IEL|EBOOKS:1974:2014|JRNLARCH:1884:1994|CONFARCH:1951:1999|IBM:1872:2020|VDE|NOKIA BELL LABS|",
+        "instType": "Academic",
+        "userIds": [
+            7827
+        ],
+        "showPatentCitations": true,
+        "showGet802Link": true,
+        "openUrlImgLoc": "http://library-osu-edu.proxy.lib.ohio-state.edu/resources/serialssolutions/buttons/button75x25edit.jpg",
+        "openUrlLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu",
+        "instLogoFile": "7827_OSULHoriz.png",
+        "openUrlTxt": "Find It!",
+        "showOpenUrlLink": true,
+        "marketingInfoCaptured": false,
+        "tracked": false,
+        "ringGoldId": "2647",
+        "delegatedAdmin": false,
+        "desktop": false,
+        "isInstitutionDashboardEnabled": false,
+        "isInstitutionProfileEnabled": false,
+        "isRoamingEnabled": true,
+        "isDelegatedAdmin": false,
+        "isMdl": false,
+        "isCwg": false,
+        "isIel": true,
+        "isAcademic": true
+    },
+    "authors": [
+        {
+            "name": "Matthew Tancik",
+            "affiliation": [
+                "UC Berkeley"
+            ],
+            "firstName": "Matthew",
+            "lastName": "Tancik",
+            "id": "37086030996"
+        },
+        {
+            "name": "Vincent Casser",
+            "affiliation": [
+                "Waymo"
+            ],
+            "firstName": "Vincent",
+            "lastName": "Casser",
+            "id": "37088364331"
+        },
+        {
+            "name": "Xinchen Yan",
+            "affiliation": [
+                "Waymo"
+            ],
+            "firstName": "Xinchen",
+            "lastName": "Yan",
+            "id": "37089015699"
+        },
+        {
+            "name": "Sabeek Pradhan",
+            "affiliation": [
+                "Waymo"
+            ],
+            "firstName": "Sabeek",
+            "lastName": "Pradhan",
+            "id": "37089319573"
+        },
+        {
+            "name": "Ben P. Mildenhall",
+            "affiliation": [
+                "Google Research"
+            ],
+            "firstName": "Ben P.",
+            "lastName": "Mildenhall",
+            "id": "37086568629"
+        },
+        {
+            "name": "Pratul Srinivasan",
+            "affiliation": [
+                "Google Research"
+            ],
+            "firstName": "Pratul",
+            "lastName": "Srinivasan",
+            "id": "37085691695"
+        },
+        {
+            "name": "Jonathan T. Barron",
+            "affiliation": [
+                "Google Research"
+            ],
+            "firstName": "Jonathan T.",
+            "lastName": "Barron",
+            "id": "37953015500"
+        },
+        {
+            "name": "Henrik Kretzschmar",
+            "affiliation": [
+                "Waymo"
+            ],
+            "firstName": "Henrik",
+            "lastName": "Kretzschmar",
+            "id": "37868427900"
+        }
+    ],
+    "isbn": [
+        {
+            "format": "Electronic ISBN",
+            "value": "978-1-6654-6946-3",
+            "isbnType": ""
+        },
+        {
+            "format": "Print on Demand(PoD) ISBN",
+            "value": "978-1-6654-6947-0",
+            "isbnType": ""
+        }
+    ],
+    "issn": [
+        {
+            "format": "Electronic ISSN",
+            "value": "2575-7075"
+        },
+        {
+            "format": "Print on Demand(PoD) ISSN",
+            "value": "1063-6919"
+        }
+    ],
+    "articleNumber": "9879943",
+    "dbTime": "1 ms",
+    "metrics": {
+        "citationCountPaper": 82,
+        "citationCountPatent": 0,
+        "totalDownloads": 355
+    },
+    "purchaseOptions": {
+        "showOtherFormatPricingTab": false,
+        "showPdfFormatPricingTab": true,
+        "pdfPricingInfoAvailable": true,
+        "otherPricingInfoAvailable": false,
+        "mandatoryBundle": false,
+        "optionalBundle": false,
+        "displayTextWhenOtherFormatPricingNotAvailable": "The purchase and pricing options for this item are unavailable. Select items are only available as part of a subscription package. You may try again later or <a href='https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/xpl/contact' target='_blank'>contact us</a> for more information.",
+        "pdfPricingInfo": [
+            {
+                "memberPrice": "$14.95",
+                "nonMemberPrice": "$33.00",
+                "partNumber": "9879943",
+                "type": "PDF/HTML"
+            }
+        ],
+        "openUrlFullLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu?url_ver=Z39.88-2004&rfr_id=info:sid/IEEE.org:XPLORE&rft_id=info:doi/10.1109/CVPR52688.2022.00807&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&rft.atitle=Block-NeRF: Scalable Large Scene Neural View Synthesis&rft.jtitle=2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)&rft.date=2022&rft.spage=8238&rft.epage=8248&rft.eissn=2575-7075&rft.au=Matthew Tancik&rft.aulast=Matthew Tancik&rft.isbn=978-1-6654-6946-3"
+    },
+    "getProgramTermsAccepted": false,
+    "sections": {
+        "abstract": "true",
+        "authors": "true",
+        "figures": "true",
+        "multimedia": "true",
+        "references": "true",
+        "citedby": "true",
+        "keywords": "true",
+        "definitions": "false",
+        "algorithm": "false",
+        "dataset": "false",
+        "cadmore": "false",
+        "footnotes": "false",
+        "disclaimer": "false",
+        "relatedContent": "false",
+        "metrics": "true"
+    },
+    "abstract": "We present Block-NeRF, a variant of Neural Radiance Fields that can represent large-scale environments. Specifically, we demonstrate that when scaling NeRF to render city-scale scenes spanning multiple blocks, it is vital to de-compose the scene into individually trained NeRFs. This decomposition decouples rendering time from scene size, enables rendering to scale to arbitrarily large environments, and allows per-block updates of the environment. We adopt several architectural changes to make NeRF robust to data captured over months under different environmental conditions. We add appearance embeddings, learned pose refinement, and controllable exposure to each individual NeRF, and introduce a procedure for aligning appearance between adjacent NeRFs so that they can be seamlessly combined. We build a grid of Block-NeRFs from 2.8 million images to create the largest neural scene representation to date, capable of rendering an entire neighborhood of San Francisco.",
+    "publicationYear": "2022",
+    "pdfPath": "/iel7/9878378/9878366/09879943.pdf",
+    "publicationDate": "June 2022",
+    "doi": "10.1109/CVPR52688.2022.00807",
+    "formulaStrippedArticleTitle": "Block-NeRF: Scalable Large Scene Neural View Synthesis",
+    "displayPublicationTitle": "2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+    "authorNames": "Matthew Tancik;Vincent Casser;Xinchen Yan;Sabeek Pradhan;Ben P. Mildenhall;Pratul Srinivasan;Jonathan T. Barron;Henrik Kretzschmar",
+    "publicationTitle": "2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+    "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=proceedings&title=Block-NeRF%3A+Scalable+Large+Scene+Neural+View+Synthesis&isbn=978-1-6654-6946-3&publicationDate=June+2022&author=Matthew+Tancik&ContentID=10.1109/CVPR52688.2022.00807&orderBeanReset=true&startPage=8238&endPage=8248&proceedingName=2022+IEEE%2FCVF+Conference+on+Computer+Vision+and+Pattern+Recognition+%28CVPR%29",
+    "dateOfInsertion": "27 September 2022",
+    "startPage": "8238",
+    "endPage": "8248",
+    "pdfUrl": "/stamp/stamp.jsp?tp=&arnumber=9879943",
+    "keywords": [
+        {
+            "type": "IEEE Keywords",
+            "kwd": [
+                "Computer vision",
+                "Buildings",
+                "Computer architecture",
+                "Rendering (computer graphics)",
+                "Pattern recognition",
+                "Transient analysis",
+                "Image reconstruction"
+            ]
+        },
+        {
+            "type": "INSPEC: Controlled Indexing",
+            "kwd": [
+                "image reconstruction",
+                "image representation",
+                "learning (artificial intelligence)",
+                "neural nets",
+                "pose estimation",
+                "rendering (computer graphics)"
+            ]
+        },
+        {
+            "type": "INSPEC: Non-Controlled Indexing",
+            "kwd": [
+                "3D reconstruction",
+                "learned pose refinement",
+                "appearance embeddings",
+                "city-scale scene rendering",
+                "large-scale environments",
+                "neural radiance fields",
+                "neural scene representation",
+                "Block-NeRF"
+            ]
+        },
+        {
+            "type": "Author Keywords ",
+            "kwd": [
+                "3D from multi-view and sensors; Photogrammetry and remote sensing; Vision applications and systems"
+            ]
+        }
+    ],
+    "doiLink": "https://doi-org.proxy.lib.ohio-state.edu/10.1109/CVPR52688.2022.00807",
+    "displayPublicationDate": "18-24 June 2022",
+    "articleCopyRight": "2022 IEEE",
+    "issueLink": "/xpl/tocresult.jsp?isnumber=9878366&punumber=9878378",
+    "pubLink": "/xpl/conhome/9878378/proceeding",
+    "allowComments": false,
+    "isGetAddressInfoCaptured": false,
+    "isMarketingOptIn": false,
+    "pubTopics": [
+        {
+            "name": "Computing and Processing"
+        }
+    ],
+    "publisher": "IEEE",
+    "displayDocTitle": "Block-NeRF: Scalable Large Scene Neural View Synthesis",
+    "isStandard": false,
+    "isConference": true,
+    "isBookWithoutChapters": false,
+    "isChapter": false,
+    "isProduct": false,
+    "isEarlyAccess": false,
+    "isOpenAccess": false,
+    "isEphemera": false,
+    "xploreDocumentType": "Conference Publication",
+    "isBook": false,
+    "isJournal": false,
+    "isSpringer": false,
+    "accessionNumber": "22095164",
+    "isFreeDocument": false,
+    "isPromo": false,
+    "isDynamicHtml": true,
+    "htmlLink": "/document/9879943/",
+    "htmlAbstractLink": "/document/9879943/",
+    "isCustomDenial": false,
+    "persistentLink": "https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/servlet/opac?punumber=9878378",
+    "isNow": false,
+    "isSAE": false,
+    "isOUP": false,
+    "isSMPTE": false,
+    "openAccessFlag": "F",
+    "insertDate": "27 September 2022",
+    "ephemeraFlag": "false",
+    "title": "Block-NeRF: Scalable Large Scene Neural View Synthesis",
+    "confLoc": "New Orleans, LA, USA",
+    "html_flag": "false",
+    "ml_html_flag": "true",
+    "sourcePdf": "694600i238.pdf",
+    "mlTime": "PT0.094493S",
+    "xplore-pub-id": "9878378",
+    "isNumber": "9878366",
+    "rightsLinkFlag": "1",
+    "contentType": "conferences",
+    "publicationNumber": "9878378",
+    "citationCount": "82",
+    "xplore-issue": "9878366",
+    "articleId": "9879943",
+    "contentTypeDisplay": "Conferences",
+    "subType": "IEEE Conference",
+    "_value": "IEEE",
+    "lastupdate": "2023-10-11",
+    "mediaPath": "/mediastore_new/IEEE/content/media/9878378/9878366/9879943"
+}

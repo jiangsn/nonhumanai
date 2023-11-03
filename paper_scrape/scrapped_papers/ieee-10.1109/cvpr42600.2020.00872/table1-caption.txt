@@ -1,0 +1,1 @@
+Table 1: Generation models. We evaluate forensic classifiers on a variety of CNN-based image generation methods.

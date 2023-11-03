@@ -1,0 +1,1 @@
+Figure 7. Comparison of single-view depth predictions on the KITTI dataset by our initial cityscapes model and the final model (pre-trained on cityscapes and then fine-tuned on KITTI). The cityscapes model sometimes makes structural mistakes (e.g. Holes on car body) likely due to the domain gap between the two datasets.

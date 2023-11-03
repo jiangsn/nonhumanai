@@ -1,0 +1,2 @@
+Top. The FUNIT baseline 
+[27] vs. our COCO-FUNIT. To highlight, we use a novel style encoder called the content-conditioned style encoder where the content image is also used in computing the style code for few-shot unsupervised image-to-image translation. Bottom. Detail design of the content-conditioned style encoder. Please refer to the main text for more details.

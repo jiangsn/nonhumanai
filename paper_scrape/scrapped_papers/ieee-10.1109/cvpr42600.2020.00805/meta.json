@@ -1,0 +1,258 @@
+{
+    "userInfo": {
+        "customerNameRaw": "The Ohio State University",
+        "institutionName": "The Ohio State University",
+        "institute": true,
+        "member": false,
+        "individual": false,
+        "guest": false,
+        "subscribedContent": false,
+        "fileCabinetContent": false,
+        "fileCabinetUser": false,
+        "institutionalFileCabinetUser": false,
+        "products": "IEL|EBOOKS:1974:2014|JRNLARCH:1884:1994|CONFARCH:1951:1999|IBM:1872:2020|VDE|NOKIA BELL LABS|",
+        "instType": "Academic",
+        "userIds": [
+            7827
+        ],
+        "showPatentCitations": true,
+        "showGet802Link": true,
+        "openUrlImgLoc": "http://library-osu-edu.proxy.lib.ohio-state.edu/resources/serialssolutions/buttons/button75x25edit.jpg",
+        "openUrlLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu",
+        "instLogoFile": "7827_OSULHoriz.png",
+        "openUrlTxt": "Find It!",
+        "showOpenUrlLink": true,
+        "marketingInfoCaptured": false,
+        "tracked": false,
+        "ringGoldId": "2647",
+        "delegatedAdmin": false,
+        "desktop": false,
+        "isInstitutionDashboardEnabled": false,
+        "isInstitutionProfileEnabled": false,
+        "isRoamingEnabled": true,
+        "isDelegatedAdmin": false,
+        "isMdl": false,
+        "isCwg": false,
+        "isIel": true,
+        "isAcademic": true
+    },
+    "authors": [
+        {
+            "name": "Meng-Li Shih",
+            "affiliation": [
+                "Virginia Tech",
+                "National Tsing Hua University"
+            ],
+            "firstName": "Meng-Li",
+            "lastName": "Shih",
+            "id": "37088453722"
+        },
+        {
+            "name": "Shih-Yang Su",
+            "affiliation": [
+                "Virginia Tech"
+            ],
+            "firstName": "Shih-Yang",
+            "lastName": "Su",
+            "id": "37088455614"
+        },
+        {
+            "name": "Johannes Kopf",
+            "affiliation": [
+                "Facebook"
+            ],
+            "firstName": "Johannes",
+            "lastName": "Kopf",
+            "id": "37061618500"
+        },
+        {
+            "name": "Jia-Bin Huang",
+            "affiliation": [
+                "Virginia Tech"
+            ],
+            "firstName": "Jia-Bin",
+            "lastName": "Huang",
+            "id": "37062065700"
+        }
+    ],
+    "isbn": [
+        {
+            "format": "Electronic ISBN",
+            "value": "978-1-7281-7168-5",
+            "isbnType": ""
+        },
+        {
+            "format": "Print on Demand(PoD) ISBN",
+            "value": "978-1-7281-7169-2",
+            "isbnType": ""
+        }
+    ],
+    "issn": [
+        {
+            "format": "Electronic ISSN",
+            "value": "2575-7075"
+        },
+        {
+            "format": "Print on Demand(PoD) ISSN",
+            "value": "1063-6919"
+        }
+    ],
+    "articleNumber": "9157537",
+    "dbTime": "1 ms",
+    "metrics": {
+        "citationCountPaper": 119,
+        "citationCountPatent": 0,
+        "totalDownloads": 407
+    },
+    "purchaseOptions": {
+        "showOtherFormatPricingTab": false,
+        "showPdfFormatPricingTab": true,
+        "pdfPricingInfoAvailable": true,
+        "otherPricingInfoAvailable": false,
+        "mandatoryBundle": false,
+        "optionalBundle": false,
+        "displayTextWhenOtherFormatPricingNotAvailable": "The purchase and pricing options for this item are unavailable. Select items are only available as part of a subscription package. You may try again later or <a href='https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/xpl/contact' target='_blank'>contact us</a> for more information.",
+        "pdfPricingInfo": [
+            {
+                "memberPrice": "$14.95",
+                "nonMemberPrice": "$33.00",
+                "partNumber": "9157537",
+                "type": "PDF/HTML"
+            }
+        ],
+        "openUrlFullLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu?url_ver=Z39.88-2004&rfr_id=info:sid/IEEE.org:XPLORE&rft_id=info:doi/10.1109/CVPR42600.2020.00805&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&rft.atitle=3D Photography Using Context-Aware Layered Depth Inpainting&rft.jtitle=2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)&rft.date=2020&rft.spage=8025&rft.epage=8035&rft.eissn=2575-7075&rft.au=Meng-Li Shih&rft.aulast=Meng-Li Shih&rft.isbn=978-1-7281-7168-5"
+    },
+    "getProgramTermsAccepted": false,
+    "sections": {
+        "abstract": "true",
+        "authors": "true",
+        "figures": "true",
+        "multimedia": "false",
+        "references": "true",
+        "citedby": "true",
+        "keywords": "true",
+        "definitions": "false",
+        "algorithm": "false",
+        "dataset": "false",
+        "cadmore": "false",
+        "footnotes": "true",
+        "disclaimer": "false",
+        "relatedContent": "false",
+        "metrics": "true"
+    },
+    "abstract": "We propose a method for converting a single RGB-D input image into a 3D photo, i.e., a multi-layer representation for novel view synthesis that contains hallucinated color and depth structures in regions occluded in the original view. We use a Layered Depth Image with explicit pixel connectivity as underlying representation, and present a learning-based inpainting model that iteratively synthesizes new local color-and-depth content into the occluded region in a spatial context-aware manner. The resulting 3D photos can be efficiently rendered with motion parallax using standard graphics engines. We validate the effectiveness of our method on a wide range of challenging everyday scenes and show less artifacts when compared with the state-of-the-arts.",
+    "publicationYear": "2020",
+    "pdfPath": "/iel7/9142308/9156271/09157537.pdf",
+    "publicationDate": "June 2020",
+    "doi": "10.1109/CVPR42600.2020.00805",
+    "formulaStrippedArticleTitle": "3D Photography Using Context-Aware Layered Depth Inpainting",
+    "displayPublicationTitle": "2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+    "authorNames": "Meng-Li Shih;Shih-Yang Su;Johannes Kopf;Jia-Bin Huang",
+    "publicationTitle": "2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+    "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=proceedings&title=3D+Photography+Using+Context-Aware+Layered+Depth+Inpainting&isbn=978-1-7281-7168-5&publicationDate=June+2020&author=Meng-Li+Shih&ContentID=10.1109/CVPR42600.2020.00805&orderBeanReset=true&startPage=8025&endPage=8035&proceedingName=2020+IEEE%2FCVF+Conference+on+Computer+Vision+and+Pattern+Recognition+%28CVPR%29",
+    "dateOfInsertion": "05 August 2020",
+    "startPage": "8025",
+    "endPage": "8035",
+    "pdfUrl": "/stamp/stamp.jsp?tp=&arnumber=9157537",
+    "keywords": [
+        {
+            "type": "IEEE Keywords",
+            "kwd": [
+                "Three-dimensional displays",
+                "Image color analysis",
+                "Cameras",
+                "Rendering (computer graphics)",
+                "Image edge detection",
+                "Photography",
+                "Facebook"
+            ]
+        },
+        {
+            "type": "INSPEC: Controlled Indexing",
+            "kwd": [
+                "convolutional neural nets",
+                "image colour analysis",
+                "image representation",
+                "image restoration",
+                "learning (artificial intelligence)",
+                "photography",
+                "stereo image processing",
+                "ubiquitous computing"
+            ]
+        },
+        {
+            "type": "INSPEC: Non-Controlled Indexing",
+            "kwd": [
+                "context-aware layered depth inpainting",
+                "multilayer representation",
+                "layered depth image",
+                "RGB D image",
+                "learning based inpainting model",
+                "color and depth content",
+                "3D photography",
+                "convolutional neural networks"
+            ]
+        }
+    ],
+    "doiLink": "https://doi-org.proxy.lib.ohio-state.edu/10.1109/CVPR42600.2020.00805",
+    "displayPublicationDate": "13-19 June 2020",
+    "articleCopyRight": "2020 IEEE",
+    "issueLink": "/xpl/tocresult.jsp?isnumber=9156271&punumber=9142308",
+    "pubLink": "/xpl/conhome/9142308/proceeding",
+    "allowComments": false,
+    "isGetAddressInfoCaptured": false,
+    "isMarketingOptIn": false,
+    "pubTopics": [
+        {
+            "name": "Computing and Processing"
+        }
+    ],
+    "publisher": "IEEE",
+    "displayDocTitle": "3D Photography Using Context-Aware Layered Depth Inpainting",
+    "isStandard": false,
+    "isConference": true,
+    "isBookWithoutChapters": false,
+    "isChapter": false,
+    "isProduct": false,
+    "isEarlyAccess": false,
+    "isOpenAccess": false,
+    "isEphemera": false,
+    "xploreDocumentType": "Conference Publication",
+    "isBook": false,
+    "isJournal": false,
+    "isSpringer": false,
+    "accessionNumber": "19876378",
+    "isFreeDocument": false,
+    "isPromo": false,
+    "isDynamicHtml": true,
+    "htmlLink": "/document/9157537/",
+    "htmlAbstractLink": "/document/9157537/",
+    "isCustomDenial": false,
+    "persistentLink": "https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/servlet/opac?punumber=9142308",
+    "isNow": false,
+    "isSAE": false,
+    "isOUP": false,
+    "isSMPTE": false,
+    "openAccessFlag": "F",
+    "insertDate": "05 August 2020",
+    "ephemeraFlag": "false",
+    "title": "3D Photography Using Context-Aware Layered Depth Inpainting",
+    "confLoc": "Seattle, WA, USA",
+    "html_flag": "false",
+    "ml_html_flag": "true",
+    "sourcePdf": "716800i025.pdf",
+    "mlTime": "PT0.083022S",
+    "xplore-pub-id": "9142308",
+    "isNumber": "9156271",
+    "rightsLinkFlag": "1",
+    "contentType": "conferences",
+    "publicationNumber": "9142308",
+    "citationCount": "119",
+    "xplore-issue": "9156271",
+    "articleId": "9157537",
+    "contentTypeDisplay": "Conferences",
+    "subType": "IEEE Conference",
+    "_value": "IEEE",
+    "lastupdate": "2023-10-13",
+    "mediaPath": "/mediastore_new/IEEE/content/media/9142308/9156271/9157537"
+}

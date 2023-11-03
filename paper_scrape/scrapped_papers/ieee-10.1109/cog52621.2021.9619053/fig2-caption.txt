@@ -1,0 +1,1 @@
+Fig. 2: Platform game. A) the generator creates segments with actions: distance (white solid arrow), angle (gray arrow), and height (blue dotted arrow) relative to the previous block. The agent also controls the size of the block. B) the solver: drives a character with actions: forward/backward (white solid arrow), turn (gray arrow), and jump (blue solid arrow).

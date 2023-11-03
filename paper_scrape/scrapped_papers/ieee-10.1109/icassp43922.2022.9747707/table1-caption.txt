@@ -1,0 +1,2 @@
+Table 1: 
+Pairwise preference scores by human raters, shown with 95% confidence intervals. Scores above 0.5 indicate models trained with Lalign were preferred by majority of raters.

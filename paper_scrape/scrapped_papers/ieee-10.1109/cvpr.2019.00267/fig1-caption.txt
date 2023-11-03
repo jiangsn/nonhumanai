@@ -1,0 +1,2 @@
+Figure 1: 
+We propose to learn a representation for visual correspondence from raw video. Without any fine-tuning, the acquired representation generalizes to various tasks involving visual correspondence, allowing for propagation of: (a) Multiple Instance Masks; (b) Pose; (c) Semantic Masks; (d) Long-Range Optical Flow; (e) Texture.

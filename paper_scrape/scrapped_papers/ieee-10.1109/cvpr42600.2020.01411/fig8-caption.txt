@@ -1,0 +1,1 @@
+Figure 8: Celeba-hq reconstructions. Celeba-hq reconstructions of unseen samples at resolution 256 × 256. Top row: real images. Second row: stylealae. Third row: balanced PIONEER [17]. Last row: PIONEER [16]. Stylealae reconstructions look sharper and less distorted.

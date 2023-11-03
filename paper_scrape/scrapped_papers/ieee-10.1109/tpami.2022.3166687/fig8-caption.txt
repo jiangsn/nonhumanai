@@ -1,0 +1,2 @@
+Fig. 8. 
+Rendering-aware denormalization (RAD) modulates image feature tensors via encoded geometry, material, lighting, and semantic information from a conventional rendering pipeline. The image features are normalized via group normalization, then scaled and shifted via per-element weights \gamma, \betaγ,β. The weights are learned and adapt to G-buffer features received from the G-buffer encoder (Fig. 6). To better adapt the weights, we transform the G-buffer features via three residual blocks within each RAD module.

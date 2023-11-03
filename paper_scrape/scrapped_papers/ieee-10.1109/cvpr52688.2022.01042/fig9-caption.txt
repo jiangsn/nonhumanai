@@ -1,0 +1,1 @@
+Figure 9. Imagenet 64\rightarrow 256 super-resolution on imagenet-val. LDM-SR has advantages at rendering realistic textures but sr3 can synthesize more coherent fine structures. See appendix for additional samples and cropouts. Sr3 results from [70].

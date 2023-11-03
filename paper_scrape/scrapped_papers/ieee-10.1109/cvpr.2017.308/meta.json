@@ -1,0 +1,253 @@
+{
+    "userInfo": {
+        "customerNameRaw": "The Ohio State University",
+        "institutionName": "The Ohio State University",
+        "institute": true,
+        "member": false,
+        "individual": false,
+        "guest": false,
+        "subscribedContent": false,
+        "fileCabinetContent": false,
+        "fileCabinetUser": false,
+        "institutionalFileCabinetUser": false,
+        "products": "IEL|EBOOKS:1974:2014|JRNLARCH:1884:1994|CONFARCH:1951:1999|IBM:1872:2020|VDE|NOKIA BELL LABS|",
+        "instType": "Academic",
+        "userIds": [
+            7827
+        ],
+        "showPatentCitations": true,
+        "showGet802Link": true,
+        "openUrlImgLoc": "http://library-osu-edu.proxy.lib.ohio-state.edu/resources/serialssolutions/buttons/button75x25edit.jpg",
+        "openUrlLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu",
+        "instLogoFile": "7827_OSULHoriz.png",
+        "openUrlTxt": "Find It!",
+        "showOpenUrlLink": true,
+        "marketingInfoCaptured": false,
+        "tracked": false,
+        "ringGoldId": "2647",
+        "delegatedAdmin": false,
+        "desktop": false,
+        "isInstitutionDashboardEnabled": false,
+        "isInstitutionProfileEnabled": false,
+        "isRoamingEnabled": true,
+        "isDelegatedAdmin": false,
+        "isMdl": false,
+        "isCwg": false,
+        "isIel": true,
+        "isAcademic": true
+    },
+    "authors": [
+        {
+            "name": "Shuai Yang",
+            "affiliation": [
+                "Institute of Computer Science and Technology, Peking University, Beijing, China"
+            ],
+            "firstName": "Shuai",
+            "lastName": "Yang",
+            "id": "37085466461"
+        },
+        {
+            "name": "Jiaying Liu",
+            "affiliation": [
+                "Institute of Computer Science and Technology, Peking University, Beijing, China"
+            ],
+            "firstName": "Jiaying",
+            "lastName": "Liu",
+            "id": "37405234500"
+        },
+        {
+            "name": "Zhouhui Lian",
+            "affiliation": [
+                "Institute of Computer Science and Technology, Peking University, Beijing, China"
+            ],
+            "firstName": "Zhouhui",
+            "lastName": "Lian",
+            "id": "37078396400"
+        },
+        {
+            "name": "Zongming Guo",
+            "affiliation": [
+                "Institute of Computer Science and Technology, Peking University, Beijing, China"
+            ],
+            "firstName": "Zongming",
+            "lastName": "Guo",
+            "id": "37287726400"
+        }
+    ],
+    "isbn": [
+        {
+            "format": "Electronic ISBN",
+            "value": "978-1-5386-0457-1",
+            "isbnType": ""
+        },
+        {
+            "format": "Print on Demand(PoD) ISBN",
+            "value": "978-1-5386-0458-8",
+            "isbnType": ""
+        }
+    ],
+    "issn": [
+        {
+            "format": "Print ISSN",
+            "value": "1063-6919"
+        }
+    ],
+    "articleNumber": "8099791",
+    "dbTime": "1 ms",
+    "metrics": {
+        "citationCountPaper": 37,
+        "citationCountPatent": 1,
+        "totalDownloads": 329
+    },
+    "purchaseOptions": {
+        "showOtherFormatPricingTab": false,
+        "showPdfFormatPricingTab": true,
+        "pdfPricingInfoAvailable": true,
+        "otherPricingInfoAvailable": false,
+        "mandatoryBundle": false,
+        "optionalBundle": false,
+        "displayTextWhenOtherFormatPricingNotAvailable": "The purchase and pricing options for this item are unavailable. Select items are only available as part of a subscription package. You may try again later or <a href='https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/xpl/contact' target='_blank'>contact us</a> for more information.",
+        "pdfPricingInfo": [
+            {
+                "memberPrice": "$14.95",
+                "nonMemberPrice": "$33.00",
+                "partNumber": "8099791",
+                "type": "PDF/HTML"
+            }
+        ],
+        "openUrlFullLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu?url_ver=Z39.88-2004&rfr_id=info:sid/IEEE.org:XPLORE&rft_id=info:doi/10.1109/CVPR.2017.308&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&rft.atitle=Awesome Typography: Statistics-Based Text Effects Transfer&rft.jtitle=2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)&rft.date=2017&rft.spage=2886&rft.epage=2895&rft.issn=1063-6919&rft.au=Shuai Yang&rft.aulast=Shuai Yang&rft.isbn=978-1-5386-0457-1"
+    },
+    "getProgramTermsAccepted": false,
+    "sections": {
+        "abstract": "true",
+        "authors": "true",
+        "figures": "true",
+        "multimedia": "false",
+        "references": "true",
+        "citedby": "true",
+        "keywords": "true",
+        "definitions": "false",
+        "algorithm": "false",
+        "dataset": "false",
+        "cadmore": "false",
+        "footnotes": "true",
+        "disclaimer": "false",
+        "relatedContent": "false",
+        "metrics": "true"
+    },
+    "abstract": "In this work, we explore the problem of generating fantastic special-effects for the typography. It is quite challenging due to the model diversities to illustrate varied text effects for different characters. To address this issue, our key idea is to exploit the analytics on the high regularity of the spatial distribution for text effects to guide the synthesis process. Specifically, we characterize the stylized patches by their normalized positions and the optimal scales to depict their style elements. Our method first estimates these two features and derives their correlation statistically. They are then converted into soft constraints for texture transfer to accomplish adaptive multi-scale texture synthesis and to make style element distribution uniform. It allows our algorithm to produce artistic typography that fits for both local texture patterns and the global spatial distribution in the example. Experimental results demonstrate the superiority of our method for various text effects over conventional style transfer methods. In addition, we validate the effectiveness of our algorithm with extensive artistic typography library generation.",
+    "publicationYear": "2017",
+    "pdfPath": "/iel7/8097368/8099483/08099791.pdf",
+    "publicationDate": "July 2017",
+    "doi": "10.1109/CVPR.2017.308",
+    "formulaStrippedArticleTitle": "Awesome Typography: Statistics-Based Text Effects Transfer",
+    "displayPublicationTitle": "2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)",
+    "authorNames": "Shuai Yang;Jiaying Liu;Zhouhui Lian;Zongming Guo",
+    "publicationTitle": "2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)",
+    "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=proceedings&title=Awesome+Typography%3A+Statistics-Based+Text+Effects+Transfer&isbn=978-1-5386-0457-1&publicationDate=July+2017&author=Shuai+Yang&ContentID=10.1109/CVPR.2017.308&orderBeanReset=true&startPage=2886&endPage=2895&proceedingName=2017+IEEE+Conference+on+Computer+Vision+and+Pattern+Recognition+%28CVPR%29",
+    "dateOfInsertion": "09 November 2017",
+    "startPage": "2886",
+    "endPage": "2895",
+    "pdfUrl": "/stamp/stamp.jsp?tp=&arnumber=8099791",
+    "keywords": [
+        {
+            "type": "IEEE Keywords",
+            "kwd": [
+                "Image color analysis",
+                "Correlation",
+                "Standards",
+                "Graphical models",
+                "Distribution functions",
+                "Skeleton",
+                "Shape"
+            ]
+        },
+        {
+            "type": "INSPEC: Controlled Indexing",
+            "kwd": [
+                "image texture",
+                "statistical analysis",
+                "text analysis"
+            ]
+        },
+        {
+            "type": "INSPEC: Non-Controlled Indexing",
+            "kwd": [
+                "extensive artistic typography library generation",
+                "conventional style transfer methods",
+                "global spatial distribution",
+                "local texture patterns",
+                "style element distribution uniform",
+                "adaptive multiscale texture synthesis",
+                "texture transfer",
+                "style elements",
+                "synthesis process",
+                "varied text effects",
+                "model diversities",
+                "fantastic special-effects",
+                "text effects transfer"
+            ]
+        }
+    ],
+    "doiLink": "https://doi-org.proxy.lib.ohio-state.edu/10.1109/CVPR.2017.308",
+    "displayPublicationDate": "21-26 July 2017",
+    "articleCopyRight": "2017 IEEE",
+    "issueLink": "/xpl/tocresult.jsp?isnumber=8099483&punumber=8097368",
+    "pubLink": "/xpl/conhome/8097368/proceeding",
+    "allowComments": false,
+    "isGetAddressInfoCaptured": false,
+    "isMarketingOptIn": false,
+    "pubTopics": [
+        {
+            "name": "Computing and Processing"
+        }
+    ],
+    "publisher": "IEEE",
+    "displayDocTitle": "Awesome Typography: Statistics-Based Text Effects Transfer",
+    "isStandard": false,
+    "isConference": true,
+    "isBookWithoutChapters": false,
+    "isChapter": false,
+    "isProduct": false,
+    "isEarlyAccess": false,
+    "isOpenAccess": false,
+    "isEphemera": false,
+    "xploreDocumentType": "Conference Publication",
+    "isBook": false,
+    "isJournal": false,
+    "isSpringer": false,
+    "accessionNumber": "17355457",
+    "isFreeDocument": false,
+    "isPromo": false,
+    "isDynamicHtml": true,
+    "htmlLink": "/document/8099791/",
+    "htmlAbstractLink": "/document/8099791/",
+    "isCustomDenial": false,
+    "persistentLink": "https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/servlet/opac?punumber=8097368",
+    "isNow": false,
+    "isSAE": false,
+    "isOUP": false,
+    "isSMPTE": false,
+    "openAccessFlag": "F",
+    "insertDate": "09 November 2017",
+    "ephemeraFlag": "false",
+    "title": "Awesome Typography: Statistics-Based Text Effects Transfer",
+    "confLoc": "Honolulu, HI, USA",
+    "html_flag": "false",
+    "ml_html_flag": "true",
+    "sourcePdf": "0457c886.pdf",
+    "mlTime": "PT0.054698S",
+    "xplore-pub-id": "8097368",
+    "isNumber": "8099483",
+    "rightsLinkFlag": "1",
+    "contentType": "conferences",
+    "publicationNumber": "8097368",
+    "citationCount": "37",
+    "xplore-issue": "8099483",
+    "articleId": "8099791",
+    "contentTypeDisplay": "Conferences",
+    "subType": "IEEE Conference",
+    "_value": "IEEE",
+    "lastupdate": "2023-10-07",
+    "mediaPath": "/mediastore_new/IEEE/content/media/8097368/8099483/8099791"
+}

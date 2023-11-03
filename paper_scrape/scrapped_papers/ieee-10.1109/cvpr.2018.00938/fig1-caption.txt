@@ -1,0 +1,1 @@
+Figure 1: Illustration of intermediate optical flow approximation. The orange pixel borrows optical flow from pixels at the same position in the first and second images.

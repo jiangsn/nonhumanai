@@ -1,0 +1,2 @@
+Table 5. 
+Comparisons with MEMC-Net [2] on parameter and runtime. We list the parameters (million) and runtime (seconds) of each sub-module in the MEMC-Net and the proposed model.

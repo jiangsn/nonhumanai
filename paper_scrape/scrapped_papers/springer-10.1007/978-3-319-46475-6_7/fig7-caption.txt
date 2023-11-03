@@ -1,0 +1,1 @@
+Randomly sampled images from the collected dataset, illustrating its diversity.

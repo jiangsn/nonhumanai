@@ -1,0 +1,2 @@
+Figure 8. 
+A variety of edits along global text-driven manipulation directions. Left: using StyleGAN2 pretrained on LSUN cars [61]. Right: using StyleGAN2-ada [23] pretrained on AFHQ dogs [8]. The target attribute used in the text prompt is indicated above each column.

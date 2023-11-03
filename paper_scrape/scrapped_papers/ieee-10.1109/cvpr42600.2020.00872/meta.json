@@ -1,0 +1,276 @@
+{
+    "userInfo": {
+        "customerNameRaw": "The Ohio State University",
+        "institutionName": "The Ohio State University",
+        "institute": true,
+        "member": false,
+        "individual": false,
+        "guest": false,
+        "subscribedContent": false,
+        "fileCabinetContent": false,
+        "fileCabinetUser": false,
+        "institutionalFileCabinetUser": false,
+        "products": "IEL|EBOOKS:1974:2014|JRNLARCH:1884:1994|CONFARCH:1951:1999|IBM:1872:2020|VDE|NOKIA BELL LABS|",
+        "instType": "Academic",
+        "userIds": [
+            7827
+        ],
+        "showPatentCitations": true,
+        "showGet802Link": true,
+        "openUrlImgLoc": "http://library-osu-edu.proxy.lib.ohio-state.edu/resources/serialssolutions/buttons/button75x25edit.jpg",
+        "openUrlLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu",
+        "instLogoFile": "7827_OSULHoriz.png",
+        "openUrlTxt": "Find It!",
+        "showOpenUrlLink": true,
+        "marketingInfoCaptured": false,
+        "tracked": false,
+        "ringGoldId": "2647",
+        "delegatedAdmin": false,
+        "desktop": false,
+        "isInstitutionDashboardEnabled": false,
+        "isInstitutionProfileEnabled": false,
+        "isRoamingEnabled": true,
+        "isDelegatedAdmin": false,
+        "isMdl": false,
+        "isCwg": false,
+        "isIel": true,
+        "isAcademic": true
+    },
+    "authors": [
+        {
+            "name": "Sheng-Yu Wang",
+            "affiliation": [
+                "UC Berkeley"
+            ],
+            "firstName": "Sheng-Yu",
+            "lastName": "Wang",
+            "id": "37088212351"
+        },
+        {
+            "name": "Oliver Wang",
+            "affiliation": [
+                "Adobe Research"
+            ],
+            "firstName": "Oliver",
+            "lastName": "Wang",
+            "id": "37298538400"
+        },
+        {
+            "name": "Richard Zhang",
+            "affiliation": [
+                "Adobe Research"
+            ],
+            "firstName": "Richard",
+            "lastName": "Zhang",
+            "id": "37088213916"
+        },
+        {
+            "name": "Andrew Owens",
+            "affiliation": [
+                "UC Berkeley",
+                "University of Michigan"
+            ],
+            "firstName": "Andrew",
+            "lastName": "Owens",
+            "id": "37952568200"
+        },
+        {
+            "name": "Alexei A. Efros",
+            "affiliation": [
+                "UC Berkeley"
+            ],
+            "firstName": "Alexei A.",
+            "lastName": "Efros",
+            "id": "37282930300"
+        }
+    ],
+    "isbn": [
+        {
+            "format": "Electronic ISBN",
+            "value": "978-1-7281-7168-5",
+            "isbnType": ""
+        },
+        {
+            "format": "Print on Demand(PoD) ISBN",
+            "value": "978-1-7281-7169-2",
+            "isbnType": ""
+        }
+    ],
+    "issn": [
+        {
+            "format": "Electronic ISSN",
+            "value": "2575-7075"
+        },
+        {
+            "format": "Print on Demand(PoD) ISSN",
+            "value": "1063-6919"
+        }
+    ],
+    "articleNumber": "9156876",
+    "dbTime": "1 ms",
+    "metrics": {
+        "citationCountPaper": 217,
+        "citationCountPatent": 0,
+        "totalDownloads": 908
+    },
+    "purchaseOptions": {
+        "showOtherFormatPricingTab": false,
+        "showPdfFormatPricingTab": true,
+        "pdfPricingInfoAvailable": true,
+        "otherPricingInfoAvailable": false,
+        "mandatoryBundle": false,
+        "optionalBundle": false,
+        "displayTextWhenOtherFormatPricingNotAvailable": "The purchase and pricing options for this item are unavailable. Select items are only available as part of a subscription package. You may try again later or <a href='https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/xpl/contact' target='_blank'>contact us</a> for more information.",
+        "pdfPricingInfo": [
+            {
+                "memberPrice": "$14.95",
+                "nonMemberPrice": "$33.00",
+                "partNumber": "9156876",
+                "type": "PDF/HTML"
+            }
+        ],
+        "openUrlFullLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu?url_ver=Z39.88-2004&rfr_id=info:sid/IEEE.org:XPLORE&rft_id=info:doi/10.1109/CVPR42600.2020.00872&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&rft.atitle=CNN-Generated Images Are Surprisingly Easy to Spot\u2026 for Now&rft.jtitle=2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)&rft.date=2020&rft.spage=8692&rft.epage=8701&rft.eissn=2575-7075&rft.au=Sheng-Yu Wang&rft.aulast=Sheng-Yu Wang&rft.isbn=978-1-7281-7168-5"
+    },
+    "getProgramTermsAccepted": false,
+    "sections": {
+        "abstract": "true",
+        "authors": "true",
+        "figures": "true",
+        "multimedia": "false",
+        "references": "true",
+        "citedby": "true",
+        "keywords": "true",
+        "definitions": "false",
+        "algorithm": "false",
+        "dataset": "false",
+        "cadmore": "false",
+        "footnotes": "true",
+        "disclaimer": "false",
+        "relatedContent": "false",
+        "metrics": "true"
+    },
+    "abstract": "In this work we ask whether it is possible to create a \"universal\" detector for telling apart real images from these generated by a CNN, regardless of architecture or dataset used. To test this, we collect a dataset consisting of fake images generated by 11 different CNN-based image generator models, chosen to span the space of commonly used architectures today (ProGAN, StyleGAN, BigGAN, CycleGAN, StarGAN, GauGAN, DeepFakes, cascaded refinement networks, implicit maximum likelihood estimation, second-order attention super-resolution, seeing-in-the-dark). We demonstrate that, with careful pre- and post-processing and data augmentation, a standard image classifier trained on only one specific CNN generator (ProGAN) is able to generalize surprisingly well to unseen architectures, datasets, and training methods (including the just released StyleGAN2). Our findings suggest the intriguing possibility that today's CNN-generated images share some common systematic flaws, preventing them from achieving realistic image synthesis.",
+    "publicationYear": "2020",
+    "pdfPath": "/iel7/9142308/9156271/09156876.pdf",
+    "publicationDate": "June 2020",
+    "doi": "10.1109/CVPR42600.2020.00872",
+    "formulaStrippedArticleTitle": "CNN-Generated Images Are Surprisingly Easy to Spot\u2026 for Now",
+    "displayPublicationTitle": "2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+    "authorNames": "Sheng-Yu Wang;Oliver Wang;Richard Zhang;Andrew Owens;Alexei A. Efros",
+    "publicationTitle": "2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+    "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=proceedings&title=CNN-Generated+Images+Are+Surprisingly+Easy+to+Spot%E2%80%A6+for+Now&isbn=978-1-7281-7168-5&publicationDate=June+2020&author=Sheng-Yu+Wang&ContentID=10.1109/CVPR42600.2020.00872&orderBeanReset=true&startPage=8692&endPage=8701&proceedingName=2020+IEEE%2FCVF+Conference+on+Computer+Vision+and+Pattern+Recognition+%28CVPR%29",
+    "dateOfInsertion": "05 August 2020",
+    "startPage": "8692",
+    "endPage": "8701",
+    "pdfUrl": "/stamp/stamp.jsp?tp=&arnumber=9156876",
+    "keywords": [
+        {
+            "type": "IEEE Keywords",
+            "kwd": [
+                "Gallium nitride",
+                "Training",
+                "Image generation",
+                "Face",
+                "Image resolution",
+                "Detectors",
+                "Generators"
+            ]
+        },
+        {
+            "type": "INSPEC: Controlled Indexing",
+            "kwd": [
+                "convolutional neural nets",
+                "image classification",
+                "image resolution",
+                "maximum likelihood estimation",
+                "realistic images"
+            ]
+        },
+        {
+            "type": "INSPEC: Non-Controlled Indexing",
+            "kwd": [
+                "image classifier",
+                "CNN-generated images",
+                "realistic image synthesis",
+                "real images",
+                "fake images",
+                "CNN-based image generator",
+                "CNN generator",
+                "universal detector",
+                "ProGAN",
+                "StyleGAN",
+                "BigGAN",
+                "CycleGAN",
+                "StarGAN",
+                "GauGAN",
+                "DeepFakes",
+                "cascaded refinement networks",
+                "implicit maximum likelihood estimation",
+                "second-order attention super-resolution",
+                "seeing-in-the-dark",
+                "data augmentation"
+            ]
+        }
+    ],
+    "doiLink": "https://doi-org.proxy.lib.ohio-state.edu/10.1109/CVPR42600.2020.00872",
+    "displayPublicationDate": "13-19 June 2020",
+    "articleCopyRight": "2020 IEEE",
+    "issueLink": "/xpl/tocresult.jsp?isnumber=9156271&punumber=9142308",
+    "pubLink": "/xpl/conhome/9142308/proceeding",
+    "allowComments": false,
+    "isGetAddressInfoCaptured": false,
+    "isMarketingOptIn": false,
+    "pubTopics": [
+        {
+            "name": "Computing and Processing"
+        }
+    ],
+    "publisher": "IEEE",
+    "displayDocTitle": "CNN-Generated Images Are Surprisingly Easy to Spot\u2026 for Now",
+    "isStandard": false,
+    "isConference": true,
+    "isBookWithoutChapters": false,
+    "isChapter": false,
+    "isProduct": false,
+    "isEarlyAccess": false,
+    "isOpenAccess": false,
+    "isEphemera": false,
+    "xploreDocumentType": "Conference Publication",
+    "isBook": false,
+    "isJournal": false,
+    "isSpringer": false,
+    "accessionNumber": "19874465",
+    "isFreeDocument": false,
+    "isPromo": false,
+    "isDynamicHtml": true,
+    "htmlLink": "/document/9156876/",
+    "htmlAbstractLink": "/document/9156876/",
+    "isCustomDenial": false,
+    "persistentLink": "https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/servlet/opac?punumber=9142308",
+    "isNow": false,
+    "isSAE": false,
+    "isOUP": false,
+    "isSMPTE": false,
+    "openAccessFlag": "F",
+    "insertDate": "05 August 2020",
+    "ephemeraFlag": "false",
+    "title": "CNN-Generated Images Are Surprisingly Easy to Spot\u2026 for Now",
+    "confLoc": "Seattle, WA, USA",
+    "html_flag": "false",
+    "ml_html_flag": "true",
+    "sourcePdf": "716800i692.pdf",
+    "mlTime": "PT0.064206S",
+    "xplore-pub-id": "9142308",
+    "isNumber": "9156271",
+    "rightsLinkFlag": "1",
+    "contentType": "conferences",
+    "publicationNumber": "9142308",
+    "citationCount": "217",
+    "xplore-issue": "9156271",
+    "articleId": "9156876",
+    "contentTypeDisplay": "Conferences",
+    "subType": "IEEE Conference",
+    "_value": "IEEE",
+    "lastupdate": "2023-10-19",
+    "mediaPath": "/mediastore_new/IEEE/content/media/9142308/9156271/9156876"
+}

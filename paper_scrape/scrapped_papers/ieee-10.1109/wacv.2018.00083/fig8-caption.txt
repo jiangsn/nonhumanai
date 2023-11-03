@@ -1,0 +1,1 @@
+Figure 8: Segmentation visualization of the segnet network on CamVid. The number in each column represents the change of global accuracy. The first two, middle two, and last two columns are samples with global accuracies increased, unchanged, and decreased, respectively.

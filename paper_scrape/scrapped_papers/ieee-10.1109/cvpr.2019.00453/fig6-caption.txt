@@ -1,0 +1,2 @@
+Figure 6. 
+Illustrative example with two factors of variation (image features, e.g., masculinity and hair length), (a) An example training set where some combination (e.g., long haired males) is missing, (b) This forces the mapping from Z to image features to become curved so that the forbidden combination disappears in Z to prevent the sampling of invalid combinations, (c) The learned mapping from Z to W is able to "undo" much of the warping.

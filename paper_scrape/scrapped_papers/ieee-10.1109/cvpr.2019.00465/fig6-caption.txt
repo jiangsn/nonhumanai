@@ -1,0 +1,2 @@
+Figure 6. 
+Comparisons on Internet video clips with moving cameras and people. From left to right: (a) reference image, (b) source image, (c) DORN [7], (d) Chen et al. [3], (e) DeMoN [39], (f) our full method.

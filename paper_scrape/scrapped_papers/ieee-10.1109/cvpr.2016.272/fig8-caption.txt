@@ -1,0 +1,1 @@
+Figure 8: Detailed analysis of the difference between our results and Gatys et al.'s [7]'s results. Input images credited to flickr users eden, janine and jim and garry knight.

@@ -1,0 +1,1 @@
+Table 5. Data augmentation comparison. Flipping: Image flipping. JPEG: JPEG compression with quality 70. Noise: Adding gaus-sian noise with variance of 5. Each entry is F1/AUC score

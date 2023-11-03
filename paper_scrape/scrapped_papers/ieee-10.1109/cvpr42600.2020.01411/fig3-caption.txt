@@ -1,0 +1,1 @@
+Figure 3: MNIST reconstruction. Reconstructions of the permutation-invariant mnist. Top row: real images. Middle row: bigan reconstructions. Bottom row: ALAE reconstructions. The same MLP architecture is used in both methods.

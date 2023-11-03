@@ -1,0 +1,256 @@
+{
+    "userInfo": {
+        "customerNameRaw": "The Ohio State University",
+        "institutionName": "The Ohio State University",
+        "institute": true,
+        "member": false,
+        "individual": false,
+        "guest": false,
+        "subscribedContent": false,
+        "fileCabinetContent": false,
+        "fileCabinetUser": false,
+        "institutionalFileCabinetUser": false,
+        "products": "IEL|EBOOKS:1974:2014|JRNLARCH:1884:1994|CONFARCH:1951:1999|IBM:1872:2020|VDE|NOKIA BELL LABS|",
+        "instType": "Academic",
+        "userIds": [
+            7827
+        ],
+        "showPatentCitations": true,
+        "showGet802Link": true,
+        "openUrlImgLoc": "http://library-osu-edu.proxy.lib.ohio-state.edu/resources/serialssolutions/buttons/button75x25edit.jpg",
+        "openUrlLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu",
+        "instLogoFile": "7827_OSULHoriz.png",
+        "openUrlTxt": "Find It!",
+        "showOpenUrlLink": true,
+        "marketingInfoCaptured": false,
+        "tracked": false,
+        "ringGoldId": "2647",
+        "delegatedAdmin": false,
+        "desktop": false,
+        "isInstitutionDashboardEnabled": false,
+        "isInstitutionProfileEnabled": false,
+        "isRoamingEnabled": true,
+        "isDelegatedAdmin": false,
+        "isMdl": false,
+        "isCwg": false,
+        "isIel": true,
+        "isAcademic": true
+    },
+    "authors": [
+        {
+            "name": "Yosef Gandelsman",
+            "affiliation": [
+                "Weizmann Institute of Science"
+            ],
+            "firstName": "Yosef",
+            "lastName": "Gandelsman",
+            "id": "37087231527"
+        },
+        {
+            "name": "Assaf Shocher",
+            "affiliation": [
+                "Dept. of Computer Science and Applied Mathematics, The Weizmann Institute of Science, Israel"
+            ],
+            "firstName": "Assaf",
+            "lastName": "Shocher",
+            "id": "37085409095"
+        },
+        {
+            "name": "Michal Irani",
+            "affiliation": [
+                "Dept. of Computer Science and Applied Mathematics, The Weizmann Institute of Science, Israel"
+            ],
+            "firstName": "Michal",
+            "lastName": "Irani",
+            "id": "37282593100"
+        }
+    ],
+    "isbn": [
+        {
+            "format": "Electronic ISBN",
+            "value": "978-1-7281-3293-8",
+            "isbnType": ""
+        },
+        {
+            "format": "Print on Demand(PoD) ISBN",
+            "value": "978-1-7281-3294-5",
+            "isbnType": ""
+        }
+    ],
+    "issn": [
+        {
+            "format": "Electronic ISSN",
+            "value": "2575-7075"
+        },
+        {
+            "format": "Print on Demand(PoD) ISSN",
+            "value": "1063-6919"
+        }
+    ],
+    "articleNumber": "8954420",
+    "dbTime": "1 ms",
+    "metrics": {
+        "citationCountPaper": 152,
+        "citationCountPatent": 0,
+        "totalDownloads": 740
+    },
+    "purchaseOptions": {
+        "showOtherFormatPricingTab": false,
+        "showPdfFormatPricingTab": true,
+        "pdfPricingInfoAvailable": true,
+        "otherPricingInfoAvailable": false,
+        "mandatoryBundle": false,
+        "optionalBundle": false,
+        "displayTextWhenOtherFormatPricingNotAvailable": "The purchase and pricing options for this item are unavailable. Select items are only available as part of a subscription package. You may try again later or <a href='https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/xpl/contact' target='_blank'>contact us</a> for more information.",
+        "pdfPricingInfo": [
+            {
+                "memberPrice": "$14.95",
+                "nonMemberPrice": "$33.00",
+                "partNumber": "8954420",
+                "type": "PDF/HTML"
+            }
+        ],
+        "openUrlFullLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu?url_ver=Z39.88-2004&rfr_id=info:sid/IEEE.org:XPLORE&rft_id=info:doi/10.1109/CVPR.2019.01128&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&rft.atitle=\u201cDouble-DIP\u201d: Unsupervised Image Decomposition via Coupled Deep-Image-Priors&rft.jtitle=2019 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)&rft.date=2019&rft.spage=11018&rft.epage=11027&rft.eissn=2575-7075&rft.au=Yosef Gandelsman&rft.aulast=Yosef Gandelsman&rft.isbn=978-1-7281-3293-8"
+    },
+    "getProgramTermsAccepted": false,
+    "sections": {
+        "abstract": "true",
+        "authors": "true",
+        "figures": "true",
+        "multimedia": "false",
+        "references": "true",
+        "citedby": "true",
+        "keywords": "true",
+        "definitions": "false",
+        "algorithm": "false",
+        "dataset": "false",
+        "cadmore": "false",
+        "footnotes": "true",
+        "disclaimer": "false",
+        "relatedContent": "false",
+        "metrics": "true"
+    },
+    "abstract": "Many seemingly unrelated computer vision tasks can be viewed as a special case of image decomposition into separate layers. For example, image segmentation (separation into foreground and background layers); transparent layer separation (into reflection and transmission layers); Image dehazing (separation into a clear image and a haze map), and more. In this paper we propose a unified framework for unsupervised layer decomposition of a single image, based on coupled \"Deep-image-Prior\" (DIP) networks. It was shown [Ulyanov et al] that the structure of a single DIP generator network is sufficient to capture the low-level statistics of a single image. We show that coupling multiple such DIPs provides a powerful tool for decomposing images into their basic components, for a wide variety of applications. This capability stems from the fact that the internal statistics of a mixture of layers is more complex than the statistics of each of its individual components. We show the power of this approach for Image-Dehazing, Fg/Bg Segmentation, Watermark-Removal, Transparency Separation in images and video, and more. These capabilities are achieved in a totally unsupervised way, with no training examples other than the input image/video itself.",
+    "publicationYear": "2019",
+    "pdfPath": "/iel7/8938205/8953184/08954420.pdf",
+    "publicationDate": "June 2019",
+    "doi": "10.1109/CVPR.2019.01128",
+    "formulaStrippedArticleTitle": "\u201cDouble-DIP\u201d: Unsupervised Image Decomposition via Coupled Deep-Image-Priors",
+    "displayPublicationTitle": "2019 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+    "authorNames": "Yosef Gandelsman;Assaf Shocher;Michal Irani",
+    "publicationTitle": "2019 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+    "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=proceedings&title=%E2%80%9CDouble-DIP%E2%80%9D%3A+Unsupervised+Image+Decomposition+via+Coupled+Deep-Image-Priors&isbn=978-1-7281-3293-8&publicationDate=June+2019&author=Yosef+Gandelsman&ContentID=10.1109/CVPR.2019.01128&orderBeanReset=true&startPage=11018&endPage=11027&proceedingName=2019+IEEE%2FCVF+Conference+on+Computer+Vision+and+Pattern+Recognition+%28CVPR%29",
+    "dateOfInsertion": "09 January 2020",
+    "startPage": "11018",
+    "endPage": "11027",
+    "pdfUrl": "/stamp/stamp.jsp?tp=&arnumber=8954420",
+    "keywords": [
+        {
+            "type": "IEEE Keywords",
+            "kwd": [
+                "Training",
+                "Image segmentation",
+                "Computer vision",
+                "Semantics",
+                "Image decomposition",
+                "Reflection",
+                "Pattern recognition"
+            ]
+        },
+        {
+            "type": "INSPEC: Controlled Indexing",
+            "kwd": [
+                "computer vision",
+                "image segmentation",
+                "image watermarking",
+                "video signal processing"
+            ]
+        },
+        {
+            "type": "INSPEC: Non-Controlled Indexing",
+            "kwd": [
+                "transparency separation",
+                "coupled deep-image-priors",
+                "image segmentation",
+                "background layers",
+                "transparent layer separation",
+                "transmission layers",
+                "unsupervised layer decomposition",
+                "DIP generator network",
+                "unrelated computer vision tasks",
+                "unsupervised image decomposition",
+                "watermark removal",
+                "image dehazing"
+            ]
+        },
+        {
+            "type": "Author Keywords ",
+            "kwd": [
+                "Low-level Vision",
+                "Computational Photography",
+                "Deep Learning"
+            ]
+        }
+    ],
+    "doiLink": "https://doi-org.proxy.lib.ohio-state.edu/10.1109/CVPR.2019.01128",
+    "displayPublicationDate": "15-20 June 2019",
+    "articleCopyRight": "2019 IEEE",
+    "issueLink": "/xpl/tocresult.jsp?isnumber=8953184&punumber=8938205",
+    "pubLink": "/xpl/conhome/8938205/proceeding",
+    "allowComments": false,
+    "isGetAddressInfoCaptured": false,
+    "isMarketingOptIn": false,
+    "pubTopics": [
+        {
+            "name": "Computing and Processing"
+        }
+    ],
+    "publisher": "IEEE",
+    "displayDocTitle": "\u201cDouble-DIP\u201d: Unsupervised Image Decomposition via Coupled Deep-Image-Priors",
+    "isStandard": false,
+    "isConference": true,
+    "isBookWithoutChapters": false,
+    "isChapter": false,
+    "isProduct": false,
+    "isEarlyAccess": false,
+    "isOpenAccess": false,
+    "isEphemera": false,
+    "xploreDocumentType": "Conference Publication",
+    "isBook": false,
+    "isJournal": false,
+    "isSpringer": false,
+    "accessionNumber": "19263295",
+    "isFreeDocument": false,
+    "isPromo": false,
+    "isDynamicHtml": true,
+    "htmlLink": "/document/8954420/",
+    "htmlAbstractLink": "/document/8954420/",
+    "isCustomDenial": false,
+    "persistentLink": "https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/servlet/opac?punumber=8938205",
+    "isNow": false,
+    "isSAE": false,
+    "isOUP": false,
+    "isSMPTE": false,
+    "openAccessFlag": "F",
+    "insertDate": "09 January 2020",
+    "ephemeraFlag": "false",
+    "title": "\u201cDouble-DIP\u201d: Unsupervised Image Decomposition via Coupled Deep-Image-Priors",
+    "confLoc": "Long Beach, CA, USA",
+    "html_flag": "false",
+    "ml_html_flag": "true",
+    "sourcePdf": "329300l1018.pdf",
+    "mlTime": "PT0.055502S",
+    "xplore-pub-id": "8938205",
+    "isNumber": "8953184",
+    "rightsLinkFlag": "1",
+    "contentType": "conferences",
+    "publicationNumber": "8938205",
+    "citationCount": "152",
+    "xplore-issue": "8953184",
+    "articleId": "8954420",
+    "contentTypeDisplay": "Conferences",
+    "subType": "IEEE Conference",
+    "_value": "IEEE",
+    "lastupdate": "2023-10-11",
+    "mediaPath": "/mediastore_new/IEEE/content/media/8938205/8953184/8954420"
+}

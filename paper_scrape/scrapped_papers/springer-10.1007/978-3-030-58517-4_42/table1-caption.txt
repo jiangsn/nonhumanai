@@ -1,0 +1,2 @@
+Table 1. Analysis of generated videos with different source/target languages. Based on SyncNet 
+[4], we measure the audio-visual sync (offset/confidence). As a reference, we list the sync measurements for the original target video (right).

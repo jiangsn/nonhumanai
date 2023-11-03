@@ -1,0 +1,6 @@
+
+Figure 5:
+ 
+
+Bringing still photographs to life. We show the puppeteering results for one-shot models learned from photographs in the source column. Driving poses were taken from the VoxCeleb2 dataset. Digital zoom recommended.
+

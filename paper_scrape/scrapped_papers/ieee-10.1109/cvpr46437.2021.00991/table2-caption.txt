@@ -1,0 +1,2 @@
+Table 2: 
+Quantitative results on cross-identity motion transfer. Our method achieves lowest FIDs and highest identity-preserving scores (CSIM [87]).

@@ -1,0 +1,2 @@
+Figure 7. 
+Depth-based visual effects. We use our predicted depth maps to apply depth-aware visual effects on (a, e) input images; we show (b) defocus, (c) object insertion, and (d, f) people removal with inpainting results.

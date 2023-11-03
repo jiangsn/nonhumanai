@@ -1,0 +1,1 @@
+Figure 1. Comparison of generative image models. Data given to the discriminator are coloured purple. Left: In conditional GANs, the pose is observed and the discriminator is given access to this information. Right: HoloGAN does not require pose labels and the discriminator is not given access to pose information.

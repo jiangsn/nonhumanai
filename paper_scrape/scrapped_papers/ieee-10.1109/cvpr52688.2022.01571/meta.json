@@ -1,0 +1,288 @@
+{
+    "userInfo": {
+        "customerNameRaw": "The Ohio State University",
+        "institutionName": "The Ohio State University",
+        "institute": true,
+        "member": false,
+        "individual": false,
+        "guest": false,
+        "subscribedContent": false,
+        "fileCabinetContent": false,
+        "fileCabinetUser": false,
+        "institutionalFileCabinetUser": false,
+        "products": "IEL|EBOOKS:1974:2014|JRNLARCH:1884:1994|CONFARCH:1951:1999|IBM:1872:2020|VDE|NOKIA BELL LABS|",
+        "instType": "Academic",
+        "userIds": [
+            7827
+        ],
+        "showPatentCitations": true,
+        "showGet802Link": true,
+        "openUrlImgLoc": "http://library-osu-edu.proxy.lib.ohio-state.edu/resources/serialssolutions/buttons/button75x25edit.jpg",
+        "openUrlLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu",
+        "instLogoFile": "7827_OSULHoriz.png",
+        "openUrlTxt": "Find It!",
+        "showOpenUrlLink": true,
+        "marketingInfoCaptured": false,
+        "tracked": false,
+        "ringGoldId": "2647",
+        "delegatedAdmin": false,
+        "desktop": false,
+        "isInstitutionDashboardEnabled": false,
+        "isInstitutionProfileEnabled": false,
+        "isRoamingEnabled": true,
+        "isDelegatedAdmin": false,
+        "isMdl": false,
+        "isCwg": false,
+        "isIel": true,
+        "isAcademic": true
+    },
+    "authors": [
+        {
+            "name": "Ben Mildenhall",
+            "affiliation": [
+                "Google Research"
+            ],
+            "firstName": "Ben",
+            "lastName": "Mildenhall",
+            "id": "37086568629"
+        },
+        {
+            "name": "Peter Hedman",
+            "affiliation": [
+                "Google Research"
+            ],
+            "firstName": "Peter",
+            "lastName": "Hedman",
+            "id": "38513541300"
+        },
+        {
+            "name": "Ricardo Martin-Brualla",
+            "affiliation": [
+                "Google Research"
+            ],
+            "firstName": "Ricardo",
+            "lastName": "Martin-Brualla",
+            "id": "37085739202"
+        },
+        {
+            "name": "Pratul P. Srinivasan",
+            "affiliation": [
+                "Google Research"
+            ],
+            "firstName": "Pratul P.",
+            "lastName": "Srinivasan",
+            "id": "37085691695"
+        },
+        {
+            "name": "Jonathan T. Barron",
+            "affiliation": [
+                "Google Research"
+            ],
+            "firstName": "Jonathan T.",
+            "lastName": "Barron",
+            "id": "37953015500"
+        }
+    ],
+    "isbn": [
+        {
+            "format": "Electronic ISBN",
+            "value": "978-1-6654-6946-3",
+            "isbnType": ""
+        },
+        {
+            "format": "Print on Demand(PoD) ISBN",
+            "value": "978-1-6654-6947-0",
+            "isbnType": ""
+        }
+    ],
+    "issn": [
+        {
+            "format": "Electronic ISSN",
+            "value": "2575-7075"
+        },
+        {
+            "format": "Print on Demand(PoD) ISSN",
+            "value": "1063-6919"
+        }
+    ],
+    "articleNumber": "9878457",
+    "dbTime": "1 ms",
+    "metrics": {
+        "citationCountPaper": 46,
+        "citationCountPatent": 0,
+        "totalDownloads": 249
+    },
+    "purchaseOptions": {
+        "showOtherFormatPricingTab": false,
+        "showPdfFormatPricingTab": true,
+        "pdfPricingInfoAvailable": true,
+        "otherPricingInfoAvailable": false,
+        "mandatoryBundle": false,
+        "optionalBundle": false,
+        "displayTextWhenOtherFormatPricingNotAvailable": "The purchase and pricing options for this item are unavailable. Select items are only available as part of a subscription package. You may try again later or <a href='https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/xpl/contact' target='_blank'>contact us</a> for more information.",
+        "pdfPricingInfo": [
+            {
+                "memberPrice": "$14.95",
+                "nonMemberPrice": "$33.00",
+                "partNumber": "9878457",
+                "type": "PDF/HTML"
+            }
+        ],
+        "openUrlFullLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu?url_ver=Z39.88-2004&rfr_id=info:sid/IEEE.org:XPLORE&rft_id=info:doi/10.1109/CVPR52688.2022.01571&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&rft.atitle=NeRF in the Dark: High Dynamic Range View Synthesis from Noisy Raw Images&rft.jtitle=2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)&rft.date=2022&rft.spage=16169&rft.epage=16178&rft.eissn=2575-7075&rft.au=Ben Mildenhall&rft.aulast=Ben Mildenhall&rft.isbn=978-1-6654-6946-3"
+    },
+    "getProgramTermsAccepted": false,
+    "sections": {
+        "abstract": "true",
+        "authors": "true",
+        "figures": "true",
+        "multimedia": "true",
+        "references": "true",
+        "citedby": "true",
+        "keywords": "true",
+        "definitions": "false",
+        "algorithm": "false",
+        "dataset": "false",
+        "cadmore": "false",
+        "footnotes": "false",
+        "disclaimer": "false",
+        "relatedContent": "false",
+        "metrics": "true"
+    },
+    "abstract": "Neural Radiance Fields (NeRF) is a technique for high quality novel view synthesis from a collection of posed input images. Like most view synthesis methods, NeRF uses tonemapped low dynamic range (LDR) as input; these images have been processed by a lossy camera pipeline that smooths detail, clips highlights, and distorts the simple noise distribution of raw sensor data. We modify NeRF to instead train directly on linear raw images, preserving the scene's full dynamic range. By rendering raw output images from the resulting NeRF, we can perform novel high dynamic range (HDR) view synthesis tasks. In addition to changing the camera viewpoint, we can manipulate focus, exposure, and tonemapping after the fact. Although a single raw image appears significantly more noisy than a postprocessed one, we show that NeRF is highly robust to the zeromean distribution of raw noise. When optimized over many noisy raw inputs (25\u2013200), NeRF produces a scene representation so accurate that its rendered novel views outperform dedicated single and multi-image deep raw denoisers run on the same wide baseline input images. As a result, our method, which we call RawNeRF, can reconstruct scenes from extremely noisy images captured in near-darkness.",
+    "publicationYear": "2022",
+    "pdfPath": "/iel7/9878378/9878366/09878457.pdf",
+    "publicationDate": "June 2022",
+    "doi": "10.1109/CVPR52688.2022.01571",
+    "formulaStrippedArticleTitle": "NeRF in the Dark: High Dynamic Range View Synthesis from Noisy Raw Images",
+    "displayPublicationTitle": "2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+    "authorNames": "Ben Mildenhall;Peter Hedman;Ricardo Martin-Brualla;Pratul P. Srinivasan;Jonathan T. Barron",
+    "publicationTitle": "2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+    "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=proceedings&title=NeRF+in+the+Dark%3A+High+Dynamic+Range+View+Synthesis+from+Noisy+Raw+Images&isbn=978-1-6654-6946-3&publicationDate=June+2022&author=Ben+Mildenhall&ContentID=10.1109/CVPR52688.2022.01571&orderBeanReset=true&startPage=16169&endPage=16178&proceedingName=2022+IEEE%2FCVF+Conference+on+Computer+Vision+and+Pattern+Recognition+%28CVPR%29",
+    "dateOfInsertion": "27 September 2022",
+    "startPage": "16169",
+    "endPage": "16178",
+    "pdfUrl": "/stamp/stamp.jsp?tp=&arnumber=9878457",
+    "keywords": [
+        {
+            "type": "IEEE Keywords",
+            "kwd": [
+                "Photography",
+                "Three-dimensional displays",
+                "Pipelines",
+                "Dynamic range",
+                "Cameras",
+                "Rendering (computer graphics)",
+                "Pattern recognition"
+            ]
+        },
+        {
+            "type": "INSPEC: Controlled Indexing",
+            "kwd": [
+                "cameras",
+                "feature extraction",
+                "image colour analysis",
+                "image denoising",
+                "image matching",
+                "image reconstruction",
+                "image representation",
+                "image resolution",
+                "image sensors",
+                "rendering (computer graphics)"
+            ]
+        },
+        {
+            "type": "INSPEC: Non-Controlled Indexing",
+            "kwd": [
+                "high dynamic range view synthesis",
+                "noisy raw images",
+                "Neural Radiance Fields",
+                "high quality novel view synthesis",
+                "posed input images",
+                "low dynamic range",
+                "lossy camera pipeline",
+                "simple noise distribution",
+                "raw sensor data",
+                "linear raw images",
+                "scene",
+                "raw output images",
+                "resulting NeRF",
+                "novel high dynamic range",
+                "synthesis tasks",
+                "single raw image",
+                "raw noise",
+                "noisy raw inputs",
+                "rendered novel views",
+                "multiimage deep raw denoisers",
+                "wide baseline input images",
+                "extremely noisy images"
+            ]
+        },
+        {
+            "type": "Author Keywords ",
+            "kwd": [
+                "3D from multi-view and sensors; Computational photography; Low-level vision; Vision + graphics"
+            ]
+        }
+    ],
+    "doiLink": "https://doi-org.proxy.lib.ohio-state.edu/10.1109/CVPR52688.2022.01571",
+    "displayPublicationDate": "18-24 June 2022",
+    "articleCopyRight": "2022 IEEE",
+    "issueLink": "/xpl/tocresult.jsp?isnumber=9878366&punumber=9878378",
+    "pubLink": "/xpl/conhome/9878378/proceeding",
+    "allowComments": false,
+    "isGetAddressInfoCaptured": false,
+    "isMarketingOptIn": false,
+    "pubTopics": [
+        {
+            "name": "Computing and Processing"
+        }
+    ],
+    "publisher": "IEEE",
+    "displayDocTitle": "NeRF in the Dark: High Dynamic Range View Synthesis from Noisy Raw Images",
+    "isStandard": false,
+    "isConference": true,
+    "isBookWithoutChapters": false,
+    "isChapter": false,
+    "isProduct": false,
+    "isEarlyAccess": false,
+    "isOpenAccess": false,
+    "isEphemera": false,
+    "xploreDocumentType": "Conference Publication",
+    "isBook": false,
+    "isJournal": false,
+    "isSpringer": false,
+    "accessionNumber": "22094915",
+    "isFreeDocument": false,
+    "isPromo": false,
+    "isDynamicHtml": true,
+    "htmlLink": "/document/9878457/",
+    "htmlAbstractLink": "/document/9878457/",
+    "isCustomDenial": false,
+    "persistentLink": "https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/servlet/opac?punumber=9878378",
+    "isNow": false,
+    "isSAE": false,
+    "isOUP": false,
+    "isSMPTE": false,
+    "openAccessFlag": "F",
+    "insertDate": "27 September 2022",
+    "ephemeraFlag": "false",
+    "title": "NeRF in the Dark: High Dynamic Range View Synthesis from Noisy Raw Images",
+    "confLoc": "New Orleans, LA, USA",
+    "html_flag": "false",
+    "ml_html_flag": "true",
+    "sourcePdf": "694600q6169.pdf",
+    "mlTime": "PT0.077849S",
+    "xplore-pub-id": "9878378",
+    "isNumber": "9878366",
+    "rightsLinkFlag": "1",
+    "contentType": "conferences",
+    "publicationNumber": "9878378",
+    "citationCount": "46",
+    "xplore-issue": "9878366",
+    "articleId": "9878457",
+    "contentTypeDisplay": "Conferences",
+    "subType": "IEEE Conference",
+    "_value": "IEEE",
+    "lastupdate": "2023-10-08",
+    "mediaPath": "/mediastore_new/IEEE/content/media/9878378/9878366/9878457"
+}

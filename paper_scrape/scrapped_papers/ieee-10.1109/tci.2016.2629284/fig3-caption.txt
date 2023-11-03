@@ -1,0 +1,2 @@
+Fig. 3. Spatially varying learning scheme of four global filters, taking into consideration the internal structure
+ of the bilinear.

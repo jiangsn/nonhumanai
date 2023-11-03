@@ -1,0 +1,1 @@
+Fig. 2 Neural task programming (ntp): given an input program, a task specification, and the current environment observation, a NTP model predicts the sub-level program to run, the subsequence of the task specification that the sub-level program should take as input, and if the current program should stop.

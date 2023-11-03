@@ -1,0 +1,1 @@
+Figure 1: Using a handheld smartphone camera, we capture two images of a scene, one with the subject and one without. We employ a deep network with an adversarial loss to recover alpha matte and foreground color. We composite the result onto a novel background.

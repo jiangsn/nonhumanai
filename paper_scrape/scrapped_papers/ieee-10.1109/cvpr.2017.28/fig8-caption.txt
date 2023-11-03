@@ -1,0 +1,1 @@
+Figure 8. What 3D context does the network learn? The first figure shows the input depth map (a desk) and the following figures show the predictions for other objects. Without observing any information for other objects the SSCNet is able to hallucinate their locations based on the observed object and the learned 3D context.

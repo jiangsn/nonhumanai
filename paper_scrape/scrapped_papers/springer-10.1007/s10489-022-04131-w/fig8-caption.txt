@@ -1,0 +1,1 @@
+The evaluation architecture is built by combining the Gazebo simulator with ROS, Gym, and Spinning Up. We can subscribe and publish the states (pose and velocity)of the ball and the robot from Gazebo with the Gazebo_msgs in ROS. These states should be fed into the Gym toolkit, which allows us to use the RL algorithms in Spinning Up

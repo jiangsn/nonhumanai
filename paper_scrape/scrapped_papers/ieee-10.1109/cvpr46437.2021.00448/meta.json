@@ -1,0 +1,281 @@
+{
+    "userInfo": {
+        "customerNameRaw": "The Ohio State University",
+        "institutionName": "The Ohio State University",
+        "institute": true,
+        "member": false,
+        "individual": false,
+        "guest": false,
+        "subscribedContent": false,
+        "fileCabinetContent": false,
+        "fileCabinetUser": false,
+        "institutionalFileCabinetUser": false,
+        "products": "IEL|EBOOKS:1974:2014|JRNLARCH:1884:1994|CONFARCH:1951:1999|IBM:1872:2020|VDE|NOKIA BELL LABS|",
+        "instType": "Academic",
+        "userIds": [
+            7827
+        ],
+        "showPatentCitations": true,
+        "showGet802Link": true,
+        "openUrlImgLoc": "http://library-osu-edu.proxy.lib.ohio-state.edu/resources/serialssolutions/buttons/button75x25edit.jpg",
+        "openUrlLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu",
+        "instLogoFile": "7827_OSULHoriz.png",
+        "openUrlTxt": "Find It!",
+        "showOpenUrlLink": true,
+        "marketingInfoCaptured": false,
+        "tracked": false,
+        "ringGoldId": "2647",
+        "delegatedAdmin": false,
+        "desktop": false,
+        "isInstitutionDashboardEnabled": false,
+        "isInstitutionProfileEnabled": false,
+        "isRoamingEnabled": true,
+        "isDelegatedAdmin": false,
+        "isMdl": false,
+        "isCwg": false,
+        "isIel": true,
+        "isAcademic": true
+    },
+    "authors": [
+        {
+            "name": "Erika Lu",
+            "affiliation": [
+                "Google Research",
+                "University of Oxford"
+            ],
+            "firstName": "Erika",
+            "lastName": "Lu",
+            "id": "37088455941"
+        },
+        {
+            "name": "Forrester Cole",
+            "affiliation": [
+                "Google Research"
+            ],
+            "firstName": "Forrester",
+            "lastName": "Cole",
+            "id": "37887497800"
+        },
+        {
+            "name": "Tali Dekel",
+            "affiliation": [
+                "Google Research",
+                "Weizmann Institute of Science"
+            ],
+            "firstName": "Tali",
+            "lastName": "Dekel",
+            "id": "37073267200"
+        },
+        {
+            "name": "Andrew Zisserman",
+            "affiliation": [
+                "University of Oxford"
+            ],
+            "firstName": "Andrew",
+            "lastName": "Zisserman",
+            "id": "37266140000"
+        },
+        {
+            "name": "William T. Freeman",
+            "affiliation": [
+                "Google Research"
+            ],
+            "firstName": "William T.",
+            "lastName": "Freeman",
+            "id": "37283735800"
+        },
+        {
+            "name": "Michael Rubinstein",
+            "affiliation": [
+                "Google Research"
+            ],
+            "firstName": "Michael",
+            "lastName": "Rubinstein",
+            "id": "37955444500"
+        }
+    ],
+    "isbn": [
+        {
+            "format": "Electronic ISBN",
+            "value": "978-1-6654-4509-2",
+            "isbnType": ""
+        },
+        {
+            "format": "Print on Demand(PoD) ISBN",
+            "value": "978-1-6654-4510-8",
+            "isbnType": ""
+        }
+    ],
+    "issn": [
+        {
+            "format": "Electronic ISSN",
+            "value": "2575-7075"
+        },
+        {
+            "format": "Print on Demand(PoD) ISSN",
+            "value": "1063-6919"
+        }
+    ],
+    "articleNumber": "9577599",
+    "dbTime": "1 ms",
+    "metrics": {
+        "citationCountPaper": 8,
+        "citationCountPatent": 0,
+        "totalDownloads": 60
+    },
+    "purchaseOptions": {
+        "showOtherFormatPricingTab": false,
+        "showPdfFormatPricingTab": true,
+        "pdfPricingInfoAvailable": true,
+        "otherPricingInfoAvailable": false,
+        "mandatoryBundle": false,
+        "optionalBundle": false,
+        "displayTextWhenOtherFormatPricingNotAvailable": "The purchase and pricing options for this item are unavailable. Select items are only available as part of a subscription package. You may try again later or <a href='https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/xpl/contact' target='_blank'>contact us</a> for more information.",
+        "pdfPricingInfo": [
+            {
+                "memberPrice": "$14.95",
+                "nonMemberPrice": "$33.00",
+                "partNumber": "9577599",
+                "type": "PDF/HTML"
+            }
+        ],
+        "openUrlFullLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu?url_ver=Z39.88-2004&rfr_id=info:sid/IEEE.org:XPLORE&rft_id=info:doi/10.1109/CVPR46437.2021.00448&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&rft.atitle=Omnimatte: Associating Objects and Their Effects in Video&rft.jtitle=2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)&rft.date=2021&rft.spage=4505&rft.epage=4513&rft.eissn=2575-7075&rft.au=Erika Lu&rft.aulast=Erika Lu&rft.isbn=978-1-6654-4509-2"
+    },
+    "getProgramTermsAccepted": false,
+    "sections": {
+        "abstract": "true",
+        "authors": "true",
+        "figures": "true",
+        "multimedia": "false",
+        "references": "true",
+        "citedby": "true",
+        "keywords": "true",
+        "definitions": "false",
+        "algorithm": "false",
+        "dataset": "false",
+        "cadmore": "false",
+        "footnotes": "true",
+        "disclaimer": "false",
+        "relatedContent": "false",
+        "metrics": "true"
+    },
+    "abstract": "Computer vision is increasingly effective at segmenting objects in images and videos; however, scene effects related to the objects\u2014shadows, reflections, generated smoke, etc.\u2014are typically overlooked. Identifying such scene effects and associating them with the objects producing them is important for improving our fundamental understanding of visual scenes, and can also assist a variety of applications such as removing, duplicating, or enhancing objects in video. In this work, we take a step towards solving this novel problem of automatically associating objects with their effects in video. Given an ordinary video and a rough segmentation mask over time of one or more subjects of interest, we estimate an omnimatte for each subject\u2014an alpha matte and color image that includes the subject along with all its related time-varying scene elements. Our model is trained only on the input video in a self-supervised manner, without any manual labels, and is generic\u2014it produces omnimattes automatically for arbitrary objects and a variety of effects. We show results on real-world videos containing interactions between different types of subjects (cars, animals, people) and complex effects, ranging from semitransparent elements such as smoke and reflections, to fully opaque effects such as objects attached to the subject.\n<sup xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">1</sup>",
+    "publicationYear": "2021",
+    "pdfPath": "/iel7/9577055/9577056/09577599.pdf",
+    "publicationDate": "June 2021",
+    "doi": "10.1109/CVPR46437.2021.00448",
+    "formulaStrippedArticleTitle": "Omnimatte: Associating Objects and Their Effects in Video",
+    "displayPublicationTitle": "2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+    "authorNames": "Erika Lu;Forrester Cole;Tali Dekel;Andrew Zisserman;William T. Freeman;Michael Rubinstein",
+    "publicationTitle": "2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+    "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=proceedings&title=Omnimatte%3A+Associating+Objects+and+Their+Effects+in+Video&isbn=978-1-6654-4509-2&publicationDate=June+2021&author=Erika+Lu&ContentID=10.1109/CVPR46437.2021.00448&orderBeanReset=true&startPage=4505&endPage=4513&proceedingName=2021+IEEE%2FCVF+Conference+on+Computer+Vision+and+Pattern+Recognition+%28CVPR%29",
+    "dateOfInsertion": "02 November 2021",
+    "startPage": "4505",
+    "endPage": "4513",
+    "pdfUrl": "/stamp/stamp.jsp?tp=&arnumber=9577599",
+    "keywords": [
+        {
+            "type": "IEEE Keywords",
+            "kwd": [
+                "Training",
+                "Image segmentation",
+                "Computer vision",
+                "Color",
+                "Visual effects",
+                "Reflection",
+                "Pattern recognition"
+            ]
+        },
+        {
+            "type": "INSPEC: Controlled Indexing",
+            "kwd": [
+                "computer vision",
+                "image colour analysis",
+                "image enhancement",
+                "image segmentation",
+                "natural scenes",
+                "object detection",
+                "supervised learning",
+                "video signal processing"
+            ]
+        },
+        {
+            "type": "INSPEC: Non-Controlled Indexing",
+            "kwd": [
+                "ordinary video",
+                "rough segmentation",
+                "omnimatte",
+                "alpha matte",
+                "color image",
+                "input video",
+                "computer vision",
+                "scene effects",
+                "visual scenes",
+                "object enhancement",
+                "time-varying scene elements",
+                "self-supervised manner"
+            ]
+        }
+    ],
+    "doiLink": "https://doi-org.proxy.lib.ohio-state.edu/10.1109/CVPR46437.2021.00448",
+    "displayPublicationDate": "20-25 June 2021",
+    "articleCopyRight": "2021 IEEE",
+    "issueLink": "/xpl/tocresult.jsp?isnumber=9577056&punumber=9577055",
+    "pubLink": "/xpl/conhome/9577055/proceeding",
+    "allowComments": false,
+    "isGetAddressInfoCaptured": false,
+    "isMarketingOptIn": false,
+    "pubTopics": [
+        {
+            "name": "Computing and Processing"
+        }
+    ],
+    "publisher": "IEEE",
+    "displayDocTitle": "Omnimatte: Associating Objects and Their Effects in Video",
+    "isStandard": false,
+    "isConference": true,
+    "isBookWithoutChapters": false,
+    "isChapter": false,
+    "isProduct": false,
+    "isEarlyAccess": false,
+    "isOpenAccess": false,
+    "isEphemera": false,
+    "xploreDocumentType": "Conference Publication",
+    "isBook": false,
+    "isJournal": false,
+    "isSpringer": false,
+    "accessionNumber": "21413712",
+    "isFreeDocument": false,
+    "isPromo": false,
+    "isDynamicHtml": true,
+    "htmlLink": "/document/9577599/",
+    "htmlAbstractLink": "/document/9577599/",
+    "isCustomDenial": false,
+    "persistentLink": "https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/servlet/opac?punumber=9577055",
+    "isNow": false,
+    "isSAE": false,
+    "isOUP": false,
+    "isSMPTE": false,
+    "openAccessFlag": "F",
+    "insertDate": "02 November 2021",
+    "ephemeraFlag": "false",
+    "title": "Omnimatte: Associating Objects and Their Effects in Video",
+    "confLoc": "Nashville, TN, USA",
+    "html_flag": "false",
+    "ml_html_flag": "true",
+    "sourcePdf": "450900e505.pdf",
+    "mlTime": "PT0.077148S",
+    "xplore-pub-id": "9577055",
+    "isNumber": "9577056",
+    "rightsLinkFlag": "1",
+    "contentType": "conferences",
+    "publicationNumber": "9577055",
+    "citationCount": "8",
+    "xplore-issue": "9577056",
+    "articleId": "9577599",
+    "contentTypeDisplay": "Conferences",
+    "subType": "IEEE Conference",
+    "_value": "IEEE",
+    "lastupdate": "2023-10-08",
+    "mediaPath": "/mediastore_new/IEEE/content/media/9577055/9577056/9577599"
+}

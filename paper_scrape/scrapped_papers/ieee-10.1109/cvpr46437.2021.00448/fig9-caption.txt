@@ -1,0 +1,2 @@
+Figure 9. 
+Ablations. We ablate several components of our method: Left: (a-b) sample input frame and our result using our full method, and (c) removing the brightness adjustment, and (d) removing the background offset (Section 3.4). Right: we show two examples comparing our method with and without the flow component (f-g).

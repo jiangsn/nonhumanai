@@ -1,0 +1,258 @@
+{
+    "userInfo": {
+        "customerNameRaw": "The Ohio State University",
+        "institutionName": "The Ohio State University",
+        "institute": true,
+        "member": false,
+        "individual": false,
+        "guest": false,
+        "subscribedContent": false,
+        "fileCabinetContent": false,
+        "fileCabinetUser": false,
+        "institutionalFileCabinetUser": false,
+        "products": "IEL|EBOOKS:1974:2014|JRNLARCH:1884:1994|CONFARCH:1951:1999|IBM:1872:2020|VDE|NOKIA BELL LABS|",
+        "instType": "Academic",
+        "userIds": [
+            7827
+        ],
+        "showPatentCitations": true,
+        "showGet802Link": true,
+        "openUrlImgLoc": "http://library-osu-edu.proxy.lib.ohio-state.edu/resources/serialssolutions/buttons/button75x25edit.jpg",
+        "openUrlLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu",
+        "instLogoFile": "7827_OSULHoriz.png",
+        "openUrlTxt": "Find It!",
+        "showOpenUrlLink": true,
+        "marketingInfoCaptured": false,
+        "tracked": false,
+        "ringGoldId": "2647",
+        "delegatedAdmin": false,
+        "desktop": false,
+        "isInstitutionDashboardEnabled": false,
+        "isInstitutionProfileEnabled": false,
+        "isRoamingEnabled": true,
+        "isDelegatedAdmin": false,
+        "isMdl": false,
+        "isCwg": false,
+        "isIel": true,
+        "isAcademic": true
+    },
+    "authors": [
+        {
+            "name": "Kevin Xie",
+            "affiliation": [
+                "University of Toronto and Vector Institute",
+                "Nvidia"
+            ],
+            "firstName": "Kevin",
+            "lastName": "Xie",
+            "id": "37089230766"
+        },
+        {
+            "name": "Tingwu Wang",
+            "affiliation": [
+                "University of Toronto and Vector Institute",
+                "Nvidia"
+            ],
+            "firstName": "Tingwu",
+            "lastName": "Wang",
+            "id": "37089315078"
+        },
+        {
+            "name": "Umar Iqbal",
+            "affiliation": [
+                "Nvidia"
+            ],
+            "firstName": "Umar",
+            "lastName": "Iqbal",
+            "id": "37088213521"
+        },
+        {
+            "name": "Yunrong Guo",
+            "affiliation": [
+                "Nvidia"
+            ],
+            "firstName": "Yunrong",
+            "lastName": "Guo",
+            "id": "37089229615"
+        },
+        {
+            "name": "Sanja Fidler",
+            "affiliation": [
+                "University of Toronto and Vector Institute",
+                "Nvidia"
+            ],
+            "firstName": "Sanja",
+            "lastName": "Fidler",
+            "id": "37689726500"
+        },
+        {
+            "name": "Florian Shkurti",
+            "affiliation": [
+                "University of Toronto and Vector Institute"
+            ],
+            "firstName": "Florian",
+            "lastName": "Shkurti",
+            "id": "37706697200"
+        }
+    ],
+    "isbn": [
+        {
+            "format": "Electronic ISBN",
+            "value": "978-1-6654-2812-5",
+            "isbnType": ""
+        },
+        {
+            "format": "Print on Demand(PoD) ISBN",
+            "value": "978-1-6654-2813-2",
+            "isbnType": ""
+        }
+    ],
+    "issn": [
+        {
+            "format": "Electronic ISSN",
+            "value": "2380-7504"
+        },
+        {
+            "format": "Print on Demand(PoD) ISSN",
+            "value": "1550-5499"
+        }
+    ],
+    "articleNumber": "9711215",
+    "dbTime": "1 ms",
+    "metrics": {
+        "citationCountPaper": 25,
+        "citationCountPatent": 0,
+        "totalDownloads": 96
+    },
+    "purchaseOptions": {
+        "showOtherFormatPricingTab": false,
+        "showPdfFormatPricingTab": true,
+        "pdfPricingInfoAvailable": true,
+        "otherPricingInfoAvailable": false,
+        "mandatoryBundle": false,
+        "optionalBundle": false,
+        "displayTextWhenOtherFormatPricingNotAvailable": "The purchase and pricing options for this item are unavailable. Select items are only available as part of a subscription package. You may try again later or <a href='https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/xpl/contact' target='_blank'>contact us</a> for more information.",
+        "pdfPricingInfo": [
+            {
+                "memberPrice": "$14.95",
+                "nonMemberPrice": "$33.00",
+                "partNumber": "9711215",
+                "type": "PDF/HTML"
+            }
+        ],
+        "openUrlFullLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu?url_ver=Z39.88-2004&rfr_id=info:sid/IEEE.org:XPLORE&rft_id=info:doi/10.1109/ICCV48922.2021.01133&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&rft.atitle=Physics-based Human Motion Estimation and Synthesis from Videos&rft.jtitle=2021 IEEE/CVF International Conference on Computer Vision (ICCV)&rft.date=2021&rft.spage=11512&rft.epage=11521&rft.eissn=2380-7504&rft.au=Kevin Xie&rft.aulast=Kevin Xie&rft.isbn=978-1-6654-2812-5"
+    },
+    "getProgramTermsAccepted": false,
+    "sections": {
+        "abstract": "true",
+        "authors": "true",
+        "figures": "true",
+        "multimedia": "false",
+        "references": "true",
+        "citedby": "true",
+        "keywords": "true",
+        "definitions": "false",
+        "algorithm": "false",
+        "dataset": "false",
+        "cadmore": "false",
+        "footnotes": "true",
+        "disclaimer": "false",
+        "relatedContent": "false",
+        "metrics": "true"
+    },
+    "abstract": "Human motion synthesis is an important problem with applications in graphics, gaming and simulation environments for robotics. Existing methods require accurate motion capture data for training, which is costly to obtain. Instead, we propose a framework for training generative models of physically plausible human motion directly from monocular RGB videos, which are much more widely available. At the core of our method is a novel optimization formulation that corrects imperfect image-based pose estimations by enforcing physics constraints and reasons about contacts in a differentiable way. This optimization yields corrected 3D poses and motions, as well as their corresponding contact forces. Results show that our physically-corrected motions significantly outperform prior work on pose estimation. We can then use these to train a generative model to synthesize future motion. We demonstrate both qualitatively and quantitatively significantly improved motion estimation, synthesis quality and physical plausibility achieved by our method on the large scale Human3.6m dataset [12] as compared to prior kinematic and physics-based methods. By enabling learning of motion synthesis from video, our method paves the way for large-scale, realistic and diverse motion synthesis.",
+    "publicationYear": "2021",
+    "pdfPath": "/iel7/9709627/9709628/09711215.pdf",
+    "publicationDate": "October 2021",
+    "doi": "10.1109/ICCV48922.2021.01133",
+    "formulaStrippedArticleTitle": "Physics-based Human Motion Estimation and Synthesis from Videos",
+    "displayPublicationTitle": "2021 IEEE/CVF International Conference on Computer Vision (ICCV)",
+    "authorNames": "Kevin Xie;Tingwu Wang;Umar Iqbal;Yunrong Guo;Sanja Fidler;Florian Shkurti",
+    "publicationTitle": "2021 IEEE/CVF International Conference on Computer Vision (ICCV)",
+    "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=proceedings&title=Physics-based+Human+Motion+Estimation+and+Synthesis+from+Videos&isbn=978-1-6654-2812-5&publicationDate=October+2021&author=Kevin+Xie&ContentID=10.1109/ICCV48922.2021.01133&orderBeanReset=true&startPage=11512&endPage=11521&proceedingName=2021+IEEE%2FCVF+International+Conference+on+Computer+Vision+%28ICCV%29",
+    "dateOfInsertion": "28 February 2022",
+    "startPage": "11512",
+    "endPage": "11521",
+    "pdfUrl": "/stamp/stamp.jsp?tp=&arnumber=9711215",
+    "keywords": [
+        {
+            "type": "IEEE Keywords",
+            "kwd": [
+                "Training",
+                "Three-dimensional displays",
+                "Motion estimation",
+                "Computational modeling",
+                "Pose estimation",
+                "Kinematics",
+                "Noise measurement"
+            ]
+        },
+        {
+            "type": "Author Keywords ",
+            "kwd": [
+                "Gestures and body pose",
+                "Motion and tracking"
+            ]
+        }
+    ],
+    "doiLink": "https://doi-org.proxy.lib.ohio-state.edu/10.1109/ICCV48922.2021.01133",
+    "displayPublicationDate": "10-17 October 2021",
+    "articleCopyRight": "2021 IEEE",
+    "issueLink": "/xpl/tocresult.jsp?isnumber=9709628&punumber=9709627",
+    "pubLink": "/xpl/conhome/9709627/proceeding",
+    "allowComments": false,
+    "isGetAddressInfoCaptured": false,
+    "isMarketingOptIn": false,
+    "pubTopics": [
+        {
+            "name": "Computing and Processing"
+        }
+    ],
+    "publisher": "IEEE",
+    "displayDocTitle": "Physics-based Human Motion Estimation and Synthesis from Videos",
+    "isStandard": false,
+    "isConference": true,
+    "isBookWithoutChapters": false,
+    "isChapter": false,
+    "isProduct": false,
+    "isEarlyAccess": false,
+    "isOpenAccess": false,
+    "isEphemera": false,
+    "xploreDocumentType": "Conference Publication",
+    "isBook": false,
+    "isJournal": false,
+    "isSpringer": false,
+    "isFreeDocument": false,
+    "isPromo": false,
+    "isDynamicHtml": true,
+    "htmlLink": "/document/9711215/",
+    "htmlAbstractLink": "/document/9711215/",
+    "isCustomDenial": false,
+    "persistentLink": "https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/servlet/opac?punumber=9709627",
+    "isNow": false,
+    "isSAE": false,
+    "isOUP": false,
+    "isSMPTE": false,
+    "openAccessFlag": "F",
+    "insertDate": "28 February 2022",
+    "ephemeraFlag": "false",
+    "title": "Physics-based Human Motion Estimation and Synthesis from Videos",
+    "confLoc": "Montreal, QC, Canada",
+    "html_flag": "false",
+    "ml_html_flag": "true",
+    "sourcePdf": "281200l1512.pdf",
+    "mlTime": "PT0.077123S",
+    "xplore-pub-id": "9709627",
+    "isNumber": "9709628",
+    "rightsLinkFlag": "1",
+    "contentType": "conferences",
+    "publicationNumber": "9709627",
+    "citationCount": "25",
+    "xplore-issue": "9709628",
+    "articleId": "9711215",
+    "contentTypeDisplay": "Conferences",
+    "subType": "IEEE Conference",
+    "_value": "IEEE",
+    "lastupdate": "2023-09-10",
+    "mediaPath": "/mediastore_new/IEEE/content/media/9709627/9709628/9711215"
+}

@@ -1,0 +1,1 @@
+Figure 4: Quantitative comparison. We show a quantitative comparison across metrics on our test sets. (Left) Results averaged across our traditional and CNN-based distortions. (Right) Results averaged across our 4 real algorithm sets.

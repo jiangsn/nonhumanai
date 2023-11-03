@@ -1,0 +1,255 @@
+{
+    "userInfo": {
+        "customerNameRaw": "The Ohio State University",
+        "institutionName": "The Ohio State University",
+        "institute": true,
+        "member": false,
+        "individual": false,
+        "guest": false,
+        "subscribedContent": false,
+        "fileCabinetContent": false,
+        "fileCabinetUser": false,
+        "institutionalFileCabinetUser": false,
+        "products": "IEL|EBOOKS:1974:2014|JRNLARCH:1884:1994|CONFARCH:1951:1999|IBM:1872:2020|VDE|NOKIA BELL LABS|",
+        "instType": "Academic",
+        "userIds": [
+            7827
+        ],
+        "showPatentCitations": true,
+        "showGet802Link": true,
+        "openUrlImgLoc": "http://library-osu-edu.proxy.lib.ohio-state.edu/resources/serialssolutions/buttons/button75x25edit.jpg",
+        "openUrlLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu",
+        "instLogoFile": "7827_OSULHoriz.png",
+        "openUrlTxt": "Find It!",
+        "showOpenUrlLink": true,
+        "marketingInfoCaptured": false,
+        "tracked": false,
+        "ringGoldId": "2647",
+        "delegatedAdmin": false,
+        "desktop": false,
+        "isInstitutionDashboardEnabled": false,
+        "isInstitutionProfileEnabled": false,
+        "isRoamingEnabled": true,
+        "isDelegatedAdmin": false,
+        "isMdl": false,
+        "isCwg": false,
+        "isIel": true,
+        "isAcademic": true
+    },
+    "authors": [
+        {
+            "name": "Andrew Liu",
+            "affiliation": [
+                "Google Research"
+            ],
+            "firstName": "Andrew",
+            "lastName": "Liu",
+            "id": "37089016779"
+        },
+        {
+            "name": "Ameesh Makadia",
+            "affiliation": [
+                "Google Research"
+            ],
+            "firstName": "Ameesh",
+            "lastName": "Makadia",
+            "id": "37270620600"
+        },
+        {
+            "name": "Richard Tucker",
+            "affiliation": [
+                "Google Research"
+            ],
+            "firstName": "Richard",
+            "lastName": "Tucker",
+            "id": "37087234101"
+        },
+        {
+            "name": "Noah Snavely",
+            "affiliation": [
+                "Google Research"
+            ],
+            "firstName": "Noah",
+            "lastName": "Snavely",
+            "id": "37397866800"
+        },
+        {
+            "name": "Varun Jampani",
+            "affiliation": [
+                "Google Research"
+            ],
+            "firstName": "Varun",
+            "lastName": "Jampani",
+            "id": "37085415670"
+        },
+        {
+            "name": "Angjoo Kanazawa",
+            "affiliation": [
+                "Google Research"
+            ],
+            "firstName": "Angjoo",
+            "lastName": "Kanazawa",
+            "id": "37085996056"
+        }
+    ],
+    "isbn": [
+        {
+            "format": "Electronic ISBN",
+            "value": "978-1-6654-2812-5",
+            "isbnType": ""
+        },
+        {
+            "format": "Print on Demand(PoD) ISBN",
+            "value": "978-1-6654-2813-2",
+            "isbnType": ""
+        }
+    ],
+    "issn": [
+        {
+            "format": "Electronic ISSN",
+            "value": "2380-7504"
+        },
+        {
+            "format": "Print on Demand(PoD) ISSN",
+            "value": "1550-5499"
+        }
+    ],
+    "articleNumber": "9710266",
+    "dbTime": "1 ms",
+    "metrics": {
+        "citationCountPaper": 19,
+        "citationCountPatent": 0,
+        "totalDownloads": 68
+    },
+    "purchaseOptions": {
+        "showOtherFormatPricingTab": false,
+        "showPdfFormatPricingTab": true,
+        "pdfPricingInfoAvailable": true,
+        "otherPricingInfoAvailable": false,
+        "mandatoryBundle": false,
+        "optionalBundle": false,
+        "displayTextWhenOtherFormatPricingNotAvailable": "The purchase and pricing options for this item are unavailable. Select items are only available as part of a subscription package. You may try again later or <a href='https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/xpl/contact' target='_blank'>contact us</a> for more information.",
+        "pdfPricingInfo": [
+            {
+                "memberPrice": "$14.95",
+                "nonMemberPrice": "$33.00",
+                "partNumber": "9710266",
+                "type": "PDF/HTML"
+            }
+        ],
+        "openUrlFullLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu?url_ver=Z39.88-2004&rfr_id=info:sid/IEEE.org:XPLORE&rft_id=info:doi/10.1109/ICCV48922.2021.01419&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&rft.atitle=Infinite Nature: Perpetual View Generation of Natural Scenes from a Single Image&rft.jtitle=2021 IEEE/CVF International Conference on Computer Vision (ICCV)&rft.date=2021&rft.spage=14438&rft.epage=14447&rft.eissn=2380-7504&rft.au=Andrew Liu&rft.aulast=Andrew Liu&rft.isbn=978-1-6654-2812-5"
+    },
+    "getProgramTermsAccepted": false,
+    "sections": {
+        "abstract": "true",
+        "authors": "true",
+        "figures": "true",
+        "multimedia": "false",
+        "references": "true",
+        "citedby": "true",
+        "keywords": "true",
+        "definitions": "false",
+        "algorithm": "false",
+        "dataset": "false",
+        "cadmore": "false",
+        "footnotes": "false",
+        "disclaimer": "false",
+        "relatedContent": "false",
+        "metrics": "true"
+    },
+    "abstract": "We introduce the problem of perpetual view generation\u2014 long-range generation of novel views corresponding to an arbitrarily long camera trajectory given a single image. This is a challenging problem that goes far beyond the capabilities of current view synthesis methods, which quickly degenerate when presented with large camera motions. Methods for video generation also have limited ability to produce long sequences and are often agnostic to scene geometry. We take a hybrid approach that integrates both geometry and image synthesis in an iterative \u2018render, refine and repeat\u2019 framework, allowing for long-range generation that cover large distances after hundreds of frames. Our approach can be trained from a set of monocular video sequences. We propose a dataset of aerial footage of coastal scenes, and compare our method with recent view synthesis and conditional video generation baselines, showing that it can generate plausible scenes for much longer time horizons over large camera trajectories compared to existing methods. Project page at https://infinite-nature.github.io.",
+    "publicationYear": "2021",
+    "pdfPath": "/iel7/9709627/9709628/09710266.pdf",
+    "publicationDate": "October 2021",
+    "doi": "10.1109/ICCV48922.2021.01419",
+    "formulaStrippedArticleTitle": "Infinite Nature: Perpetual View Generation of Natural Scenes from a Single Image",
+    "displayPublicationTitle": "2021 IEEE/CVF International Conference on Computer Vision (ICCV)",
+    "authorNames": "Andrew Liu;Ameesh Makadia;Richard Tucker;Noah Snavely;Varun Jampani;Angjoo Kanazawa",
+    "publicationTitle": "2021 IEEE/CVF International Conference on Computer Vision (ICCV)",
+    "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=proceedings&title=Infinite+Nature%3A+Perpetual+View+Generation+of+Natural+Scenes+from+a+Single+Image&isbn=978-1-6654-2812-5&publicationDate=October+2021&author=Andrew+Liu&ContentID=10.1109/ICCV48922.2021.01419&orderBeanReset=true&startPage=14438&endPage=14447&proceedingName=2021+IEEE%2FCVF+International+Conference+on+Computer+Vision+%28ICCV%29",
+    "dateOfInsertion": "28 February 2022",
+    "startPage": "14438",
+    "endPage": "14447",
+    "pdfUrl": "/stamp/stamp.jsp?tp=&arnumber=9710266",
+    "keywords": [
+        {
+            "type": "IEEE Keywords",
+            "kwd": [
+                "Geometry",
+                "Computer vision",
+                "Image synthesis",
+                "Video sequences",
+                "Sea measurements",
+                "Cameras",
+                "Hybrid power systems"
+            ]
+        },
+        {
+            "type": "Author Keywords ",
+            "kwd": [
+                "Image and video synthesis",
+                "3D from a single image and shape-from-x"
+            ]
+        }
+    ],
+    "doiLink": "https://doi-org.proxy.lib.ohio-state.edu/10.1109/ICCV48922.2021.01419",
+    "displayPublicationDate": "10-17 October 2021",
+    "articleCopyRight": "2021 IEEE",
+    "issueLink": "/xpl/tocresult.jsp?isnumber=9709628&punumber=9709627",
+    "pubLink": "/xpl/conhome/9709627/proceeding",
+    "allowComments": false,
+    "isGetAddressInfoCaptured": false,
+    "isMarketingOptIn": false,
+    "pubTopics": [
+        {
+            "name": "Computing and Processing"
+        }
+    ],
+    "publisher": "IEEE",
+    "displayDocTitle": "Infinite Nature: Perpetual View Generation of Natural Scenes from a Single Image",
+    "isStandard": false,
+    "isConference": true,
+    "isBookWithoutChapters": false,
+    "isChapter": false,
+    "isProduct": false,
+    "isEarlyAccess": false,
+    "isOpenAccess": false,
+    "isEphemera": false,
+    "xploreDocumentType": "Conference Publication",
+    "isBook": false,
+    "isJournal": false,
+    "isSpringer": false,
+    "isFreeDocument": false,
+    "isPromo": false,
+    "isDynamicHtml": true,
+    "htmlLink": "/document/9710266/",
+    "htmlAbstractLink": "/document/9710266/",
+    "isCustomDenial": false,
+    "persistentLink": "https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/servlet/opac?punumber=9709627",
+    "isNow": false,
+    "isSAE": false,
+    "isOUP": false,
+    "isSMPTE": false,
+    "openAccessFlag": "F",
+    "insertDate": "28 February 2022",
+    "ephemeraFlag": "false",
+    "title": "Infinite Nature: Perpetual View Generation of Natural Scenes from a Single Image",
+    "confLoc": "Montreal, QC, Canada",
+    "html_flag": "false",
+    "ml_html_flag": "true",
+    "sourcePdf": "281200o4438.pdf",
+    "mlTime": "PT0.097359S",
+    "xplore-pub-id": "9709627",
+    "isNumber": "9709628",
+    "rightsLinkFlag": "1",
+    "contentType": "conferences",
+    "publicationNumber": "9709627",
+    "citationCount": "19",
+    "xplore-issue": "9709628",
+    "articleId": "9710266",
+    "contentTypeDisplay": "Conferences",
+    "subType": "IEEE Conference",
+    "_value": "IEEE",
+    "lastupdate": "2023-10-08",
+    "mediaPath": "/mediastore_new/IEEE/content/media/9709627/9709628/9710266"
+}

@@ -1,0 +1,1 @@
+Table 4. In unconstrained single-speaker settings, our lip2wav model achieves almost 4× more intelligible speech than the previous methods

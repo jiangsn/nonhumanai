@@ -1,0 +1,259 @@
+{
+    "userInfo": {
+        "customerNameRaw": "The Ohio State University",
+        "institutionName": "The Ohio State University",
+        "institute": true,
+        "member": false,
+        "individual": false,
+        "guest": false,
+        "subscribedContent": false,
+        "fileCabinetContent": false,
+        "fileCabinetUser": false,
+        "institutionalFileCabinetUser": false,
+        "products": "IEL|EBOOKS:1974:2014|JRNLARCH:1884:1994|CONFARCH:1951:1999|IBM:1872:2020|VDE|NOKIA BELL LABS|",
+        "instType": "Academic",
+        "userIds": [
+            7827
+        ],
+        "showPatentCitations": true,
+        "showGet802Link": true,
+        "openUrlImgLoc": "http://library-osu-edu.proxy.lib.ohio-state.edu/resources/serialssolutions/buttons/button75x25edit.jpg",
+        "openUrlLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu",
+        "instLogoFile": "7827_OSULHoriz.png",
+        "openUrlTxt": "Find It!",
+        "showOpenUrlLink": true,
+        "marketingInfoCaptured": false,
+        "tracked": false,
+        "ringGoldId": "2647",
+        "delegatedAdmin": false,
+        "desktop": false,
+        "isInstitutionDashboardEnabled": false,
+        "isInstitutionProfileEnabled": false,
+        "isRoamingEnabled": true,
+        "isDelegatedAdmin": false,
+        "isMdl": false,
+        "isCwg": false,
+        "isIel": true,
+        "isAcademic": true
+    },
+    "authors": [
+        {
+            "name": "Erroll Wood",
+            "affiliation": [
+                "Microsoft"
+            ],
+            "firstName": "Erroll",
+            "lastName": "Wood",
+            "id": "37086622699"
+        },
+        {
+            "name": "Tadas Baltru\u0161aitis",
+            "affiliation": [
+                "Microsoft"
+            ],
+            "firstName": "Tadas",
+            "lastName": "Baltru\u0161aitis",
+            "id": "37071444700"
+        },
+        {
+            "name": "Charlie Hewitt",
+            "affiliation": [
+                "Microsoft"
+            ],
+            "firstName": "Charlie",
+            "lastName": "Hewitt",
+            "id": "37087117674"
+        },
+        {
+            "name": "Sebastian Dziadzio",
+            "affiliation": [
+                "Microsoft"
+            ],
+            "firstName": "Sebastian",
+            "lastName": "Dziadzio",
+            "id": "37085718056"
+        },
+        {
+            "name": "Thomas J. Cashman",
+            "affiliation": [
+                "Microsoft"
+            ],
+            "firstName": "Thomas J.",
+            "lastName": "Cashman",
+            "id": "38514971200"
+        },
+        {
+            "name": "Jamie Shotton",
+            "affiliation": [
+                "Microsoft"
+            ],
+            "firstName": "Jamie",
+            "lastName": "Shotton",
+            "id": "37550019800"
+        }
+    ],
+    "isbn": [
+        {
+            "format": "Electronic ISBN",
+            "value": "978-1-6654-2812-5",
+            "isbnType": ""
+        },
+        {
+            "format": "Print on Demand(PoD) ISBN",
+            "value": "978-1-6654-2813-2",
+            "isbnType": ""
+        }
+    ],
+    "issn": [
+        {
+            "format": "Electronic ISSN",
+            "value": "2380-7504"
+        },
+        {
+            "format": "Print on Demand(PoD) ISSN",
+            "value": "1550-5499"
+        }
+    ],
+    "articleNumber": "9710332",
+    "dbTime": "1 ms",
+    "metrics": {
+        "citationCountPaper": 60,
+        "citationCountPatent": 0,
+        "totalDownloads": 92
+    },
+    "purchaseOptions": {
+        "showOtherFormatPricingTab": false,
+        "showPdfFormatPricingTab": true,
+        "pdfPricingInfoAvailable": true,
+        "otherPricingInfoAvailable": false,
+        "mandatoryBundle": false,
+        "optionalBundle": false,
+        "displayTextWhenOtherFormatPricingNotAvailable": "The purchase and pricing options for this item are unavailable. Select items are only available as part of a subscription package. You may try again later or <a href='https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/xpl/contact' target='_blank'>contact us</a> for more information.",
+        "pdfPricingInfo": [
+            {
+                "memberPrice": "$14.95",
+                "nonMemberPrice": "$33.00",
+                "partNumber": "9710332",
+                "type": "PDF/HTML"
+            }
+        ],
+        "openUrlFullLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu?url_ver=Z39.88-2004&rfr_id=info:sid/IEEE.org:XPLORE&rft_id=info:doi/10.1109/ICCV48922.2021.00366&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&rft.atitle=Fake it till you make it: face analysis in the wild using synthetic data alone&rft.jtitle=2021 IEEE/CVF International Conference on Computer Vision (ICCV)&rft.date=2021&rft.spage=3661&rft.epage=3671&rft.eissn=2380-7504&rft.au=Erroll Wood&rft.aulast=Erroll Wood&rft.isbn=978-1-6654-2812-5"
+    },
+    "getProgramTermsAccepted": false,
+    "sections": {
+        "abstract": "true",
+        "authors": "true",
+        "figures": "true",
+        "multimedia": "false",
+        "references": "true",
+        "citedby": "true",
+        "keywords": "true",
+        "definitions": "false",
+        "algorithm": "false",
+        "dataset": "false",
+        "cadmore": "false",
+        "footnotes": "false",
+        "disclaimer": "false",
+        "relatedContent": "false",
+        "metrics": "true"
+    },
+    "abstract": "We demonstrate that it is possible to perform face-related computer vision in the wild using synthetic data alone. The community has long enjoyed the benefits of synthesizing training data with graphics, but the domain gap between real and synthetic data has remained a problem, especially for human faces. Researchers have tried to bridge this gap with data mixing, domain adaptation, and domain-adversarial training, but we show that it is possible to synthesize data with minimal domain gap, so that models trained on synthetic data generalize to real in-the-wild datasets. We describe how to combine a procedurally-generated parametric 3D face model with a comprehensive library of hand-crafted assets to render training images with unprecedented realism and diversity. We train machine learning systems for face-related tasks such as landmark localization and face parsing, showing that synthetic data can both match real data in accuracy as well as open up new approaches where manual labeling would be impossible.",
+    "publicationYear": "2021",
+    "pdfPath": "/iel7/9709627/9709628/09710332.pdf",
+    "publicationDate": "October 2021",
+    "doi": "10.1109/ICCV48922.2021.00366",
+    "formulaStrippedArticleTitle": "Fake it till you make it: face analysis in the wild using synthetic data alone",
+    "displayPublicationTitle": "2021 IEEE/CVF International Conference on Computer Vision (ICCV)",
+    "authorNames": "Erroll Wood;Tadas Baltru\u0161aitis;Charlie Hewitt;Sebastian Dziadzio;Thomas J. Cashman;Jamie Shotton",
+    "publicationTitle": "2021 IEEE/CVF International Conference on Computer Vision (ICCV)",
+    "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=proceedings&title=Fake+it+till+you+make+it%3A+face+analysis+in+the+wild+using+synthetic+data+alone&isbn=978-1-6654-2812-5&publicationDate=October+2021&author=Erroll+Wood&ContentID=10.1109/ICCV48922.2021.00366&orderBeanReset=true&startPage=3661&endPage=3671&proceedingName=2021+IEEE%2FCVF+International+Conference+on+Computer+Vision+%28ICCV%29",
+    "dateOfInsertion": "28 February 2022",
+    "startPage": "3661",
+    "endPage": "3671",
+    "pdfUrl": "/stamp/stamp.jsp?tp=&arnumber=9710332",
+    "keywords": [
+        {
+            "type": "IEEE Keywords",
+            "kwd": [
+                "Training",
+                "Computer vision",
+                "Adaptation models",
+                "Solid modeling",
+                "Three-dimensional displays",
+                "Training data",
+                "Manuals"
+            ]
+        },
+        {
+            "type": "Author Keywords ",
+            "kwd": [
+                "Faces",
+                "Datasets and evaluation",
+                "Detection and localization in 2D and 3D",
+                "Image and video synthesis",
+                "Segmentation",
+                "grouping and shape"
+            ]
+        }
+    ],
+    "doiLink": "https://doi-org.proxy.lib.ohio-state.edu/10.1109/ICCV48922.2021.00366",
+    "displayPublicationDate": "10-17 October 2021",
+    "articleCopyRight": "2021 IEEE",
+    "issueLink": "/xpl/tocresult.jsp?isnumber=9709628&punumber=9709627",
+    "pubLink": "/xpl/conhome/9709627/proceeding",
+    "allowComments": false,
+    "isGetAddressInfoCaptured": false,
+    "isMarketingOptIn": false,
+    "pubTopics": [
+        {
+            "name": "Computing and Processing"
+        }
+    ],
+    "publisher": "IEEE",
+    "displayDocTitle": "Fake it till you make it: face analysis in the wild using synthetic data alone",
+    "isStandard": false,
+    "isConference": true,
+    "isBookWithoutChapters": false,
+    "isChapter": false,
+    "isProduct": false,
+    "isEarlyAccess": false,
+    "isOpenAccess": false,
+    "isEphemera": false,
+    "xploreDocumentType": "Conference Publication",
+    "isBook": false,
+    "isJournal": false,
+    "isSpringer": false,
+    "isFreeDocument": false,
+    "isPromo": false,
+    "isDynamicHtml": true,
+    "htmlLink": "/document/9710332/",
+    "htmlAbstractLink": "/document/9710332/",
+    "isCustomDenial": false,
+    "persistentLink": "https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/servlet/opac?punumber=9709627",
+    "isNow": false,
+    "isSAE": false,
+    "isOUP": false,
+    "isSMPTE": false,
+    "openAccessFlag": "F",
+    "insertDate": "28 February 2022",
+    "ephemeraFlag": "false",
+    "title": "Fake it till you make it: face analysis in the wild using synthetic data alone",
+    "confLoc": "Montreal, QC, Canada",
+    "html_flag": "false",
+    "ml_html_flag": "true",
+    "sourcePdf": "281200d661.pdf",
+    "mlTime": "PT0.094459S",
+    "xplore-pub-id": "9709627",
+    "isNumber": "9709628",
+    "rightsLinkFlag": "1",
+    "contentType": "conferences",
+    "publicationNumber": "9709627",
+    "citationCount": "60",
+    "xplore-issue": "9709628",
+    "articleId": "9710332",
+    "contentTypeDisplay": "Conferences",
+    "subType": "IEEE Conference",
+    "_value": "IEEE",
+    "lastupdate": "2023-10-08",
+    "mediaPath": "/mediastore_new/IEEE/content/media/9709627/9709628/9710332"
+}

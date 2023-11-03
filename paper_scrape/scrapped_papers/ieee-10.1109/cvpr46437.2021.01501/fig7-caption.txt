@@ -1,0 +1,2 @@
+Figure 7: 
+Some data augmentation techniques hardly improve IMAGENET-A accuracy. This demonstrates that IMAGENET-A can expose previously unnoticed faults in proposed robustness methods which do well on synthetic distribution shifts [30].

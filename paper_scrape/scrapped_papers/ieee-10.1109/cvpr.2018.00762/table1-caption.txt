@@ -1,0 +1,1 @@
+Table 1: Per-instance evaluation of DensePose-RCNN performance on COCO minival. All multi-task experiments are based on ResNet-50. DensePose-ST applies cascading to the base, single-task network.

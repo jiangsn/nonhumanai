@@ -1,0 +1,1 @@
+Figure 4: Result comparison of pruning the ResNet-18 network on CIFAR 10 using different drop bounds.

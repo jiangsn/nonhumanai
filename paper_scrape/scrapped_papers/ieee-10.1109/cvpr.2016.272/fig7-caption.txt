@@ -1,0 +1,1 @@
+Figure 7: Comparison with Gatys et al. [7] for photo-realistic synthesis. Input images credited to flickr users brett levin, axion23 and tim dobbelaere.

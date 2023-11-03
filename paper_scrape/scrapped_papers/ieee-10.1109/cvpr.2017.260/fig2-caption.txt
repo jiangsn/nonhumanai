@@ -1,0 +1,1 @@
+Figure 2: Lawrence Roberts's (a) 1963 system took an input photo (b) and computed a 3D scene, rendered to a novel viewpoint (c).

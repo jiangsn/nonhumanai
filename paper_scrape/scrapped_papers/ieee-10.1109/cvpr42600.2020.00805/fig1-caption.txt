@@ -1,0 +1,1 @@
+Figure 1. 3D photography from a single RGB-D image. Naïve methods either produce holes (a) or stretch content (b) at disocclusions. Color and depth inpainting using diffusion is better, but provides a too smooth appearance (c). Our approach is capable of synthesizing new color/depth texture and structures, leading to more photorealistic novel views (d).

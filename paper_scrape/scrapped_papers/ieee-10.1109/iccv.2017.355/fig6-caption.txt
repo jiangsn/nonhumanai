@@ -1,0 +1,1 @@
+Figure 6: Comparison between MSE and color loss as a function of the magnitude of shift between images. Results were averaged over 50K images.

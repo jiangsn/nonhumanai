@@ -1,0 +1,1 @@
+Fig. 2: A representation of our character and the ray casts composing the vision array.

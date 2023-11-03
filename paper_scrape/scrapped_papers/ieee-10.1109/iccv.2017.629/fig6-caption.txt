@@ -1,0 +1,1 @@
+Figure 6. For generated images (column 1), retrieving their nearest training images (columns 2–6) by utilizing stage-II discriminator D to extract visual features. The 12 distances between features are calculated for nearest-neighbor retrieval.

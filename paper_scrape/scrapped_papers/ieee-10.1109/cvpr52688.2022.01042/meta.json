@@ -1,0 +1,299 @@
+{
+    "userInfo": {
+        "customerNameRaw": "The Ohio State University",
+        "institutionName": "The Ohio State University",
+        "institute": true,
+        "member": false,
+        "individual": false,
+        "guest": false,
+        "subscribedContent": false,
+        "fileCabinetContent": false,
+        "fileCabinetUser": false,
+        "institutionalFileCabinetUser": false,
+        "products": "IEL|EBOOKS:1974:2014|JRNLARCH:1884:1994|CONFARCH:1951:1999|IBM:1872:2020|VDE|NOKIA BELL LABS|",
+        "instType": "Academic",
+        "userIds": [
+            7827
+        ],
+        "showPatentCitations": true,
+        "showGet802Link": true,
+        "openUrlImgLoc": "http://library-osu-edu.proxy.lib.ohio-state.edu/resources/serialssolutions/buttons/button75x25edit.jpg",
+        "openUrlLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu",
+        "instLogoFile": "7827_OSULHoriz.png",
+        "openUrlTxt": "Find It!",
+        "showOpenUrlLink": true,
+        "marketingInfoCaptured": false,
+        "tracked": false,
+        "ringGoldId": "2647",
+        "delegatedAdmin": false,
+        "desktop": false,
+        "isInstitutionDashboardEnabled": false,
+        "isInstitutionProfileEnabled": false,
+        "isRoamingEnabled": true,
+        "isDelegatedAdmin": false,
+        "isMdl": false,
+        "isCwg": false,
+        "isIel": true,
+        "isAcademic": true
+    },
+    "authors": [
+        {
+            "name": "Robin Rombach",
+            "affiliation": [
+                "Ludwig Maximilian University of Munich & IWR, Heidelberg University, Germany"
+            ],
+            "firstName": "Robin",
+            "lastName": "Rombach",
+            "id": "37088456468"
+        },
+        {
+            "name": "Andreas Blattmann",
+            "affiliation": [
+                "Ludwig Maximilian University of Munich & IWR, Heidelberg University, Germany"
+            ],
+            "firstName": "Andreas",
+            "lastName": "Blattmann",
+            "id": "37089015375"
+        },
+        {
+            "name": "Dominik Lorenz",
+            "affiliation": [
+                "Ludwig Maximilian University of Munich & IWR, Heidelberg University, Germany"
+            ],
+            "firstName": "Dominik",
+            "lastName": "Lorenz",
+            "id": "37604448000"
+        },
+        {
+            "name": "Patrick Esser",
+            "affiliation": [
+                "Runway ML"
+            ],
+            "firstName": "Patrick",
+            "lastName": "Esser",
+            "id": "37086568776"
+        },
+        {
+            "name": "Bj\u00f6rn Ommer",
+            "affiliation": [
+                "Ludwig Maximilian University of Munich & IWR, Heidelberg University, Germany"
+            ],
+            "firstName": "Bj\u00f6rn",
+            "lastName": "Ommer",
+            "id": "37397477900"
+        }
+    ],
+    "isbn": [
+        {
+            "format": "Electronic ISBN",
+            "value": "978-1-6654-6946-3",
+            "isbnType": ""
+        },
+        {
+            "format": "Print on Demand(PoD) ISBN",
+            "value": "978-1-6654-6947-0",
+            "isbnType": ""
+        }
+    ],
+    "issn": [
+        {
+            "format": "Electronic ISSN",
+            "value": "2575-7075"
+        },
+        {
+            "format": "Print on Demand(PoD) ISSN",
+            "value": "1063-6919"
+        }
+    ],
+    "articleNumber": "9878449",
+    "dbTime": "1 ms",
+    "metrics": {
+        "citationCountPaper": 547,
+        "citationCountPatent": 0,
+        "totalDownloads": 3227
+    },
+    "purchaseOptions": {
+        "showOtherFormatPricingTab": false,
+        "showPdfFormatPricingTab": true,
+        "pdfPricingInfoAvailable": true,
+        "otherPricingInfoAvailable": false,
+        "mandatoryBundle": false,
+        "optionalBundle": false,
+        "displayTextWhenOtherFormatPricingNotAvailable": "The purchase and pricing options for this item are unavailable. Select items are only available as part of a subscription package. You may try again later or <a href='https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/xpl/contact' target='_blank'>contact us</a> for more information.",
+        "pdfPricingInfo": [
+            {
+                "memberPrice": "$14.95",
+                "nonMemberPrice": "$33.00",
+                "partNumber": "9878449",
+                "type": "PDF/HTML"
+            }
+        ],
+        "openUrlFullLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu?url_ver=Z39.88-2004&rfr_id=info:sid/IEEE.org:XPLORE&rft_id=info:doi/10.1109/CVPR52688.2022.01042&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&rft.atitle=High-Resolution Image Synthesis with Latent Diffusion Models&rft.jtitle=2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)&rft.date=2022&rft.spage=10674&rft.epage=10685&rft.eissn=2575-7075&rft.au=Robin Rombach&rft.aulast=Robin Rombach&rft.isbn=978-1-6654-6946-3"
+    },
+    "getProgramTermsAccepted": false,
+    "sections": {
+        "abstract": "true",
+        "authors": "true",
+        "figures": "true",
+        "multimedia": "true",
+        "references": "true",
+        "citedby": "true",
+        "keywords": "true",
+        "definitions": "false",
+        "algorithm": "false",
+        "dataset": "false",
+        "cadmore": "false",
+        "footnotes": "false",
+        "disclaimer": "false",
+        "relatedContent": "false",
+        "metrics": "true"
+    },
+    "abstract": "By decomposing the image formation process into a sequential application of denoising autoencoders, diffusion models (DMs) achieve state-of-the-art synthesis results on image data and beyond. Additionally, their formulation allows for a guiding mechanism to control the image generation process without retraining. However, since these models typically operate directly in pixel space, optimization of powerful DMs often consumes hundreds of GPU days and inference is expensive due to sequential evaluations. To enable DM training on limited computational resources while retaining their quality and flexibility, we apply them in the latent space of powerful pretrained autoencoders. In contrast to previous work, training diffusion models on such a representation allows for the first time to reach a near-optimal point between complexity reduction and detail preservation, greatly boosting visual fidelity. By introducing cross-attention layers into the model architecture, we turn diffusion models into powerful and flexible generators for general conditioning inputs such as text or bounding boxes and high-resolution synthesis becomes possible in a convolutional manner. Our latent diffusion models (LDMs) achieve new state of the art scores for image inpainting and class-conditional image synthesis and highly competitive performance on various tasks, including unconditional image generation, text-to-image synthesis, and super-resolution, while significantly reducing computational requirements compared to pixel-based DMs.",
+    "publicationYear": "2022",
+    "pdfPath": "/iel7/9878378/9878366/09878449.pdf",
+    "publicationDate": "June 2022",
+    "doi": "10.1109/CVPR52688.2022.01042",
+    "formulaStrippedArticleTitle": "High-Resolution Image Synthesis with Latent Diffusion Models",
+    "displayPublicationTitle": "2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+    "authorNames": "Robin Rombach;Andreas Blattmann;Dominik Lorenz;Patrick Esser;Bj\u00f6rn Ommer",
+    "publicationTitle": "2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+    "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=proceedings&title=High-Resolution+Image+Synthesis+with+Latent+Diffusion+Models&isbn=978-1-6654-6946-3&publicationDate=June+2022&author=Robin+Rombach&ContentID=10.1109/CVPR52688.2022.01042&orderBeanReset=true&startPage=10674&endPage=10685&proceedingName=2022+IEEE%2FCVF+Conference+on+Computer+Vision+and+Pattern+Recognition+%28CVPR%29",
+    "dateOfInsertion": "27 September 2022",
+    "startPage": "10674",
+    "endPage": "10685",
+    "pdfUrl": "/stamp/stamp.jsp?tp=&arnumber=9878449",
+    "keywords": [
+        {
+            "type": "IEEE Keywords",
+            "kwd": [
+                "Training",
+                "Visualization",
+                "Image synthesis",
+                "Computational modeling",
+                "Noise reduction",
+                "Superresolution",
+                "Process control"
+            ]
+        },
+        {
+            "type": "INSPEC: Controlled Indexing",
+            "kwd": [
+                "computer vision",
+                "convolution",
+                "greedy algorithms",
+                "image classification",
+                "image denoising",
+                "image representation",
+                "image resolution",
+                "image restoration",
+                "image texture",
+                "learning (artificial intelligence)",
+                "visual databases"
+            ]
+        },
+        {
+            "type": "INSPEC: Non-Controlled Indexing",
+            "kwd": [
+                "high-resolution image synthesis",
+                "latent diffusion models",
+                "image formation process",
+                "sequential application",
+                "denoising autoencoders",
+                "state-of-the-art synthesis results",
+                "image data",
+                "image generation process",
+                "pixel space",
+                "powerful DMs",
+                "sequential evaluations",
+                "DM training",
+                "latent space",
+                "powerful pretrained autoencoders",
+                "training diffusion models",
+                "model architecture",
+                "powerful generators",
+                "flexible generators",
+                "high-resolution synthesis",
+                "image inpainting",
+                "class-conditional image synthesis",
+                "unconditional image generation",
+                "text-to-image synthesis"
+            ]
+        },
+        {
+            "type": "Author Keywords ",
+            "kwd": [
+                "Image and video synthesis and generation"
+            ]
+        }
+    ],
+    "doiLink": "https://doi-org.proxy.lib.ohio-state.edu/10.1109/CVPR52688.2022.01042",
+    "displayPublicationDate": "18-24 June 2022",
+    "articleCopyRight": "2022 IEEE",
+    "issueLink": "/xpl/tocresult.jsp?isnumber=9878366&punumber=9878378",
+    "pubLink": "/xpl/conhome/9878378/proceeding",
+    "allowComments": false,
+    "isGetAddressInfoCaptured": false,
+    "isMarketingOptIn": false,
+    "pubTopics": [
+        {
+            "name": "Computing and Processing"
+        }
+    ],
+    "publisher": "IEEE",
+    "displayDocTitle": "High-Resolution Image Synthesis with Latent Diffusion Models",
+    "isStandard": false,
+    "isConference": true,
+    "isBookWithoutChapters": false,
+    "isChapter": false,
+    "isProduct": false,
+    "isEarlyAccess": false,
+    "isOpenAccess": false,
+    "isEphemera": false,
+    "xploreDocumentType": "Conference Publication",
+    "isBook": false,
+    "isJournal": false,
+    "isSpringer": false,
+    "accessionNumber": "22095116",
+    "isFreeDocument": false,
+    "isPromo": false,
+    "isDynamicHtml": true,
+    "htmlLink": "/document/9878449/",
+    "htmlAbstractLink": "/document/9878449/",
+    "isCustomDenial": false,
+    "persistentLink": "https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/servlet/opac?punumber=9878378",
+    "isNow": false,
+    "isSAE": false,
+    "isOUP": false,
+    "isSMPTE": false,
+    "fundingAgencies": {
+        "fundingAgency": [
+            {
+                "fundingId": "10.13039/100004807",
+                "fundingName": "German Research Foundation",
+                "grantNumber": "421703927."
+            }
+        ]
+    },
+    "openAccessFlag": "F",
+    "insertDate": "27 September 2022",
+    "ephemeraFlag": "false",
+    "title": "High-Resolution Image Synthesis with Latent Diffusion Models",
+    "confLoc": "New Orleans, LA, USA",
+    "html_flag": "false",
+    "ml_html_flag": "true",
+    "sourcePdf": "694600k0674.pdf",
+    "mlTime": "PT0.138286S",
+    "xplore-pub-id": "9878378",
+    "isNumber": "9878366",
+    "rightsLinkFlag": "1",
+    "contentType": "conferences",
+    "publicationNumber": "9878378",
+    "citationCount": "547",
+    "xplore-issue": "9878366",
+    "articleId": "9878449",
+    "contentTypeDisplay": "Conferences",
+    "subType": "IEEE Conference",
+    "_value": "IEEE",
+    "lastupdate": "2023-10-19",
+    "mediaPath": "/mediastore_new/IEEE/content/media/9878378/9878366/9878449"
+}

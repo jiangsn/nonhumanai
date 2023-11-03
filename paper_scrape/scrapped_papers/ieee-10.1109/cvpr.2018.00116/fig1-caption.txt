@@ -1,0 +1,1 @@
+Figure 1. Examples of tampered images that have undergone different tampering techniques. From the top to bottom are the examples showing manipulations of splicing, copy-move and removal.

@@ -1,0 +1,2 @@
+Figure 1. 
+Different from conventional encoder-based inversion techniques, our residual-based ReStyle scheme incorporates an iterative refinement mechanism to progressively converge to an accurate inversion of real images. For each domain, we show the input image on the left followed by intermediate inversion outputs.

@@ -1,0 +1,245 @@
+<table class="data last-table">
+ <thead class="c-article-table-head">
+  <tr>
+   <th class="u-text-left">
+   </th>
+   <th class="u-text-left">
+    <p>
+     % smiling images
+     <span class="mathjax-tex">
+      <span class="MathJax_Preview" style="">
+       \uparrow
+      </span>
+      <span class="MathJax_SVG MathJax_SVG_Processing" id="MathJax-Element-3-Frame" style="font-size: 100%; display: inline-block;" tabindex="0">
+      </span>
+      <script id="MathJax-Element-3" type="math/tex">
+       \uparrow
+      </script>
+     </span>
+    </p>
+   </th>
+   <th class="u-text-left">
+    <p>
+     LPIPS (masked)
+     <span class="mathjax-tex">
+      <span class="MathJax_Preview" style="">
+       \downarrow
+      </span>
+      <span class="MathJax_SVG MathJax_SVG_Processing" id="MathJax-Element-4-Frame" style="font-size: 100%; display: inline-block;" tabindex="0">
+      </span>
+      <script id="MathJax-Element-4" type="math/tex">
+       \downarrow
+      </script>
+     </span>
+    </p>
+   </th>
+   <th class="u-text-left">
+    <p>
+     % more realistic than ours
+     <span class="mathjax-tex">
+      <span class="MathJax_Preview" style="">
+       \uparrow
+      </span>
+      <span class="MathJax_SVG MathJax_SVG_Processing" id="MathJax-Element-5-Frame" style="font-size: 100%; display: inline-block;" tabindex="0">
+      </span>
+      <script id="MathJax-Element-5" type="math/tex">
+       \uparrow
+      </script>
+     </span>
+    </p>
+   </th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td class="u-text-left">
+    <p>
+     Our method (projected gradient descent)
+    </p>
+   </td>
+   <td class="u-text-left">
+    <p>
+     84.37
+    </p>
+   </td>
+   <td class="u-text-left">
+    <p>
+     <b>
+      0.04
+     </b>
+    </p>
+   </td>
+   <td class="u-text-left">
+    <p>
+     –
+    </p>
+   </td>
+  </tr>
+  <tr>
+   <td class="u-text-left">
+    <p>
+     With direct optimization of
+     <span class="mathjax-tex">
+      <span class="MathJax_Preview" style="">
+       \varLambda
+      </span>
+      <span class="MathJax_SVG MathJax_SVG_Processing" id="MathJax-Element-6-Frame" style="font-size: 100%; display: inline-block;" tabindex="0">
+      </span>
+      <script id="MathJax-Element-6" type="math/tex">
+       \varLambda
+      </script>
+     </span>
+    </p>
+   </td>
+   <td class="u-text-left">
+    <p>
+     87.44
+    </p>
+   </td>
+   <td class="u-text-left">
+    <p>
+     0.14
+    </p>
+   </td>
+   <td class="u-text-left">
+    <p>
+     43.0
+    </p>
+   </td>
+  </tr>
+  <tr>
+   <td class="u-text-left">
+    <p>
+     With single-image direction constraint
+    </p>
+   </td>
+   <td class="u-text-left">
+    <p>
+     82.12
+    </p>
+   </td>
+   <td class="u-text-left">
+    <p>
+     0.05
+    </p>
+   </td>
+   <td class="u-text-left">
+    <p>
+     47.3
+    </p>
+   </td>
+  </tr>
+  <tr>
+   <td class="u-text-left">
+    <p>
+     With single-layer, no direction constraint
+    </p>
+   </td>
+   <td class="u-text-left">
+    <p>
+     90.94
+    </p>
+   </td>
+   <td class="u-text-left">
+    <p>
+     0.30
+    </p>
+   </td>
+   <td class="u-text-left">
+    <p>
+     6.8
+    </p>
+   </td>
+  </tr>
+  <tr>
+   <td class="u-text-left">
+    <p>
+     Finetuning all weights
+    </p>
+   </td>
+   <td class="u-text-left">
+    <p>
+     85.78
+    </p>
+   </td>
+   <td class="u-text-left">
+    <p>
+     0.40
+    </p>
+   </td>
+   <td class="u-text-left">
+    <p>
+     8.7
+    </p>
+   </td>
+  </tr>
+  <tr>
+   <td class="u-text-left">
+    <p>
+     NBB + Direct copying
+    </p>
+   </td>
+   <td class="u-text-left">
+    <p>
+     94.81
+    </p>
+   </td>
+   <td class="u-text-left">
+    <p>
+     0.32
+    </p>
+   </td>
+   <td class="u-text-left">
+    <p>
+     9.8
+    </p>
+   </td>
+  </tr>
+  <tr>
+   <td class="u-text-left">
+    <p>
+     NBB + Laplace blending
+    </p>
+   </td>
+   <td class="u-text-left">
+    <p>
+     <b>
+      93.51
+     </b>
+    </p>
+   </td>
+   <td class="u-text-left">
+    <p>
+     0.32
+    </p>
+   </td>
+   <td class="u-text-left">
+    <p>
+     8.6
+    </p>
+   </td>
+  </tr>
+  <tr>
+   <td class="u-text-left">
+    <p>
+     Unmodified model
+    </p>
+   </td>
+   <td class="u-text-left">
+    <p>
+     78.37
+    </p>
+   </td>
+   <td class="u-text-left">
+    <p>
+     –
+    </p>
+   </td>
+   <td class="u-text-left">
+    <p>
+     50.9
+    </p>
+   </td>
+  </tr>
+ </tbody>
+</table>

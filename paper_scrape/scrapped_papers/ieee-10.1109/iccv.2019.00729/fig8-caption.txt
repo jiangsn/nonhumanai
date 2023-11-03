@@ -1,0 +1,1 @@
+Figure 8: (a) shows the input image, (b), (d) and (f) are images generated using LI,LI+LGAN and LI+LGAN+Lf respectively; (c), (e) and (g) are the red rectangle region of (b), (d) and (f) respectively. Note the edge in the middle of the noise generated using LI.

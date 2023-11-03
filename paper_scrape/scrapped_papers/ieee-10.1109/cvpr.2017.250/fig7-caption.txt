@@ -1,0 +1,1 @@
+Figure 7: Photorealistic renderings of geometry, texture obtained using PCA model fitting, and our method.

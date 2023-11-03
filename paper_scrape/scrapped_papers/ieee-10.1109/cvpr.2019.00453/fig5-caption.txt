@@ -1,0 +1,2 @@
+Figure 5. 
+Effect of noise inputs at different layers of our generator, (a) Noise is applied to all layers, (b) No noise, (c) Noise in fine layers only (642 – 10242). (d) Noise in coarse layers only (42 – 322). We can see that the artificial omission of noise leads to featureless "painterly" look. Coarse noise causes large-scale curling of hair and appearance of larger background features, while the fine noise brings out the finer curls of hair, finer background detail, and skin pores.

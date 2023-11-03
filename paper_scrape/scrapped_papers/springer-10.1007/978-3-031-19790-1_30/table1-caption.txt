@@ -1,0 +1,1 @@
+Table 1. Quantitative Evaluation: A comparison of our generated video samples to that of HP-VAE-GAN  [25] and SinGAN-GIF [5], conducted on input videos provided in their papers. Our diverse samples have more resemblance to the input videos (indicated by lower SVFID). In a user study, users scored in favor of our method (see Sect. 4 for details).

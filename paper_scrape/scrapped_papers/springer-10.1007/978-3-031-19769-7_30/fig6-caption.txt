@@ -1,0 +1,1 @@
+Qualitative comparisons on the LHQ test set. On two starting views, from left to right, we show generated views over trajectories of length 100 from a naive baseline and our full approach. See Sect. 4.5 for more details.

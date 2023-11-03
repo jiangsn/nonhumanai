@@ -1,0 +1,1 @@
+Figure 6: From left to right: output without skip layer S4, output without S4/S3, output without S4/S3/S2, output without S4/S3/S2/S1. Top row: vanilla Hourglass network, bottom row: Hourglass network with skip training.

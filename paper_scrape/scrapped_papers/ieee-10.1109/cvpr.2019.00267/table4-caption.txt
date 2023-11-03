@@ -1,0 +1,2 @@
+Table 4: 
+A more detailed analysis of different thresholds for Part Instance Propagation on the VIP dataset [85].

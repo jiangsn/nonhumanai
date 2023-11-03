@@ -1,0 +1,1 @@
+Figure 2: Numbers of videos per class (truncated for better visualisation).

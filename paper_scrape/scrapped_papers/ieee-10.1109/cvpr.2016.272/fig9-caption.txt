@@ -1,0 +1,1 @@
+Figure 9: A typical case where Gatys et al [7] works better.

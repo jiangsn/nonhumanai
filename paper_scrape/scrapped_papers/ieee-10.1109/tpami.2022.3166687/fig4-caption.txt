@@ -1,0 +1,2 @@
+Fig. 4. 
+Image enhancement network. We replace the batch normalization layers within HRNet by rendering-aware denormalization (RAD), forming RAD blocks (RB). Each branch of the HRNet receives a G-buffer feature tensor at a matching scale (different scales are coded by color). Original feature streams are shown in gray. We omit initial stem convolutions as well as transition and fusion layers for clarity.

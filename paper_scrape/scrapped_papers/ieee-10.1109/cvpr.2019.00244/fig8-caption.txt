@@ -1,0 +1,2 @@
+Figure 8: 
+Semantic image synthesis results on COCO-Stuff. Our method successfully generates realistic images in diverse scenes ranging from animals to sports activities.

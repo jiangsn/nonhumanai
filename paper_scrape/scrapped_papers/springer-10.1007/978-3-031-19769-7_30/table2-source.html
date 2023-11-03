@@ -1,0 +1,679 @@
+<table class="data last-table">
+ <thead class="c-article-table-head">
+  <tr>
+   <th class="u-text-left" rowspan="2">
+    <p>
+     Method
+    </p>
+   </th>
+   <th class="u-text-left" colspan="5">
+    <p>
+     Configurations
+    </p>
+   </th>
+   <th class="u-text-left" colspan="3">
+    <p>
+     View Synthesis
+    </p>
+   </th>
+   <th class="u-text-left" colspan="4">
+    <p>
+     View Generation
+    </p>
+   </th>
+  </tr>
+  <tr>
+   <th class="u-text-left">
+    <p>
+     <span class="mathjax-tex">
+      <span class="MathJax_Preview" style="">
+       \mathcal {L}_{\text {rec}}
+      </span>
+      <span class="MathJax_SVG MathJax_SVG_Processing" id="MathJax-Element-2-Frame" style="font-size: 100%; display: inline-block;" tabindex="0">
+      </span>
+      <script id="MathJax-Element-2" type="math/tex">
+       \mathcal {L}_{\text {rec}}
+      </script>
+     </span>
+    </p>
+   </th>
+   <th class="u-text-left">
+    <p>
+     <span class="mathjax-tex">
+      <span class="MathJax_Preview" style="">
+       \mathcal {L}_{\text {adv}}
+      </span>
+      <span class="MathJax_SVG MathJax_SVG_Processing" id="MathJax-Element-3-Frame" style="font-size: 100%; display: inline-block;" tabindex="0">
+      </span>
+      <script id="MathJax-Element-3" type="math/tex">
+       \mathcal {L}_{\text {adv}}
+      </script>
+     </span>
+    </p>
+   </th>
+   <th class="u-text-left">
+    <p>
+     PTG
+    </p>
+   </th>
+   <th class="u-text-left">
+    <p>
+     BGS
+    </p>
+   </th>
+   <th class="u-text-left">
+    <p>
+     Sky
+    </p>
+   </th>
+   <th class="u-text-left">
+    <p>
+     PSNR
+     <span class="mathjax-tex">
+      <span class="MathJax_Preview" style="">
+       \uparrow
+      </span>
+      <span class="MathJax_SVG MathJax_SVG_Processing" id="MathJax-Element-4-Frame" style="font-size: 100%; display: inline-block;" tabindex="0">
+      </span>
+      <script id="MathJax-Element-4" type="math/tex">
+       \uparrow
+      </script>
+     </span>
+    </p>
+   </th>
+   <th class="u-text-left">
+    <p>
+     SSIM
+     <span class="mathjax-tex">
+      <span class="MathJax_Preview" style="">
+       \uparrow
+      </span>
+      <span class="MathJax_SVG MathJax_SVG_Processing" id="MathJax-Element-5-Frame" style="font-size: 100%; display: inline-block;" tabindex="0">
+      </span>
+      <script id="MathJax-Element-5" type="math/tex">
+       \uparrow
+      </script>
+     </span>
+    </p>
+   </th>
+   <th class="u-text-left">
+    <p>
+     LPIPS
+     <span class="mathjax-tex">
+      <span class="MathJax_Preview" style="">
+       \downarrow
+      </span>
+      <span class="MathJax_SVG MathJax_SVG_Processing" id="MathJax-Element-6-Frame" style="font-size: 100%; display: inline-block;" tabindex="0">
+      </span>
+      <script id="MathJax-Element-6" type="math/tex">
+       \downarrow
+      </script>
+     </span>
+    </p>
+   </th>
+   <th class="u-text-left">
+    <p>
+     FID
+     <span class="mathjax-tex">
+      <span class="MathJax_Preview" style="">
+       \downarrow
+      </span>
+      <span class="MathJax_SVG MathJax_SVG_Processing" id="MathJax-Element-7-Frame" style="font-size: 100%; display: inline-block;" tabindex="0">
+      </span>
+      <script id="MathJax-Element-7" type="math/tex">
+       \downarrow
+      </script>
+     </span>
+    </p>
+   </th>
+   <th class="u-text-left">
+    <p>
+     <span class="mathjax-tex">
+      <span class="MathJax_Preview" style="">
+       \text {FID}_{\text {sw}}\downarrow
+      </span>
+      <span class="MathJax_SVG MathJax_SVG_Processing" id="MathJax-Element-8-Frame" style="font-size: 100%; display: inline-block;" tabindex="0">
+      </span>
+      <script id="MathJax-Element-8" type="math/tex">
+       \text {FID}_{\text {sw}}\downarrow
+      </script>
+     </span>
+    </p>
+   </th>
+   <th class="u-text-left">
+    <p>
+     KID
+     <span class="mathjax-tex">
+      <span class="MathJax_Preview" style="">
+       \downarrow
+      </span>
+      <span class="MathJax_SVG MathJax_SVG_Processing" id="MathJax-Element-9-Frame" style="font-size: 100%; display: inline-block;" tabindex="0">
+      </span>
+      <script id="MathJax-Element-9" type="math/tex">
+       \downarrow
+      </script>
+     </span>
+    </p>
+   </th>
+   <th class="u-text-left">
+    <p>
+     Style
+     <span class="mathjax-tex">
+      <span class="MathJax_Preview" style="">
+       \downarrow
+      </span>
+      <span class="MathJax_SVG MathJax_SVG_Processing" id="MathJax-Element-10-Frame" style="font-size: 100%; display: inline-block;" tabindex="0">
+      </span>
+      <script id="MathJax-Element-10" type="math/tex">
+       \downarrow
+      </script>
+     </span>
+    </p>
+   </th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td class="u-text-left">
+    <p>
+     Naive
+    </p>
+   </td>
+   <td class="u-text-left">
+    <p>
+     <img alt="" src="//media.springernature.com/lw16/springer-static/image/chp%3A10.1007%2F978-3-031-19769-7_30/MediaObjects/539920_1_En_30_Figa_HTML.gif" style="width:16px;max-width:none;"/>
+    </p>
+   </td>
+   <td class="u-text-left">
+    <p>
+     <img alt="" src="//media.springernature.com/lw16/springer-static/image/chp%3A10.1007%2F978-3-031-19769-7_30/MediaObjects/539920_1_En_30_Figb_HTML.gif" style="width:16px;max-width:none;"/>
+    </p>
+   </td>
+   <td class="u-text-left">
+   </td>
+   <td class="u-text-left">
+   </td>
+   <td class="u-text-left">
+   </td>
+   <td class="u-text-left">
+    <p>
+     28.0
+    </p>
+   </td>
+   <td class="u-text-left">
+    <p>
+     0.87
+    </p>
+   </td>
+   <td class="u-text-left">
+    <p>
+     0.07
+    </p>
+   </td>
+   <td class="u-text-left">
+    <p>
+     38.1
+    </p>
+   </td>
+   <td class="u-text-left">
+    <p>
+     52.1
+    </p>
+   </td>
+   <td class="u-text-left">
+    <p>
+     0.25
+    </p>
+   </td>
+   <td class="u-text-left">
+    <p>
+     6.36
+    </p>
+   </td>
+  </tr>
+  <tr>
+   <td class="u-text-left">
+    <p>
+     w/o BGS
+    </p>
+   </td>
+   <td class="u-text-left">
+    <p>
+     <img alt="" src="//media.springernature.com/lw16/springer-static/image/chp%3A10.1007%2F978-3-031-19769-7_30/MediaObjects/539920_1_En_30_Figc_HTML.gif" style="width:16px;max-width:none;"/>
+    </p>
+   </td>
+   <td class="u-text-left">
+    <p>
+     <img alt="" src="//media.springernature.com/lw16/springer-static/image/chp%3A10.1007%2F978-3-031-19769-7_30/MediaObjects/539920_1_En_30_Figd_HTML.gif" style="width:16px;max-width:none;"/>
+    </p>
+   </td>
+   <td class="u-text-left">
+    <p>
+     <img alt="" src="//media.springernature.com/lw16/springer-static/image/chp%3A10.1007%2F978-3-031-19769-7_30/MediaObjects/539920_1_En_30_Fige_HTML.gif" style="width:16px;max-width:none;"/>
+    </p>
+   </td>
+   <td class="u-text-left">
+   </td>
+   <td class="u-text-left">
+    <p>
+     <img alt="" src="//media.springernature.com/lw16/springer-static/image/chp%3A10.1007%2F978-3-031-19769-7_30/MediaObjects/539920_1_En_30_Figf_HTML.gif" style="width:16px;max-width:none;"/>
+    </p>
+   </td>
+   <td class="u-text-left">
+    <p>
+     28.0
+    </p>
+   </td>
+   <td class="u-text-left">
+    <p>
+     0.89
+    </p>
+   </td>
+   <td class="u-text-left">
+    <p>
+     0.08
+    </p>
+   </td>
+   <td class="u-text-left">
+    <p>
+     34.9
+    </p>
+   </td>
+   <td class="u-text-left">
+    <p>
+     41.1
+    </p>
+   </td>
+   <td class="u-text-left">
+    <p>
+     0.20
+    </p>
+   </td>
+   <td class="u-text-left">
+    <p>
+     6.45
+    </p>
+   </td>
+  </tr>
+  <tr>
+   <td class="u-text-left">
+    <p>
+     w/o PTG
+    </p>
+   </td>
+   <td class="u-text-left">
+    <p>
+     <img alt="" src="//media.springernature.com/lw16/springer-static/image/chp%3A10.1007%2F978-3-031-19769-7_30/MediaObjects/539920_1_En_30_Figg_HTML.gif" style="width:16px;max-width:none;"/>
+    </p>
+   </td>
+   <td class="u-text-left">
+    <p>
+     <img alt="" src="//media.springernature.com/lw16/springer-static/image/chp%3A10.1007%2F978-3-031-19769-7_30/MediaObjects/539920_1_En_30_Figh_HTML.gif" style="width:16px;max-width:none;"/>
+    </p>
+   </td>
+   <td class="u-text-left">
+   </td>
+   <td class="u-text-left">
+    <p>
+     <img alt="" src="//media.springernature.com/lw16/springer-static/image/chp%3A10.1007%2F978-3-031-19769-7_30/MediaObjects/539920_1_En_30_Figi_HTML.gif" style="width:16px;max-width:none;"/>
+    </p>
+   </td>
+   <td class="u-text-left">
+    <p>
+     <img alt="" src="//media.springernature.com/lw16/springer-static/image/chp%3A10.1007%2F978-3-031-19769-7_30/MediaObjects/539920_1_En_30_Figj_HTML.gif" style="width:16px;max-width:none;"/>
+    </p>
+   </td>
+   <td class="u-text-left">
+    <p>
+     28.1
+    </p>
+   </td>
+   <td class="u-text-left">
+    <p>
+     0.90
+    </p>
+   </td>
+   <td class="u-text-left">
+    <p>
+     0.07
+    </p>
+   </td>
+   <td class="u-text-left">
+    <p>
+     35.3
+    </p>
+   </td>
+   <td class="u-text-left">
+    <p>
+     42.6
+    </p>
+   </td>
+   <td class="u-text-left">
+    <p>
+     0.21
+    </p>
+   </td>
+   <td class="u-text-left">
+    <p>
+     6.04
+    </p>
+   </td>
+  </tr>
+  <tr>
+   <td class="u-text-left">
+    <p>
+     w/o repeat
+    </p>
+   </td>
+   <td class="u-text-left">
+    <p>
+     <img alt="" src="//media.springernature.com/lw16/springer-static/image/chp%3A10.1007%2F978-3-031-19769-7_30/MediaObjects/539920_1_En_30_Figk_HTML.gif" style="width:16px;max-width:none;"/>
+    </p>
+   </td>
+   <td class="u-text-left">
+   </td>
+   <td class="u-text-left">
+   </td>
+   <td class="u-text-left">
+   </td>
+   <td class="u-text-left">
+    <p>
+     <img alt="" src="//media.springernature.com/lw16/springer-static/image/chp%3A10.1007%2F978-3-031-19769-7_30/MediaObjects/539920_1_En_30_Figl_HTML.gif" style="width:16px;max-width:none;"/>
+    </p>
+   </td>
+   <td class="u-text-left">
+    <p>
+     26.8
+    </p>
+   </td>
+   <td class="u-text-left">
+    <p>
+     0.86
+    </p>
+   </td>
+   <td class="u-text-left">
+    <p>
+     0.15
+    </p>
+   </td>
+   <td class="u-text-left">
+    <p>
+     61.3
+    </p>
+   </td>
+   <td class="u-text-left">
+    <p>
+     85.5
+    </p>
+   </td>
+   <td class="u-text-left">
+    <p>
+     0.40
+    </p>
+   </td>
+   <td class="u-text-left">
+    <p>
+     8.15
+    </p>
+   </td>
+  </tr>
+  <tr>
+   <td class="u-text-left">
+    <p>
+     w/o SVS
+    </p>
+   </td>
+   <td class="u-text-left">
+   </td>
+   <td class="u-text-left">
+    <p>
+     <img alt="" src="//media.springernature.com/lw16/springer-static/image/chp%3A10.1007%2F978-3-031-19769-7_30/MediaObjects/539920_1_En_30_Figm_HTML.gif" style="width:16px;max-width:none;"/>
+    </p>
+   </td>
+   <td class="u-text-left">
+    <p>
+     <img alt="" src="//media.springernature.com/lw16/springer-static/image/chp%3A10.1007%2F978-3-031-19769-7_30/MediaObjects/539920_1_En_30_Fign_HTML.gif" style="width:16px;max-width:none;"/>
+    </p>
+   </td>
+   <td class="u-text-left">
+    <p>
+     <img alt="" src="//media.springernature.com/lw16/springer-static/image/chp%3A10.1007%2F978-3-031-19769-7_30/MediaObjects/539920_1_En_30_Figo_HTML.gif" style="width:16px;max-width:none;"/>
+    </p>
+   </td>
+   <td class="u-text-left">
+    <p>
+     <img alt="" src="//media.springernature.com/lw16/springer-static/image/chp%3A10.1007%2F978-3-031-19769-7_30/MediaObjects/539920_1_En_30_Figp_HTML.gif" style="width:16px;max-width:none;"/>
+    </p>
+   </td>
+   <td class="u-text-left">
+    <p>
+     26.6
+    </p>
+   </td>
+   <td class="u-text-left">
+    <p>
+     0.85
+    </p>
+   </td>
+   <td class="u-text-left">
+    <p>
+     0.08
+    </p>
+   </td>
+   <td class="u-text-left">
+    <p>
+     23.4
+    </p>
+   </td>
+   <td class="u-text-left">
+    <p>
+     30.2
+    </p>
+   </td>
+   <td class="u-text-left">
+    <p>
+     0.12
+    </p>
+   </td>
+   <td class="u-text-left">
+    <p>
+     6.37
+    </p>
+   </td>
+  </tr>
+  <tr>
+   <td class="u-text-left">
+    <p>
+     w/o sky
+    </p>
+   </td>
+   <td class="u-text-left">
+    <p>
+     <img alt="" src="//media.springernature.com/lw16/springer-static/image/chp%3A10.1007%2F978-3-031-19769-7_30/MediaObjects/539920_1_En_30_Figq_HTML.gif" style="width:16px;max-width:none;"/>
+    </p>
+   </td>
+   <td class="u-text-left">
+    <p>
+     <img alt="" src="//media.springernature.com/lw16/springer-static/image/chp%3A10.1007%2F978-3-031-19769-7_30/MediaObjects/539920_1_En_30_Figr_HTML.gif" style="width:16px;max-width:none;"/>
+    </p>
+   </td>
+   <td class="u-text-left">
+    <p>
+     <img alt="" src="//media.springernature.com/lw16/springer-static/image/chp%3A10.1007%2F978-3-031-19769-7_30/MediaObjects/539920_1_En_30_Figs_HTML.gif" style="width:16px;max-width:none;"/>
+    </p>
+   </td>
+   <td class="u-text-left">
+    <p>
+     <img alt="" src="//media.springernature.com/lw16/springer-static/image/chp%3A10.1007%2F978-3-031-19769-7_30/MediaObjects/539920_1_En_30_Figt_HTML.gif" style="width:16px;max-width:none;"/>
+    </p>
+   </td>
+   <td class="u-text-left">
+   </td>
+   <td class="u-text-left">
+    <p>
+     28.3
+    </p>
+   </td>
+   <td class="u-text-left">
+    <p>
+     0.90
+    </p>
+   </td>
+   <td class="u-text-left">
+    <p>
+     0.07
+    </p>
+   </td>
+   <td class="u-text-left">
+    <p>
+     24.8
+    </p>
+   </td>
+   <td class="u-text-left">
+    <p>
+     31.3
+    </p>
+   </td>
+   <td class="u-text-left">
+    <p>
+     0.11
+    </p>
+   </td>
+   <td class="u-text-left">
+    <p>
+     6.43
+    </p>
+   </td>
+  </tr>
+  <tr>
+   <td class="u-text-left">
+    <p>
+     Ours (full)
+    </p>
+   </td>
+   <td class="u-text-left">
+    <p>
+     <img alt="" src="//media.springernature.com/lw16/springer-static/image/chp%3A10.1007%2F978-3-031-19769-7_30/MediaObjects/539920_1_En_30_Figu_HTML.gif" style="width:16px;max-width:none;"/>
+    </p>
+   </td>
+   <td class="u-text-left">
+    <p>
+     <img alt="" src="//media.springernature.com/lw16/springer-static/image/chp%3A10.1007%2F978-3-031-19769-7_30/MediaObjects/539920_1_En_30_Figv_HTML.gif" style="width:16px;max-width:none;"/>
+    </p>
+   </td>
+   <td class="u-text-left">
+    <p>
+     <img alt="" src="//media.springernature.com/lw16/springer-static/image/chp%3A10.1007%2F978-3-031-19769-7_30/MediaObjects/539920_1_En_30_Figw_HTML.gif" style="width:16px;max-width:none;"/>
+    </p>
+   </td>
+   <td class="u-text-left">
+    <p>
+     <img alt="" src="//media.springernature.com/lw16/springer-static/image/chp%3A10.1007%2F978-3-031-19769-7_30/MediaObjects/539920_1_En_30_Figx_HTML.gif" style="width:16px;max-width:none;"/>
+    </p>
+   </td>
+   <td class="u-text-left">
+    <p>
+     <img alt="" src="//media.springernature.com/lw16/springer-static/image/chp%3A10.1007%2F978-3-031-19769-7_30/MediaObjects/539920_1_En_30_Figy_HTML.gif" style="width:16px;max-width:none;"/>
+    </p>
+   </td>
+   <td class="u-text-left">
+    <p>
+     <span class="mathjax-tex">
+      <span class="MathJax_Preview" style="">
+       \mathbf {28.4}
+      </span>
+      <span class="MathJax_SVG MathJax_SVG_Processing" id="MathJax-Element-11-Frame" style="font-size: 100%; display: inline-block;" tabindex="0">
+      </span>
+      <script id="MathJax-Element-11" type="math/tex">
+       \mathbf {28.4}
+      </script>
+     </span>
+    </p>
+   </td>
+   <td class="u-text-left">
+    <p>
+     <span class="mathjax-tex">
+      <span class="MathJax_Preview" style="">
+       \mathbf {0.91}
+      </span>
+      <span class="MathJax_SVG MathJax_SVG_Processing" id="MathJax-Element-12-Frame" style="font-size: 100%; display: inline-block;" tabindex="0">
+      </span>
+      <script id="MathJax-Element-12" type="math/tex">
+       \mathbf {0.91}
+      </script>
+     </span>
+    </p>
+   </td>
+   <td class="u-text-left">
+    <p>
+     <span class="mathjax-tex">
+      <span class="MathJax_Preview" style="">
+       \mathbf {0.06}
+      </span>
+      <span class="MathJax_SVG MathJax_SVG_Processing" id="MathJax-Element-13-Frame" style="font-size: 100%; display: inline-block;" tabindex="0">
+      </span>
+      <script id="MathJax-Element-13" type="math/tex">
+       \mathbf {0.06}
+      </script>
+     </span>
+    </p>
+   </td>
+   <td class="u-text-left">
+    <p>
+     <span class="mathjax-tex">
+      <span class="MathJax_Preview" style="">
+       \mathbf {19.4}
+      </span>
+      <span class="MathJax_SVG MathJax_SVG_Processing" id="MathJax-Element-14-Frame" style="font-size: 100%; display: inline-block;" tabindex="0">
+      </span>
+      <script id="MathJax-Element-14" type="math/tex">
+       \mathbf {19.4}
+      </script>
+     </span>
+    </p>
+   </td>
+   <td class="u-text-left">
+    <p>
+     <span class="mathjax-tex">
+      <span class="MathJax_Preview" style="">
+       \mathbf {25.8}
+      </span>
+      <span class="MathJax_SVG MathJax_SVG_Processing" id="MathJax-Element-15-Frame" style="font-size: 100%; display: inline-block;" tabindex="0">
+      </span>
+      <script id="MathJax-Element-15" type="math/tex">
+       \mathbf {25.8}
+      </script>
+     </span>
+    </p>
+   </td>
+   <td class="u-text-left">
+    <p>
+     <span class="mathjax-tex">
+      <span class="MathJax_Preview" style="">
+       \mathbf {0.09}
+      </span>
+      <span class="MathJax_SVG MathJax_SVG_Processing" id="MathJax-Element-16-Frame" style="font-size: 100%; display: inline-block;" tabindex="0">
+      </span>
+      <script id="MathJax-Element-16" type="math/tex">
+       \mathbf {0.09}
+      </script>
+     </span>
+    </p>
+   </td>
+   <td class="u-text-left">
+    <p>
+     <span class="mathjax-tex">
+      <span class="MathJax_Preview" style="">
+       \mathbf {5.91}
+      </span>
+      <span class="MathJax_SVG MathJax_SVG_Processing" id="MathJax-Element-17-Frame" style="font-size: 100%; display: inline-block;" tabindex="0">
+      </span>
+      <script id="MathJax-Element-17" type="math/tex">
+       \mathbf {5.91}
+      </script>
+     </span>
+    </p>
+   </td>
+  </tr>
+ </tbody>
+</table>

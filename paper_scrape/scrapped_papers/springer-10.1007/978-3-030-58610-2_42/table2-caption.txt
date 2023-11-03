@@ -1,0 +1,1 @@
+Table 2. Ablation study. We report the average scores on DAVIS.

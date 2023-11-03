@@ -1,0 +1,1 @@
+Table 1: Avg. Run times for the three sequences of fig. 8, from top to bottom. Standard deviations w.r.t. The final frame rate are 0.51, 0.56, and 0.59 fps, respectively. Note that CPU and GPU stages run in parallel.

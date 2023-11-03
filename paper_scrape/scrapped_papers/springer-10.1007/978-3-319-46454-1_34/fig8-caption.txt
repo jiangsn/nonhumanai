@@ -1,0 +1,2 @@
+
+Qualitative comparison. From top to bottom: Input image. Akhter and Black [4]. Ramakrishna et al. [39]. Zhou et al. [58]. SMPLify.

@@ -1,0 +1,1 @@
+Figure 3. Detected optimal patch scales for the flame image.

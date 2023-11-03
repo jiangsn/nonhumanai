@@ -1,0 +1,2 @@
+Figure 7. 
+The FFHQ dataset offers a lot of variety in terms of age, ethnicity, viewpoint, lighting, and image background.

@@ -1,0 +1,2 @@
+Fig. 7. Generated human face images on 128\times128
+ CelebA dataset.

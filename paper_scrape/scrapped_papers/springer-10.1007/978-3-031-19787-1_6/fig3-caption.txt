@@ -1,0 +1,1 @@
+An overview of our generator. The architecture of Global PoE-Net and decoder are detailed in Fig. 4a and Fig. 4b respectively. The architecture of modality encoders are described in Supplementary Material B.

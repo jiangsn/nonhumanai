@@ -1,0 +1,202 @@
+{
+    "mainEntity": {
+        "headline": "Deep Learning in Label-free Cell Classification",
+        "description": "Label-free cell analysis is essential to personalized genomics, cancer diagnostics, and drug development as it avoids adverse effects of staining reagents on cellular viability and cell signaling. However, currently available label-free cell assays mostly rely only on a single feature and lack sufficient differentiation. Also, the sample size analyzed by these assays is limited due to their low throughput. Here, we integrate feature extraction and deep learning with high-throughput quantitative imaging enabled by photonic time stretch, achieving record high accuracy in label-free cell classification. Our system captures quantitative optical phase and intensity images and extracts multiple biophysical features of individual cells. These biophysical measurements form a hyperdimensional feature space in which supervised learning is performed for cell classification. We compare various learning algorithms including artificial neural network, support vector machine, logistic regression, and a novel deep learning pipeline, which adopts global optimization of receiver operating characteristics. As a validation of the enhanced sensitivity and specificity of our system, we show classification of white blood T-cells against colon cancer cells, as well as lipid accumulating algal strains for biofuel production. This system opens up a new path to data-driven phenotypic diagnosis and better understanding of the heterogeneous gene expressions in cells.",
+        "datePublished": "2016-03-15",
+        "dateModified": "2016-03-15",
+        "pageStart": "1",
+        "pageEnd": "16",
+        "license": "http://creativecommons.org/licenses/by/4.0/",
+        "sameAs": "https://doi-org.proxy.lib.ohio-state.edu/10.1038/srep21471",
+        "keywords": "Biophotonics,Cell biology,Electrical and electronic engineering,Science,Humanities and Social Sciences,multidisciplinary",
+        "image": "https://static-content.springer.com/image/art%3A10.1038%2Fsrep21471/MediaObjects/41598_2016_Article_BFsrep21471_Fig1_HTML.jpg",
+        "isPartOf": {
+            "name": "Scientific Reports",
+            "issn": [
+                "2045-2322"
+            ],
+            "volumeNumber": "6",
+            "@type": [
+                "Periodical",
+                "PublicationVolume"
+            ]
+        },
+        "publisher": {
+            "name": "Nature Publishing Group UK",
+            "logo": {
+                "url": "https://www-springernature-com.proxy.lib.ohio-state.edu/app-sn/public/images/logo-springernature.png",
+                "@type": "ImageObject"
+            },
+            "@type": "Organization"
+        },
+        "author": [
+            {
+                "name": "Claire Lifan Chen",
+                "affiliation": [
+                    {
+                        "name": "University of California, Los Angeles",
+                        "address": {
+                            "name": "Department of Electrical Engineering, University of California, Los Angeles, USA",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    },
+                    {
+                        "name": "California NanoSystems Institute",
+                        "address": {
+                            "name": "California NanoSystems Institute, Los Angeles, USA",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    }
+                ],
+                "email": "l.chen@ucla.edu",
+                "@type": "Person"
+            },
+            {
+                "name": "Ata Mahjoubfar",
+                "affiliation": [
+                    {
+                        "name": "University of California, Los Angeles",
+                        "address": {
+                            "name": "Department of Electrical Engineering, University of California, Los Angeles, USA",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    },
+                    {
+                        "name": "California NanoSystems Institute",
+                        "address": {
+                            "name": "California NanoSystems Institute, Los Angeles, USA",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    }
+                ],
+                "@type": "Person"
+            },
+            {
+                "name": "Li-Chia Tai",
+                "affiliation": [
+                    {
+                        "name": "California NanoSystems Institute",
+                        "address": {
+                            "name": "California NanoSystems Institute, Los Angeles, USA",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    }
+                ],
+                "@type": "Person"
+            },
+            {
+                "name": "Ian K. Blaby",
+                "affiliation": [
+                    {
+                        "name": "University of California",
+                        "address": {
+                            "name": "Department of Chemistry and Biochemistry, University of California",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    },
+                    {
+                        "name": "Present address: Biology Department, Brookhaven National Laboratory, Upton, NY, USA.",
+                        "address": {
+                            "name": "Present address: Biology Department, Brookhaven National Laboratory, Upton, NY, USA., \n                  ",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    }
+                ],
+                "@type": "Person"
+            },
+            {
+                "name": "Allen Huang",
+                "affiliation": [
+                    {
+                        "name": "University of California, Los Angeles",
+                        "address": {
+                            "name": "Department of Electrical Engineering, University of California, Los Angeles, USA",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    }
+                ],
+                "@type": "Person"
+            },
+            {
+                "name": "Kayvan Reza Niazi",
+                "affiliation": [
+                    {
+                        "name": "California NanoSystems Institute",
+                        "address": {
+                            "name": "California NanoSystems Institute, Los Angeles, USA",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    },
+                    {
+                        "name": "NantWorks, LLC",
+                        "address": {
+                            "name": "NantWorks, LLC, Culver City, USA",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    },
+                    {
+                        "name": "University of California",
+                        "address": {
+                            "name": "Department of Bioengineering, University of California, Los Angeles, USA",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    }
+                ],
+                "@type": "Person"
+            },
+            {
+                "name": "Bahram Jalali",
+                "affiliation": [
+                    {
+                        "name": "University of California, Los Angeles",
+                        "address": {
+                            "name": "Department of Electrical Engineering, University of California, Los Angeles, USA",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    },
+                    {
+                        "name": "California NanoSystems Institute",
+                        "address": {
+                            "name": "California NanoSystems Institute, Los Angeles, USA",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    },
+                    {
+                        "name": "University of California",
+                        "address": {
+                            "name": "Department of Bioengineering, University of California, Los Angeles, USA",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    },
+                    {
+                        "name": "David Geffen School of Medicine, University of California",
+                        "address": {
+                            "name": "Department of Surgery, David Geffen School of Medicine, University of California, Los Angeles, USA",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    }
+                ],
+                "@type": "Person"
+            }
+        ],
+        "isAccessibleForFree": true,
+        "@type": "ScholarlyArticle"
+    },
+    "@context": "https://schema.org",
+    "@type": "WebPage"
+}

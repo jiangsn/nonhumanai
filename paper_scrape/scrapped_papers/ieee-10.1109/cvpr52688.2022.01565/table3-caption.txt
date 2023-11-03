@@ -1,0 +1,1 @@
+Table 3. Runtime in frames per second at different rendering resolutions. We compare variants of our approach with and without tri-plane caching (tc). Run on a single rtx 3090 gpu.

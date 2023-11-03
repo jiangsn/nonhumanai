@@ -1,0 +1,2 @@
+Figure 11: 
+Automatic and human evaluations for video compression. Ours requires much lower bandwidth due to our keypoint decomposition and adaptive scheme.

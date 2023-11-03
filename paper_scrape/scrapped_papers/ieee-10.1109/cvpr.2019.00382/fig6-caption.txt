@@ -1,0 +1,2 @@
+Figure 6. 
+Effect of contextual features. The proposed model uses the learned hierarchical features (LHF) and depth maps (D) for frame synthesis, which generates clearer and sharper content.

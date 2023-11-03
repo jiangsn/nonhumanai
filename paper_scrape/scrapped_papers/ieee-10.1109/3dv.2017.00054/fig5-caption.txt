@@ -1,0 +1,1 @@
+Figure 5 Influence of overlap on the task of geometry prediction from a single depth map. Without overlap the predictions are much less smooth and the grid pattern induced by the individual voxel blocks is much more visible.

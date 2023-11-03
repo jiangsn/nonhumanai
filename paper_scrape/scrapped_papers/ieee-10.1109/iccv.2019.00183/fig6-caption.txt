@@ -1,0 +1,1 @@
+Figure 6. Face image editing results from our system. These results shown that our system can appropriately change the shape and color of the face. They also show that it can be used to change the color of the eyes or erase unnecessary parts of the image. In particular, our system can also be used for hairstyle modification.

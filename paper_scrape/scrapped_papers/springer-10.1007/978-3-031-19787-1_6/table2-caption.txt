@@ -1,0 +1,1 @@
+Table 2. Comparison on MS-COCO 2017 (256\times 256) using FID. We evaluate models conditioned on different modalities (from left to right: no conditions, text, segmentation, sketch, and all three modalities). The best scores are highlighted in bold

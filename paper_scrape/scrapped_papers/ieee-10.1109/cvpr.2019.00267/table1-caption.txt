@@ -1,0 +1,2 @@
+Table 1: 
+Evaluation on instance mask propagation on DAVIS- 2017 [48]. We follow the standard metric on region similarity \mathcal{J} and contour-based accuracy \mathcal{F}.

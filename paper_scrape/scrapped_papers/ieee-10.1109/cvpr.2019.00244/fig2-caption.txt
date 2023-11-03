@@ -1,0 +1,2 @@
+Figure 2: 
+In SPADE, the mask is first projected onto an embedding space, and then convolved to produce the modulation parameters γ and β. Unlike prior conditional normalization methods, γ and β are not vectors, but tensors with spatial dimensions. The produced γ and β are multiplied and added to the normalized activation element-wise.

@@ -1,0 +1,1 @@
+Figure 2: Sources of information. Output frame 36 (shown in Figs. 1 and 10) is a combination of the patches marked here in red over the input sequence. It is noticeable that large continuous regions have been automatically picked whenever possible. Note that the hands were taken from a completely different frame than the legs.

@@ -1,0 +1,5 @@
+Temporal neighbors. Non-local temporal neighbors (the second non-local neighbor in this case) are useful when correct known pixels cannot be reached with local flow chains due to flow barriers (
+
+
+
+: invalid neighbors.) (Color figure online)

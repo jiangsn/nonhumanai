@@ -1,0 +1,1 @@
+Figure 5: Different methods for mapping aerial photos↔maps on Google maps. From left to right: Input, BiGAN/ALI [6], [7], CoGAN [28], CycleGAN (ours), pix2pix [20] trained on paired data, and ground truth.

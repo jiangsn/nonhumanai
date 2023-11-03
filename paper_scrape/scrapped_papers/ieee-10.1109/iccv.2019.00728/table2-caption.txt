@@ -1,0 +1,3 @@
+Table 2 
+Quantitative Ablation Results. On Faceforensics++ Videos 
+[39].

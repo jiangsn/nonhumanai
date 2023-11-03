@@ -1,0 +1,1 @@
+Figure 2: Example results of using our framework for translating edges to high-resolution natural photos, using celebA-HQ [26] and internet cat images.

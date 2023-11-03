@@ -1,0 +1,2 @@
+Fig. 11. 
+When transforming images from GTA (left) to match the style of Cityscapes, GANs commonly hallucinate objects such as trees in the sky or star logos at the bottom (remaining columns, highlighted).

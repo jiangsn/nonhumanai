@@ -1,0 +1,2 @@
+Table 1: 
+Our method outperforms current leading methods in semantic segmentation scores (mean IoU and overall pixel accuracy) and FID [17] on all the benchmark datasets. For mIoU and pixel accuracy, higher is better. For FID, lower is better.

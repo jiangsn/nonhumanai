@@ -1,0 +1,1 @@
+Figure 4. Connection between perceptual path length and image quality using baseline StyleGAN (config a) with LSUN cat. (a) Random examples with low PPL (≤ 10th percentile). (b) Examples with high PPL (≥ 90th percentile). There is a clear correlation between PPL scores and semantic consistency of the images.

@@ -1,0 +1,1 @@
+Figure 10. An overview of our flame typography library. The bigger image at the top left corner serves as the example to generate the other 774 characters. The whole library as well as the other stylized libraries can be found in the supplementary material.

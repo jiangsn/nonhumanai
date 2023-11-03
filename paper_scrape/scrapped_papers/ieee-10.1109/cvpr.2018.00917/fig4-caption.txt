@@ -1,0 +1,1 @@
+Figure 4: Using instance maps: (a) We extract a boundary map from the instance map. (b)(c) With this information, separating different objects becomes much easier.

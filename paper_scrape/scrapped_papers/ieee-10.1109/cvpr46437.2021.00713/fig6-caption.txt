@@ -1,0 +1,2 @@
+Figure 6: 
+Depth maps from NeRF and NeRF-W, rendered by computing the expected termination depth of each ray. NeRF’s geometry is corrupted by appearance variation and occluders, while NeRF-W is robust to such phenomena and produces accurate 3D reconstructions. Photos by Flickr users burkeandhare, photogreuhphies /\color{Magenta}{\text{CC BY}}.

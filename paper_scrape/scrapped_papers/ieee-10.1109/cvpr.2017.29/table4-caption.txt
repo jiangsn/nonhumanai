@@ -1,0 +1,1 @@
+Table 4. Performance of geometric registration algorithms for model-fitting. Numbers are reported in terms of average % correct rotation and translation predictions.

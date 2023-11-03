@@ -1,0 +1,1 @@
+Fig. 2. The model architecture used in our experiments. Each vertical bar corresponds to a layer of the model. Relu nonlinearities are used throughout, and max pooling occurs between each of the groupings of convolutional layers. The input is an image from an external webcam downsized to (224×224).

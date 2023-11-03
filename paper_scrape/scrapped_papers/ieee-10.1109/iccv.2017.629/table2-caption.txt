@@ -1,0 +1,1 @@
+Table 2. Inception scores calculated with 30,000 samples gener-ated by different baseline models of our stackgan.

@@ -1,0 +1,1 @@
+Figure 2: Effect of augmentation methods. All detectors are trained on progan, and tested on other generators (ap shown). In general, training with augmentation helps performance. Notable exceptions are super-resolution and deepfake.

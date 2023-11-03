@@ -1,0 +1,2 @@
+Table 8. 
+Evaluation of different attacks on a sequence based detector on the DFDC validation dataset. The first row indicates the performance of the classifier on benign (non adversarial) videos.

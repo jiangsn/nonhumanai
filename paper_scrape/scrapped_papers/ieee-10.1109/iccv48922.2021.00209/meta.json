@@ -1,0 +1,255 @@
+{
+    "userInfo": {
+        "customerNameRaw": "The Ohio State University",
+        "institutionName": "The Ohio State University",
+        "institute": true,
+        "member": false,
+        "individual": false,
+        "guest": false,
+        "subscribedContent": false,
+        "fileCabinetContent": false,
+        "fileCabinetUser": false,
+        "institutionalFileCabinetUser": false,
+        "products": "IEL|EBOOKS:1974:2014|JRNLARCH:1884:1994|CONFARCH:1951:1999|IBM:1872:2020|VDE|NOKIA BELL LABS|",
+        "instType": "Academic",
+        "userIds": [
+            7827
+        ],
+        "showPatentCitations": true,
+        "showGet802Link": true,
+        "openUrlImgLoc": "http://library-osu-edu.proxy.lib.ohio-state.edu/resources/serialssolutions/buttons/button75x25edit.jpg",
+        "openUrlLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu",
+        "instLogoFile": "7827_OSULHoriz.png",
+        "openUrlTxt": "Find It!",
+        "showOpenUrlLink": true,
+        "marketingInfoCaptured": false,
+        "tracked": false,
+        "ringGoldId": "2647",
+        "delegatedAdmin": false,
+        "desktop": false,
+        "isInstitutionDashboardEnabled": false,
+        "isInstitutionProfileEnabled": false,
+        "isRoamingEnabled": true,
+        "isDelegatedAdmin": false,
+        "isMdl": false,
+        "isCwg": false,
+        "isIel": true,
+        "isAcademic": true
+    },
+    "authors": [
+        {
+            "name": "Or Patashnik",
+            "affiliation": [
+                "Tel-Aviv University"
+            ],
+            "firstName": "Or",
+            "lastName": "Patashnik",
+            "id": "37088952145"
+        },
+        {
+            "name": "Zongze Wu",
+            "affiliation": [
+                "Hebrew University of Jerusalem"
+            ],
+            "firstName": "Zongze",
+            "lastName": "Wu",
+            "id": "37088887980"
+        },
+        {
+            "name": "Eli Shechtman",
+            "affiliation": [
+                "Adobe Research"
+            ],
+            "firstName": "Eli",
+            "lastName": "Shechtman",
+            "id": "37282591600"
+        },
+        {
+            "name": "Daniel Cohen-Or",
+            "affiliation": [
+                "Tel-Aviv University"
+            ],
+            "firstName": "Daniel",
+            "lastName": "Cohen-Or",
+            "id": "38273141800"
+        },
+        {
+            "name": "Dani Lischinski",
+            "affiliation": [
+                "Hebrew University of Jerusalem"
+            ],
+            "firstName": "Dani",
+            "lastName": "Lischinski",
+            "id": "37418740700"
+        }
+    ],
+    "isbn": [
+        {
+            "format": "Electronic ISBN",
+            "value": "978-1-6654-2812-5",
+            "isbnType": ""
+        },
+        {
+            "format": "Print on Demand(PoD) ISBN",
+            "value": "978-1-6654-2813-2",
+            "isbnType": ""
+        }
+    ],
+    "issn": [
+        {
+            "format": "Electronic ISSN",
+            "value": "2380-7504"
+        },
+        {
+            "format": "Print on Demand(PoD) ISSN",
+            "value": "1550-5499"
+        }
+    ],
+    "articleNumber": "9710854",
+    "dbTime": "1 ms",
+    "metrics": {
+        "citationCountPaper": 271,
+        "citationCountPatent": 0,
+        "totalDownloads": 308
+    },
+    "purchaseOptions": {
+        "showOtherFormatPricingTab": false,
+        "showPdfFormatPricingTab": true,
+        "pdfPricingInfoAvailable": true,
+        "otherPricingInfoAvailable": false,
+        "mandatoryBundle": false,
+        "optionalBundle": false,
+        "displayTextWhenOtherFormatPricingNotAvailable": "The purchase and pricing options for this item are unavailable. Select items are only available as part of a subscription package. You may try again later or <a href='https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/xpl/contact' target='_blank'>contact us</a> for more information.",
+        "pdfPricingInfo": [
+            {
+                "memberPrice": "$14.95",
+                "nonMemberPrice": "$33.00",
+                "partNumber": "9710854",
+                "type": "PDF/HTML"
+            }
+        ],
+        "openUrlFullLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu?url_ver=Z39.88-2004&rfr_id=info:sid/IEEE.org:XPLORE&rft_id=info:doi/10.1109/ICCV48922.2021.00209&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&rft.atitle=StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery&rft.jtitle=2021 IEEE/CVF International Conference on Computer Vision (ICCV)&rft.date=2021&rft.spage=2065&rft.epage=2074&rft.eissn=2380-7504&rft.au=Or Patashnik&rft.aulast=Or Patashnik&rft.isbn=978-1-6654-2812-5"
+    },
+    "getProgramTermsAccepted": false,
+    "sections": {
+        "abstract": "true",
+        "authors": "true",
+        "figures": "true",
+        "multimedia": "false",
+        "references": "true",
+        "citedby": "true",
+        "keywords": "true",
+        "definitions": "false",
+        "algorithm": "false",
+        "dataset": "false",
+        "cadmore": "false",
+        "footnotes": "true",
+        "disclaimer": "false",
+        "relatedContent": "false",
+        "metrics": "true"
+    },
+    "abstract": "Inspired by the ability of StyleGAN to generate highly realistic images in a variety of domains, much recent work has focused on understanding how to use the latent spaces of StyleGAN to manipulate generated and real images. However, discovering semantically meaningful latent manipulations typically involves painstaking human examination of the many degrees of freedom, or an annotated collection of images for each desired manipulation. In this work, we explore leveraging the power of recently introduced Contrastive Language-Image Pre-training (CLIP) models in order to develop a text-based interface for StyleGAN image manipulation that does not require such manual effort. We first introduce an optimization scheme that utilizes a CLIP-based loss to modify an input latent vector in response to a user-provided text prompt. Next, we describe a latent mapper that infers a text-guided latent manipulation step for a given input image, allowing faster and more stable text-based manipulation. Finally, we present a method for mapping text prompts to input-agnostic directions in StyleGAN\u2019s style space, enabling interactive text-driven image manipulation. Extensive results and comparisons demonstrate the effectiveness of our approaches.",
+    "publicationYear": "2021",
+    "pdfPath": "/iel7/9709627/9709628/09710854.pdf",
+    "publicationDate": "October 2021",
+    "doi": "10.1109/ICCV48922.2021.00209",
+    "formulaStrippedArticleTitle": "StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery",
+    "displayPublicationTitle": "2021 IEEE/CVF International Conference on Computer Vision (ICCV)",
+    "authorNames": "Or Patashnik;Zongze Wu;Eli Shechtman;Daniel Cohen-Or;Dani Lischinski",
+    "publicationTitle": "2021 IEEE/CVF International Conference on Computer Vision (ICCV)",
+    "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=proceedings&title=StyleCLIP%3A+Text-Driven+Manipulation+of+StyleGAN+Imagery&isbn=978-1-6654-2812-5&publicationDate=October+2021&author=Or+Patashnik&ContentID=10.1109/ICCV48922.2021.00209&orderBeanReset=true&startPage=2065&endPage=2074&proceedingName=2021+IEEE%2FCVF+International+Conference+on+Computer+Vision+%28ICCV%29",
+    "dateOfInsertion": "28 February 2022",
+    "startPage": "2065",
+    "endPage": "2074",
+    "pdfUrl": "/stamp/stamp.jsp?tp=&arnumber=9710854",
+    "keywords": [
+        {
+            "type": "IEEE Keywords",
+            "kwd": [
+                "Hair",
+                "Visualization",
+                "Computer vision",
+                "Image coding",
+                "Manuals",
+                "Optimization"
+            ]
+        },
+        {
+            "type": "Author Keywords ",
+            "kwd": [
+                "Vision + language",
+                "Image and video synthesis",
+                "Neural generative models",
+                "Vision applications and systems"
+            ]
+        }
+    ],
+    "doiLink": "https://doi-org.proxy.lib.ohio-state.edu/10.1109/ICCV48922.2021.00209",
+    "displayPublicationDate": "10-17 October 2021",
+    "articleCopyRight": "2021 IEEE",
+    "issueLink": "/xpl/tocresult.jsp?isnumber=9709628&punumber=9709627",
+    "pubLink": "/xpl/conhome/9709627/proceeding",
+    "allowComments": false,
+    "isGetAddressInfoCaptured": false,
+    "isMarketingOptIn": false,
+    "pubTopics": [
+        {
+            "name": "Computing and Processing"
+        }
+    ],
+    "publisher": "IEEE",
+    "displayDocTitle": "StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery",
+    "isStandard": false,
+    "isConference": true,
+    "isBookWithoutChapters": false,
+    "isChapter": false,
+    "isProduct": false,
+    "isEarlyAccess": false,
+    "isOpenAccess": false,
+    "isEphemera": false,
+    "xploreDocumentType": "Conference Publication",
+    "isBook": false,
+    "isJournal": false,
+    "isSpringer": false,
+    "isFreeDocument": false,
+    "isPromo": false,
+    "isDynamicHtml": true,
+    "htmlLink": "/document/9710854/",
+    "htmlAbstractLink": "/document/9710854/",
+    "isCustomDenial": false,
+    "persistentLink": "https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/servlet/opac?punumber=9709627",
+    "isNow": false,
+    "isSAE": false,
+    "isOUP": false,
+    "isSMPTE": false,
+    "fundingAgencies": {
+        "fundingAgency": [
+            {
+                "fundingId": "10.13039/501100003977",
+                "fundingName": "Israel Science Foundation"
+            }
+        ]
+    },
+    "openAccessFlag": "F",
+    "insertDate": "28 February 2022",
+    "ephemeraFlag": "false",
+    "title": "StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery",
+    "confLoc": "Montreal, QC, Canada",
+    "html_flag": "false",
+    "ml_html_flag": "true",
+    "sourcePdf": "281200c065.pdf",
+    "mlTime": "PT0.113436S",
+    "xplore-pub-id": "9709627",
+    "isNumber": "9709628",
+    "rightsLinkFlag": "1",
+    "contentType": "conferences",
+    "publicationNumber": "9709627",
+    "citationCount": "271",
+    "xplore-issue": "9709628",
+    "articleId": "9710854",
+    "contentTypeDisplay": "Conferences",
+    "subType": "IEEE Conference",
+    "_value": "IEEE",
+    "lastupdate": "2023-10-08",
+    "mediaPath": "/mediastore_new/IEEE/content/media/9709627/9709628/9710854"
+}

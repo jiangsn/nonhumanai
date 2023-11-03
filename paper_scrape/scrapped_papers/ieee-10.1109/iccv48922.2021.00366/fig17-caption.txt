@@ -1,0 +1,2 @@
+Figure 17. 
+Landmark localization accuracy improves as we use more and more synthetic training data.

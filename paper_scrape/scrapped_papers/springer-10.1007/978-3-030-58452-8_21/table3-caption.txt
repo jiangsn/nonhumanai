@@ -1,0 +1,1 @@
+Table 3. Visible watermark text produced by StyleGANv2 church model in \(n=1000\) images, without modification, with sets of units zeroed (using the method of GAN Dissection), and using our method to apply a rank-one update.

@@ -1,0 +1,1 @@
+Figure 7. Real, forward-facing scenes. Example results on the fern and orchid forward-facing scenes from NeRF.

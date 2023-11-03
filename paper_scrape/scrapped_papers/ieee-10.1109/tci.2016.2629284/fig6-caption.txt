@@ -1,0 +1,4 @@
+Fig. 6. Hashing based learning and upscaling schemes. We suggest dividing the patches into “buckets”,
+ where each bucket contains patches with similar geometry (can be considered as a cheap clustering method). Then, a
+ least squares fitting is applied per each bucket and possible shift. At run-time the hash-table key is computed per
+ each patch, leading to the corresponding pre-learned locally adaptive filters.

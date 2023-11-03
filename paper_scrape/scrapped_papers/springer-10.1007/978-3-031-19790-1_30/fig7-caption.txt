@@ -1,0 +1,1 @@
+Video Analogies: (i) Ablations for the choice of \alpha  (completeness score); (ii) Ablations of choice of auxiliary channel; (iii) Comparisons our results to that of ReCycle-GAN [8].

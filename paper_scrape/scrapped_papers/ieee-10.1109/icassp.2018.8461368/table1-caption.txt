@@ -1,0 +1,1 @@
+Table 1. Mean opinion score (MOS) evaluations with 95% confidence intervals computed from the t-distribution for various systems

@@ -1,0 +1,287 @@
+{
+    "userInfo": {
+        "customerNameRaw": "The Ohio State University",
+        "institutionName": "The Ohio State University",
+        "institute": true,
+        "member": false,
+        "individual": false,
+        "guest": false,
+        "subscribedContent": false,
+        "fileCabinetContent": false,
+        "fileCabinetUser": false,
+        "institutionalFileCabinetUser": false,
+        "products": "IEL|EBOOKS:1974:2014|JRNLARCH:1884:1994|CONFARCH:1951:1999|IBM:1872:2020|VDE|NOKIA BELL LABS|",
+        "instType": "Academic",
+        "userIds": [
+            7827
+        ],
+        "showPatentCitations": true,
+        "showGet802Link": true,
+        "openUrlImgLoc": "http://library-osu-edu.proxy.lib.ohio-state.edu/resources/serialssolutions/buttons/button75x25edit.jpg",
+        "openUrlLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu",
+        "instLogoFile": "7827_OSULHoriz.png",
+        "openUrlTxt": "Find It!",
+        "showOpenUrlLink": true,
+        "marketingInfoCaptured": false,
+        "tracked": false,
+        "ringGoldId": "2647",
+        "delegatedAdmin": false,
+        "desktop": false,
+        "isInstitutionDashboardEnabled": false,
+        "isInstitutionProfileEnabled": false,
+        "isRoamingEnabled": true,
+        "isDelegatedAdmin": false,
+        "isMdl": false,
+        "isCwg": false,
+        "isIel": true,
+        "isAcademic": true
+    },
+    "authors": [
+        {
+            "name": "Han Zhang",
+            "affiliation": [
+                "Rutgers University"
+            ],
+            "firstName": "Han",
+            "lastName": "Zhang",
+            "id": "37089393756"
+        },
+        {
+            "name": "Tao Xu",
+            "affiliation": [
+                "Lehigh University"
+            ],
+            "firstName": "Tao",
+            "lastName": "Xu",
+            "id": "37085413559"
+        },
+        {
+            "name": "Hongsheng Li",
+            "affiliation": [
+                "The Chinese University of Hong Kong"
+            ],
+            "firstName": "Hongsheng",
+            "lastName": "Li",
+            "id": "37067578200"
+        },
+        {
+            "name": "Shaoting Zhang",
+            "affiliation": [
+                "Baidu Research"
+            ],
+            "firstName": "Shaoting",
+            "lastName": "Zhang",
+            "id": "37535984700"
+        },
+        {
+            "name": "Xiaogang Wang",
+            "affiliation": [
+                "The Chinese University of Hong Kong"
+            ],
+            "firstName": "Xiaogang",
+            "lastName": "Wang",
+            "id": "37281375500"
+        },
+        {
+            "name": "Xiaolei Huang",
+            "affiliation": [
+                "Lehigh University"
+            ],
+            "firstName": "Xiaolei",
+            "lastName": "Huang",
+            "id": "37281302900"
+        },
+        {
+            "name": "Dimitris Metaxas",
+            "affiliation": [
+                "Rutgers University"
+            ],
+            "firstName": "Dimitris",
+            "lastName": "Metaxas",
+            "id": "37270535700"
+        }
+    ],
+    "isbn": [
+        {
+            "format": "Electronic ISBN",
+            "value": "978-1-5386-1032-9",
+            "isbnType": ""
+        },
+        {
+            "format": "Print on Demand(PoD) ISBN",
+            "value": "978-1-5386-1033-6",
+            "isbnType": ""
+        }
+    ],
+    "issn": [
+        {
+            "format": "Electronic ISSN",
+            "value": "2380-7504"
+        }
+    ],
+    "articleNumber": "8237891",
+    "dbTime": "2 ms",
+    "metrics": {
+        "citationCountPaper": 1237,
+        "citationCountPatent": 0,
+        "totalDownloads": 3174
+    },
+    "purchaseOptions": {
+        "showOtherFormatPricingTab": false,
+        "showPdfFormatPricingTab": true,
+        "pdfPricingInfoAvailable": true,
+        "otherPricingInfoAvailable": false,
+        "mandatoryBundle": false,
+        "optionalBundle": false,
+        "displayTextWhenOtherFormatPricingNotAvailable": "The purchase and pricing options for this item are unavailable. Select items are only available as part of a subscription package. You may try again later or <a href='https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/xpl/contact' target='_blank'>contact us</a> for more information.",
+        "pdfPricingInfo": [
+            {
+                "memberPrice": "$14.95",
+                "nonMemberPrice": "$33.00",
+                "partNumber": "8237891",
+                "type": "PDF/HTML"
+            }
+        ],
+        "openUrlFullLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu?url_ver=Z39.88-2004&rfr_id=info:sid/IEEE.org:XPLORE&rft_id=info:doi/10.1109/ICCV.2017.629&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&rft.atitle=StackGAN: Text to Photo-Realistic Image Synthesis with Stacked Generative Adversarial Networks&rft.jtitle=2017 IEEE International Conference on Computer Vision (ICCV)&rft.date=2017&rft.spage=5908&rft.epage=5916&rft.eissn=2380-7504&rft.au=Han Zhang&rft.aulast=Han Zhang&rft.isbn=978-1-5386-1032-9"
+    },
+    "getProgramTermsAccepted": false,
+    "sections": {
+        "abstract": "true",
+        "authors": "true",
+        "figures": "true",
+        "multimedia": "false",
+        "references": "true",
+        "citedby": "true",
+        "keywords": "true",
+        "definitions": "false",
+        "algorithm": "false",
+        "dataset": "false",
+        "cadmore": "false",
+        "footnotes": "false",
+        "disclaimer": "false",
+        "relatedContent": "false",
+        "metrics": "true"
+    },
+    "abstract": "Synthesizing high-quality images from text descriptions is a challenging problem in computer vision and has many practical applications. Samples generated by existing textto- image approaches can roughly reflect the meaning of the given descriptions, but they fail to contain necessary details and vivid object parts. In this paper, we propose Stacked Generative Adversarial Networks (StackGAN) to generate 256.256 photo-realistic images conditioned on text descriptions. We decompose the hard problem into more manageable sub-problems through a sketch-refinement process. The Stage-I GAN sketches the primitive shape and colors of the object based on the given text description, yielding Stage-I low-resolution images. The Stage-II GAN takes Stage-I results and text descriptions as inputs, and generates high-resolution images with photo-realistic details. It is able to rectify defects in Stage-I results and add compelling details with the refinement process. To improve the diversity of the synthesized images and stabilize the training of the conditional-GAN, we introduce a novel Conditioning Augmentation technique that encourages smoothness in the latent conditioning manifold. Extensive experiments and comparisons with state-of-the-arts on benchmark datasets demonstrate that the proposed method achieves significant improvements on generating photo-realistic images conditioned on text descriptions.",
+    "publicationYear": "2017",
+    "pdfPath": "/iel7/8234942/8237262/08237891.pdf",
+    "publicationDate": "October 2017",
+    "doi": "10.1109/ICCV.2017.629",
+    "formulaStrippedArticleTitle": "StackGAN: Text to Photo-Realistic Image Synthesis with Stacked Generative Adversarial Networks",
+    "displayPublicationTitle": "2017 IEEE International Conference on Computer Vision (ICCV)",
+    "authorNames": "Han Zhang;Tao Xu;Hongsheng Li;Shaoting Zhang;Xiaogang Wang;Xiaolei Huang;Dimitris Metaxas",
+    "publicationTitle": "2017 IEEE International Conference on Computer Vision (ICCV)",
+    "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=proceedings&title=StackGAN%3A+Text+to+Photo-Realistic+Image+Synthesis+with+Stacked+Generative+Adversarial+Networks&isbn=978-1-5386-1032-9&publicationDate=October+2017&author=Han+Zhang&ContentID=10.1109/ICCV.2017.629&orderBeanReset=true&startPage=5908&endPage=5916&proceedingName=2017+IEEE+International+Conference+on+Computer+Vision+%28ICCV%29",
+    "dateOfInsertion": "25 December 2017",
+    "startPage": "5908",
+    "endPage": "5916",
+    "pdfUrl": "/stamp/stamp.jsp?tp=&arnumber=8237891",
+    "keywords": [
+        {
+            "type": "IEEE Keywords",
+            "kwd": [
+                "Gallium nitride",
+                "Training",
+                "Generators",
+                "Manifolds",
+                "Image resolution",
+                "Shape",
+                "Gaussian distribution"
+            ]
+        },
+        {
+            "type": "INSPEC: Controlled Indexing",
+            "kwd": [
+                "computer vision",
+                "feature extraction",
+                "image representation",
+                "image resolution",
+                "object recognition",
+                "realistic images",
+                "text analysis"
+            ]
+        },
+        {
+            "type": "INSPEC: Non-Controlled Indexing",
+            "kwd": [
+                "sketch-refinement process",
+                "sketches the primitive shape",
+                "colors",
+                "given text description",
+                "low-resolution images",
+                "Stage-II GAN",
+                "Stage-I results",
+                "text descriptions",
+                "high-resolution images",
+                "photo-realistic details",
+                "synthesized images",
+                "StackGAN",
+                "photo-realistic image synthesis",
+                "stacked generative adversarial networks",
+                "existing textto- image approaches",
+                "vivid object parts"
+            ]
+        }
+    ],
+    "doiLink": "https://doi-org.proxy.lib.ohio-state.edu/10.1109/ICCV.2017.629",
+    "displayPublicationDate": "22-29 October 2017",
+    "articleCopyRight": "2017 IEEE",
+    "issueLink": "/xpl/tocresult.jsp?isnumber=8237262&punumber=8234942",
+    "pubLink": "/xpl/conhome/8234942/proceeding",
+    "allowComments": false,
+    "isGetAddressInfoCaptured": false,
+    "isMarketingOptIn": false,
+    "pubTopics": [
+        {
+            "name": "Computing and Processing"
+        }
+    ],
+    "publisher": "IEEE",
+    "displayDocTitle": "StackGAN: Text to Photo-Realistic Image Synthesis with Stacked Generative Adversarial Networks",
+    "isStandard": false,
+    "isConference": true,
+    "isBookWithoutChapters": false,
+    "isChapter": false,
+    "isProduct": false,
+    "isEarlyAccess": false,
+    "isOpenAccess": false,
+    "isEphemera": false,
+    "xploreDocumentType": "Conference Publication",
+    "isBook": false,
+    "isJournal": false,
+    "isSpringer": false,
+    "accessionNumber": "17467824",
+    "isFreeDocument": false,
+    "isPromo": false,
+    "isDynamicHtml": true,
+    "htmlLink": "/document/8237891/",
+    "htmlAbstractLink": "/document/8237891/",
+    "isCustomDenial": false,
+    "persistentLink": "https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/servlet/opac?punumber=8234942",
+    "isNow": false,
+    "isSAE": false,
+    "isOUP": false,
+    "isSMPTE": false,
+    "openAccessFlag": "F",
+    "insertDate": "25 December 2017",
+    "ephemeraFlag": "false",
+    "title": "StackGAN: Text to Photo-Realistic Image Synthesis with Stacked Generative Adversarial Networks",
+    "confLoc": "Venice, Italy",
+    "html_flag": "false",
+    "ml_html_flag": "true",
+    "sourcePdf": "1032f908.pdf",
+    "mlTime": "PT0.05904S",
+    "xplore-pub-id": "8234942",
+    "isNumber": "8237262",
+    "rightsLinkFlag": "1",
+    "contentType": "conferences",
+    "publicationNumber": "8234942",
+    "citationCount": "1237",
+    "xplore-issue": "8237262",
+    "articleId": "8237891",
+    "contentTypeDisplay": "Conferences",
+    "subType": "IEEE Conference",
+    "_value": "IEEE",
+    "lastupdate": "2023-10-19",
+    "mediaPath": "/mediastore_new/IEEE/content/media/8234942/8237262/8237891"
+}

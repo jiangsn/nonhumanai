@@ -1,0 +1,1 @@
+Limitations. CLIP often exhibits biases towards certain visual elements. Our method is designed to edit existing objects, thus new objects may not be visually pleasing. Yet, the desired edit can often be achieved by using more specific text (left).

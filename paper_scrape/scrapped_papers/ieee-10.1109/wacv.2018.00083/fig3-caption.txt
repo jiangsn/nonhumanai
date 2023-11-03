@@ -1,0 +1,1 @@
+Figure 3: Training curves of the pruning agent for the 2^{nd}2nd layer in VGG-16 on CIFAR 10. Originally there are 64 filters. Red line is the reward. Green line denotes the number of kept filters. Light lines are the raw data and bold lines are the smoothed data for better visualization.

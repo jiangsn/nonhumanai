@@ -1,0 +1,1 @@
+Figure 7. Top 1 (left) and top 5 test set performance over a large range of values for the regularization parameter C when employing predicted window features.

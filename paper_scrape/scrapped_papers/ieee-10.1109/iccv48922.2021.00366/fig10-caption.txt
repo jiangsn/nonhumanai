@@ -1,0 +1,2 @@
+Figure 10. 
+We use HDRIs to illuminate the face. The same face can look very different under different illumination.

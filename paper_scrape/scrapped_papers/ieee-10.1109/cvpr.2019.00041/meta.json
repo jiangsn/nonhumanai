@@ -1,0 +1,242 @@
+{
+    "userInfo": {
+        "customerNameRaw": "The Ohio State University",
+        "institutionName": "The Ohio State University",
+        "institute": true,
+        "member": false,
+        "individual": false,
+        "guest": false,
+        "subscribedContent": false,
+        "fileCabinetContent": false,
+        "fileCabinetUser": false,
+        "institutionalFileCabinetUser": false,
+        "products": "IEL|EBOOKS:1974:2014|JRNLARCH:1884:1994|CONFARCH:1951:1999|IBM:1872:2020|VDE|NOKIA BELL LABS|",
+        "instType": "Academic",
+        "userIds": [
+            7827
+        ],
+        "showPatentCitations": true,
+        "showGet802Link": true,
+        "openUrlImgLoc": "http://library-osu-edu.proxy.lib.ohio-state.edu/resources/serialssolutions/buttons/button75x25edit.jpg",
+        "openUrlLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu",
+        "instLogoFile": "7827_OSULHoriz.png",
+        "openUrlTxt": "Find It!",
+        "showOpenUrlLink": true,
+        "marketingInfoCaptured": false,
+        "tracked": false,
+        "ringGoldId": "2647",
+        "delegatedAdmin": false,
+        "desktop": false,
+        "isInstitutionDashboardEnabled": false,
+        "isInstitutionProfileEnabled": false,
+        "isRoamingEnabled": true,
+        "isDelegatedAdmin": false,
+        "isMdl": false,
+        "isCwg": false,
+        "isIel": true,
+        "isAcademic": true
+    },
+    "authors": [
+        {
+            "name": "Ruohan Gao",
+            "affiliation": [
+                "The University of Texas at Austin"
+            ],
+            "firstName": "Ruohan",
+            "lastName": "Gao",
+            "id": "37087234277"
+        },
+        {
+            "name": "Kristen Grauman",
+            "affiliation": [
+                "Facebook AI Research"
+            ],
+            "firstName": "Kristen",
+            "lastName": "Grauman",
+            "id": "37282612200"
+        }
+    ],
+    "isbn": [
+        {
+            "format": "Electronic ISBN",
+            "value": "978-1-7281-3293-8",
+            "isbnType": ""
+        },
+        {
+            "format": "Print on Demand(PoD) ISBN",
+            "value": "978-1-7281-3294-5",
+            "isbnType": ""
+        }
+    ],
+    "issn": [
+        {
+            "format": "Electronic ISSN",
+            "value": "2575-7075"
+        },
+        {
+            "format": "Print on Demand(PoD) ISSN",
+            "value": "1063-6919"
+        }
+    ],
+    "articleNumber": "8953465",
+    "dbTime": "1 ms",
+    "metrics": {
+        "citationCountPaper": 61,
+        "citationCountPatent": 1,
+        "totalDownloads": 208
+    },
+    "purchaseOptions": {
+        "showOtherFormatPricingTab": false,
+        "showPdfFormatPricingTab": true,
+        "pdfPricingInfoAvailable": true,
+        "otherPricingInfoAvailable": false,
+        "mandatoryBundle": false,
+        "optionalBundle": false,
+        "displayTextWhenOtherFormatPricingNotAvailable": "The purchase and pricing options for this item are unavailable. Select items are only available as part of a subscription package. You may try again later or <a href='https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/xpl/contact' target='_blank'>contact us</a> for more information.",
+        "pdfPricingInfo": [
+            {
+                "memberPrice": "$14.95",
+                "nonMemberPrice": "$33.00",
+                "partNumber": "8953465",
+                "type": "PDF/HTML"
+            }
+        ],
+        "openUrlFullLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu?url_ver=Z39.88-2004&rfr_id=info:sid/IEEE.org:XPLORE&rft_id=info:doi/10.1109/CVPR.2019.00041&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&rft.atitle=2.5D Visual Sound&rft.jtitle=2019 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)&rft.date=2019&rft.spage=324&rft.epage=333&rft.eissn=2575-7075&rft.au=Ruohan Gao&rft.aulast=Ruohan Gao&rft.isbn=978-1-7281-3293-8"
+    },
+    "getProgramTermsAccepted": false,
+    "sections": {
+        "abstract": "true",
+        "authors": "true",
+        "figures": "true",
+        "multimedia": "false",
+        "references": "true",
+        "citedby": "true",
+        "keywords": "true",
+        "definitions": "false",
+        "algorithm": "false",
+        "dataset": "false",
+        "cadmore": "false",
+        "footnotes": "true",
+        "disclaimer": "false",
+        "relatedContent": "false",
+        "metrics": "true"
+    },
+    "abstract": "Binaural audio provides a listener with 3D sound sensation, allowing a rich perceptual experience of the scene. However, binaural recordings are scarcely available and require nontrivial expertise and equipment to obtain. We propose to convert common monaural audio into binaural audio by leveraging video. The key idea is that visual frames reveal significant spatial cues that, while explicitly lacking in the accompanying single-channel audio, are strongly linked to it. Our multi-modal approach recovers this link from unlabeled video. We devise a deep convolutional neural network that learns to decode the monaural (single-channel) soundtrack into its binaural counterpart by injecting visual information about object and scene configurations. We call the resulting output 2.5D visual sound-the visual stream helps \"lift\" the flat single channel audio into spatialized sound. In addition to sound generation, we show the self-supervised representation learned by our network benefits audio-visual source separation. Our video results: http://vision.cs.utexas.edu.proxy.lib.ohio-state.edu/projects/2.5D_visual_sound/.",
+    "publicationYear": "2019",
+    "pdfPath": "/iel7/8938205/8953184/08953465.pdf",
+    "publicationDate": "June 2019",
+    "doi": "10.1109/CVPR.2019.00041",
+    "formulaStrippedArticleTitle": "2.5D Visual Sound",
+    "displayPublicationTitle": "2019 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+    "authorNames": "Ruohan Gao;Kristen Grauman",
+    "publicationTitle": "2019 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+    "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=proceedings&title=2.5D+Visual+Sound&isbn=978-1-7281-3293-8&publicationDate=June+2019&author=Ruohan+Gao&ContentID=10.1109/CVPR.2019.00041&orderBeanReset=true&startPage=324&endPage=333&proceedingName=2019+IEEE%2FCVF+Conference+on+Computer+Vision+and+Pattern+Recognition+%28CVPR%29",
+    "dateOfInsertion": "09 January 2020",
+    "startPage": "324",
+    "endPage": "333",
+    "pdfUrl": "/stamp/stamp.jsp?tp=&arnumber=8953465",
+    "keywords": [
+        {
+            "type": "INSPEC: Controlled Indexing",
+            "kwd": [
+                "audio signal processing",
+                "audio-visual systems",
+                "convolutional neural nets",
+                "learning (artificial intelligence)",
+                "source separation",
+                "video signal processing"
+            ]
+        },
+        {
+            "type": "INSPEC: Non-Controlled Indexing",
+            "kwd": [
+                "common monaural audio",
+                "binaural audio",
+                "leveraging video",
+                "visual frames",
+                "spatial cues",
+                "single-channel audio",
+                "deep convolutional neural network",
+                "binaural counterpart",
+                "visual information",
+                "flat single channel audio",
+                "audio-visual source separation",
+                "2.5D visual sound",
+                "3D sound sensation",
+                "rich perceptual experience",
+                "binaural recordings",
+                "multimodal approach"
+            ]
+        },
+        {
+            "type": "Author Keywords ",
+            "kwd": [
+                "Video Analytics",
+                "Recognition: Detection",
+                "Categorization",
+                "Retrieval; Representation Learning"
+            ]
+        }
+    ],
+    "doiLink": "https://doi-org.proxy.lib.ohio-state.edu/10.1109/CVPR.2019.00041",
+    "displayPublicationDate": "15-20 June 2019",
+    "articleCopyRight": "2019 IEEE",
+    "issueLink": "/xpl/tocresult.jsp?isnumber=8953184&punumber=8938205",
+    "pubLink": "/xpl/conhome/8938205/proceeding",
+    "allowComments": false,
+    "isGetAddressInfoCaptured": false,
+    "isMarketingOptIn": false,
+    "pubTopics": [
+        {
+            "name": "Computing and Processing"
+        }
+    ],
+    "publisher": "IEEE",
+    "displayDocTitle": "2.5D Visual Sound",
+    "isStandard": false,
+    "isConference": true,
+    "isBookWithoutChapters": false,
+    "isChapter": false,
+    "isProduct": false,
+    "isEarlyAccess": false,
+    "isOpenAccess": false,
+    "isEphemera": false,
+    "xploreDocumentType": "Conference Publication",
+    "isBook": false,
+    "isJournal": false,
+    "isSpringer": false,
+    "accessionNumber": "19263379",
+    "isFreeDocument": false,
+    "isPromo": false,
+    "isDynamicHtml": true,
+    "htmlLink": "/document/8953465/",
+    "htmlAbstractLink": "/document/8953465/",
+    "isCustomDenial": false,
+    "persistentLink": "https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/servlet/opac?punumber=8938205",
+    "isNow": false,
+    "isSAE": false,
+    "isOUP": false,
+    "isSMPTE": false,
+    "openAccessFlag": "F",
+    "insertDate": "09 January 2020",
+    "ephemeraFlag": "false",
+    "title": "2.5D Visual Sound",
+    "confLoc": "Long Beach, CA, USA",
+    "html_flag": "false",
+    "ml_html_flag": "true",
+    "sourcePdf": "329300a324.pdf",
+    "mlTime": "PT0.135804S",
+    "xplore-pub-id": "8938205",
+    "isNumber": "8953184",
+    "rightsLinkFlag": "1",
+    "contentType": "conferences",
+    "publicationNumber": "8938205",
+    "citationCount": "61",
+    "xplore-issue": "8953184",
+    "articleId": "8953465",
+    "contentTypeDisplay": "Conferences",
+    "subType": "IEEE Conference",
+    "_value": "IEEE",
+    "lastupdate": "2023-10-07",
+    "mediaPath": "/mediastore_new/IEEE/content/media/8938205/8953184/8953465"
+}

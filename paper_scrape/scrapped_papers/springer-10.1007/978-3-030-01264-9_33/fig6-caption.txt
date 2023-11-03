@@ -1,0 +1,1 @@
+Examples from AFLW2000-3D dataset show that our predictions are more accurate than ground truth in some cases. Green: predicted landmarks by our method. Red: ground truth from [67]. (Color figure online)

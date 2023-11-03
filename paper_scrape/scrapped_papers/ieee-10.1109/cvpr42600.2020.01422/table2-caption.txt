@@ -1,0 +1,1 @@
+Table 2: Ablations. We analyze the design choices of the proposed method and report the validation loss of equation (9) on the synthetic reflection-background vimeo-90k test set

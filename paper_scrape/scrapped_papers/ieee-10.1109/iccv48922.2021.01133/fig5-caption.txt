@@ -1,0 +1,2 @@
+Figure 5: 
+Failure cases. Even when the mocap reconstruction error is quite high, the motion output of our method still evaluates consistently low under our physics loss and visually looks physically plausible. These failure cases are selected from the worst performing frames in terms of mocap reconstruction.

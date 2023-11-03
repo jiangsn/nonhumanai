@@ -1,0 +1,2 @@
+Figure 6. 
+Qualitative comparison over time. We show a generated sequence for each method at different time steps. Note that we only have ground truth images for 10 frames; the subsequent frames are generated using an extrapolated trajectory. Pink region in Ours no-refine indicate missing content uncovered by the moving camera.

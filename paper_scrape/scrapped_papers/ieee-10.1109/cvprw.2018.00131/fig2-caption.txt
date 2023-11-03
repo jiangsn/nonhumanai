@@ -1,0 +1,1 @@
+Figure 2: Asymmetric pyramidal architecture. More dcus are allocated in the lower pyramid level to improve the reconstruction accuracy and to reduce memory consumption.

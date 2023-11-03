@@ -1,0 +1,4 @@
+Fig. 16. Visual comparison for upscaling by a factor of 2 the JPEG-compressed \mathsf{Comic} image (taken from Set14). (a) Bilinear
+ interpolation, (b) RAISR with learning stage as in Section VI-A which does not
+ include compression of the training LR images, (c) RAISR with learning that involves compression of the training LR
+ images.

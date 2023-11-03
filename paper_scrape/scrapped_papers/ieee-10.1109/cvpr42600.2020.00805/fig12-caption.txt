@@ -1,0 +1,1 @@
+Figure 12. Our method works with various sources of depth map. We show the depth estimates on the top-left of novel views.

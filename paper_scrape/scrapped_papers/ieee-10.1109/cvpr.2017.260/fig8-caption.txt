@@ -1,0 +1,1 @@
+Figure 8: The reconstruction results. In each example the left image is the real input image and the right image is the rendered 3D CAD model produced by IM2CAD. Last row shows example results on the SUN RGB-D dataset.

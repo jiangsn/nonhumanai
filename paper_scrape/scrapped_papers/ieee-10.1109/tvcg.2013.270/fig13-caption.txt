@@ -1,0 +1,2 @@
+Fig. 13. Rendering the squirrel in Fig. 8
+ with doubled fiber width. In (c) the fiber opacity is reduced by half.

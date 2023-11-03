@@ -1,0 +1,1 @@
+Cumulative Errors Distribution (CED) curves on AFLW2000-3D. Evaluation is performed on 68 landmarks with both the 2D (left) and 3D (right) coordinates. Overall 2000 images from AFLW2000-3D dataset are used here. The mean NME% of each method is also showed in the legend.

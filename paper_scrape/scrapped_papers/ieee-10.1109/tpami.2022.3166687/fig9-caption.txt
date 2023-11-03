@@ -1,0 +1,2 @@
+Fig. 9. 
+Perceptual discriminator. A perceptual discriminator evaluates the realism of enhanced images. It consists of pretrained robust segmentation (MSeg [74]) and perceptual (VGG [95]) networks (green). These provide high-level semantic information via label maps and perceptual feature tensors. The maps and tensors are ingested by discriminator networks, which produce a realism score map. For clarity, we only show a single discriminator network, indicated by the dashed rectangle.

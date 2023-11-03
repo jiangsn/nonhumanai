@@ -1,0 +1,1 @@
+Table 2. Quantitative comparison on latent-guided synthesis. The fids of real images are computed between the training and test sets. Note that they may not be optimal values since the number of test images is insufficient, but we report them for reference.

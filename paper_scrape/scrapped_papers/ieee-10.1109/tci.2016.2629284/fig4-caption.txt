@@ -1,0 +1,4 @@
+Fig. 4. Visualization of the four global filters, corresponding to P1-P4 type of pixels, in the pixel domain (a-d),
+ along with their magnitude in the frequency domain (e-f), where the warmer the color, the larger the value. The
+ filters are learned on Fig. 2 image: (a) P1-Filter, (b) P2-Filter, (c)
+ P3-Filter, (d) P4-Filter, (e) P1-Spectrum, (f) P2-Spectrum, (g) P3-Spectrum, (h) P4-Spectrum.

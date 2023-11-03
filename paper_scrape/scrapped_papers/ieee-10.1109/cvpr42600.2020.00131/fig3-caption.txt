@@ -1,0 +1,1 @@
+Figure 3. Screenshots of a human playing with GameGAN trained on the official version of Pac-Man2. GameGAN learns to produce a visually consistent simulation as well as learning the dynamics of the game well. On the bottom row, the player consumes a capsule, turning the ghosts purple. Note that ghosts approach Pacman before consuming the capsule, and run away after.

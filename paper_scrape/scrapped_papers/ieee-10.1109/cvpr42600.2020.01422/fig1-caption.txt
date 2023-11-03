@@ -1,0 +1,1 @@
+Figure 1: Seeing through obstructions. We present a learning-based method for recovering clean images from a given short sequence of images taken by a moving camera through obstructing elements such as (a) windows, (b) fence, or (c) raindrop.

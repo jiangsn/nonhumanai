@@ -1,0 +1,1 @@
+Figure 6. Example postprocessed and color-aligned patches from our real denoising dataset. Rawnerf produces the most detailed output in each case. All deep denoising methods (columns 2–5) receive the noisy test image as input, whereas nerf variants (columns 6–8) perform both novel view synthesis and denoising.

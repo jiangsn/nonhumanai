@@ -1,0 +1,2 @@
+Figure 1: 
+We propose a framework to estimate physically correct motions from noisy pose estimations from video. This allows us to train a motion synthesis network directly on video data, removing the need for mocap data used in prior work.

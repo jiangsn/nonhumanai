@@ -1,0 +1,2 @@
+Table 4: 
+Quantitative evaluation on different modeling strategies for the alpha transparency (A), base color (K0), and view-dependent coefficients (K1,…,KN). Modeling with an explicit structure is denoted by (Ex) and with an implicit representation is denoted by (Im).

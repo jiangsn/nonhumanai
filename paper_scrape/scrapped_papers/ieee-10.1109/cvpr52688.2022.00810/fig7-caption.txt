@@ -1,0 +1,1 @@
+Figure 7. Relighting quality for a scene from the nerfactor dataset, with our examples relit using blender, and nerfactor results generated using the public code.

@@ -1,0 +1,2 @@
+Figure 1. 
+Our model predicts dense depth when both an ordinary camera and people in the scene are freely moving (right). We train our model on our new MannequinChallenge dataset—a collection of Internet videos of people imitating mannequins, i.e., freezing in diverse, natural poses, while a camera tours the scene (left). Because people are stationary, geometric constraints hold; this allows us to use multi-view stereo to estimate depth which serves as supervision during training.2

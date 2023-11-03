@@ -1,0 +1,2 @@
+Figure 15. 
+Predictions before (top) and after (bottom) label adaptation. The main difference is changing the jawline from a 3D-to-2D projection to instead follow the facial outline in the image.

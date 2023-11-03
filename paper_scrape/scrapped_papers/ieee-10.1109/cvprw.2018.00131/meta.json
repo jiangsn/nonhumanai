@@ -1,0 +1,272 @@
+{
+    "userInfo": {
+        "customerNameRaw": "The Ohio State University",
+        "institutionName": "The Ohio State University",
+        "institute": true,
+        "member": false,
+        "individual": false,
+        "guest": false,
+        "subscribedContent": false,
+        "fileCabinetContent": false,
+        "fileCabinetUser": false,
+        "institutionalFileCabinetUser": false,
+        "products": "IEL|EBOOKS:1974:2014|JRNLARCH:1884:1994|CONFARCH:1951:1999|IBM:1872:2020|VDE|NOKIA BELL LABS|",
+        "instType": "Academic",
+        "userIds": [
+            7827
+        ],
+        "showPatentCitations": true,
+        "showGet802Link": true,
+        "openUrlImgLoc": "http://library-osu-edu.proxy.lib.ohio-state.edu/resources/serialssolutions/buttons/button75x25edit.jpg",
+        "openUrlLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu",
+        "instLogoFile": "7827_OSULHoriz.png",
+        "openUrlTxt": "Find It!",
+        "showOpenUrlLink": true,
+        "marketingInfoCaptured": false,
+        "tracked": false,
+        "ringGoldId": "2647",
+        "delegatedAdmin": false,
+        "desktop": false,
+        "isInstitutionDashboardEnabled": false,
+        "isInstitutionProfileEnabled": false,
+        "isRoamingEnabled": true,
+        "isDelegatedAdmin": false,
+        "isMdl": false,
+        "isCwg": false,
+        "isIel": true,
+        "isAcademic": true
+    },
+    "authors": [
+        {
+            "name": "Yifan Wang",
+            "affiliation": [
+                "ETH Zurich"
+            ],
+            "firstName": "Yifan",
+            "lastName": "Wang",
+            "id": "37086261672"
+        },
+        {
+            "name": "Federico Perazzi",
+            "affiliation": [
+                "Disney Research"
+            ],
+            "firstName": "Federico",
+            "lastName": "Perazzi",
+            "id": "38467036700"
+        },
+        {
+            "name": "Brian McWilliams",
+            "firstName": "Brian",
+            "lastName": "McWilliams",
+            "id": "37606112700"
+        },
+        {
+            "name": "Alexander Sorkine-Hornung",
+            "affiliation": [
+                "Oculus"
+            ],
+            "firstName": "Alexander",
+            "lastName": "Sorkine-Hornung",
+            "id": "37075470300"
+        },
+        {
+            "name": "Olga Sorkine-Hornung",
+            "affiliation": [
+                "ETH Zurich"
+            ],
+            "firstName": "Olga",
+            "lastName": "Sorkine-Hornung",
+            "id": "37085473700"
+        },
+        {
+            "name": "Christopher Schroers",
+            "affiliation": [
+                "Disney Research"
+            ],
+            "firstName": "Christopher",
+            "lastName": "Schroers",
+            "id": "37086061268"
+        }
+    ],
+    "isbn": [
+        {
+            "format": "Electronic ISBN",
+            "value": "978-1-5386-6100-0",
+            "isbnType": ""
+        },
+        {
+            "format": "Print on Demand(PoD) ISBN",
+            "value": "978-1-5386-6101-7",
+            "isbnType": ""
+        }
+    ],
+    "issn": [
+        {
+            "format": "Electronic ISSN",
+            "value": "2160-7516"
+        },
+        {
+            "format": "Print on Demand(PoD) ISSN",
+            "value": "2160-7508"
+        }
+    ],
+    "articleNumber": "8575284",
+    "dbTime": "1 ms",
+    "metrics": {
+        "citationCountPaper": 159,
+        "citationCountPatent": 0,
+        "totalDownloads": 454
+    },
+    "purchaseOptions": {
+        "showOtherFormatPricingTab": false,
+        "showPdfFormatPricingTab": true,
+        "pdfPricingInfoAvailable": true,
+        "otherPricingInfoAvailable": false,
+        "mandatoryBundle": false,
+        "optionalBundle": false,
+        "displayTextWhenOtherFormatPricingNotAvailable": "The purchase and pricing options for this item are unavailable. Select items are only available as part of a subscription package. You may try again later or <a href='https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/xpl/contact' target='_blank'>contact us</a> for more information.",
+        "pdfPricingInfo": [
+            {
+                "memberPrice": "$14.95",
+                "nonMemberPrice": "$33.00",
+                "partNumber": "8575284",
+                "type": "PDF/HTML"
+            }
+        ],
+        "openUrlFullLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu?url_ver=Z39.88-2004&rfr_id=info:sid/IEEE.org:XPLORE&rft_id=info:doi/10.1109/CVPRW.2018.00131&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&rft.atitle=A Fully Progressive Approach to Single-Image Super-Resolution&rft.jtitle=2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)&rft.date=2018&rft.spage=977&rft.epage=97709&rft.eissn=2160-7516&rft.au=Yifan Wang&rft.aulast=Yifan Wang&rft.isbn=978-1-5386-6100-0"
+    },
+    "getProgramTermsAccepted": false,
+    "sections": {
+        "abstract": "true",
+        "authors": "true",
+        "figures": "true",
+        "multimedia": "false",
+        "references": "true",
+        "citedby": "true",
+        "keywords": "true",
+        "definitions": "false",
+        "algorithm": "false",
+        "dataset": "false",
+        "cadmore": "false",
+        "footnotes": "false",
+        "disclaimer": "false",
+        "relatedContent": "false",
+        "metrics": "true"
+    },
+    "abstract": "Recent deep learning approaches to single image superresolution have achieved impressive results in terms of traditional error measures and perceptual quality. However, in each case it remains challenging to achieve high quality results for large upsampling factors. To this end, we propose a method (ProSR) that is progressive both in architecture and training: the network upsamples an image in intermediate steps, while the learning process is organized from easy to hard, as is done in curriculum learning. To obtain more photorealistic results, we design a generative adversarial network (GAN), named ProGanSR, that follows the same progressive multi-scale design principle. This not only allows to scale well to high upsampling factors (e.g., 8\u00d7) but constitutes a principled multi-scale approach that increases the reconstruction quality for all upsampling factors simultaneously. In particular ProSR ranks 2nd in terms of SSIM and 4th in terms of PSNR in the NTIRE2018 SISR challenge [35]. Compared to the top-ranking team, our model is marginally lower, but runs 5 times faster.",
+    "publicationYear": "2018",
+    "pdfPath": "/iel7/8575058/8575239/08575284.pdf",
+    "publicationDate": "June 2018",
+    "doi": "10.1109/CVPRW.2018.00131",
+    "formulaStrippedArticleTitle": "A Fully Progressive Approach to Single-Image Super-Resolution",
+    "displayPublicationTitle": "2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)",
+    "authorNames": "Yifan Wang;Federico Perazzi;Brian McWilliams;Alexander Sorkine-Hornung;Olga Sorkine-Hornung;Christopher Schroers",
+    "publicationTitle": "2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)",
+    "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=proceedings&title=A+Fully+Progressive+Approach+to+Single-Image+Super-Resolution&isbn=978-1-5386-6100-0&publicationDate=June+2018&author=Yifan+Wang&ContentID=10.1109/CVPRW.2018.00131&orderBeanReset=true&startPage=977&endPage=97709&proceedingName=2018+IEEE%2FCVF+Conference+on+Computer+Vision+and+Pattern+Recognition+Workshops+%28CVPRW%29",
+    "dateOfInsertion": "16 December 2018",
+    "startPage": "977",
+    "endPage": "97709",
+    "pdfUrl": "/stamp/stamp.jsp?tp=&arnumber=8575284",
+    "keywords": [
+        {
+            "type": "IEEE Keywords",
+            "kwd": [
+                "Training",
+                "Gallium nitride",
+                "Image resolution",
+                "Image reconstruction",
+                "Generative adversarial networks",
+                "Computer architecture",
+                "Generators"
+            ]
+        },
+        {
+            "type": "INSPEC: Controlled Indexing",
+            "kwd": [
+                "image reconstruction",
+                "image resolution",
+                "image sampling",
+                "learning (artificial intelligence)"
+            ]
+        },
+        {
+            "type": "INSPEC: Non-Controlled Indexing",
+            "kwd": [
+                "single-image super-resolution",
+                "perceptual quality",
+                "learning process",
+                "generative adversarial network",
+                "progressive multiscale design principle",
+                "principled multiscale approach",
+                "reconstruction quality",
+                "NTIRE2018 SISR challenge",
+                "deep learning",
+                "upsampling factors",
+                "ProSR method",
+                "ProGanSR"
+            ]
+        }
+    ],
+    "doiLink": "https://doi-org.proxy.lib.ohio-state.edu/10.1109/CVPRW.2018.00131",
+    "displayPublicationDate": "18-22 June 2018",
+    "articleCopyRight": "2018 IEEE",
+    "issueLink": "/xpl/tocresult.jsp?isnumber=8575239&punumber=8575058",
+    "pubLink": "/xpl/conhome/8575058/proceeding",
+    "allowComments": false,
+    "isGetAddressInfoCaptured": false,
+    "isMarketingOptIn": false,
+    "pubTopics": [
+        {
+            "name": "Computing and Processing"
+        }
+    ],
+    "publisher": "IEEE",
+    "displayDocTitle": "A Fully Progressive Approach to Single-Image Super-Resolution",
+    "isStandard": false,
+    "isConference": true,
+    "isBookWithoutChapters": false,
+    "isChapter": false,
+    "isProduct": false,
+    "isEarlyAccess": false,
+    "isOpenAccess": false,
+    "isEphemera": false,
+    "xploreDocumentType": "Conference Publication",
+    "isBook": false,
+    "isJournal": false,
+    "isSpringer": false,
+    "accessionNumber": "18347378",
+    "isFreeDocument": false,
+    "isPromo": false,
+    "isDynamicHtml": true,
+    "htmlLink": "/document/8575284/",
+    "htmlAbstractLink": "/document/8575284/",
+    "isCustomDenial": false,
+    "persistentLink": "https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/servlet/opac?punumber=8575058",
+    "isNow": false,
+    "isSAE": false,
+    "isOUP": false,
+    "isSMPTE": false,
+    "openAccessFlag": "F",
+    "insertDate": "16 December 2018",
+    "ephemeraFlag": "false",
+    "title": "A Fully Progressive Approach to Single-Image Super-Resolution",
+    "confLoc": "Salt Lake City, UT, USA",
+    "html_flag": "false",
+    "ml_html_flag": "true",
+    "sourcePdf": "610000a977.pdf",
+    "mlTime": "PT0.063339S",
+    "xplore-pub-id": "8575058",
+    "isNumber": "8575239",
+    "rightsLinkFlag": "1",
+    "contentType": "conferences",
+    "publicationNumber": "8575058",
+    "citationCount": "159",
+    "xplore-issue": "8575239",
+    "articleId": "8575284",
+    "contentTypeDisplay": "Conferences",
+    "subType": "IEEE Conference",
+    "_value": "IEEE",
+    "lastupdate": "2023-10-07",
+    "mediaPath": "/mediastore_new/IEEE/content/media/8575058/8575239/8575284"
+}

@@ -1,0 +1,1 @@
+Table 2. Performance of geometric registration algorithms between fused fragments of synthetic scans.

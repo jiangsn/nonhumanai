@@ -1,0 +1,1 @@
+Figure 7. Effect of depth inpainting. Edge-guided depth inpainting produces more accurate structure inpainting, particularly for depth-complex regions (e.g., T-junctions). Blue box: synthesized novel view.

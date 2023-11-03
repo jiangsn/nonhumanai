@@ -1,0 +1,2 @@
+Figure 7: 
+Our method recovers thin hair strands. By adjusting the camera’s far plane, we can render the subject against a flat white background.

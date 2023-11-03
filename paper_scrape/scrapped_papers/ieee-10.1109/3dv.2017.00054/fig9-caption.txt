@@ -1,0 +1,1 @@
+Figure 9 Results for the category aeroplanes. From left to right, input image, our proposed HSP, LR soft, LR hard.

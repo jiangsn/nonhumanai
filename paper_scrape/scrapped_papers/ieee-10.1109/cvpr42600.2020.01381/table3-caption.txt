@@ -1,0 +1,1 @@
+Table 3. Objective speech quality, intelligibility and wer scores for the tcd-timit dataset unseen test split

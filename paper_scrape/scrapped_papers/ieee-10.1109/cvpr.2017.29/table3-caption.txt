@@ -1,0 +1,1 @@
+Table 3. Performance of geometric registration algorithms between fused fragments of real-world scans.

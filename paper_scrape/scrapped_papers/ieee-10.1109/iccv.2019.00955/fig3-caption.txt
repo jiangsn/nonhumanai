@@ -1,0 +1,6 @@
+
+Figure 3:
+ 
+
+Comparison on the VoxCeleb1 dataset. For each of the compared methods, we perform one-and few-shot learning on a video of a person not seen during meta-learning or pretraining. We set the number of training frames equal to T (the leftmost column). One of the training frames is shown in the source column. Next columns show ground truth image, taken from the test part of the video sequence, and the generated results of the compared methods.
+

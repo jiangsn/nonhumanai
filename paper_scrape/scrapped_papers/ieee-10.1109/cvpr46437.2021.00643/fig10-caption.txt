@@ -1,0 +1,2 @@
+Figure 10: 
+Limitations. Our method is unable to extrapolate content unseen in the training views (a), and has difficulty recovering high frequency details if a video involves extreme object motions (b,c).

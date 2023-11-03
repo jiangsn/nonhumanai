@@ -1,0 +1,1 @@
+Figure 3. Example results by our stackgan, GAWWN [24], and GAN-INT-cls [26] conditioned on text descriptions from CUB test set.

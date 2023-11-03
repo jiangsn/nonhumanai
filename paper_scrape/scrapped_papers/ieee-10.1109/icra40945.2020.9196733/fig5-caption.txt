@@ -1,0 +1,2 @@
+Fig. 5. 
+Train and Test Distribution. The training kits: (a) tape-runner, (b) black-floss, (c) fruits, (d) deodorants, and (e) zoo-animals. Two animals are withheld from the zoo-animals kit (i.e. it is only trained on 5 animals) to speed up data collection and testing.

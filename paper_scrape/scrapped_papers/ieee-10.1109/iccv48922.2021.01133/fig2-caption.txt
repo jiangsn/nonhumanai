@@ -1,0 +1,2 @@
+Figure 2: 
+Overview of our framework. A video sequence is processed by a per-frame CNN pose estimator. The 3d and 2d keypoint detections are passed to an inverse kinematics step that forms an initial estimate of the SMPL body model motion using 3D keypoints. We then optimize this initialization with our physics loss and use the produced motions in place of motion capture to train motion synthesis models.

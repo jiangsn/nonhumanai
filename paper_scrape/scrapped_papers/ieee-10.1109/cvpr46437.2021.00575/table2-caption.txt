@@ -1,0 +1,2 @@
+Table 2: 
+User study: We perform a user study to compare four techniques for producing looping videos. We collected 5 unique annotations for each of 100 samples. We direct users to judge the visual quality and realism of each looping video and rank the videos with unique scores S = [0, 3], where 3 is best. We report the cumulative number of annotations above a certain ranking. On average, users rank our method higher than the alternatives.

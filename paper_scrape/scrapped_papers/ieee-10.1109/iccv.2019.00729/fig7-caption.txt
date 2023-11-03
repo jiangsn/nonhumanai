@@ -1,0 +1,1 @@
+Figure 7: (a) output of vanilla Hourglass network, (b) rectangle region of (a), (c) output of Hourglass network with skip training, (d) rectangle region of (c). We increase the pixel intensity of (b) and (d) to better visualize.

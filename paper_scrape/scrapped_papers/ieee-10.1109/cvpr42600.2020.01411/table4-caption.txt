@@ -1,0 +1,1 @@
+Table 4: Ppl. Perceptual path lengths on FFHQ measured in the \mathcal{Z} and the \mathcal{W} spaces (lower is better)

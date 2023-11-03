@@ -1,0 +1,1 @@
+Figure 3. Network architecture of SC-FEGAN. LRN is applied after each convolutional layers except the input and output layers. We use tanh as the activation function for the output of generator. We use a SN convolutional layer [11] for the discriminator.

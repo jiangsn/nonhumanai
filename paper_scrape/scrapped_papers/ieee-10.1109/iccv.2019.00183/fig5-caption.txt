@@ -1,0 +1,1 @@
+Figure 5. Our results from networks trained with and without VGG loss. When the network is trained without VGG loss, we encounter problems similar to those of FaceShop [12].

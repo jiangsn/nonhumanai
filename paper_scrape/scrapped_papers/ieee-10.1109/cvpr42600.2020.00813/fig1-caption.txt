@@ -1,0 +1,1 @@
+Figure 1. Instance normalization causes water droplet -like artifacts in stylegan images. These are not always obvious in the generated images, but if we look at the activations inside the generator network, the problem is always there, in all feature maps starting from the 64x64 resolution. It is a systemic problem that plagues all stylegan images.

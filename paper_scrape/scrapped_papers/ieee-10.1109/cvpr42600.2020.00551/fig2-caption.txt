@@ -1,0 +1,1 @@
+Figure 2: Architecture of our generator (GroupDNet). “GConv” means group convolution and “Sync BN” represents synchronized batch normalization. \mathcal{G}^{i} is the group number of i-th layer. Note normally \mathcal{G}^{i}\geq \mathcal{G}^{i+1} for i\geq 1 for GroupDNet.

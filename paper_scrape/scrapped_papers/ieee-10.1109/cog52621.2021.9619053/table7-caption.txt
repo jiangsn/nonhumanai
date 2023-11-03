@@ -1,0 +1,1 @@
+Table VII: Platform game: solvers (trained on fixed track, rule pcg, and arlpcg environments respectively) average success ratio on generator generated tracks. Averaged over 50000 trials (50 tracks á 1000 trials). The generator's auxiliary input is varied between [-1,1] to moderate the diffi-culty of the track.

@@ -1,0 +1,1 @@
+Fig. 13. Heat-maps of the number of times a successful attack is present with the corresponding original-target class pair, for nontargeted attacks.

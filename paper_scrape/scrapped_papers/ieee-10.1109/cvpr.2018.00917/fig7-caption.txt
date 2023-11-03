@@ -1,0 +1,1 @@
+Figure 7: Comparison on the cityscapes dataset [7] (label maps shown at the lower left corner in (a)). Both our results are more realistic than the other two methods.

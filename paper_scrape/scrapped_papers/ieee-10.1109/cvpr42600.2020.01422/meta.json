@@ -1,0 +1,272 @@
+{
+    "userInfo": {
+        "customerNameRaw": "The Ohio State University",
+        "institutionName": "The Ohio State University",
+        "institute": true,
+        "member": false,
+        "individual": false,
+        "guest": false,
+        "subscribedContent": false,
+        "fileCabinetContent": false,
+        "fileCabinetUser": false,
+        "institutionalFileCabinetUser": false,
+        "products": "IEL|EBOOKS:1974:2014|JRNLARCH:1884:1994|CONFARCH:1951:1999|IBM:1872:2020|VDE|NOKIA BELL LABS|",
+        "instType": "Academic",
+        "userIds": [
+            7827
+        ],
+        "showPatentCitations": true,
+        "showGet802Link": true,
+        "openUrlImgLoc": "http://library-osu-edu.proxy.lib.ohio-state.edu/resources/serialssolutions/buttons/button75x25edit.jpg",
+        "openUrlLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu",
+        "instLogoFile": "7827_OSULHoriz.png",
+        "openUrlTxt": "Find It!",
+        "showOpenUrlLink": true,
+        "marketingInfoCaptured": false,
+        "tracked": false,
+        "ringGoldId": "2647",
+        "delegatedAdmin": false,
+        "desktop": false,
+        "isInstitutionDashboardEnabled": false,
+        "isInstitutionProfileEnabled": false,
+        "isRoamingEnabled": true,
+        "isDelegatedAdmin": false,
+        "isMdl": false,
+        "isCwg": false,
+        "isIel": true,
+        "isAcademic": true
+    },
+    "authors": [
+        {
+            "name": "Yu-Lun Liu",
+            "affiliation": [
+                "National Taiwan University",
+                "MediaTek Inc."
+            ],
+            "firstName": "Yu-Lun",
+            "lastName": "Liu",
+            "id": "37088455286"
+        },
+        {
+            "name": "Wei-Sheng Lai",
+            "affiliation": [
+                "Google"
+            ],
+            "firstName": "Wei-Sheng",
+            "lastName": "Lai",
+            "id": "37086097471"
+        },
+        {
+            "name": "Ming-Hsuan Yang",
+            "affiliation": [
+                "Google",
+                "UC Merced"
+            ],
+            "firstName": "Ming-Hsuan",
+            "lastName": "Yang",
+            "id": "37277304600"
+        },
+        {
+            "name": "Yung-Yu Chuang",
+            "affiliation": [
+                "National Taiwan University"
+            ],
+            "firstName": "Yung-Yu",
+            "lastName": "Chuang",
+            "id": "37401812000"
+        },
+        {
+            "name": "Jia-Bin Huang",
+            "affiliation": [
+                "Virginia Tech"
+            ],
+            "firstName": "Jia-Bin",
+            "lastName": "Huang",
+            "id": "37062065700"
+        }
+    ],
+    "isbn": [
+        {
+            "format": "Electronic ISBN",
+            "value": "978-1-7281-7168-5",
+            "isbnType": ""
+        },
+        {
+            "format": "Print on Demand(PoD) ISBN",
+            "value": "978-1-7281-7169-2",
+            "isbnType": ""
+        }
+    ],
+    "issn": [
+        {
+            "format": "Electronic ISSN",
+            "value": "2575-7075"
+        },
+        {
+            "format": "Print on Demand(PoD) ISSN",
+            "value": "1063-6919"
+        }
+    ],
+    "articleNumber": "9156707",
+    "dbTime": "1 ms",
+    "metrics": {
+        "citationCountPaper": 30,
+        "citationCountPatent": 0,
+        "totalDownloads": 143
+    },
+    "purchaseOptions": {
+        "showOtherFormatPricingTab": false,
+        "showPdfFormatPricingTab": true,
+        "pdfPricingInfoAvailable": true,
+        "otherPricingInfoAvailable": false,
+        "mandatoryBundle": false,
+        "optionalBundle": false,
+        "displayTextWhenOtherFormatPricingNotAvailable": "The purchase and pricing options for this item are unavailable. Select items are only available as part of a subscription package. You may try again later or <a href='https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/xpl/contact' target='_blank'>contact us</a> for more information.",
+        "pdfPricingInfo": [
+            {
+                "memberPrice": "$14.95",
+                "nonMemberPrice": "$33.00",
+                "partNumber": "9156707",
+                "type": "PDF/HTML"
+            }
+        ],
+        "openUrlFullLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu?url_ver=Z39.88-2004&rfr_id=info:sid/IEEE.org:XPLORE&rft_id=info:doi/10.1109/CVPR42600.2020.01422&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&rft.atitle=Learning to See Through Obstructions&rft.jtitle=2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)&rft.date=2020&rft.spage=14203&rft.epage=14212&rft.eissn=2575-7075&rft.au=Yu-Lun Liu&rft.aulast=Yu-Lun Liu&rft.isbn=978-1-7281-7168-5"
+    },
+    "getProgramTermsAccepted": false,
+    "sections": {
+        "abstract": "true",
+        "authors": "true",
+        "figures": "true",
+        "multimedia": "false",
+        "references": "true",
+        "citedby": "true",
+        "keywords": "true",
+        "definitions": "false",
+        "algorithm": "false",
+        "dataset": "false",
+        "cadmore": "false",
+        "footnotes": "false",
+        "disclaimer": "false",
+        "relatedContent": "false",
+        "metrics": "true"
+    },
+    "abstract": "We present a learning-based approach for removing unwanted obstructions, such as window reflections, fence occlusions or raindrops, from a short sequence of images captured by a moving camera. Our method leverages the motion differences between the background and the obstructing elements to recover both layers. Specifically, we alternate between estimating dense optical flow fields of the two layers and reconstructing each layer from the flow-warped images via a deep convolutional neural network. The learning-based layer reconstruction allows us to accommodate potential errors in the flow estimation and brittle assumptions such as brightness consistency. We show that training on synthetically generated data transfers well to real images. Our results on numerous challenging scenarios of reflection and fence removal demonstrate the effectiveness of the proposed method.",
+    "publicationYear": "2020",
+    "pdfPath": "/iel7/9142308/9156271/09156707.pdf",
+    "publicationDate": "June 2020",
+    "doi": "10.1109/CVPR42600.2020.01422",
+    "formulaStrippedArticleTitle": "Learning to See Through Obstructions",
+    "displayPublicationTitle": "2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+    "authorNames": "Yu-Lun Liu;Wei-Sheng Lai;Ming-Hsuan Yang;Yung-Yu Chuang;Jia-Bin Huang",
+    "publicationTitle": "2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+    "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=proceedings&title=Learning+to+See+Through+Obstructions&isbn=978-1-7281-7168-5&publicationDate=June+2020&author=Yu-Lun+Liu&ContentID=10.1109/CVPR42600.2020.01422&orderBeanReset=true&startPage=14203&endPage=14212&proceedingName=2020+IEEE%2FCVF+Conference+on+Computer+Vision+and+Pattern+Recognition+%28CVPR%29",
+    "dateOfInsertion": "05 August 2020",
+    "startPage": "14203",
+    "endPage": "14212",
+    "pdfUrl": "/stamp/stamp.jsp?tp=&arnumber=9156707",
+    "keywords": [
+        {
+            "type": "IEEE Keywords",
+            "kwd": [
+                "Image reconstruction",
+                "Reflection",
+                "Feature extraction",
+                "Optical imaging",
+                "Learning systems",
+                "Cameras",
+                "Microsoft Windows"
+            ]
+        },
+        {
+            "type": "INSPEC: Controlled Indexing",
+            "kwd": [
+                "cameras",
+                "convolutional neural nets",
+                "image sequences",
+                "learning (artificial intelligence)"
+            ]
+        },
+        {
+            "type": "INSPEC: Non-Controlled Indexing",
+            "kwd": [
+                "unwanted obstructions",
+                "window reflections",
+                "fence occlusions",
+                "raindrops",
+                "short sequence",
+                "moving camera",
+                "motion differences",
+                "obstructing elements",
+                "dense optical flow fields",
+                "flow-warped images",
+                "deep convolutional neural network",
+                "learning-based layer reconstruction",
+                "flow estimation",
+                "synthetically generated data transfers",
+                "reflection",
+                "fence removal"
+            ]
+        }
+    ],
+    "doiLink": "https://doi-org.proxy.lib.ohio-state.edu/10.1109/CVPR42600.2020.01422",
+    "displayPublicationDate": "13-19 June 2020",
+    "articleCopyRight": "2020 IEEE",
+    "issueLink": "/xpl/tocresult.jsp?isnumber=9156271&punumber=9142308",
+    "pubLink": "/xpl/conhome/9142308/proceeding",
+    "allowComments": false,
+    "isGetAddressInfoCaptured": false,
+    "isMarketingOptIn": false,
+    "pubTopics": [
+        {
+            "name": "Computing and Processing"
+        }
+    ],
+    "publisher": "IEEE",
+    "displayDocTitle": "Learning to See Through Obstructions",
+    "isStandard": false,
+    "isConference": true,
+    "isBookWithoutChapters": false,
+    "isChapter": false,
+    "isProduct": false,
+    "isEarlyAccess": false,
+    "isOpenAccess": false,
+    "isEphemera": false,
+    "xploreDocumentType": "Conference Publication",
+    "isBook": false,
+    "isJournal": false,
+    "isSpringer": false,
+    "accessionNumber": "19874207",
+    "isFreeDocument": false,
+    "isPromo": false,
+    "isDynamicHtml": true,
+    "htmlLink": "/document/9156707/",
+    "htmlAbstractLink": "/document/9156707/",
+    "isCustomDenial": false,
+    "persistentLink": "https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/servlet/opac?punumber=9142308",
+    "isNow": false,
+    "isSAE": false,
+    "isOUP": false,
+    "isSMPTE": false,
+    "openAccessFlag": "F",
+    "insertDate": "05 August 2020",
+    "ephemeraFlag": "false",
+    "title": "Learning to See Through Obstructions",
+    "confLoc": "Seattle, WA, USA",
+    "html_flag": "false",
+    "ml_html_flag": "true",
+    "sourcePdf": "716800o4203.pdf",
+    "mlTime": "PT0.066931S",
+    "xplore-pub-id": "9142308",
+    "isNumber": "9156271",
+    "rightsLinkFlag": "1",
+    "contentType": "conferences",
+    "publicationNumber": "9142308",
+    "citationCount": "30",
+    "xplore-issue": "9156271",
+    "articleId": "9156707",
+    "contentTypeDisplay": "Conferences",
+    "subType": "IEEE Conference",
+    "_value": "IEEE",
+    "lastupdate": "2023-10-08",
+    "mediaPath": "/mediastore_new/IEEE/content/media/9142308/9156271/9156707"
+}

@@ -1,0 +1,2 @@
+Table 3. 
+Landmark localization results on the common, challenging, and private subsets of 300W. Lower is better in all cases. Note that 0.5 FR rate translates to 3 images, while 0.17 corresponds to 1.

@@ -1,0 +1,1 @@
+Given an image, we first predict probabilistic dense landmarks L, each with position \mu  and certainty \sigma . Then, we fit our 3D face model to L, minimizing an energy E by optimizing model parameters \boldsymbol{\mathbf {\Phi }}.

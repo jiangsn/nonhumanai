@@ -1,0 +1,1 @@
+Figure 8: From left to right, top to bottom: original iphone photo and the same image after applying, respectively: APE, dong et al.[4], johnson et al.[9], our generator network, and the corresponding DSLR image.

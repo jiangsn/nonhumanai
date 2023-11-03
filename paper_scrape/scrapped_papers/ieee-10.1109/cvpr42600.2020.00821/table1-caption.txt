@@ -1,0 +1,1 @@
+Table 1. Performance of various configurations on celeba-hq. Frechet inception distance (fid) indicates the distance between two distributions of real and generated images (lower is better), while learned perceptual image patch similarity (lpips) measures the diversity of generated images (higher is better).

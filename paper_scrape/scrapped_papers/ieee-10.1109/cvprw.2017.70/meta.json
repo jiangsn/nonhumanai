@@ -1,0 +1,247 @@
+{
+    "userInfo": {
+        "customerNameRaw": "The Ohio State University",
+        "institutionName": "The Ohio State University",
+        "institute": true,
+        "member": false,
+        "individual": false,
+        "guest": false,
+        "subscribedContent": false,
+        "fileCabinetContent": false,
+        "fileCabinetUser": false,
+        "institutionalFileCabinetUser": false,
+        "products": "IEL|EBOOKS:1974:2014|JRNLARCH:1884:1994|CONFARCH:1951:1999|IBM:1872:2020|VDE|NOKIA BELL LABS|",
+        "instType": "Academic",
+        "userIds": [
+            7827
+        ],
+        "showPatentCitations": true,
+        "showGet802Link": true,
+        "openUrlImgLoc": "http://library-osu-edu.proxy.lib.ohio-state.edu/resources/serialssolutions/buttons/button75x25edit.jpg",
+        "openUrlLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu",
+        "instLogoFile": "7827_OSULHoriz.png",
+        "openUrlTxt": "Find It!",
+        "showOpenUrlLink": true,
+        "marketingInfoCaptured": false,
+        "tracked": false,
+        "ringGoldId": "2647",
+        "delegatedAdmin": false,
+        "desktop": false,
+        "isInstitutionDashboardEnabled": false,
+        "isInstitutionProfileEnabled": false,
+        "isRoamingEnabled": true,
+        "isDelegatedAdmin": false,
+        "isMdl": false,
+        "isCwg": false,
+        "isIel": true,
+        "isAcademic": true
+    },
+    "authors": [
+        {
+            "name": "Deepak Pathak",
+            "affiliation": [
+                "University of California, Berkeley"
+            ],
+            "firstName": "Deepak",
+            "lastName": "Pathak",
+            "id": "37085372144"
+        },
+        {
+            "name": "Pulkit Agrawal",
+            "affiliation": [
+                "University of California, Berkeley"
+            ],
+            "firstName": "Pulkit",
+            "lastName": "Agrawal",
+            "id": "37085611190"
+        },
+        {
+            "name": "Alexei A. Efros",
+            "affiliation": [
+                "University of California, Berkeley"
+            ],
+            "firstName": "Alexei A.",
+            "lastName": "Efros",
+            "id": "37282930300"
+        },
+        {
+            "name": "Trevor Darrell",
+            "affiliation": [
+                "University of California, Berkeley"
+            ],
+            "firstName": "Trevor",
+            "lastName": "Darrell",
+            "id": "37282910600"
+        }
+    ],
+    "isbn": [
+        {
+            "format": "Electronic ISBN",
+            "value": "978-1-5386-0733-6",
+            "isbnType": ""
+        },
+        {
+            "format": "Print on Demand(PoD) ISBN",
+            "value": "978-1-5386-0734-3",
+            "isbnType": ""
+        }
+    ],
+    "issn": [
+        {
+            "format": "Electronic ISSN",
+            "value": "2160-7516"
+        }
+    ],
+    "articleNumber": "8014804",
+    "dbTime": "1 ms",
+    "metrics": {
+        "citationCountPaper": 574,
+        "citationCountPatent": 4,
+        "totalDownloads": 1212
+    },
+    "purchaseOptions": {
+        "showOtherFormatPricingTab": false,
+        "showPdfFormatPricingTab": true,
+        "pdfPricingInfoAvailable": true,
+        "otherPricingInfoAvailable": false,
+        "mandatoryBundle": false,
+        "optionalBundle": false,
+        "displayTextWhenOtherFormatPricingNotAvailable": "The purchase and pricing options for this item are unavailable. Select items are only available as part of a subscription package. You may try again later or <a href='https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/xpl/contact' target='_blank'>contact us</a> for more information.",
+        "pdfPricingInfo": [
+            {
+                "memberPrice": "$14.95",
+                "nonMemberPrice": "$33.00",
+                "partNumber": "8014804",
+                "type": "PDF/HTML"
+            }
+        ],
+        "openUrlFullLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu?url_ver=Z39.88-2004&rfr_id=info:sid/IEEE.org:XPLORE&rft_id=info:doi/10.1109/CVPRW.2017.70&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&rft.atitle=Curiosity-Driven Exploration by Self-Supervised Prediction&rft.jtitle=2017 IEEE Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)&rft.date=2017&rft.spage=488&rft.epage=489&rft.eissn=2160-7516&rft.au=Deepak Pathak&rft.aulast=Deepak Pathak&rft.isbn=978-1-5386-0733-6"
+    },
+    "getProgramTermsAccepted": false,
+    "sections": {
+        "abstract": "true",
+        "authors": "true",
+        "figures": "true",
+        "multimedia": "false",
+        "references": "true",
+        "citedby": "true",
+        "keywords": "true",
+        "definitions": "false",
+        "algorithm": "false",
+        "dataset": "false",
+        "cadmore": "false",
+        "footnotes": "true",
+        "disclaimer": "false",
+        "relatedContent": "false",
+        "metrics": "true"
+    },
+    "abstract": "In many real-world scenarios, rewards extrinsic to the agent are extremely sparse, or absent altogether. In such cases, curiosity can serve as an intrinsic reward signal to enable the agent to explore its environment and learn skills that might be useful later in its life. We formulate curiosity as the error in an agent's ability to predict the consequence of its own actions in a visual feature space learned by a self-supervised inverse dynamics model. Our formulation scales to high-dimensional continuous state spaces like images, bypasses the difficulties of directly predicting pixels, and, critically, ignores the aspects of the environment that cannot affect the agent. The proposed approach is evaluated in two environments: VizDoom and Super Mario Bros. Three broad settings are investigated: 1) sparse extrinsic reward; 2) exploration with no extrinsic reward; and 3) generalization to unseen scenarios (e.g. new levels of the same game).",
+    "publicationYear": "2017",
+    "pdfPath": "/iel7/8014302/8014734/08014804.pdf",
+    "publicationDate": "July 2017",
+    "doi": "10.1109/CVPRW.2017.70",
+    "formulaStrippedArticleTitle": "Curiosity-Driven Exploration by Self-Supervised Prediction",
+    "displayPublicationTitle": "2017 IEEE Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)",
+    "authorNames": "Deepak Pathak;Pulkit Agrawal;Alexei A. Efros;Trevor Darrell",
+    "publicationTitle": "2017 IEEE Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)",
+    "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=proceedings&title=Curiosity-Driven+Exploration+by+Self-Supervised+Prediction&isbn=978-1-5386-0733-6&publicationDate=July+2017&author=Deepak+Pathak&ContentID=10.1109/CVPRW.2017.70&orderBeanReset=true&startPage=488&endPage=489&proceedingName=2017+IEEE+Conference+on+Computer+Vision+and+Pattern+Recognition+Workshops+%28CVPRW%29",
+    "dateOfInsertion": "24 August 2017",
+    "startPage": "488",
+    "endPage": "489",
+    "pdfUrl": "/stamp/stamp.jsp?tp=&arnumber=8014804",
+    "keywords": [
+        {
+            "type": "IEEE Keywords",
+            "kwd": [
+                "Learning (artificial intelligence)",
+                "Neural networks",
+                "Predictive models",
+                "Training",
+                "Conferences",
+                "Encoding",
+                "Adaptation models"
+            ]
+        },
+        {
+            "type": "INSPEC: Controlled Indexing",
+            "kwd": [
+                "computer games"
+            ]
+        },
+        {
+            "type": "INSPEC: Non-Controlled Indexing",
+            "kwd": [
+                "curiosity-driven exploration",
+                "self-supervised prediction",
+                "intrinsic reward signal",
+                "visual feature space",
+                "self-supervised inverse dynamics model",
+                "high-dimensional continuous state spaces",
+                "VizDoom",
+                "Super Mario Bros",
+                "sparse extrinsic reward"
+            ]
+        }
+    ],
+    "doiLink": "https://doi-org.proxy.lib.ohio-state.edu/10.1109/CVPRW.2017.70",
+    "displayPublicationDate": "21-26 July 2017",
+    "articleCopyRight": "2017 IEEE",
+    "issueLink": "/xpl/tocresult.jsp?isnumber=8014734&punumber=8014302",
+    "pubLink": "/xpl/conhome/8014302/proceeding",
+    "allowComments": false,
+    "isGetAddressInfoCaptured": false,
+    "isMarketingOptIn": false,
+    "pubTopics": [
+        {
+            "name": "Computing and Processing"
+        }
+    ],
+    "publisher": "IEEE",
+    "displayDocTitle": "Curiosity-Driven Exploration by Self-Supervised Prediction",
+    "isStandard": false,
+    "isConference": true,
+    "isBookWithoutChapters": false,
+    "isChapter": false,
+    "isProduct": false,
+    "isEarlyAccess": false,
+    "isOpenAccess": false,
+    "isEphemera": false,
+    "xploreDocumentType": "Conference Publication",
+    "isBook": false,
+    "isJournal": false,
+    "isSpringer": false,
+    "accessionNumber": "17138105",
+    "isFreeDocument": false,
+    "isPromo": false,
+    "isDynamicHtml": true,
+    "htmlLink": "/document/8014804/",
+    "htmlAbstractLink": "/document/8014804/",
+    "isCustomDenial": false,
+    "persistentLink": "https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/servlet/opac?punumber=8014302",
+    "isNow": false,
+    "isSAE": false,
+    "isOUP": false,
+    "isSMPTE": false,
+    "openAccessFlag": "F",
+    "insertDate": "24 August 2017",
+    "ephemeraFlag": "false",
+    "title": "Curiosity-Driven Exploration by Self-Supervised Prediction",
+    "confLoc": "Honolulu, HI, USA",
+    "html_flag": "false",
+    "ml_html_flag": "true",
+    "sourcePdf": "0733a488.pdf",
+    "mlTime": "PT0.027958S",
+    "xplore-pub-id": "8014302",
+    "isNumber": "8014734",
+    "rightsLinkFlag": "1",
+    "contentType": "conferences",
+    "publicationNumber": "8014302",
+    "citationCount": "574",
+    "xplore-issue": "8014734",
+    "articleId": "8014804",
+    "contentTypeDisplay": "Conferences",
+    "subType": "IEEE Conference",
+    "_value": "IEEE",
+    "lastupdate": "2023-10-14",
+    "mediaPath": "/mediastore_new/IEEE/content/media/8014302/8014734/8014804"
+}

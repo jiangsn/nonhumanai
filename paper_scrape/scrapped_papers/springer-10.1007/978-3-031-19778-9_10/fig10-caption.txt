@@ -1,0 +1,1 @@
+Results for the now challenge [54]. We outperform the state of the art on both single- and multi-view 3D face reconstruction.

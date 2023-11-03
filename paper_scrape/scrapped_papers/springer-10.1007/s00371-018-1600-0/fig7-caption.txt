@@ -1,0 +1,1 @@
+Scene Dynamics: we estimate velocity \(\mathbf {v}\) and instant of collision \(t_c\) from the input scene by analyzing the image flow on a user-defined region of interest. Integrating these quantities to Newton’s second law of motion produces a physically realistic motion that is synchronized with ambient dynamics

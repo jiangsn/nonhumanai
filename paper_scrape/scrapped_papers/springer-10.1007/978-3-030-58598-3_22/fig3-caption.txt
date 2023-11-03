@@ -1,0 +1,1 @@
+Overview of our world consistent video-to-video synthesis architecture. Our Multi-SPADE module takes input labels, warped previous frames, and guidance images to modulate the features in each layer of our generator. (Color figure online)

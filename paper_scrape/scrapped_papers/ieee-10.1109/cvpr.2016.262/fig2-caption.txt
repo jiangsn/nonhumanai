@@ -1,0 +1,1 @@
+Figure 2: Mouth retrieval: we use an appearance graph to retrieve new mouth frames. In order to select a frame, we enforce similarity to the previously-retrieved frame while minimizing the distance to the target expression.

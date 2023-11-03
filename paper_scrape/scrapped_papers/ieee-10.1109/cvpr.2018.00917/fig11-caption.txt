@@ -1,0 +1,1 @@
+Figure 11: Diverse results on the helen face dataset [48] (label maps shown at lower left corners). With our interface, a user can edit the attributes of individual facial parts in realtime, such as changing the skin color or adding eyebrows and beards. See our video for more details.

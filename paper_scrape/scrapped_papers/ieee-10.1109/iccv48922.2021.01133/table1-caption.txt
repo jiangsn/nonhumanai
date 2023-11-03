@@ -1,0 +1,2 @@
+Table 1: 
+Comparison of features of different related works. RFC uses a physics simulator but does not use proper contact dynamics.

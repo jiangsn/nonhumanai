@@ -1,0 +1,2 @@
+Table 4. 
+FID score comparison for class-conditional synthesis. "+R": classifier-based rejection sampling as proposed in VQVAE-2. FID*-values (calculated on reconstructed data, analogous to [53]): ours: 13.5 (8.1), VQVAE-2: 19 (5). BigGAN (-deep) evaluated via https://tfhub.dev/deepmind_truncated_at_1.0.

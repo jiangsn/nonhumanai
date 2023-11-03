@@ -1,0 +1,271 @@
+{
+    "userInfo": {
+        "customerNameRaw": "The Ohio State University",
+        "institutionName": "The Ohio State University",
+        "institute": true,
+        "member": false,
+        "individual": false,
+        "guest": false,
+        "subscribedContent": false,
+        "fileCabinetContent": false,
+        "fileCabinetUser": false,
+        "institutionalFileCabinetUser": false,
+        "products": "IEL|EBOOKS:1974:2014|JRNLARCH:1884:1994|CONFARCH:1951:1999|IBM:1872:2020|VDE|NOKIA BELL LABS|",
+        "instType": "Academic",
+        "userIds": [
+            7827
+        ],
+        "showPatentCitations": true,
+        "showGet802Link": true,
+        "openUrlImgLoc": "http://library-osu-edu.proxy.lib.ohio-state.edu/resources/serialssolutions/buttons/button75x25edit.jpg",
+        "openUrlLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu",
+        "instLogoFile": "7827_OSULHoriz.png",
+        "openUrlTxt": "Find It!",
+        "showOpenUrlLink": true,
+        "marketingInfoCaptured": false,
+        "tracked": false,
+        "ringGoldId": "2647",
+        "delegatedAdmin": false,
+        "desktop": false,
+        "isInstitutionDashboardEnabled": false,
+        "isInstitutionProfileEnabled": false,
+        "isRoamingEnabled": true,
+        "isDelegatedAdmin": false,
+        "isMdl": false,
+        "isCwg": false,
+        "isIel": true,
+        "isAcademic": true
+    },
+    "authors": [
+        {
+            "name": "Chenxi Liu",
+            "affiliation": [
+                "Department of Automation, Tsinghua University"
+            ],
+            "lastName": "Chenxi Liu",
+            "id": "37087159509"
+        },
+        {
+            "name": "Alexander G. Schwing",
+            "affiliation": [
+                "Department of Computer Science, University of Toronto"
+            ],
+            "firstName": "Alexander G.",
+            "lastName": "Schwing",
+            "id": "37937546900"
+        },
+        {
+            "name": "Kaustav Kundu",
+            "affiliation": [
+                "Department of Computer Science, University of Toronto"
+            ],
+            "firstName": "Kaustav",
+            "lastName": "Kundu",
+            "id": "37085657581"
+        },
+        {
+            "name": "Raquel Urtasun",
+            "affiliation": [
+                "University of Toronto, Toronto, ON, CA"
+            ],
+            "firstName": "Raquel",
+            "lastName": "Urtasun",
+            "id": "37269502900"
+        },
+        {
+            "name": "Sanja Fidler",
+            "affiliation": [
+                "Department of Computer Science, University of Toronto"
+            ],
+            "firstName": "Sanja",
+            "lastName": "Fidler",
+            "id": "37689726500"
+        }
+    ],
+    "isbn": [
+        {
+            "format": "Electronic ISBN",
+            "value": "978-1-4673-6964-0",
+            "isbnType": ""
+        },
+        {
+            "format": "USB ISBN",
+            "value": "978-1-4673-6963-3",
+            "isbnType": ""
+        }
+    ],
+    "issn": [
+        {
+            "format": "Electronic ISSN",
+            "value": "1063-6919"
+        },
+        {
+            "format": "Print ISSN",
+            "value": "1063-6919"
+        }
+    ],
+    "articleNumber": "7298963",
+    "dbTime": "2 ms",
+    "metrics": {
+        "citationCountPaper": 4,
+        "citationCountPatent": 11,
+        "totalDownloads": 349
+    },
+    "purchaseOptions": {
+        "showOtherFormatPricingTab": false,
+        "showPdfFormatPricingTab": true,
+        "pdfPricingInfoAvailable": true,
+        "otherPricingInfoAvailable": false,
+        "mandatoryBundle": false,
+        "optionalBundle": false,
+        "displayTextWhenOtherFormatPricingNotAvailable": "The purchase and pricing options for this item are unavailable. Select items are only available as part of a subscription package. You may try again later or <a href='https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/xpl/contact' target='_blank'>contact us</a> for more information.",
+        "pdfPricingInfo": [
+            {
+                "memberPrice": "$14.95",
+                "nonMemberPrice": "$33.00",
+                "partNumber": "7298963",
+                "type": "PDF/HTML"
+            }
+        ],
+        "openUrlFullLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu?url_ver=Z39.88-2004&rfr_id=info:sid/IEEE.org:XPLORE&rft_id=info:doi/10.1109/CVPR.2015.7298963&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&rft.atitle=Rent3D: Floor-plan priors for monocular layout estimation&rft.jtitle=2015 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)&rft.date=2015&rft.spage=3413&rft.epage=3421&rft.issn=1063-6919&rft.eissn=1063-6919&rft.au=Chenxi Liu&rft.aulast=Chenxi Liu&rft.isbn=978-1-4673-6964-0"
+    },
+    "getProgramTermsAccepted": false,
+    "sections": {
+        "abstract": "true",
+        "authors": "true",
+        "figures": "true",
+        "multimedia": "false",
+        "references": "true",
+        "citedby": "true",
+        "keywords": "true",
+        "definitions": "false",
+        "algorithm": "false",
+        "dataset": "false",
+        "cadmore": "false",
+        "footnotes": "false",
+        "disclaimer": "false",
+        "relatedContent": "false",
+        "metrics": "true"
+    },
+    "abstract": "The goal of this paper is to enable a 3D \u201cvirtual-tour\u201d of an apartment given a small set of monocular images of different rooms, as well as a 2D floor plan. We frame the problem as inference in a Markov Random Field which reasons about the layout of each room and its relative pose (3D rotation and translation) within the full apartment. This gives us accurate camera pose in the apartment for each image. What sets us apart from past work in layout estimation is the use of floor plans as a source of prior knowledge, as well as localization of each image within a bigger space (apartment). In particular, we exploit the floor plan to impose aspect ratio constraints across the layouts of different rooms, as well as to extract semantic information, e.g., the location of windows which are marked in floor plans. We show that this information can significantly help in resolving the challenging room-apartment alignment problem. We also derive an efficient exact inference algorithm which takes only a few ms per apartment. This is due to the fact that we exploit integral geometry as well as our new bounds on the aspect ratio of rooms which allow us to carve the space, significantly reducing the number of physically possible configurations. We demonstrate the effectiveness of our approach on a new dataset which contains over 200 apartments.",
+    "publicationYear": "2015",
+    "pdfPath": "/iel7/7293313/7298593/07298963.pdf",
+    "publicationDate": "June 2015",
+    "doi": "10.1109/CVPR.2015.7298963",
+    "formulaStrippedArticleTitle": "Rent3D: Floor-plan priors for monocular layout estimation",
+    "displayPublicationTitle": "2015 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)",
+    "authorNames": "Chenxi Liu;Alexander G. Schwing;Kaustav Kundu;Raquel Urtasun;Sanja Fidler",
+    "publicationTitle": "2015 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)",
+    "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=proceedings&title=Rent3D%3A+Floor-plan+priors+for+monocular+layout+estimation&isbn=978-1-4673-6964-0&publicationDate=June+2015&author=Chenxi+Liu&ContentID=10.1109/CVPR.2015.7298963&orderBeanReset=true&startPage=3413&endPage=3421&proceedingName=2015+IEEE+Conference+on+Computer+Vision+and+Pattern+Recognition+%28CVPR%29",
+    "dateOfInsertion": "15 October 2015",
+    "startPage": "3413",
+    "endPage": "3421",
+    "pdfUrl": "/stamp/stamp.jsp?tp=&arnumber=7298963",
+    "keywords": [
+        {
+            "type": "IEEE Keywords",
+            "kwd": [
+                "Layout",
+                "Three-dimensional displays",
+                "Cameras",
+                "Estimation",
+                "Semantics",
+                "Face",
+                "Geometry"
+            ]
+        },
+        {
+            "type": "INSPEC: Controlled Indexing",
+            "kwd": [
+                "buildings (structures)",
+                "geometry",
+                "image sensors",
+                "inference mechanisms",
+                "Markov processes",
+                "pose estimation",
+                "structural engineering computing",
+                "virtual reality"
+            ]
+        },
+        {
+            "type": "INSPEC: Non-Controlled Indexing",
+            "kwd": [
+                "Rent3D",
+                "floor-plan priors",
+                "monocular layout estimation",
+                "3D virtual-tour",
+                "monocular images",
+                "2D floor plan",
+                "Markov random field",
+                "camera pose",
+                "aspect ratio constraints",
+                "semantic information",
+                "room-apartment alignment problem",
+                "exact inference algorithm",
+                "integral geometry",
+                "rooms aspect ratio"
+            ]
+        }
+    ],
+    "doiLink": "https://doi-org.proxy.lib.ohio-state.edu/10.1109/CVPR.2015.7298963",
+    "displayPublicationDate": "07-12 June 2015",
+    "articleCopyRight": "2015 IEEE",
+    "issueLink": "/xpl/tocresult.jsp?isnumber=7298593&punumber=7293313",
+    "pubLink": "/xpl/conhome/7293313/proceeding",
+    "allowComments": false,
+    "isGetAddressInfoCaptured": false,
+    "isMarketingOptIn": false,
+    "pubTopics": [
+        {
+            "name": "Computing and Processing"
+        }
+    ],
+    "publisher": "IEEE",
+    "displayDocTitle": "Rent3D: Floor-plan priors for monocular layout estimation",
+    "isStandard": false,
+    "isConference": true,
+    "isBookWithoutChapters": false,
+    "isChapter": false,
+    "isProduct": false,
+    "isEarlyAccess": false,
+    "isOpenAccess": false,
+    "isEphemera": false,
+    "xploreDocumentType": "Conference Publication",
+    "isBook": false,
+    "isJournal": false,
+    "isSpringer": false,
+    "accessionNumber": "15524099",
+    "isFreeDocument": false,
+    "isPromo": false,
+    "isDynamicHtml": true,
+    "htmlLink": "/document/7298963/",
+    "htmlAbstractLink": "/document/7298963/",
+    "isCustomDenial": false,
+    "persistentLink": "https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/servlet/opac?punumber=7293313",
+    "isNow": false,
+    "isSAE": false,
+    "isOUP": false,
+    "isSMPTE": false,
+    "openAccessFlag": "F",
+    "insertDate": "15 October 2015",
+    "ephemeraFlag": "false",
+    "title": "Rent3D: Floor-plan priors for monocular layout estimation",
+    "confLoc": "Boston, MA",
+    "html_flag": "true",
+    "ml_html_flag": "true",
+    "sourcePdf": "2B009.pdf",
+    "mlTime": "PT0.063501S",
+    "xplore-pub-id": "7293313",
+    "isNumber": "7298593",
+    "rightsLinkFlag": "1",
+    "contentType": "conferences",
+    "publicationNumber": "7293313",
+    "citationCount": "4",
+    "xplore-issue": "7298593",
+    "articleId": "7298963",
+    "contentTypeDisplay": "Conferences",
+    "subType": "IEEE Conference",
+    "_value": "IEEE",
+    "lastupdate": "2023-10-07",
+    "mediaPath": "/mediastore_new/IEEE/content/media/7293313/7298593/7298963"
+}

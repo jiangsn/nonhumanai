@@ -1,0 +1,1 @@
+Figure 2: Example distortions. We show example distortions using our (a) traditional and (b) CNN-based methods.

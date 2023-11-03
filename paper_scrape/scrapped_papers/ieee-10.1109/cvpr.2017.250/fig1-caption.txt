@@ -1,0 +1,1 @@
+Figure 1: We present an inference framework based on deep neural networks for synthesizing photorealistic facial texture along with 3D geometry from a single unconstrained image. We can successfully digitize historic figures that are no longer available for scanning and produce high-fidelity facial texture maps with mesoscopic skin details.

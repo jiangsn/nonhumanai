@@ -1,0 +1,4 @@
+Fig. 14. Rendering hair with DOF (a) and motion blur (b) effects. The rendering time of
+ our method is 42.5 and 173.2 s respectively. For the motion blur result, we use 13\times×
+13 supersampling of the shutter open time. The stochastic ray tracing method takes 223.6
+ and 368.5 s to render results of comparable quality. The hair consists of 10K fibers.

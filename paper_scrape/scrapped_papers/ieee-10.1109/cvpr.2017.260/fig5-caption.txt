@@ -1,0 +1,1 @@
+Figure 5: Object detection result on sample images. Each object category is shown with a different color. The numbers attached to boxes show the probabilities assigned to each detection.

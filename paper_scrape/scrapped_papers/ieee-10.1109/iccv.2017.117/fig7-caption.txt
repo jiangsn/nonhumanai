@@ -1,0 +1,1 @@
+Figure 7: NME-based performance on in-the-wild ALFW2000-3D dataset (left) and renderings from BU-4DFE (right). The proposed volumetric regression networks, and EOS and 3DDFA are compared.

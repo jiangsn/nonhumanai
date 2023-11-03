@@ -1,0 +1,1 @@
+Figure 11. Come-back-home task rollouts. The forward rows show the path going from the initial position to the goal position. The backward rows show the path coming back to the initial position. Only the full GameGAN can successfully recover the initial position.

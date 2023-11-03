@@ -1,0 +1,1 @@
+Table 4. Accuracy for predicting the room correctly (c = 1000). Top 1 denotes how many of our top scoring predictions are correct. Top 5 evaluates accuracy if we are allowed to make 5 predictions.

@@ -1,0 +1,1 @@
+Figure 8. A LDM trained on 2562 resolution can generalize to larger resolution (here: 512\times 1024) for spatially conditioned tasks such as semantic synthesis of landscape images. See sec. 4.3.2.

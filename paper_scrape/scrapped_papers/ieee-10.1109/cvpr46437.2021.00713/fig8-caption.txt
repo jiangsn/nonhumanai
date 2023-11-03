@@ -1,0 +1,2 @@
+Figure 8: 
+Interpolations between the appearance embeddings ℓ(a) of two training images (left, right), which results in renderings (middle) where color and illumination are interpolated but geometry is fixed. Note that the training images contain people (left) and lights (right) that do not appear in the renderings. Photos by Flickr users mightyohm, blatez / {\text{CC}}\;{\text{BY}}.

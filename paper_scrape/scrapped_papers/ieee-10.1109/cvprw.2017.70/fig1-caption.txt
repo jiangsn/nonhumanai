@@ -1,0 +1,1 @@
+Figure 1: Discovering how to play super mario bros without rewards. (a) Using only curiosity-driven exploration, the agent makes significant progress in level-l (b) The gained knowledge helps the agent explore subsequent levels much faster than when starting from scratch. Watch the video at http://pathak22.Github.io/noreward-rl/

@@ -1,0 +1,1 @@
+Figure 1: A few results from our VRN - Guided method, on a full range of pose, including large expressions.

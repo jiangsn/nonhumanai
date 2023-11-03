@@ -1,0 +1,1 @@
+Figure 4. Marching tetrahedra extracts faces from a tetrahedral grid with grid vertices, v_{i}^{\prime}= v_{i}+\Delta v_{i}v′i=vi+Δvi and scalar SDF values, s_{i}si. For tets with \text{sign}(s_{i})\neqsign(si)≠ sign (s_{j})(sj), faces are extracted, and the face vertices, v_{ij}vij, are determined by by linear interpolation.

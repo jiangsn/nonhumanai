@@ -1,0 +1,1 @@
+Qualitative results from ES and CLIP fitting several text prompt with 50 triangles, each running for 2,000 steps. Results from four runs are shown.

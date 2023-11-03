@@ -1,0 +1,1 @@
+Figure 12: Style swapping for the hidt system trained on a paintings dataset. The main diagonal contains original paintings and off-diagonal entries correspond to translated results. Plausbile translations obtained by hidt in this case, suggests its generality.

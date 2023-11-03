@@ -1,0 +1,1 @@
+Current limitations of our method include the inability to estimate adequate appearance in the presence of shading and complex geometry (top), to handle dynamic background (middle) and moving objects (bottom). a Input image. b Aligned mesh with appearance. c Input video frame #0. d Inpainting frame #10. e Inpainting frame #50. f Input video frame #0. g Aligned mesh frame #25

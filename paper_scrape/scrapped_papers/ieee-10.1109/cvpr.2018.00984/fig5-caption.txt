@@ -1,0 +1,1 @@
+Figure 5: 4x image super-resolution. Similarly to e.g. Bicubic upsampling, our method never has access to any data other than a single low-resolution image, and yet it produces much cleaner results with sharp edges close to state-of-the-art super-resolution methods (LapSRN [18], SRResNet [19]) which utilize networks trained from large datasets.

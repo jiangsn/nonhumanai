@@ -1,0 +1,2 @@
+Figure 5: 
+Because optimization only yields appearance embeddings ℓ(a) for images in the training set, when evaluating error metrics on test-set images we optimize ℓ(a) to match the appearance of the true image using only the left half of each image. Error metrics are evaluated on only the right half of each image, so as to avoid information leakage. Photo by Flickr user eadaoinflynn /\color{Magenta}{\text{CC BY}}.

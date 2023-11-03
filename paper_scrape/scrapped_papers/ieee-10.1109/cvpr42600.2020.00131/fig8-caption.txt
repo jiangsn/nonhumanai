@@ -1,0 +1,1 @@
+Figure 8. Rollout of models from the same initial screen. Action-LSTM trained with reconstruction loss produces frames without refined details (e.g. Foods). World model has difficulty keeping temporal consistency, resulting in occasional significant discontinuities. GameGAN can produce consistent simulation.

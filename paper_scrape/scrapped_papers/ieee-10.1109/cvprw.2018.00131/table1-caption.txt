@@ -1,0 +1,1 @@
+Table 1: Overview of experiments in the ablation study. The introduction of dcus, block division, an asymmetric pyramid layout, and curriculum learning allow to consistently increase reconstruction quality. Reported PSNR values refer to 4× results of set14. The runtime is tested for 4× upscaling of 128 × 128 image.

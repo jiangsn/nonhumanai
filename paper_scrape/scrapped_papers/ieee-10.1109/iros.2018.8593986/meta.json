@@ -1,0 +1,286 @@
+{
+    "userInfo": {
+        "customerNameRaw": "The Ohio State University",
+        "institutionName": "The Ohio State University",
+        "institute": true,
+        "member": false,
+        "individual": false,
+        "guest": false,
+        "subscribedContent": false,
+        "fileCabinetContent": false,
+        "fileCabinetUser": false,
+        "institutionalFileCabinetUser": false,
+        "products": "IEL|EBOOKS:1974:2014|JRNLARCH:1884:1994|CONFARCH:1951:1999|IBM:1872:2020|VDE|NOKIA BELL LABS|",
+        "instType": "Academic",
+        "userIds": [
+            7827
+        ],
+        "showPatentCitations": true,
+        "showGet802Link": true,
+        "openUrlImgLoc": "http://library-osu-edu.proxy.lib.ohio-state.edu/resources/serialssolutions/buttons/button75x25edit.jpg",
+        "openUrlLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu",
+        "instLogoFile": "7827_OSULHoriz.png",
+        "openUrlTxt": "Find It!",
+        "showOpenUrlLink": true,
+        "marketingInfoCaptured": false,
+        "tracked": false,
+        "ringGoldId": "2647",
+        "delegatedAdmin": false,
+        "desktop": false,
+        "isInstitutionDashboardEnabled": false,
+        "isInstitutionProfileEnabled": false,
+        "isRoamingEnabled": true,
+        "isDelegatedAdmin": false,
+        "isMdl": false,
+        "isCwg": false,
+        "isIel": true,
+        "isAcademic": true
+    },
+    "authors": [
+        {
+            "name": "Andy Zeng",
+            "affiliation": [
+                "Princeton University"
+            ],
+            "firstName": "Andy",
+            "lastName": "Zeng",
+            "id": "37086217185"
+        },
+        {
+            "name": "Shuran Song",
+            "affiliation": [
+                "Princeton University"
+            ],
+            "firstName": "Shuran",
+            "lastName": "Song",
+            "id": "37085613509"
+        },
+        {
+            "name": "Stefan Welker",
+            "affiliation": [
+                "Google"
+            ],
+            "firstName": "Stefan",
+            "lastName": "Welker",
+            "id": "37086577356"
+        },
+        {
+            "name": "Johnny Lee",
+            "affiliation": [
+                "Google"
+            ],
+            "firstName": "Johnny",
+            "lastName": "Lee",
+            "id": "37088438951"
+        },
+        {
+            "name": "Alberto Rodriguez",
+            "affiliation": [
+                "Massachusetts Institute of Technology"
+            ],
+            "firstName": "Alberto",
+            "lastName": "Rodriguez",
+            "id": "38194796600"
+        },
+        {
+            "name": "Thomas Funkhouser",
+            "affiliation": [
+                "Princeton University"
+            ],
+            "firstName": "Thomas",
+            "lastName": "Funkhouser",
+            "id": "37283059800"
+        }
+    ],
+    "isbn": [
+        {
+            "format": "Electronic ISBN",
+            "value": "978-1-5386-8094-0",
+            "isbnType": ""
+        },
+        {
+            "format": "USB ISBN",
+            "value": "978-1-5386-8093-3",
+            "isbnType": ""
+        },
+        {
+            "format": "Print on Demand(PoD) ISBN",
+            "value": "978-1-5386-8095-7",
+            "isbnType": ""
+        }
+    ],
+    "issn": [
+        {
+            "format": "Electronic ISSN",
+            "value": "2153-0866"
+        },
+        {
+            "format": "Print on Demand(PoD) ISSN",
+            "value": "2153-0858"
+        }
+    ],
+    "articleNumber": "8593986",
+    "dbTime": "1 ms",
+    "metrics": {
+        "citationCountPaper": 271,
+        "citationCountPatent": 0,
+        "totalDownloads": 4962
+    },
+    "purchaseOptions": {
+        "showOtherFormatPricingTab": false,
+        "showPdfFormatPricingTab": true,
+        "pdfPricingInfoAvailable": true,
+        "otherPricingInfoAvailable": false,
+        "mandatoryBundle": false,
+        "optionalBundle": false,
+        "displayTextWhenOtherFormatPricingNotAvailable": "The purchase and pricing options for this item are unavailable. Select items are only available as part of a subscription package. You may try again later or <a href='https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/xpl/contact' target='_blank'>contact us</a> for more information.",
+        "pdfPricingInfo": [
+            {
+                "memberPrice": "$14.95",
+                "nonMemberPrice": "$33.00",
+                "partNumber": "8593986",
+                "type": "PDF/HTML"
+            }
+        ],
+        "openUrlFullLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu?url_ver=Z39.88-2004&rfr_id=info:sid/IEEE.org:XPLORE&rft_id=info:doi/10.1109/IROS.2018.8593986&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&rft.atitle=Learning Synergies Between Pushing and Grasping with Self-Supervised Deep Reinforcement Learning&rft.jtitle=2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)&rft.date=2018&rft.spage=4238&rft.epage=4245&rft.eissn=2153-0866&rft.au=Andy Zeng&rft.aulast=Andy Zeng&rft.isbn=978-1-5386-8094-0"
+    },
+    "getProgramTermsAccepted": false,
+    "sections": {
+        "abstract": "true",
+        "authors": "true",
+        "figures": "true",
+        "multimedia": "true",
+        "references": "true",
+        "citedby": "true",
+        "keywords": "true",
+        "definitions": "false",
+        "algorithm": "false",
+        "dataset": "false",
+        "cadmore": "false",
+        "footnotes": "false",
+        "disclaimer": "false",
+        "relatedContent": "false",
+        "metrics": "true"
+    },
+    "abstract": "Skilled robotic manipulation benefits from complex synergies between non-prehensile (e.g. pushing) and prehensile (e.g. grasping) actions: pushing can help rearrange cluttered objects to make space for arms and fingers; likewise, grasping can help displace objects to make pushing movements more precise and collision-free. In this work, we demonstrate that it is possible to discover and learn these synergies from scratch through model-free deep reinforcement learning. Our method involves training two fully convolutional networks that map from visual observations to actions: one infers the utility of pushes for a dense pixel-wise sampling of end-effector orientations and locations, while the other does the same for grasping. Both networks are trained jointly in a Q-learning framework and are entirely self-supervised by trial and error, where rewards are provided from successful grasps. In this way, our policy learns pushing motions that enable future grasps, while learning grasps that can leverage past pushes. During picking experiments in both simulation and real-world scenarios, we find that our system quickly learns complex behaviors even amid challenging cases of tightly packed clutter, and achieves better grasping success rates and picking efficiencies than baseline alternatives after a few hours of training. We further demonstrate that our method is capable of generalizing to novel objects. Qualitative results (videos), code, pre-trained models, and simulation environments are available at http://vpg.cs.princeton.edu.proxy.lib.ohio-state.edu/",
+    "publicationYear": "2018",
+    "pdfPath": "/iel7/8574473/8593358/08593986.pdf",
+    "publicationDate": "October 2018",
+    "doi": "10.1109/IROS.2018.8593986",
+    "formulaStrippedArticleTitle": "Learning Synergies Between Pushing and Grasping with Self-Supervised Deep Reinforcement Learning",
+    "displayPublicationTitle": "2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
+    "authorNames": "Andy Zeng;Shuran Song;Stefan Welker;Johnny Lee;Alberto Rodriguez;Thomas Funkhouser",
+    "publicationTitle": "2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
+    "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=proceedings&title=Learning+Synergies+Between+Pushing+and+Grasping+with+Self-Supervised+Deep+Reinforcement+Learning&isbn=978-1-5386-8094-0&publicationDate=October+2018&author=Andy+Zeng&ContentID=10.1109/IROS.2018.8593986&orderBeanReset=true&startPage=4238&endPage=4245&proceedingName=2018+IEEE%2FRSJ+International+Conference+on+Intelligent+Robots+and+Systems+%28IROS%29",
+    "dateOfInsertion": "06 January 2019",
+    "startPage": "4238",
+    "endPage": "4245",
+    "pdfUrl": "/stamp/stamp.jsp?tp=&arnumber=8593986",
+    "keywords": [
+        {
+            "type": "IEEE Keywords",
+            "kwd": [
+                "Grasping",
+                "Training",
+                "Three-dimensional displays",
+                "Reinforcement learning",
+                "Planning",
+                "Manipulators"
+            ]
+        },
+        {
+            "type": "INSPEC: Controlled Indexing",
+            "kwd": [
+                "convolutional neural nets",
+                "end effectors",
+                "learning (artificial intelligence)",
+                "motion control",
+                "neurocontrollers"
+            ]
+        },
+        {
+            "type": "INSPEC: Non-Controlled Indexing",
+            "kwd": [
+                "learning synergies",
+                "self-supervised deep reinforcement learning",
+                "cluttered objects",
+                "pushing movements",
+                "model-free deep reinforcement learning",
+                "fully convolutional networks",
+                "end-effector orientations",
+                "Q-learning framework",
+                "pushing motions",
+                "grasping success rates",
+                "picking efficiencies",
+                "skilled robotic manipulation",
+                "grasping",
+                "prehensile action",
+                "pixel-wise sampling"
+            ]
+        }
+    ],
+    "doiLink": "https://doi-org.proxy.lib.ohio-state.edu/10.1109/IROS.2018.8593986",
+    "displayPublicationDate": "01-05 October 2018",
+    "articleCopyRight": "2018 IEEE",
+    "issueLink": "/xpl/tocresult.jsp?isnumber=8593358&punumber=8574473",
+    "pubLink": "/xpl/conhome/8574473/proceeding",
+    "allowComments": false,
+    "isGetAddressInfoCaptured": false,
+    "isMarketingOptIn": false,
+    "pubTopics": [
+        {
+            "name": "General Topics for Engineers"
+        },
+        {
+            "name": "Robotics and Control Systems"
+        }
+    ],
+    "publisher": "IEEE",
+    "displayDocTitle": "Learning Synergies Between Pushing and Grasping with Self-Supervised Deep Reinforcement Learning",
+    "isStandard": false,
+    "isConference": true,
+    "isBookWithoutChapters": false,
+    "isChapter": false,
+    "isProduct": false,
+    "isEarlyAccess": false,
+    "isOpenAccess": false,
+    "isEphemera": false,
+    "xploreDocumentType": "Conference Publication",
+    "isBook": false,
+    "isJournal": false,
+    "isSpringer": false,
+    "accessionNumber": "18372804",
+    "isFreeDocument": false,
+    "isPromo": false,
+    "isDynamicHtml": true,
+    "htmlLink": "/document/8593986/",
+    "htmlAbstractLink": "/document/8593986/",
+    "isCustomDenial": false,
+    "persistentLink": "https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/servlet/opac?punumber=8574473",
+    "isNow": false,
+    "isSAE": false,
+    "isOUP": false,
+    "isSMPTE": false,
+    "openAccessFlag": "F",
+    "insertDate": "06 January 2019",
+    "ephemeraFlag": "false",
+    "title": "Learning Synergies Between Pushing and Grasping with Self-Supervised Deep Reinforcement Learning",
+    "confLoc": "Madrid, Spain",
+    "html_flag": "false",
+    "ml_html_flag": "true",
+    "sourcePdf": "1605.pdf",
+    "mlTime": "PT0.078619S",
+    "xplore-pub-id": "8574473",
+    "isNumber": "8593358",
+    "rightsLinkFlag": "1",
+    "contentType": "conferences",
+    "publicationNumber": "8574473",
+    "citationCount": "271",
+    "xplore-issue": "8593358",
+    "articleId": "8593986",
+    "contentTypeDisplay": "Conferences",
+    "subType": "IEEE Conference",
+    "_value": "IEEE",
+    "lastupdate": "2023-10-11",
+    "mediaPath": "/mediastore_new/IEEE/content/media/8574473/8593358/8593986"
+}

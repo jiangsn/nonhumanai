@@ -1,0 +1,1 @@
+Figure 8: The detection performance of our approach using XceptionNet depends on the training corpus size. Especially, for low quality video data, a large database is needed.

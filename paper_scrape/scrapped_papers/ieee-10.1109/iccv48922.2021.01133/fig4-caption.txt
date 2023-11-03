@@ -1,0 +1,2 @@
+Figure 4: 
+Pose estimation result. In light orange is the motion initialization for our optimization, in blue is the final output of our method overlayed on the red skeleton which is ground truth joints. In the camera view on the right, the initial pose looks plausible, but is refined drastically as the body shape is optimized by our method as seen on the side view shown on the left.

@@ -1,0 +1,2 @@
+Fig. 7. 
+The t-SNE embedding of object descriptors for different kits show that the descriptors have learned to encode rotation (A, B, C), spatial correspondences (identical points on A and B share similar descriptors) and object identity (all zoo animals have unique descriptors).

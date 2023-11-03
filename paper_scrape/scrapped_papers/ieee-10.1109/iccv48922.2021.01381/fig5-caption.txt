@@ -1,0 +1,2 @@
+Figure 5: 
+Ablated model outputs. Using only the GAN loss with no pseudo-ground truths produces unrealistic images. Not using a CNN produces outputs that lack detail and contain artifacts. Excluding the GAN loss on real images results in dull colors, and no GAN loss at all produces dull and blurry outputs, when compared to the full model.

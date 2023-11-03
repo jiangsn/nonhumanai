@@ -1,0 +1,1 @@
+Table 4: Task correlation. We correlate scores between our low-level perceptual tests along with high-level seman-tic tests across methods. Perceptual scores are averaged be-tween traditional and CNN-based distortion sets. Correlation scores are computed for alex net-like architectures

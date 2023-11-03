@@ -1,0 +1,257 @@
+{
+    "userInfo": {
+        "customerNameRaw": "The Ohio State University",
+        "institutionName": "The Ohio State University",
+        "institute": true,
+        "member": false,
+        "individual": false,
+        "guest": false,
+        "subscribedContent": false,
+        "fileCabinetContent": false,
+        "fileCabinetUser": false,
+        "institutionalFileCabinetUser": false,
+        "products": "IEL|EBOOKS:1974:2014|JRNLARCH:1884:1994|CONFARCH:1951:1999|IBM:1872:2020|VDE|NOKIA BELL LABS|",
+        "instType": "Academic",
+        "userIds": [
+            7827
+        ],
+        "showPatentCitations": true,
+        "showGet802Link": true,
+        "openUrlImgLoc": "http://library-osu-edu.proxy.lib.ohio-state.edu/resources/serialssolutions/buttons/button75x25edit.jpg",
+        "openUrlLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu",
+        "instLogoFile": "7827_OSULHoriz.png",
+        "openUrlTxt": "Find It!",
+        "showOpenUrlLink": true,
+        "marketingInfoCaptured": false,
+        "tracked": false,
+        "ringGoldId": "2647",
+        "delegatedAdmin": false,
+        "desktop": false,
+        "isInstitutionDashboardEnabled": false,
+        "isInstitutionProfileEnabled": false,
+        "isRoamingEnabled": true,
+        "isDelegatedAdmin": false,
+        "isMdl": false,
+        "isCwg": false,
+        "isIel": true,
+        "isAcademic": true
+    },
+    "authors": [
+        {
+            "name": "Zhengqi Li",
+            "affiliation": [
+                "Cornell Tech"
+            ],
+            "firstName": "Zhengqi",
+            "lastName": "Li",
+            "id": "37086570504"
+        },
+        {
+            "name": "Simon Niklaus",
+            "affiliation": [
+                "Adobe Research"
+            ],
+            "firstName": "Simon",
+            "lastName": "Niklaus",
+            "id": "37086238515"
+        },
+        {
+            "name": "Noah Snavely",
+            "affiliation": [
+                "Cornell Tech"
+            ],
+            "firstName": "Noah",
+            "lastName": "Snavely",
+            "id": "37397866800"
+        },
+        {
+            "name": "Oliver Wang",
+            "affiliation": [
+                "Adobe Research"
+            ],
+            "firstName": "Oliver",
+            "lastName": "Wang",
+            "id": "37298538400"
+        }
+    ],
+    "isbn": [
+        {
+            "format": "Electronic ISBN",
+            "value": "978-1-6654-4509-2",
+            "isbnType": ""
+        },
+        {
+            "format": "Print on Demand(PoD) ISBN",
+            "value": "978-1-6654-4510-8",
+            "isbnType": ""
+        }
+    ],
+    "issn": [
+        {
+            "format": "Electronic ISSN",
+            "value": "2575-7075"
+        },
+        {
+            "format": "Print on Demand(PoD) ISSN",
+            "value": "1063-6919"
+        }
+    ],
+    "articleNumber": "9578364",
+    "dbTime": "1 ms",
+    "metrics": {
+        "citationCountPaper": 174,
+        "citationCountPatent": 0,
+        "totalDownloads": 207
+    },
+    "purchaseOptions": {
+        "showOtherFormatPricingTab": false,
+        "showPdfFormatPricingTab": true,
+        "pdfPricingInfoAvailable": true,
+        "otherPricingInfoAvailable": false,
+        "mandatoryBundle": false,
+        "optionalBundle": false,
+        "displayTextWhenOtherFormatPricingNotAvailable": "The purchase and pricing options for this item are unavailable. Select items are only available as part of a subscription package. You may try again later or <a href='https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/xpl/contact' target='_blank'>contact us</a> for more information.",
+        "pdfPricingInfo": [
+            {
+                "memberPrice": "$14.95",
+                "nonMemberPrice": "$33.00",
+                "partNumber": "9578364",
+                "type": "PDF/HTML"
+            }
+        ],
+        "openUrlFullLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu?url_ver=Z39.88-2004&rfr_id=info:sid/IEEE.org:XPLORE&rft_id=info:doi/10.1109/CVPR46437.2021.00643&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&rft.atitle=Neural Scene Flow Fields for Space-Time View Synthesis of Dynamic Scenes&rft.jtitle=2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)&rft.date=2021&rft.spage=6494&rft.epage=6504&rft.eissn=2575-7075&rft.au=Zhengqi Li&rft.aulast=Zhengqi Li&rft.isbn=978-1-6654-4509-2"
+    },
+    "getProgramTermsAccepted": false,
+    "sections": {
+        "abstract": "true",
+        "authors": "true",
+        "figures": "true",
+        "multimedia": "true",
+        "references": "true",
+        "citedby": "true",
+        "keywords": "true",
+        "definitions": "false",
+        "algorithm": "false",
+        "dataset": "false",
+        "cadmore": "false",
+        "footnotes": "false",
+        "disclaimer": "false",
+        "relatedContent": "false",
+        "metrics": "true"
+    },
+    "abstract": "We present a method to perform novel view and time synthesis of dynamic scenes, requiring only a monocular video with known camera poses as input. To do this, we introduce Neural Scene Flow Fields, a new representation that models the dynamic scene as a time-variant continuous function of appearance, geometry, and 3D scene motion. Our representation is optimized through a neural network to fit the observed input views. We show that our representation can be used for varieties of in-the-wild scenes, including thin structures, view-dependent effects, and complex degrees of motion. We conduct a number of experiments that demonstrate our approach significantly outperforms recent monocular view synthesis methods, and show qualitative results of space-time view synthesis on a variety of real-world videos.",
+    "publicationYear": "2021",
+    "pdfPath": "/iel7/9577055/9577056/09578364.pdf",
+    "publicationDate": "June 2021",
+    "doi": "10.1109/CVPR46437.2021.00643",
+    "formulaStrippedArticleTitle": "Neural Scene Flow Fields for Space-Time View Synthesis of Dynamic Scenes",
+    "displayPublicationTitle": "2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+    "authorNames": "Zhengqi Li;Simon Niklaus;Noah Snavely;Oliver Wang",
+    "publicationTitle": "2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+    "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=proceedings&title=Neural+Scene+Flow+Fields+for+Space-Time+View+Synthesis+of+Dynamic+Scenes&isbn=978-1-6654-4509-2&publicationDate=June+2021&author=Zhengqi+Li&ContentID=10.1109/CVPR46437.2021.00643&orderBeanReset=true&startPage=6494&endPage=6504&proceedingName=2021+IEEE%2FCVF+Conference+on+Computer+Vision+and+Pattern+Recognition+%28CVPR%29",
+    "dateOfInsertion": "02 November 2021",
+    "startPage": "6494",
+    "endPage": "6504",
+    "pdfUrl": "/stamp/stamp.jsp?tp=&arnumber=9578364",
+    "keywords": [
+        {
+            "type": "IEEE Keywords",
+            "kwd": [
+                "Geometry",
+                "Solid modeling",
+                "Computer vision",
+                "Three-dimensional displays",
+                "Dynamics",
+                "Neural networks",
+                "Cameras"
+            ]
+        },
+        {
+            "type": "INSPEC: Controlled Indexing",
+            "kwd": [
+                "cameras",
+                "filtering theory",
+                "image reconstruction",
+                "image sequences",
+                "pose estimation",
+                "video signal processing"
+            ]
+        },
+        {
+            "type": "INSPEC: Non-Controlled Indexing",
+            "kwd": [
+                "Neural Scene Flow Fields",
+                "space-time view synthesis",
+                "dynamic scene",
+                "time synthesis",
+                "3D scene motion",
+                "neural network",
+                "observed input views",
+                "in-the-wild scenes",
+                "view-dependent effects",
+                "recent monocular view synthesis methods"
+            ]
+        }
+    ],
+    "doiLink": "https://doi-org.proxy.lib.ohio-state.edu/10.1109/CVPR46437.2021.00643",
+    "displayPublicationDate": "20-25 June 2021",
+    "articleCopyRight": "2021 IEEE",
+    "issueLink": "/xpl/tocresult.jsp?isnumber=9577056&punumber=9577055",
+    "pubLink": "/xpl/conhome/9577055/proceeding",
+    "allowComments": false,
+    "isGetAddressInfoCaptured": false,
+    "isMarketingOptIn": false,
+    "pubTopics": [
+        {
+            "name": "Computing and Processing"
+        }
+    ],
+    "publisher": "IEEE",
+    "displayDocTitle": "Neural Scene Flow Fields for Space-Time View Synthesis of Dynamic Scenes",
+    "isStandard": false,
+    "isConference": true,
+    "isBookWithoutChapters": false,
+    "isChapter": false,
+    "isProduct": false,
+    "isEarlyAccess": false,
+    "isOpenAccess": false,
+    "isEphemera": false,
+    "xploreDocumentType": "Conference Publication",
+    "isBook": false,
+    "isJournal": false,
+    "isSpringer": false,
+    "accessionNumber": "21274626",
+    "isFreeDocument": false,
+    "isPromo": false,
+    "isDynamicHtml": true,
+    "htmlLink": "/document/9578364/",
+    "htmlAbstractLink": "/document/9578364/",
+    "isCustomDenial": false,
+    "persistentLink": "https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/servlet/opac?punumber=9577055",
+    "isNow": false,
+    "isSAE": false,
+    "isOUP": false,
+    "isSMPTE": false,
+    "openAccessFlag": "F",
+    "insertDate": "02 November 2021",
+    "ephemeraFlag": "false",
+    "title": "Neural Scene Flow Fields for Space-Time View Synthesis of Dynamic Scenes",
+    "confLoc": "Nashville, TN, USA",
+    "html_flag": "false",
+    "ml_html_flag": "true",
+    "sourcePdf": "450900g494.pdf",
+    "mlTime": "PT0.128624S",
+    "xplore-pub-id": "9577055",
+    "isNumber": "9577056",
+    "rightsLinkFlag": "1",
+    "contentType": "conferences",
+    "publicationNumber": "9577055",
+    "citationCount": "174",
+    "xplore-issue": "9577056",
+    "articleId": "9578364",
+    "contentTypeDisplay": "Conferences",
+    "subType": "IEEE Conference",
+    "_value": "IEEE",
+    "lastupdate": "2023-10-08",
+    "mediaPath": "/mediastore_new/IEEE/content/media/9577055/9577056/9578364"
+}

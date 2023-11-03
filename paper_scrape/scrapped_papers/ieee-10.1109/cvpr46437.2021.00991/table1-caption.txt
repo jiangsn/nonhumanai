@@ -1,0 +1,2 @@
+Table 1: 
+Comparisons with state-of-the-art methods on face reconstruction. ↑ larger is better. ↓ smaller is better.

@@ -1,0 +1,1 @@
+Figure 9. We use pti [57] to fit a target image and recover the underlying 3d shape. Target (left); reconstructed image (center); reconstructed shape (right). From a model trained on ffhq 5122.

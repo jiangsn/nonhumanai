@@ -1,0 +1,2 @@
+Table 3. 
+Quantitative comparisons on the Middlebury EVALUATION set. The numbers in \color{red}{\text{red}}red and \color{blue}{\text{blue}}blue represent the best and second best performance. The proposed DAIN method performs favorably against other approaches in terms of IE and NIE.

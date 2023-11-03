@@ -1,0 +1,1 @@
+Figure 2: Overview of our texture inference framework. After an initial low-frequency (LF) albedo map estimation, we extract partial high-frequency (HF) components from the visible areas using texture analysis. Mid-layer feature correlations are then reconstructed to produce a complete high-frequency albedo map via texture synthesis.

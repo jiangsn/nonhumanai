@@ -1,0 +1,1 @@
+Figure 6: Qualitative comparisons on distortions. We show qualitative comparison on traditional distortions, using the SSIM [57] metric and BiGAN network [13]. We show examples where the metrics agree and siagree. A primary difference is that deep embeddings appear to be more sensitive to blur. Please see the appendix for additional examples.

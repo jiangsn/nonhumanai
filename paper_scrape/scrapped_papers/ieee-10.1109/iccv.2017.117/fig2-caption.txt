@@ -1,0 +1,1 @@
+Figure 2: The voxelisation process creates a volumetric representation of the 3D face mesh, aligned with the 2D image.

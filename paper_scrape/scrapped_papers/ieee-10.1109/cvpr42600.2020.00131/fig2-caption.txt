@@ -1,0 +1,1 @@
+Figure 2. Overview of GameGAN: The dynamics engine takes at,zt,mt−1, and xt as input to update the hidden state at time t. Optionally, it can write to and read from the external memory module M (in the dashed box). Finally, the rendering engine is used to decode the output image xt+1. All modules are neural networks and trained end-to-end.

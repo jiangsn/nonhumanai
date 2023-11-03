@@ -1,0 +1,2 @@
+Figure 11. 
+Examples of synthetic faces that we randomly generated and rendered for use as training data.

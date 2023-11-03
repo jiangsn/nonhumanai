@@ -1,0 +1,249 @@
+{
+    "userInfo": {
+        "customerNameRaw": "The Ohio State University",
+        "institutionName": "The Ohio State University",
+        "institute": true,
+        "member": false,
+        "individual": false,
+        "guest": false,
+        "subscribedContent": false,
+        "fileCabinetContent": false,
+        "fileCabinetUser": false,
+        "institutionalFileCabinetUser": false,
+        "products": "IEL|EBOOKS:1974:2014|JRNLARCH:1884:1994|CONFARCH:1951:1999|IBM:1872:2020|VDE|NOKIA BELL LABS|",
+        "instType": "Academic",
+        "userIds": [
+            7827
+        ],
+        "showPatentCitations": true,
+        "showGet802Link": true,
+        "openUrlImgLoc": "http://library-osu-edu.proxy.lib.ohio-state.edu/resources/serialssolutions/buttons/button75x25edit.jpg",
+        "openUrlLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu",
+        "instLogoFile": "7827_OSULHoriz.png",
+        "openUrlTxt": "Find It!",
+        "showOpenUrlLink": true,
+        "marketingInfoCaptured": false,
+        "tracked": false,
+        "ringGoldId": "2647",
+        "delegatedAdmin": false,
+        "desktop": false,
+        "isInstitutionDashboardEnabled": false,
+        "isInstitutionProfileEnabled": false,
+        "isRoamingEnabled": true,
+        "isDelegatedAdmin": false,
+        "isMdl": false,
+        "isCwg": false,
+        "isIel": true,
+        "isAcademic": true
+    },
+    "authors": [
+        {
+            "name": "Victor Lempitsky",
+            "affiliation": [
+                "Skolkovo Institute of Science and Technology, Yandex"
+            ],
+            "firstName": "Victor",
+            "lastName": "Lempitsky",
+            "id": "37332794000"
+        },
+        {
+            "name": "Andrea Vedaldi",
+            "affiliation": [
+                "University of Oxford"
+            ],
+            "firstName": "Andrea",
+            "lastName": "Vedaldi",
+            "id": "37398040100"
+        },
+        {
+            "name": "Dmitry Ulyanov",
+            "affiliation": [
+                "Skolkovo Institute of Science and Technology (Skoltech)"
+            ],
+            "firstName": "Dmitry",
+            "lastName": "Ulyanov",
+            "id": "37086239751"
+        }
+    ],
+    "isbn": [
+        {
+            "format": "Electronic ISBN",
+            "value": "978-1-5386-6420-9",
+            "isbnType": ""
+        },
+        {
+            "format": "Print on Demand(PoD) ISBN",
+            "value": "978-1-5386-6421-6",
+            "isbnType": ""
+        }
+    ],
+    "issn": [
+        {
+            "format": "Electronic ISSN",
+            "value": "2575-7075"
+        },
+        {
+            "format": "Print on Demand(PoD) ISSN",
+            "value": "1063-6919"
+        }
+    ],
+    "articleNumber": "8579082",
+    "dbTime": "1 ms",
+    "metrics": {
+        "citationCountPaper": 315,
+        "citationCountPatent": 1,
+        "totalDownloads": 4200
+    },
+    "purchaseOptions": {
+        "showOtherFormatPricingTab": false,
+        "showPdfFormatPricingTab": true,
+        "pdfPricingInfoAvailable": true,
+        "otherPricingInfoAvailable": false,
+        "mandatoryBundle": false,
+        "optionalBundle": false,
+        "displayTextWhenOtherFormatPricingNotAvailable": "The purchase and pricing options for this item are unavailable. Select items are only available as part of a subscription package. You may try again later or <a href='https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/xpl/contact' target='_blank'>contact us</a> for more information.",
+        "pdfPricingInfo": [
+            {
+                "memberPrice": "$14.95",
+                "nonMemberPrice": "$33.00",
+                "partNumber": "8579082",
+                "type": "PDF/HTML"
+            }
+        ],
+        "openUrlFullLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu?url_ver=Z39.88-2004&rfr_id=info:sid/IEEE.org:XPLORE&rft_id=info:doi/10.1109/CVPR.2018.00984&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&rft.atitle=Deep Image Prior&rft.jtitle=2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition&rft.date=2018&rft.spage=9446&rft.epage=9454&rft.eissn=2575-7075&rft.au=Victor Lempitsky&rft.aulast=Victor Lempitsky&rft.isbn=978-1-5386-6420-9"
+    },
+    "getProgramTermsAccepted": false,
+    "sections": {
+        "abstract": "true",
+        "authors": "true",
+        "figures": "true",
+        "multimedia": "false",
+        "references": "true",
+        "citedby": "true",
+        "keywords": "true",
+        "definitions": "false",
+        "algorithm": "false",
+        "dataset": "false",
+        "cadmore": "false",
+        "footnotes": "true",
+        "disclaimer": "false",
+        "relatedContent": "false",
+        "metrics": "true"
+    },
+    "abstract": "Deep convolutional networks have become a popular tool for image generation and restoration. Generally, their excellent performance is imputed to their ability to learn realistic image priors from a large number of example images. In this paper, we show that, on the contrary, the structure of a generator network is sufficient to capture a great deal of low-level image statistics prior to any learning. In order to do so, we show that a randomly-initialized neural network can be used as a handcrafted prior with excellent results in standard inverse problems such as denoising, superresolution, and inpainting. Furthermore, the same prior can be used to invert deep neural representations to diagnose them, and to restore images based on flash-no flash input pairs. Apart from its diverse applications, our approach highlights the inductive bias captured by standard generator network architectures. It also bridges the gap between two very popular families of image restoration methods: learning-based methods using deep convolutional networks and learning-free methods based on handcrafted image priors such as self-similarity.",
+    "publicationYear": "2018",
+    "pdfPath": "/iel7/8576498/8578098/08579082.pdf",
+    "publicationDate": "June 2018",
+    "doi": "10.1109/CVPR.2018.00984",
+    "formulaStrippedArticleTitle": "Deep Image Prior",
+    "displayPublicationTitle": "2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+    "authorNames": "Victor Lempitsky;Andrea Vedaldi;Dmitry Ulyanov",
+    "publicationTitle": "2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+    "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=proceedings&title=Deep+Image+Prior&isbn=978-1-5386-6420-9&publicationDate=June+2018&author=Victor+Lempitsky&ContentID=10.1109/CVPR.2018.00984&orderBeanReset=true&startPage=9446&endPage=9454&proceedingName=2018+IEEE%2FCVF+Conference+on+Computer+Vision+and+Pattern+Recognition",
+    "dateOfInsertion": "16 December 2018",
+    "startPage": "9446",
+    "endPage": "9454",
+    "pdfUrl": "/stamp/stamp.jsp?tp=&arnumber=8579082",
+    "keywords": [
+        {
+            "type": "IEEE Keywords",
+            "kwd": [
+                "Image restoration",
+                "Image resolution",
+                "Noise reduction",
+                "Task analysis",
+                "Optimization",
+                "Generators",
+                "Image reconstruction"
+            ]
+        },
+        {
+            "type": "INSPEC: Controlled Indexing",
+            "kwd": [
+                "convolution",
+                "feedforward neural nets",
+                "image restoration",
+                "inverse problems",
+                "learning (artificial intelligence)",
+                "neural net architecture",
+                "statistical analysis"
+            ]
+        },
+        {
+            "type": "INSPEC: Non-Controlled Indexing",
+            "kwd": [
+                "deep convolutional networks",
+                "image generation",
+                "randomly-initialized neural network",
+                "deep neural representations",
+                "deep image prior",
+                "image statistics",
+                "inverse problems",
+                "image restoration",
+                "generator network architectures",
+                "realistic image priors learning"
+            ]
+        }
+    ],
+    "doiLink": "https://doi-org.proxy.lib.ohio-state.edu/10.1109/CVPR.2018.00984",
+    "displayPublicationDate": "18-23 June 2018",
+    "articleCopyRight": "2018\r IEEE",
+    "issueLink": "/xpl/tocresult.jsp?isnumber=8578098&punumber=8576498",
+    "pubLink": "/xpl/conhome/8576498/proceeding",
+    "allowComments": false,
+    "isGetAddressInfoCaptured": false,
+    "isMarketingOptIn": false,
+    "pubTopics": [
+        {
+            "name": "Computing and Processing"
+        }
+    ],
+    "publisher": "IEEE",
+    "displayDocTitle": "Deep Image Prior",
+    "isStandard": false,
+    "isConference": true,
+    "isBookWithoutChapters": false,
+    "isChapter": false,
+    "isProduct": false,
+    "isEarlyAccess": false,
+    "isOpenAccess": false,
+    "isEphemera": false,
+    "xploreDocumentType": "Conference Publication",
+    "isBook": false,
+    "isJournal": false,
+    "isSpringer": false,
+    "accessionNumber": "18326119",
+    "isFreeDocument": false,
+    "isPromo": false,
+    "isDynamicHtml": true,
+    "htmlLink": "/document/8579082/",
+    "htmlAbstractLink": "/document/8579082/",
+    "isCustomDenial": false,
+    "persistentLink": "https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/servlet/opac?punumber=8576498",
+    "isNow": false,
+    "isSAE": false,
+    "isOUP": false,
+    "isSMPTE": false,
+    "openAccessFlag": "F",
+    "insertDate": "16 December 2018",
+    "ephemeraFlag": "false",
+    "title": "Deep Image Prior",
+    "confLoc": "Salt Lake City, UT, USA",
+    "html_flag": "false",
+    "ml_html_flag": "true",
+    "sourcePdf": "642000j446.pdf",
+    "mlTime": "PT0.050685S",
+    "xplore-pub-id": "8576498",
+    "isNumber": "8578098",
+    "rightsLinkFlag": "1",
+    "contentType": "conferences",
+    "publicationNumber": "8576498",
+    "citationCount": "315",
+    "xplore-issue": "8578098",
+    "articleId": "8579082",
+    "contentTypeDisplay": "Conferences",
+    "subType": "IEEE Conference",
+    "_value": "IEEE",
+    "lastupdate": "2023-10-18",
+    "mediaPath": "/mediastore_new/IEEE/content/media/8576498/8578098/8579082"
+}

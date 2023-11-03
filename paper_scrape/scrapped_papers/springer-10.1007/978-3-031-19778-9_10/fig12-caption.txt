@@ -1,0 +1,1 @@
+We demonstrate the robustness and reliability of our method by using it to collect a massive database of 125,000 facial expressions, fully automatically.

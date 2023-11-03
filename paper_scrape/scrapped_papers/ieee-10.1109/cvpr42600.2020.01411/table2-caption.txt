@@ -1,0 +1,1 @@
+Table 2: MNIST classification. Classification accuracy (%) on the permutation-invariant MNIST [32] using 1NN and linear SVM, with same writers (sw) and different writ-ers (dw) settings, and short features (sf) vs. Long features (1f), indicated as sf/lf

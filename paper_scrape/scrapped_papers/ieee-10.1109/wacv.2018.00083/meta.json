@@ -1,0 +1,248 @@
+{
+    "userInfo": {
+        "customerNameRaw": "The Ohio State University",
+        "institutionName": "The Ohio State University",
+        "institute": true,
+        "member": false,
+        "individual": false,
+        "guest": false,
+        "subscribedContent": false,
+        "fileCabinetContent": false,
+        "fileCabinetUser": false,
+        "institutionalFileCabinetUser": false,
+        "products": "IEL|EBOOKS:1974:2014|JRNLARCH:1884:1994|CONFARCH:1951:1999|IBM:1872:2020|VDE|NOKIA BELL LABS|",
+        "instType": "Academic",
+        "userIds": [
+            7827
+        ],
+        "showPatentCitations": true,
+        "showGet802Link": true,
+        "openUrlImgLoc": "http://library-osu-edu.proxy.lib.ohio-state.edu/resources/serialssolutions/buttons/button75x25edit.jpg",
+        "openUrlLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu",
+        "instLogoFile": "7827_OSULHoriz.png",
+        "openUrlTxt": "Find It!",
+        "showOpenUrlLink": true,
+        "marketingInfoCaptured": false,
+        "tracked": false,
+        "ringGoldId": "2647",
+        "delegatedAdmin": false,
+        "desktop": false,
+        "isInstitutionDashboardEnabled": false,
+        "isInstitutionProfileEnabled": false,
+        "isRoamingEnabled": true,
+        "isDelegatedAdmin": false,
+        "isMdl": false,
+        "isCwg": false,
+        "isIel": true,
+        "isAcademic": true
+    },
+    "authors": [
+        {
+            "name": "Qiangui Huang",
+            "affiliation": [
+                "University of Southern California, Los Angeles, California"
+            ],
+            "firstName": "Qiangui",
+            "lastName": "Huang",
+            "id": "37086306094"
+        },
+        {
+            "name": "Kevin Zhou",
+            "affiliation": [
+                "Siemens Healthineers Princeton, New Jersey"
+            ],
+            "firstName": "Kevin",
+            "lastName": "Zhou",
+            "id": "37086375851"
+        },
+        {
+            "name": "Suya You",
+            "affiliation": [
+                "US Army Research Laboratory, Playa Vista, California"
+            ],
+            "firstName": "Suya",
+            "lastName": "You",
+            "id": "37273287300"
+        },
+        {
+            "name": "Ulrich Neumann",
+            "affiliation": [
+                "University of Southern California, Los Angeles, California"
+            ],
+            "firstName": "Ulrich",
+            "lastName": "Neumann",
+            "id": "37284618000"
+        }
+    ],
+    "isbn": [
+        {
+            "format": "Electronic ISBN",
+            "value": "978-1-5386-4886-5",
+            "isbnType": ""
+        },
+        {
+            "format": "Print on Demand(PoD) ISBN",
+            "value": "978-1-5386-4887-2",
+            "isbnType": ""
+        }
+    ],
+    "articleNumber": "8354187",
+    "dbTime": "1 ms",
+    "metrics": {
+        "citationCountPaper": 85,
+        "citationCountPatent": 0,
+        "totalDownloads": 1039
+    },
+    "purchaseOptions": {
+        "showOtherFormatPricingTab": false,
+        "showPdfFormatPricingTab": true,
+        "pdfPricingInfoAvailable": true,
+        "otherPricingInfoAvailable": false,
+        "mandatoryBundle": false,
+        "optionalBundle": false,
+        "displayTextWhenOtherFormatPricingNotAvailable": "The purchase and pricing options for this item are unavailable. Select items are only available as part of a subscription package. You may try again later or <a href='https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/xpl/contact' target='_blank'>contact us</a> for more information.",
+        "pdfPricingInfo": [
+            {
+                "memberPrice": "$14.95",
+                "nonMemberPrice": "$33.00",
+                "partNumber": "8354187",
+                "type": "PDF/HTML"
+            }
+        ],
+        "openUrlFullLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu?url_ver=Z39.88-2004&rfr_id=info:sid/IEEE.org:XPLORE&rft_id=info:doi/10.1109/WACV.2018.00083&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&rft.atitle=Learning to Prune Filters in Convolutional Neural Networks&rft.jtitle=2018 IEEE Winter Conference on Applications of Computer Vision (WACV)&rft.date=2018&rft.spage=709&rft.epage=718&rft.au=Qiangui Huang&rft.aulast=Qiangui Huang&rft.isbn=978-1-5386-4886-5"
+    },
+    "getProgramTermsAccepted": false,
+    "sections": {
+        "abstract": "true",
+        "authors": "true",
+        "figures": "true",
+        "multimedia": "false",
+        "references": "true",
+        "citedby": "true",
+        "keywords": "true",
+        "definitions": "false",
+        "algorithm": "false",
+        "dataset": "false",
+        "cadmore": "false",
+        "footnotes": "true",
+        "disclaimer": "false",
+        "relatedContent": "false",
+        "metrics": "true"
+    },
+    "abstract": "Many state-of-the-art computer vision algorithms use large scale convolutional neural networks (CNNs) as basic building blocks. These CNNs are known for their huge number of parameters, high redundancy in weights, and tremendous computing resource consumptions. This paper presents a learning algorithm to simplify and speed up these CNNs. Specifically, we introduce a \u201ctry-and-learn\u201d algorithm to train pruning agents that remove unnecessary CNN filters in a data-driven way. With the help of a novel reward function, our agents removes a significant number of filters in CNNs while maintaining performance at a desired level. Moreover, this method provides an easy control of the tradeoff between network performance and its scale. Performance of our algorithm is validated with comprehensive pruning experiments on several popular CNNs for visual recognition and semantic segmentation tasks.",
+    "publicationYear": "2018",
+    "pdfPath": "/iel7/8345804/8354104/08354187.pdf",
+    "publicationDate": "March 2018",
+    "doi": "10.1109/WACV.2018.00083",
+    "formulaStrippedArticleTitle": "Learning to Prune Filters in Convolutional Neural Networks",
+    "displayPublicationTitle": "2018 IEEE Winter Conference on Applications of Computer Vision (WACV)",
+    "authorNames": "Qiangui Huang;Kevin Zhou;Suya You;Ulrich Neumann",
+    "publicationTitle": "2018 IEEE Winter Conference on Applications of Computer Vision (WACV)",
+    "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=proceedings&title=Learning+to+Prune+Filters+in+Convolutional+Neural+Networks&isbn=978-1-5386-4886-5&publicationDate=March+2018&author=Qiangui+Huang&ContentID=10.1109/WACV.2018.00083&orderBeanReset=true&startPage=709&endPage=718&proceedingName=2018+IEEE+Winter+Conference+on+Applications+of+Computer+Vision+%28WACV%29",
+    "dateOfInsertion": "07 May 2018",
+    "startPage": "709",
+    "endPage": "718",
+    "pdfUrl": "/stamp/stamp.jsp?tp=&arnumber=8354187",
+    "keywords": [
+        {
+            "type": "IEEE Keywords",
+            "kwd": [
+                "Mathematical model",
+                "Training",
+                "Task analysis",
+                "Computational modeling",
+                "Computer vision",
+                "Convolutional neural networks"
+            ]
+        },
+        {
+            "type": "INSPEC: Controlled Indexing",
+            "kwd": [
+                "computer vision",
+                "image segmentation",
+                "learning (artificial intelligence)",
+                "neural nets"
+            ]
+        },
+        {
+            "type": "INSPEC: Non-Controlled Indexing",
+            "kwd": [
+                "prune filters",
+                "basic building blocks",
+                "learning algorithm",
+                "network performance",
+                "comprehensive pruning experiments",
+                "computer vision algorithms",
+                "convolutional neural networks",
+                "computing resource consumptions",
+                "pruning agents",
+                "CNN filters",
+                "try- learn algorithm",
+                "semantic segmentation tasks",
+                "visual recognition",
+                "reward function"
+            ]
+        }
+    ],
+    "doiLink": "https://doi-org.proxy.lib.ohio-state.edu/10.1109/WACV.2018.00083",
+    "displayPublicationDate": "12-15 March 2018",
+    "articleCopyRight": "2018 IEEE",
+    "issueLink": "/xpl/tocresult.jsp?isnumber=8354104&punumber=8345804",
+    "pubLink": "/xpl/conhome/8345804/proceeding",
+    "allowComments": false,
+    "isGetAddressInfoCaptured": false,
+    "isMarketingOptIn": false,
+    "pubTopics": [
+        {
+            "name": "Computing and Processing"
+        }
+    ],
+    "publisher": "IEEE",
+    "displayDocTitle": "Learning to Prune Filters in Convolutional Neural Networks",
+    "isStandard": false,
+    "isConference": true,
+    "isBookWithoutChapters": false,
+    "isChapter": false,
+    "isProduct": false,
+    "isEarlyAccess": false,
+    "isOpenAccess": false,
+    "isEphemera": false,
+    "xploreDocumentType": "Conference Publication",
+    "isBook": false,
+    "isJournal": false,
+    "isSpringer": false,
+    "accessionNumber": "17751421",
+    "isFreeDocument": false,
+    "isPromo": false,
+    "isDynamicHtml": true,
+    "htmlLink": "/document/8354187/",
+    "htmlAbstractLink": "/document/8354187/",
+    "isCustomDenial": false,
+    "persistentLink": "https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/servlet/opac?punumber=8345804",
+    "isNow": false,
+    "isSAE": false,
+    "isOUP": false,
+    "isSMPTE": false,
+    "openAccessFlag": "F",
+    "insertDate": "07 May 2018",
+    "ephemeraFlag": "false",
+    "title": "Learning to Prune Filters in Convolutional Neural Networks",
+    "confLoc": "Lake Tahoe, NV, USA",
+    "html_flag": "false",
+    "ml_html_flag": "true",
+    "sourcePdf": "488601a709.pdf",
+    "mlTime": "PT0.053465S",
+    "xplore-pub-id": "8345804",
+    "isNumber": "8354104",
+    "rightsLinkFlag": "1",
+    "contentType": "conferences",
+    "publicationNumber": "8345804",
+    "citationCount": "85",
+    "xplore-issue": "8354104",
+    "articleId": "8354187",
+    "contentTypeDisplay": "Conferences",
+    "subType": "IEEE Conference",
+    "_value": "IEEE",
+    "lastupdate": "2023-10-19",
+    "mediaPath": "/mediastore_new/IEEE/content/media/8345804/8354104/8354187"
+}

@@ -1,0 +1,2 @@
+Figure 3 
+; Comparing results given uniform segmentation maps: while SPADE generator produces plausible textures, pix2pixHD [45] produces identical outputs due to the loss of the semantic information after the normalization layer.

@@ -1,0 +1,2 @@
+Figure 7: 
+Watermark removal from a single image. Ambiguity is mostly resolved by a rough bounding-box around the watermark. In the tennis image (provided by [14] as a tough image) part of the "V" of "CVPR" remains.

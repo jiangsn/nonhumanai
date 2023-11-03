@@ -1,0 +1,1 @@
+Table 10. Our lip2wav model employs a 3D-CNN encoder to capture the spatio-temporal visual information and is the superior choice over the other alternatives

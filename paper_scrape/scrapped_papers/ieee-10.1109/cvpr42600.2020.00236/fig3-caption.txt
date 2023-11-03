@@ -1,0 +1,1 @@
+Figure 3: (a-e) Resulted alphas and foregrounds for photos taken with handheld camera against natural backgrounds; (e) Is an example failure case with dynamic background (fountain). See video results in the supplementary.

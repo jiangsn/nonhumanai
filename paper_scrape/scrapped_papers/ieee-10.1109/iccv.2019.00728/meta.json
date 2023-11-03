@@ -1,0 +1,250 @@
+{
+    "userInfo": {
+        "customerNameRaw": "The Ohio State University",
+        "institutionName": "The Ohio State University",
+        "institute": true,
+        "member": false,
+        "individual": false,
+        "guest": false,
+        "subscribedContent": false,
+        "fileCabinetContent": false,
+        "fileCabinetUser": false,
+        "institutionalFileCabinetUser": false,
+        "products": "IEL|EBOOKS:1974:2014|JRNLARCH:1884:1994|CONFARCH:1951:1999|IBM:1872:2020|VDE|NOKIA BELL LABS|",
+        "instType": "Academic",
+        "userIds": [
+            7827
+        ],
+        "showPatentCitations": true,
+        "showGet802Link": true,
+        "openUrlImgLoc": "http://library-osu-edu.proxy.lib.ohio-state.edu/resources/serialssolutions/buttons/button75x25edit.jpg",
+        "openUrlLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu",
+        "instLogoFile": "7827_OSULHoriz.png",
+        "openUrlTxt": "Find It!",
+        "showOpenUrlLink": true,
+        "marketingInfoCaptured": false,
+        "tracked": false,
+        "ringGoldId": "2647",
+        "delegatedAdmin": false,
+        "desktop": false,
+        "isInstitutionDashboardEnabled": false,
+        "isInstitutionProfileEnabled": false,
+        "isRoamingEnabled": true,
+        "isDelegatedAdmin": false,
+        "isMdl": false,
+        "isCwg": false,
+        "isIel": true,
+        "isAcademic": true
+    },
+    "authors": [
+        {
+            "name": "Yuval Nirkin",
+            "affiliation": [
+                "Bar-Ilan University, Israel"
+            ],
+            "firstName": "Yuval",
+            "lastName": "Nirkin",
+            "id": "37086389456"
+        },
+        {
+            "name": "Yosi Keller",
+            "affiliation": [
+                "Bar-Ilan University, Israel"
+            ],
+            "firstName": "Yosi",
+            "lastName": "Keller",
+            "id": "37269939500"
+        },
+        {
+            "name": "Tal Hassner",
+            "affiliation": [
+                "The Open University of Israel, Israel"
+            ],
+            "firstName": "Tal",
+            "lastName": "Hassner",
+            "id": "37393684300"
+        }
+    ],
+    "isbn": [
+        {
+            "format": "Electronic ISBN",
+            "value": "978-1-7281-4803-8",
+            "isbnType": ""
+        },
+        {
+            "format": "Print on Demand(PoD) ISBN",
+            "value": "978-1-7281-4804-5",
+            "isbnType": ""
+        }
+    ],
+    "issn": [
+        {
+            "format": "Electronic ISSN",
+            "value": "2380-7504"
+        },
+        {
+            "format": "Print on Demand(PoD) ISSN",
+            "value": "1550-5499"
+        }
+    ],
+    "articleNumber": "9010341",
+    "dbTime": "2 ms",
+    "metrics": {
+        "citationCountPaper": 213,
+        "citationCountPatent": 0,
+        "totalDownloads": 457
+    },
+    "purchaseOptions": {
+        "showOtherFormatPricingTab": false,
+        "showPdfFormatPricingTab": true,
+        "pdfPricingInfoAvailable": true,
+        "otherPricingInfoAvailable": false,
+        "mandatoryBundle": false,
+        "optionalBundle": false,
+        "displayTextWhenOtherFormatPricingNotAvailable": "The purchase and pricing options for this item are unavailable. Select items are only available as part of a subscription package. You may try again later or <a href='https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/xpl/contact' target='_blank'>contact us</a> for more information.",
+        "pdfPricingInfo": [
+            {
+                "memberPrice": "$14.95",
+                "nonMemberPrice": "$33.00",
+                "partNumber": "9010341",
+                "type": "PDF/HTML"
+            }
+        ],
+        "openUrlFullLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu?url_ver=Z39.88-2004&rfr_id=info:sid/IEEE.org:XPLORE&rft_id=info:doi/10.1109/ICCV.2019.00728&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&rft.atitle=FSGAN: Subject Agnostic Face Swapping and Reenactment&rft.jtitle=2019 IEEE/CVF International Conference on Computer Vision (ICCV)&rft.date=2019&rft.spage=7183&rft.epage=7192&rft.eissn=2380-7504&rft.au=Yuval Nirkin&rft.aulast=Yuval Nirkin&rft.isbn=978-1-7281-4803-8"
+    },
+    "getProgramTermsAccepted": false,
+    "sections": {
+        "abstract": "true",
+        "authors": "true",
+        "figures": "true",
+        "multimedia": "false",
+        "references": "true",
+        "citedby": "true",
+        "keywords": "true",
+        "definitions": "false",
+        "algorithm": "false",
+        "dataset": "false",
+        "cadmore": "false",
+        "footnotes": "true",
+        "disclaimer": "false",
+        "relatedContent": "false",
+        "metrics": "true"
+    },
+    "abstract": "We present Face Swapping GAN (FSGAN) for face swapping and reenactment. Unlike previous work, FSGAN is subject agnostic and can be applied to pairs of faces without requiring training on those faces. To this end, we describe a number of technical contributions. We derive a novel recurrent neural network (RNN)-based approach for face reenactment which adjusts for both pose and expression variations and can be applied to a single image or a video sequence. For video sequences, we introduce continuous interpolation of the face views based on reenactment, Delaunay Triangulation, and barycentric coordinates. Occluded face regions are handled by a face completion network. Finally, we use a face blending network for seamless blending of the two faces while preserving target skin color and lighting conditions. This network uses a novel Poisson blending loss which combines Poisson optimization with perceptual loss. We compare our approach to existing state-of-the-art systems and show our results to be both qualitatively and quantitatively superior.",
+    "publicationYear": "2019",
+    "pdfPath": "/iel7/8972782/9008105/09010341.pdf",
+    "publicationDate": "October 2019",
+    "doi": "10.1109/ICCV.2019.00728",
+    "formulaStrippedArticleTitle": "FSGAN: Subject Agnostic Face Swapping and Reenactment",
+    "displayPublicationTitle": "2019 IEEE/CVF International Conference on Computer Vision (ICCV)",
+    "authorNames": "Yuval Nirkin;Yosi Keller;Tal Hassner",
+    "publicationTitle": "2019 IEEE/CVF International Conference on Computer Vision (ICCV)",
+    "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=proceedings&title=FSGAN%3A+Subject+Agnostic+Face+Swapping+and+Reenactment&isbn=978-1-7281-4803-8&publicationDate=October+2019&author=Yuval+Nirkin&ContentID=10.1109/ICCV.2019.00728&orderBeanReset=true&startPage=7183&endPage=7192&proceedingName=2019+IEEE%2FCVF+International+Conference+on+Computer+Vision+%28ICCV%29",
+    "dateOfInsertion": "27 February 2020",
+    "startPage": "7183",
+    "endPage": "7192",
+    "pdfUrl": "/stamp/stamp.jsp?tp=&arnumber=9010341",
+    "keywords": [
+        {
+            "type": "IEEE Keywords",
+            "kwd": [
+                "Face",
+                "Image segmentation",
+                "Generators",
+                "Gallium nitride",
+                "Training",
+                "Three-dimensional displays",
+                "Hair"
+            ]
+        },
+        {
+            "type": "INSPEC: Controlled Indexing",
+            "kwd": [
+                "face recognition",
+                "image colour analysis",
+                "image sequences",
+                "interpolation",
+                "optimisation",
+                "recurrent neural nets",
+                "stochastic processes",
+                "video signal processing"
+            ]
+        },
+        {
+            "type": "INSPEC: Non-Controlled Indexing",
+            "kwd": [
+                "FSGAN",
+                "Face Swapping GAN",
+                "recurrent neural network-based approach",
+                "face reenactment",
+                "video sequence",
+                "face completion network",
+                "face blending network",
+                "Poisson blending loss",
+                "Poisson optimization",
+                "perceptual loss"
+            ]
+        }
+    ],
+    "doiLink": "https://doi-org.proxy.lib.ohio-state.edu/10.1109/ICCV.2019.00728",
+    "displayPublicationDate": "27 October 2019 - 02 November 2019",
+    "articleCopyRight": "2019 IEEE",
+    "issueLink": "/xpl/tocresult.jsp?isnumber=9008105&punumber=8972782",
+    "pubLink": "/xpl/conhome/8972782/proceeding",
+    "allowComments": false,
+    "isGetAddressInfoCaptured": false,
+    "isMarketingOptIn": false,
+    "pubTopics": [
+        {
+            "name": "Computing and Processing"
+        }
+    ],
+    "publisher": "IEEE",
+    "displayDocTitle": "FSGAN: Subject Agnostic Face Swapping and Reenactment",
+    "isStandard": false,
+    "isConference": true,
+    "isBookWithoutChapters": false,
+    "isChapter": false,
+    "isProduct": false,
+    "isEarlyAccess": false,
+    "isOpenAccess": false,
+    "isEphemera": false,
+    "xploreDocumentType": "Conference Publication",
+    "isBook": false,
+    "isJournal": false,
+    "isSpringer": false,
+    "accessionNumber": "19398265",
+    "isFreeDocument": false,
+    "isPromo": false,
+    "isDynamicHtml": true,
+    "htmlLink": "/document/9010341/",
+    "htmlAbstractLink": "/document/9010341/",
+    "isCustomDenial": false,
+    "persistentLink": "https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/servlet/opac?punumber=8972782",
+    "isNow": false,
+    "isSAE": false,
+    "isOUP": false,
+    "isSMPTE": false,
+    "openAccessFlag": "F",
+    "insertDate": "27 February 2020",
+    "ephemeraFlag": "false",
+    "title": "FSGAN: Subject Agnostic Face Swapping and Reenactment",
+    "confLoc": "Seoul, Korea (South)",
+    "html_flag": "false",
+    "ml_html_flag": "true",
+    "sourcePdf": "480300h183.pdf",
+    "mlTime": "PT0.078264S",
+    "xplore-pub-id": "8972782",
+    "isNumber": "9008105",
+    "rightsLinkFlag": "1",
+    "contentType": "conferences",
+    "publicationNumber": "8972782",
+    "citationCount": "213",
+    "xplore-issue": "9008105",
+    "articleId": "9010341",
+    "contentTypeDisplay": "Conferences",
+    "subType": "IEEE Conference",
+    "_value": "IEEE",
+    "lastupdate": "2023-10-16",
+    "mediaPath": "/mediastore_new/IEEE/content/media/8972782/9008105/9010341"
+}

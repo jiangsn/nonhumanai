@@ -1,0 +1,2 @@
+Figure 2: 
+Scene flow fields warping. To render a frame at time i, we perform volume rendering along ray ri with RGBσ at time i, giving us the pixel color Ĉi(ri) (left). To warp the scene from time j to i, we offset each step along ri using scene flow fi→j and volume render with the associated color and opacity (cj, σj) (right).

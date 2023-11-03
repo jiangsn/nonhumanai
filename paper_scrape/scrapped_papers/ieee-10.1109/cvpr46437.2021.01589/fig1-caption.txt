@@ -1,0 +1,2 @@
+Figure 1: 
+Qualitative results comparing our proposed method, Time Lens, with DAIN [3] and BMBC [28]. Our method can interpolate frames in highly-dynamic scenes, such as while spinning an umbrella (top row) and bursting a balloon (bottom row). It does this by combining events (b) and frames (a).

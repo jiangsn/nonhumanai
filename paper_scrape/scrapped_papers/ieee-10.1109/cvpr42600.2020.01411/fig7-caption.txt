@@ -1,0 +1,1 @@
+Figure 7: LSUN generations and reconstructions. Generations (first row), and reconstructions using stylealae trained on LSUN bedroom [54] at resolution 256 × 256.

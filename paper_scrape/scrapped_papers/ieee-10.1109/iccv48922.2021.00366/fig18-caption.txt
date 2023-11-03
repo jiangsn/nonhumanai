@@ -1,0 +1,2 @@
+Figure 18. 
+It is easy to generate synthetic training data for eye tracking (left) which generalizes well to real-world images (right).

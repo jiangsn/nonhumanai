@@ -1,0 +1,1 @@
+Table 1. Ablation over interpolation method. Results are averaged over the 8 NeRF synthetic scenes. We find that trilinear interpolation provides dual benefits of improving effective resolution and improving optimization, such that trilinear interpolation at resolution 1283 outperforms nearest neighbor interpolation at 2563

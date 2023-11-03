@@ -1,0 +1,1 @@
+Figure 7: Semantic analysis of psychophysical study. We show the rate that our algorithm fooled human participants for each material, action, and reaction class. The error bars show 95% confidence intervals. Our approach significantly outperforms the highest-performing image-matching method (rgb + spacetime).

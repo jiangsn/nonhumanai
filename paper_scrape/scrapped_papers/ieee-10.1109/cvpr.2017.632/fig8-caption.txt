@@ -1,0 +1,1 @@
+Figure 8: Colorization results of conditional GANs versus the L2 regression from [58] and the full method (classification with rebalancing) from [60]. The cGANs can produce compelling colorizations (first two rows), but have a common failure mode of producing a grayscale or desaturated result (last row).

@@ -1,0 +1,2 @@
+Figure 1: 
+Given a semantically-labeled block world as input (insets), GANCraft generates high-resolution view-consistent realistic outputs. It unsupervisedly learns to translate the input world to a realistic-looking world in the absence of paired training data across these two worlds. Click on image to play video in web browser.

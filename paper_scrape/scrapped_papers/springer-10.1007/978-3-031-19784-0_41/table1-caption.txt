@@ -1,0 +1,1 @@
+Table 1. AMT surveys evaluation (see Sect. 4). We report the percentage of judgments in our favor (mean, std). Our method outperforms all baselines.

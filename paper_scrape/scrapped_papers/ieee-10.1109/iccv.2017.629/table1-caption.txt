@@ -1,0 +1,1 @@
+Table 1. Inception scores and average human ranks of our stack-gan, GAWWN [24], and GAN-INT-CLS [26] on CUB, oxford-102, and MS-COCO datasets.

@@ -1,0 +1,1 @@
+The illustration of weight mask. From left to right: UV texture map, UV position map, colored texture map with segmentation information (blue for eye region, red for nose region, green for mouth region and purple for neck region), the final weight mask. (Color figure online)

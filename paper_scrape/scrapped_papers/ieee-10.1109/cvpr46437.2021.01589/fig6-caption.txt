@@ -1,0 +1,2 @@
+Figure 6: 
+Complementarity of warping- and synthesis-based interpolation.

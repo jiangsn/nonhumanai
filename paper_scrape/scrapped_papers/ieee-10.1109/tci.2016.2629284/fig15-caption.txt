@@ -1,0 +1,6 @@
+Fig. 15. Visual illustration of the evolution of \mathsf{{Butterfly}}
+ image throughout the different blocks of RAISR, along with a demonstration of the built-in
+ sharpening effect. (a) The original HR image, (b) Bicubic interpolation by a factor of 2 of the input LR image, (c)
+ Filtered image – the filters do not include a built-in sharpening, (d) Filtered image – the filters map
+ the initial interpolated image to its sharpened HR version, (e) blending result of the image in (b) with the one in
+ (c), and (f) blending result of the image in (b) with the one in (d).

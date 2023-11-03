@@ -1,0 +1,2 @@
+Figure 5: 
+Additional adversarially filtered examples from the IMAGENET-O dataset. Examples are adversarially selected to cause out-of-distribution detection performance to degrade. Examples do not belong to ImageNet classes, and they are wrongly assigned highly confident predictions. The black text is the actual class, and the red text is a ResNet-50 prediction and the prediction confidence.

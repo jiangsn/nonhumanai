@@ -1,0 +1,238 @@
+{
+    "userInfo": {
+        "customerNameRaw": "The Ohio State University",
+        "institutionName": "The Ohio State University",
+        "institute": true,
+        "member": false,
+        "individual": false,
+        "guest": false,
+        "subscribedContent": false,
+        "fileCabinetContent": false,
+        "fileCabinetUser": false,
+        "institutionalFileCabinetUser": false,
+        "products": "IEL|EBOOKS:1974:2014|JRNLARCH:1884:1994|CONFARCH:1951:1999|IBM:1872:2020|VDE|NOKIA BELL LABS|",
+        "instType": "Academic",
+        "userIds": [
+            7827
+        ],
+        "showPatentCitations": true,
+        "showGet802Link": true,
+        "openUrlImgLoc": "http://library-osu-edu.proxy.lib.ohio-state.edu/resources/serialssolutions/buttons/button75x25edit.jpg",
+        "openUrlLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu",
+        "instLogoFile": "7827_OSULHoriz.png",
+        "openUrlTxt": "Find It!",
+        "showOpenUrlLink": true,
+        "marketingInfoCaptured": false,
+        "tracked": false,
+        "ringGoldId": "2647",
+        "delegatedAdmin": false,
+        "desktop": false,
+        "isInstitutionDashboardEnabled": false,
+        "isInstitutionProfileEnabled": false,
+        "isRoamingEnabled": true,
+        "isDelegatedAdmin": false,
+        "isMdl": false,
+        "isCwg": false,
+        "isIel": true,
+        "isAcademic": true
+    },
+    "authors": [
+        {
+            "name": "Zekun Hao",
+            "affiliation": [
+                "NVIDIA",
+                "Cornell University"
+            ],
+            "firstName": "Zekun",
+            "lastName": "Hao",
+            "id": "37086575778"
+        },
+        {
+            "name": "Arun Mallya",
+            "affiliation": [
+                "NVIDIA"
+            ],
+            "firstName": "Arun",
+            "lastName": "Mallya",
+            "id": "37085718254"
+        },
+        {
+            "name": "Serge Belongie",
+            "affiliation": [
+                "Cornell University"
+            ],
+            "firstName": "Serge",
+            "lastName": "Belongie",
+            "id": "37326607300"
+        },
+        {
+            "name": "Ming-Yu Liu",
+            "affiliation": [
+                "NVIDIA"
+            ],
+            "firstName": "Ming-Yu",
+            "lastName": "Liu",
+            "id": "37086564383"
+        }
+    ],
+    "isbn": [
+        {
+            "format": "Electronic ISBN",
+            "value": "978-1-6654-2812-5",
+            "isbnType": ""
+        },
+        {
+            "format": "Print on Demand(PoD) ISBN",
+            "value": "978-1-6654-2813-2",
+            "isbnType": ""
+        }
+    ],
+    "issn": [
+        {
+            "format": "Electronic ISSN",
+            "value": "2380-7504"
+        },
+        {
+            "format": "Print on Demand(PoD) ISSN",
+            "value": "1550-5499"
+        }
+    ],
+    "articleNumber": "9710945",
+    "dbTime": "1 ms",
+    "metrics": {
+        "citationCountPaper": 36,
+        "citationCountPatent": 0,
+        "totalDownloads": 73
+    },
+    "purchaseOptions": {
+        "showOtherFormatPricingTab": false,
+        "showPdfFormatPricingTab": true,
+        "pdfPricingInfoAvailable": true,
+        "otherPricingInfoAvailable": false,
+        "mandatoryBundle": false,
+        "optionalBundle": false,
+        "displayTextWhenOtherFormatPricingNotAvailable": "The purchase and pricing options for this item are unavailable. Select items are only available as part of a subscription package. You may try again later or <a href='https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/xpl/contact' target='_blank'>contact us</a> for more information.",
+        "pdfPricingInfo": [
+            {
+                "memberPrice": "$14.95",
+                "nonMemberPrice": "$33.00",
+                "partNumber": "9710945",
+                "type": "PDF/HTML"
+            }
+        ],
+        "openUrlFullLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu?url_ver=Z39.88-2004&rfr_id=info:sid/IEEE.org:XPLORE&rft_id=info:doi/10.1109/ICCV48922.2021.01381&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&rft.atitle=GANcraft: Unsupervised 3D Neural Rendering of Minecraft Worlds&rft.jtitle=2021 IEEE/CVF International Conference on Computer Vision (ICCV)&rft.date=2021&rft.spage=14052&rft.epage=14062&rft.eissn=2380-7504&rft.au=Zekun Hao&rft.aulast=Zekun Hao&rft.isbn=978-1-6654-2812-5"
+    },
+    "getProgramTermsAccepted": false,
+    "sections": {
+        "abstract": "true",
+        "authors": "true",
+        "figures": "true",
+        "multimedia": "false",
+        "references": "true",
+        "citedby": "true",
+        "keywords": "true",
+        "definitions": "false",
+        "algorithm": "false",
+        "dataset": "false",
+        "cadmore": "false",
+        "footnotes": "true",
+        "disclaimer": "false",
+        "relatedContent": "false",
+        "metrics": "true"
+    },
+    "abstract": "We present GANcraft, an unsupervised neural rendering framework for generating photorealistic images of large 3D block worlds such as those created in Minecraft. Our method takes a semantic block world as input, where each block is assigned a semantic label such as dirt, grass, or water. We represent the world as a continuous volumetric function and train our model to render view-consistent photorealistic images for a user-controlled camera. In the absence of paired ground truth real images for the block world, we devise a training technique based on pseudo-ground truth and adversarial training. This stands in contrast to prior work on neural rendering for view synthesis, which requires ground truth images to estimate scene geometry and view-dependent appearance. In addition to camera trajectory, GANcraft allows user control over both scene semantics and output style. Experimental results with comparison to strong baselines show the effectiveness of GANcraft on this novel task of photorealistic 3D block world synthesis. The project website is available at https://nvlabs.github.io/GANcraft/.",
+    "publicationYear": "2021",
+    "pdfPath": "/iel7/9709627/9709628/09710945.pdf",
+    "publicationDate": "October 2021",
+    "doi": "10.1109/ICCV48922.2021.01381",
+    "formulaStrippedArticleTitle": "GANcraft: Unsupervised 3D Neural Rendering of Minecraft Worlds",
+    "displayPublicationTitle": "2021 IEEE/CVF International Conference on Computer Vision (ICCV)",
+    "authorNames": "Zekun Hao;Arun Mallya;Serge Belongie;Ming-Yu Liu",
+    "publicationTitle": "2021 IEEE/CVF International Conference on Computer Vision (ICCV)",
+    "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=proceedings&title=GANcraft%3A+Unsupervised+3D+Neural+Rendering+of+Minecraft+Worlds&isbn=978-1-6654-2812-5&publicationDate=October+2021&author=Zekun+Hao&ContentID=10.1109/ICCV48922.2021.01381&orderBeanReset=true&startPage=14052&endPage=14062&proceedingName=2021+IEEE%2FCVF+International+Conference+on+Computer+Vision+%28ICCV%29",
+    "dateOfInsertion": "28 February 2022",
+    "startPage": "14052",
+    "endPage": "14062",
+    "pdfUrl": "/stamp/stamp.jsp?tp=&arnumber=9710945",
+    "keywords": [
+        {
+            "type": "IEEE Keywords",
+            "kwd": [
+                "Training",
+                "Geometry",
+                "Computer vision",
+                "Three-dimensional displays",
+                "Semantics",
+                "Rendering (computer graphics)",
+                "Cameras"
+            ]
+        },
+        {
+            "type": "Author Keywords ",
+            "kwd": [
+                "Image and video synthesis",
+                "Neural generative models"
+            ]
+        }
+    ],
+    "doiLink": "https://doi-org.proxy.lib.ohio-state.edu/10.1109/ICCV48922.2021.01381",
+    "displayPublicationDate": "10-17 October 2021",
+    "articleCopyRight": "2021 IEEE",
+    "issueLink": "/xpl/tocresult.jsp?isnumber=9709628&punumber=9709627",
+    "pubLink": "/xpl/conhome/9709627/proceeding",
+    "allowComments": false,
+    "isGetAddressInfoCaptured": false,
+    "isMarketingOptIn": false,
+    "pubTopics": [
+        {
+            "name": "Computing and Processing"
+        }
+    ],
+    "publisher": "IEEE",
+    "displayDocTitle": "GANcraft: Unsupervised 3D Neural Rendering of Minecraft Worlds",
+    "isStandard": false,
+    "isConference": true,
+    "isBookWithoutChapters": false,
+    "isChapter": false,
+    "isProduct": false,
+    "isEarlyAccess": false,
+    "isOpenAccess": false,
+    "isEphemera": false,
+    "xploreDocumentType": "Conference Publication",
+    "isBook": false,
+    "isJournal": false,
+    "isSpringer": false,
+    "isFreeDocument": false,
+    "isPromo": false,
+    "isDynamicHtml": true,
+    "htmlLink": "/document/9710945/",
+    "htmlAbstractLink": "/document/9710945/",
+    "isCustomDenial": false,
+    "persistentLink": "https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/servlet/opac?punumber=9709627",
+    "isNow": false,
+    "isSAE": false,
+    "isOUP": false,
+    "isSMPTE": false,
+    "openAccessFlag": "F",
+    "insertDate": "28 February 2022",
+    "ephemeraFlag": "false",
+    "title": "GANcraft: Unsupervised 3D Neural Rendering of Minecraft Worlds",
+    "confLoc": "Montreal, QC, Canada",
+    "html_flag": "false",
+    "ml_html_flag": "true",
+    "sourcePdf": "281200o4052.pdf",
+    "mlTime": "PT0.098801S",
+    "xplore-pub-id": "9709627",
+    "isNumber": "9709628",
+    "rightsLinkFlag": "1",
+    "contentType": "conferences",
+    "publicationNumber": "9709627",
+    "citationCount": "36",
+    "xplore-issue": "9709628",
+    "articleId": "9710945",
+    "contentTypeDisplay": "Conferences",
+    "subType": "IEEE Conference",
+    "_value": "IEEE",
+    "lastupdate": "2023-10-13",
+    "mediaPath": "/mediastore_new/IEEE/content/media/9709627/9709628/9710945"
+}

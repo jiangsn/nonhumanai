@@ -1,0 +1,2 @@
+Figure 3: 
+Scene flow disocclusion ambiguity. In this 2D orthographic example, a single blue object translates to the right by one unit from frame i to frame j. Here, the correct scene flow at the point labeled a, e.g., fi→j (a), points one unit to the right, however, for the scene flow fi→j (c) (and similarly fj→i (a)), there can be multiple answers. If fi→j (c) = 0, then the scene flow would incorrectly point to the foreground in the next frame, and if fi→j (c) = 1, the scene flow would point to the free-space location d at j.

@@ -1,0 +1,1 @@
+Figure 4: Matching algorithm: an overlapping region is determined by SIFT descriptor matching, followed by a nonlinear transform and a crop resulting in two images of the same resolution representing the same scene. Here: canon and blackberry images, respectively.

@@ -1,0 +1,1 @@
+Table 5: Comparison of FID and PPL scores for celeba-hq images at 256 × 256 (lower is better). FID is based on 50,000 generated samples compared to training samples

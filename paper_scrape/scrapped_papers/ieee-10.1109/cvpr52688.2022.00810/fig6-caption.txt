@@ -1,0 +1,1 @@
+Figure 6. Sampling out the volumetric representation to create 2d textures results in texture seams (left). However, further optimization (right), quickly removes the seams automatically.

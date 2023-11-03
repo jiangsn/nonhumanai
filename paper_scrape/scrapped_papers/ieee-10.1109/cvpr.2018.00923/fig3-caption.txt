@@ -1,0 +1,1 @@
+Figure 3: Generating images with only the edge image as input (GT image (left) is held back). We compare our approach to pix2pix on the datasets of shoes [43] and handbags [49]. On the right: Sampling from our latent appearance distribution.

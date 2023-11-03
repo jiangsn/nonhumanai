@@ -1,0 +1,2 @@
+Figure 3: 
+Qualitative results on test views from NeRF’s real forward-facing dataset. Our method captures more complete geometry than LLFF and SRN in Orchids scene and recovers the most detail in Leaves scene.

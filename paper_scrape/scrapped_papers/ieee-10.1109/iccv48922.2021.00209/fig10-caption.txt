@@ -1,0 +1,2 @@
+Figure 10. 
+Comparison with state-of-the-art methods using the same amount of manipulation according to a pretrained attribute classifier.

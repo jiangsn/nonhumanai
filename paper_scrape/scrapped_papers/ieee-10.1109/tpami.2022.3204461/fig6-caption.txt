@@ -1,0 +1,2 @@
+Fig. 6. 
+Results of a SR3 model (64×64 \rightarrow 512×512), trained on FFHQ, and applied to images outside of the training set.

@@ -1,0 +1,1 @@
+The illustration of UV position map. Left: 3D plot of input image and its corresponding aligned 3D point cloud (as ground truth). Right: The first row is the input 2D image, extracted UV texture map and corresponding UV position map. The second row is the x, y, z channel of the UV position map.

@@ -1,0 +1,1 @@
+Annotation interface. Labeled patches are tinted by the color of their semantic class. The annotator selects a semantic class and applies it to a patch with a single click. Left: an intermediate state with four patches yet unlabeled. Right: a complete labeling produced 14 s later. (Color figure online)

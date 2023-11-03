@@ -1,0 +1,1 @@
+Table 1. Comparison to SMT and LP solvers. Entries indicate solution time (in seconds).

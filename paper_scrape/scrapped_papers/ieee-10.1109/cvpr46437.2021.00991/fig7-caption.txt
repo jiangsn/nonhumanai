@@ -1,0 +1,2 @@
+Figure 7: 
+Qualitative comparisons on the TalkingHead-1KH dataset. Our method produces more faithful and sharper results.

@@ -1,0 +1,1 @@
+Text2LIVE image results. Across rows: different images, across columns: different target edits. All results are produced fully automatically w/o any input masks.

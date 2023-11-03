@@ -1,0 +1,2 @@
+Table 2. 
+A comparison with the state of the art on LaPa, using F1 score. For eyes and brows, L and R are left and right. For lips, U, I, and L are upper, inner, and lower. Training with our synthetic data achieves results in line with the state of the art, trained with real data.

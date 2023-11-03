@@ -1,0 +1,1 @@
+Figure 4. Diagram of our multimodal recurrent neural network generative model. The RNN takes a word, the context from previous time steps and defines a distribution over the next word in the sentence. The RNN is conditioned on the image information at the first time step. START and END are special tokens.

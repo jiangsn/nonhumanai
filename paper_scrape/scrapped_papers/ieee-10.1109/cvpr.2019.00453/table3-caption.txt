@@ -1,0 +1,2 @@
+Table 3. 
+Perceptual path lengths and separability scores for various generator architectures in FFHQ (lower is better). We perform the measurements in Z for the traditional network, and in W for style-based ones. Making the network resistant to style mixing appears to distort the intermediate latent space W somewhat. We hypothesize that mixing makes it more difficult for W to efficiently encode factors of variation that span multiple scales.

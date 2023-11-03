@@ -1,0 +1,258 @@
+{
+    "userInfo": {
+        "customerNameRaw": "The Ohio State University",
+        "institutionName": "The Ohio State University",
+        "institute": true,
+        "member": false,
+        "individual": false,
+        "guest": false,
+        "subscribedContent": false,
+        "fileCabinetContent": false,
+        "fileCabinetUser": false,
+        "institutionalFileCabinetUser": false,
+        "products": "IEL|EBOOKS:1974:2014|JRNLARCH:1884:1994|CONFARCH:1951:1999|IBM:1872:2020|VDE|NOKIA BELL LABS|",
+        "instType": "Academic",
+        "userIds": [
+            7827
+        ],
+        "showPatentCitations": true,
+        "showGet802Link": true,
+        "openUrlImgLoc": "http://library-osu-edu.proxy.lib.ohio-state.edu/resources/serialssolutions/buttons/button75x25edit.jpg",
+        "openUrlLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu",
+        "instLogoFile": "7827_OSULHoriz.png",
+        "openUrlTxt": "Find It!",
+        "showOpenUrlLink": true,
+        "marketingInfoCaptured": false,
+        "tracked": false,
+        "ringGoldId": "2647",
+        "delegatedAdmin": false,
+        "desktop": false,
+        "isInstitutionDashboardEnabled": false,
+        "isInstitutionProfileEnabled": false,
+        "isRoamingEnabled": true,
+        "isDelegatedAdmin": false,
+        "isMdl": false,
+        "isCwg": false,
+        "isIel": true,
+        "isAcademic": true
+    },
+    "authors": [
+        {
+            "name": "Xiaolong Wang",
+            "affiliation": [
+                "Carnegie Mellon University"
+            ],
+            "firstName": "Xiaolong",
+            "lastName": "Wang",
+            "id": "37085652454"
+        },
+        {
+            "name": "Allan Jabri",
+            "affiliation": [
+                "Carnegie Mellon University"
+            ],
+            "firstName": "Allan",
+            "lastName": "Jabri",
+            "id": "37086286922"
+        },
+        {
+            "name": "Alexei A. Efros",
+            "affiliation": [
+                "Carnegie Mellon University"
+            ],
+            "firstName": "Alexei A.",
+            "lastName": "Efros",
+            "id": "37282930300"
+        }
+    ],
+    "isbn": [
+        {
+            "format": "Electronic ISBN",
+            "value": "978-1-7281-3293-8",
+            "isbnType": ""
+        },
+        {
+            "format": "Print on Demand(PoD) ISBN",
+            "value": "978-1-7281-3294-5",
+            "isbnType": ""
+        }
+    ],
+    "issn": [
+        {
+            "format": "Electronic ISSN",
+            "value": "2575-7075"
+        },
+        {
+            "format": "Print on Demand(PoD) ISSN",
+            "value": "1063-6919"
+        }
+    ],
+    "articleNumber": "8954240",
+    "dbTime": "1 ms",
+    "metrics": {
+        "citationCountPaper": 225,
+        "citationCountPatent": 0,
+        "totalDownloads": 286
+    },
+    "purchaseOptions": {
+        "showOtherFormatPricingTab": false,
+        "showPdfFormatPricingTab": true,
+        "pdfPricingInfoAvailable": true,
+        "otherPricingInfoAvailable": false,
+        "mandatoryBundle": false,
+        "optionalBundle": false,
+        "displayTextWhenOtherFormatPricingNotAvailable": "The purchase and pricing options for this item are unavailable. Select items are only available as part of a subscription package. You may try again later or <a href='https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/xpl/contact' target='_blank'>contact us</a> for more information.",
+        "pdfPricingInfo": [
+            {
+                "memberPrice": "$14.95",
+                "nonMemberPrice": "$33.00",
+                "partNumber": "8954240",
+                "type": "PDF/HTML"
+            }
+        ],
+        "openUrlFullLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu?url_ver=Z39.88-2004&rfr_id=info:sid/IEEE.org:XPLORE&rft_id=info:doi/10.1109/CVPR.2019.00267&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&rft.atitle=Learning Correspondence From the Cycle-Consistency of Time&rft.jtitle=2019 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)&rft.date=2019&rft.spage=2561&rft.epage=2571&rft.eissn=2575-7075&rft.au=Xiaolong Wang&rft.aulast=Xiaolong Wang&rft.isbn=978-1-7281-3293-8"
+    },
+    "getProgramTermsAccepted": false,
+    "sections": {
+        "abstract": "true",
+        "authors": "true",
+        "figures": "true",
+        "multimedia": "false",
+        "references": "true",
+        "citedby": "true",
+        "keywords": "true",
+        "definitions": "false",
+        "algorithm": "false",
+        "dataset": "false",
+        "cadmore": "false",
+        "footnotes": "true",
+        "disclaimer": "false",
+        "relatedContent": "false",
+        "metrics": "true"
+    },
+    "abstract": "We introduce a self-supervised method for learning visual correspondence from unlabeled video. The main idea is to use cycle-consistency in time as free supervisory signal for learning visual representations from scratch. At training time, our model learns a feature map representation to be useful for performing cycle-consistent tracking. At test time, we use the acquired representation to find nearest neighbors across space and time. We demonstrate the generalizability of the representation -- without finetuning -- across a range of visual correspondence tasks, including video object segmentation, keypoint tracking, and optical flow. Our approach outperforms previous self-supervised methods and performs competitively with strongly supervised methods.",
+    "publicationYear": "2019",
+    "pdfPath": "/iel7/8938205/8953184/08954240.pdf",
+    "publicationDate": "June 2019",
+    "doi": "10.1109/CVPR.2019.00267",
+    "formulaStrippedArticleTitle": "Learning Correspondence From the Cycle-Consistency of Time",
+    "displayPublicationTitle": "2019 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+    "authorNames": "Xiaolong Wang;Allan Jabri;Alexei A. Efros",
+    "publicationTitle": "2019 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+    "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=proceedings&title=Learning+Correspondence+From+the+Cycle-Consistency+of+Time&isbn=978-1-7281-3293-8&publicationDate=June+2019&author=Xiaolong+Wang&ContentID=10.1109/CVPR.2019.00267&orderBeanReset=true&startPage=2561&endPage=2571&proceedingName=2019+IEEE%2FCVF+Conference+on+Computer+Vision+and+Pattern+Recognition+%28CVPR%29",
+    "dateOfInsertion": "09 January 2020",
+    "startPage": "2561",
+    "endPage": "2571",
+    "pdfUrl": "/stamp/stamp.jsp?tp=&arnumber=8954240",
+    "keywords": [
+        {
+            "type": "IEEE Keywords",
+            "kwd": [
+                "Training",
+                "Visualization",
+                "Computer vision",
+                "Object segmentation",
+                "Pattern recognition",
+                "Task analysis",
+                "Optical flow"
+            ]
+        },
+        {
+            "type": "INSPEC: Controlled Indexing",
+            "kwd": [
+                "feature extraction",
+                "image representation",
+                "image segmentation",
+                "image sequences",
+                "learning (artificial intelligence)",
+                "video signal processing"
+            ]
+        },
+        {
+            "type": "INSPEC: Non-Controlled Indexing",
+            "kwd": [
+                "cycle-consistency",
+                "self-supervised method",
+                "unlabeled video",
+                "free supervisory signal",
+                "visual representations",
+                "training time",
+                "feature map representation",
+                "cycle-consistent tracking",
+                "visual correspondence tasks",
+                "video object segmentation",
+                "self-supervised methods",
+                "strongly supervised methods"
+            ]
+        },
+        {
+            "type": "Author Keywords ",
+            "kwd": [
+                "Representation Learning",
+                "Motion and Tracking",
+                "Video Analytics"
+            ]
+        }
+    ],
+    "doiLink": "https://doi-org.proxy.lib.ohio-state.edu/10.1109/CVPR.2019.00267",
+    "displayPublicationDate": "15-20 June 2019",
+    "articleCopyRight": "2019 IEEE",
+    "issueLink": "/xpl/tocresult.jsp?isnumber=8953184&punumber=8938205",
+    "pubLink": "/xpl/conhome/8938205/proceeding",
+    "allowComments": false,
+    "isGetAddressInfoCaptured": false,
+    "isMarketingOptIn": false,
+    "pubTopics": [
+        {
+            "name": "Computing and Processing"
+        }
+    ],
+    "publisher": "IEEE",
+    "displayDocTitle": "Learning Correspondence From the Cycle-Consistency of Time",
+    "isStandard": false,
+    "isConference": true,
+    "isBookWithoutChapters": false,
+    "isChapter": false,
+    "isProduct": false,
+    "isEarlyAccess": false,
+    "isOpenAccess": false,
+    "isEphemera": false,
+    "xploreDocumentType": "Conference Publication",
+    "isBook": false,
+    "isJournal": false,
+    "isSpringer": false,
+    "accessionNumber": "19263199",
+    "isFreeDocument": false,
+    "isPromo": false,
+    "isDynamicHtml": true,
+    "htmlLink": "/document/8954240/",
+    "htmlAbstractLink": "/document/8954240/",
+    "isCustomDenial": false,
+    "persistentLink": "https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/servlet/opac?punumber=8938205",
+    "isNow": false,
+    "isSAE": false,
+    "isOUP": false,
+    "isSMPTE": false,
+    "openAccessFlag": "F",
+    "insertDate": "09 January 2020",
+    "ephemeraFlag": "false",
+    "title": "Learning Correspondence From the Cycle-Consistency of Time",
+    "confLoc": "Long Beach, CA, USA",
+    "html_flag": "false",
+    "ml_html_flag": "true",
+    "sourcePdf": "329300c561.pdf",
+    "mlTime": "PT0.114999S",
+    "xplore-pub-id": "8938205",
+    "isNumber": "8953184",
+    "rightsLinkFlag": "1",
+    "contentType": "conferences",
+    "publicationNumber": "8938205",
+    "citationCount": "225",
+    "xplore-issue": "8953184",
+    "articleId": "8954240",
+    "contentTypeDisplay": "Conferences",
+    "subType": "IEEE Conference",
+    "_value": "IEEE",
+    "lastupdate": "2023-10-14",
+    "mediaPath": "/mediastore_new/IEEE/content/media/8938205/8953184/8954240"
+}

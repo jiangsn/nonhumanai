@@ -1,0 +1,2 @@
+Table 1. 
+Analysis on Depth-Aware (DA) flow projection. M.B. is short for the OTHER set of the Middlebury dataset. The proposed model (DA-Opti) shows a substantial improvement against the other variations.

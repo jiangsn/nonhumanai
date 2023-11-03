@@ -1,0 +1,2 @@
+Table 1. 
+Quantitative comparisons on MC test set. Different input configurations of our model: (I.) single image; (II.) optical flow masked in the human region (F ), confidence and human mask; (III.) masked input depth, human mask, and additional confidence for IV.; in V, we also input human keypoints. Lower is better for all metrics.

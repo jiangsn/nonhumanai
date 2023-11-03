@@ -1,0 +1,1 @@
+Encoder ablation studies: (a) stylization using our model; (b) stylization using pre-trained VGG16 encoder instead of E.

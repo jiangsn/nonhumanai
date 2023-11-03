@@ -1,0 +1,2 @@
+Figure 16. 
+Predictions by networks trained with real (top) and synthetic data (bottom). Note how the synthetic data network generalizes better across expression, illumination, pose, and occlusion.

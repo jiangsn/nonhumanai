@@ -1,0 +1,1 @@
+Table 2. Comparison of evaluated MOS for our system when wavenet trained on predicted/ground truth mel spectrograms are made to synthesize from predicted/ground truth mel spectrograms

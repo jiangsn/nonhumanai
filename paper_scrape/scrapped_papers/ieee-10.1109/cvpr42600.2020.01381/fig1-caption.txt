@@ -1,0 +1,1 @@
+Figure 1. We propose “Lip2Wav”: a sequence-to-sequence architecture for accurate speech generation from silent lip videos in unconstrained settings for the first time. The text in the bubble is manually transcribed and is shown for presentation purposes.

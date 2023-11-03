@@ -1,0 +1,1 @@
+Visual comparison of text-to-image synthesis on MS-COCO 2017.

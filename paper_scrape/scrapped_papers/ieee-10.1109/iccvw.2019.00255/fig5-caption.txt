@@ -1,0 +1,1 @@
+Figure 5. Combinations of different latent vectors z1 (for 3D features) and z2 (for 2D features). While z1 influences objects' shapes, z2 determines appearance (texture and lighting). Best viewed in colour.

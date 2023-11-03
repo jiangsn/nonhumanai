@@ -1,0 +1,1 @@
+Force analysis of a flying ball. A sphere shell of radius r1 and mass m, with a centered spherical cavity of radius r2, is created as a simulated ball in Gazebo

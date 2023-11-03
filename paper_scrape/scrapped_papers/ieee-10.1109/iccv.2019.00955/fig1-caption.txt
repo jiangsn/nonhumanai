@@ -1,0 +1,6 @@
+
+Figure 1:
+ 
+
+The results of talking head image synthesis using face landmark tracks extracted from a different video sequence of the same person (on the left), and using face landmarks of a different person (on the right). The results are conditioned on the landmarks taken from the target frame, while the source frame is an example from the training set. The talking head models on the left were trained using eight frames, while the models on the right were trained in a one-shot manner.
+

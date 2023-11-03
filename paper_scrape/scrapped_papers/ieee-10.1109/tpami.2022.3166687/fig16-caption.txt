@@ -1,0 +1,2 @@
+Fig. 16. 
+How to sample? Uniform sampling (columns 2–4) and larger patch sizes (columns 2 and 3) lead to greater mismatch between source and target datasets, inducing artifacts such as hallucinated trees (red) and stars (orange). These can be avoided with our sampling strategy (right).

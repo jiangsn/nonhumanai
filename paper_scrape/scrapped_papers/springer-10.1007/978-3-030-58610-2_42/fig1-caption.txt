@@ -1,0 +1,1 @@
+Flow-edge guided video completion. Our new flow-based video completion method synthesizes sharper motion boundaries than previous methods and can propagate content across motion boundaries using non-local flow connections.

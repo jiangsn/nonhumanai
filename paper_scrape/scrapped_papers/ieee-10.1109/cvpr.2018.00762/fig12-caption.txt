@@ -1,0 +1,1 @@
+Figure 12: Qualitative evaluation of DensePose-RCNN. Left: Input, Right: DensePose-RCNN estimates. Our system successfully estimates body pose regardless of skirts or dresses, while handling a large variability of scales, poses, and occlusions.

@@ -1,0 +1,1 @@
+Appearance comparison of our method in (a)–(c), with [47] based on cuboid proxies in (d), [28] based on stock 3D models with revealing hidden parts in (e) and the original image in (f). Our method produces similar and consistent results, although it does not reveal hidden parts

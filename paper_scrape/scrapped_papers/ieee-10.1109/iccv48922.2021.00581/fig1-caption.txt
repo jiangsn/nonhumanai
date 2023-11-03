@@ -1,0 +1,2 @@
+Figure 1: 
+We reconstruct photo-realistic nerfies from a user casually waving a mobile phone (a). Our system uses selfie photos/videos (b) to produce a free-viewpoint representation with accurate renders (c) and geometry (d). Please see video.

@@ -1,0 +1,4 @@
+Fig. 1. A scene with two squirrels rendered with reflection and refraction effects at 1,080× 720 resolution. The scene contains 368K fur fibers. The image is
+ rendered in 1,081 seconds on an NVIDIA GTX 570 GPU with no supersampling for the viewing rays and 11×11 supersampling for the reflection and refraction rays. In contrast, the
+ stochastic ray tracing algorithm takes 3,722 seconds to render an image of comparable quality under the supersampling
+ rate of 21×21.

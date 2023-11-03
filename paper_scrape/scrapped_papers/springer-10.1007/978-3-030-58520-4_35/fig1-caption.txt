@@ -1,0 +1,1 @@
+Real image editing using the proposed in-domain GAN inversion with a fixed GAN generator. (a) Semantic manipulation with respect to various facial attributes. (b) Image interpolation by linearly interpolating two inverted codes. (c) Semantic diffusion which diffuses the target face to the context and makes them compatible.

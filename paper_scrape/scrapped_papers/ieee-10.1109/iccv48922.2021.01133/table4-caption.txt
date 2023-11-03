@@ -1,0 +1,2 @@
+Table 4: 
+Ablation comparison of contact-sensitive metrics, foot tangential velocity error (efoot,vxy) and foot global height error (efoot,z) with and without physics loss.

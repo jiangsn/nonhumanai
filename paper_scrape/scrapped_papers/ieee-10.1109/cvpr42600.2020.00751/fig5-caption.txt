@@ -1,0 +1,1 @@
+Figure 5: Training without segmentation losses is prone to failures of semantic consistency. Left: original images. Right: transferred images. (a) Our ablated model, trained without auxiliary segmentation task, turns grass into water; (b) FUNIT hallucinates grass on the building.

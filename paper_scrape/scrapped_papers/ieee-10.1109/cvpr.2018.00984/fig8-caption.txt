@@ -1,0 +1,1 @@
+Figure 8: Inpainting using different depths and architectures. The figure shows that much better inpainting results can be obtained by using deeper random networks. However, adding skip connections to ResNet in U-Net is highly detrimental.

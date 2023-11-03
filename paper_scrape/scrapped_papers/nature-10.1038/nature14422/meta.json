@@ -1,0 +1,165 @@
+{
+    "mainEntity": {
+        "headline": "Robots that can adapt like animals",
+        "description": "An intelligent trial-and-error learning algorithm is presented that allows robots to adapt in minutes to compensate for a wide variety of types of damage. Autonomous mobile robots would be extremely useful in remote or hostile environments such as space, deep oceans or disaster areas. An outstanding challenge is to make such robots able to recover after damage. Jean-Baptiste Mouret and colleagues have developed a machine learning algorithm that enables damaged robots to quickly regain their ability to perform tasks. When they sustain damage \u2014 such as broken or even missing legs \u2014 the robots adopt an intelligent trial-and-error approach, trying out possible behaviours that they calculate to be potentially high-performing. After a handful of such experiments they discover, in less than two minutes, a compensatory behaviour that works in spite of the damage. Robots have transformed many industries, most notably manufacturing1, and have the power to deliver tremendous benefits to society, such as in search and rescue2, disaster response3, health care4 and transportation5. They are also invaluable tools for scientific exploration in environments inaccessible to humans, from distant planets6 to deep oceans7. A major obstacle to their widespread adoption in more complex environments outside factories is their fragility6,8. Whereas animals can quickly adapt to injuries, current robots cannot \u2018think outside the box\u2019 to find a compensatory behaviour when they are damaged: they are limited to their pre-specified self-sensing abilities, can diagnose only anticipated failure modes9, and require a pre-programmed contingency plan for every type of potential damage, an impracticality for complex robots6,8. A promising approach to reducing robot fragility involves having robots learn appropriate behaviours in response to damage10,11, but current techniques are slow even with small, constrained search spaces12. Here we introduce an intelligent trial-and-error algorithm that allows robots to adapt to damage in less than two minutes in large search spaces without requiring self-diagnosis or pre-specified contingency plans. Before the robot is deployed, it uses a novel technique to create a detailed map of the space of high-performing behaviours. This map represents the robot\u2019s prior knowledge about what behaviours it can perform and their value. When the robot is damaged, it uses this prior knowledge to guide a trial-and-error learning algorithm that conducts intelligent experiments to rapidly discover a behaviour that compensates for the damage. Experiments reveal successful adaptations for a legged robot injured in five different ways, including damaged, broken, and missing legs, and for a robotic arm with joints broken in 14 different ways. This new algorithm will enable more robust, effective, autonomous robots, and may shed light on the principles that animals use to adapt to injury.",
+        "datePublished": "2015-05-27",
+        "dateModified": "2015-05-27",
+        "pageStart": "503",
+        "pageEnd": "507",
+        "sameAs": "https://doi-org.proxy.lib.ohio-state.edu/10.1038/nature14422",
+        "keywords": "Computer science,Science,Humanities and Social Sciences,multidisciplinary",
+        "image": "https://static-content.springer.com/image/art%3A10.1038%2Fnature14422/MediaObjects/41586_2015_BFnature14422_Fig1_HTML.jpg",
+        "isPartOf": {
+            "name": "Nature",
+            "issn": [
+                "1476-4687",
+                "0028-0836"
+            ],
+            "volumeNumber": "521",
+            "@type": [
+                "Periodical",
+                "PublicationVolume"
+            ]
+        },
+        "publisher": {
+            "name": "Nature Publishing Group UK",
+            "logo": {
+                "url": "https://www-springernature-com.proxy.lib.ohio-state.edu/app-sn/public/images/logo-springernature.png",
+                "@type": "ImageObject"
+            },
+            "@type": "Organization"
+        },
+        "author": [
+            {
+                "name": "Antoine Cully",
+                "affiliation": [
+                    {
+                        "name": "Sorbonne Universit\u00e9s, Universit\u00e9 Pierre et Marie Curie (UPMC), Paris 06, UMR 7222, Institut des Syst\u00e8mes Intelligents et de Robotique (ISIR)",
+                        "address": {
+                            "name": "Sorbonne Universit\u00e9s, Universit\u00e9 Pierre et Marie Curie (UPMC), Paris 06, UMR 7222, Institut des Syst\u00e8mes Intelligents et de Robotique (ISIR), Paris, France",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    },
+                    {
+                        "name": "CNRS, UMR 7222, Institut des Syst\u00e8mes Intelligents et de Robotique (ISIR)",
+                        "address": {
+                            "name": "CNRS, UMR 7222, Institut des Syst\u00e8mes Intelligents et de Robotique (ISIR), Paris, France",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    }
+                ],
+                "@type": "Person"
+            },
+            {
+                "name": "Jeff Clune",
+                "affiliation": [
+                    {
+                        "name": "University of Wyoming",
+                        "address": {
+                            "name": "Department of Computer Science, University of Wyoming, Laramie, USA",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    }
+                ],
+                "@type": "Person"
+            },
+            {
+                "name": "Danesh Tarapore",
+                "affiliation": [
+                    {
+                        "name": "Sorbonne Universit\u00e9s, Universit\u00e9 Pierre et Marie Curie (UPMC), Paris 06, UMR 7222, Institut des Syst\u00e8mes Intelligents et de Robotique (ISIR)",
+                        "address": {
+                            "name": "Sorbonne Universit\u00e9s, Universit\u00e9 Pierre et Marie Curie (UPMC), Paris 06, UMR 7222, Institut des Syst\u00e8mes Intelligents et de Robotique (ISIR), Paris, France",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    },
+                    {
+                        "name": "CNRS, UMR 7222, Institut des Syst\u00e8mes Intelligents et de Robotique (ISIR)",
+                        "address": {
+                            "name": "CNRS, UMR 7222, Institut des Syst\u00e8mes Intelligents et de Robotique (ISIR), Paris, France",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    },
+                    {
+                        "name": "\u2020Present addresses: Department of Electronics, University of York, York YO10 5DD, UK (D.T.); Inria, Villers-l\u00e8s-Nancy, F-54600, France (J.-B.M.)",
+                        "address": {
+                            "name": "\u2020Present addresses: Department of Electronics, University of York, York YO10 5DD, UK (D.T.); Inria, Villers-l\u00e8s-Nancy, F-54600, France (J.-B.M.), \n                  ",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    }
+                ],
+                "@type": "Person"
+            },
+            {
+                "name": "Jean-Baptiste Mouret",
+                "affiliation": [
+                    {
+                        "name": "Sorbonne Universit\u00e9s, Universit\u00e9 Pierre et Marie Curie (UPMC), Paris 06, UMR 7222, Institut des Syst\u00e8mes Intelligents et de Robotique (ISIR)",
+                        "address": {
+                            "name": "Sorbonne Universit\u00e9s, Universit\u00e9 Pierre et Marie Curie (UPMC), Paris 06, UMR 7222, Institut des Syst\u00e8mes Intelligents et de Robotique (ISIR), Paris, France",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    },
+                    {
+                        "name": "CNRS, UMR 7222, Institut des Syst\u00e8mes Intelligents et de Robotique (ISIR)",
+                        "address": {
+                            "name": "CNRS, UMR 7222, Institut des Syst\u00e8mes Intelligents et de Robotique (ISIR), Paris, France",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    },
+                    {
+                        "name": "Inria, Team Larsen",
+                        "address": {
+                            "name": "Inria, Team Larsen, Villers-l\u00e8s-Nancy, France",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    },
+                    {
+                        "name": "CNRS, Loria, UMR 7503",
+                        "address": {
+                            "name": "CNRS, Loria, UMR 7503, Vand\u0153uvre-l\u00e8s-Nancy, France",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    },
+                    {
+                        "name": "Universit\u00e9 de Lorraine, Loria, UMR 7503",
+                        "address": {
+                            "name": "Universit\u00e9 de Lorraine, Loria, UMR 7503, Vand\u0153uvre-l\u00e8s-Nancy, France",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    },
+                    {
+                        "name": "\u2020Present addresses: Department of Electronics, University of York, York YO10 5DD, UK (D.T.); Inria, Villers-l\u00e8s-Nancy, F-54600, France (J.-B.M.)",
+                        "address": {
+                            "name": "\u2020Present addresses: Department of Electronics, University of York, York YO10 5DD, UK (D.T.); Inria, Villers-l\u00e8s-Nancy, F-54600, France (J.-B.M.), \n                  ",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    }
+                ],
+                "email": "jean-baptiste.mouret@inria.fr",
+                "@type": "Person"
+            }
+        ],
+        "isAccessibleForFree": false,
+        "hasPart": {
+            "isAccessibleForFree": false,
+            "cssSelector": ".main-content",
+            "@type": "WebPageElement"
+        },
+        "@type": "ScholarlyArticle"
+    },
+    "@context": "https://schema.org",
+    "@type": "WebPage"
+}

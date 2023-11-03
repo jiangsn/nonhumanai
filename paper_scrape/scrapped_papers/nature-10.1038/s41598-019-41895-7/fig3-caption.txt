@@ -1,0 +1,1 @@
+Performance of Triads of Participants using BrainNet. The plot shows accuracy achieved by each of the five triads of participants. Accuracy was defined as the proportion of correct block rotations achieved by the triad. The dashed line shows the theoretical chance accuracy (0.5).

@@ -1,0 +1,2 @@
+Figure 2. 
+Sample images from Mannequin Challenge videos. Each image is a frame from a video sequence in which the camera is moving but humans are all static. The videos span a variety of natural scenes, poses, and configuration of people.

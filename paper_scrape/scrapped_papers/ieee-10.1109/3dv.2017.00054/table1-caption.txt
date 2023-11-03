@@ -1,0 +1,1 @@
+Table I Quantitative analysis for the task of predicting geometry from RGB input

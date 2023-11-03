@@ -1,0 +1,1 @@
+Fig. 8 Table clean-up: in simulated and real environment the table shows success rates for varying numbers of forks and bowls in the simulated evaluation.

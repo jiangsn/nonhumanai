@@ -1,0 +1,270 @@
+{
+    "userInfo": {
+        "customerNameRaw": "The Ohio State University",
+        "institutionName": "The Ohio State University",
+        "institute": true,
+        "member": false,
+        "individual": false,
+        "guest": false,
+        "subscribedContent": false,
+        "fileCabinetContent": false,
+        "fileCabinetUser": false,
+        "institutionalFileCabinetUser": false,
+        "products": "IEL|EBOOKS:1974:2014|JRNLARCH:1884:1994|CONFARCH:1951:1999|IBM:1872:2020|VDE|NOKIA BELL LABS|",
+        "instType": "Academic",
+        "userIds": [
+            7827
+        ],
+        "showPatentCitations": true,
+        "showGet802Link": true,
+        "openUrlImgLoc": "http://library-osu-edu.proxy.lib.ohio-state.edu/resources/serialssolutions/buttons/button75x25edit.jpg",
+        "openUrlLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu",
+        "instLogoFile": "7827_OSULHoriz.png",
+        "openUrlTxt": "Find It!",
+        "showOpenUrlLink": true,
+        "marketingInfoCaptured": false,
+        "tracked": false,
+        "ringGoldId": "2647",
+        "delegatedAdmin": false,
+        "desktop": false,
+        "isInstitutionDashboardEnabled": false,
+        "isInstitutionProfileEnabled": false,
+        "isRoamingEnabled": true,
+        "isDelegatedAdmin": false,
+        "isMdl": false,
+        "isCwg": false,
+        "isIel": true,
+        "isAcademic": true
+    },
+    "authors": [
+        {
+            "name": "Jiawei Su",
+            "affiliation": [
+                "Graduate School/Faculty of Information Science and Electrical Engineering, Kyushu University, Fukuoka, Japan"
+            ],
+            "firstName": "Jiawei",
+            "lastName": "Su",
+            "orcid": "0000-0002-6124-5007",
+            "id": "37086467655"
+        },
+        {
+            "name": "Danilo Vasconcellos Vargas",
+            "affiliation": [
+                "Graduate School/Faculty of Information Science and Electrical Engineering, Kyushu University, Fukuoka, Japan"
+            ],
+            "firstName": "Danilo Vasconcellos",
+            "lastName": "Vargas",
+            "id": "37085739199"
+        },
+        {
+            "name": "Kouichi Sakurai",
+            "affiliation": [
+                "Advanced Telecommunications Research Institute International, Kyoto, Japan"
+            ],
+            "firstName": "Kouichi",
+            "lastName": "Sakurai",
+            "id": "37266233200"
+        }
+    ],
+    "issn": [
+        {
+            "format": "Print ISSN",
+            "value": "1089-778X"
+        },
+        {
+            "format": "Print ISSN",
+            "value": "1089-778X"
+        },
+        {
+            "format": "Electronic ISSN",
+            "value": "1941-0026"
+        }
+    ],
+    "articleNumber": "8601309",
+    "dbTime": "1 ms",
+    "metrics": {
+        "citationCountPaper": 988,
+        "citationCountPatent": 0,
+        "totalDownloads": 10665
+    },
+    "purchaseOptions": {
+        "showOtherFormatPricingTab": false,
+        "showPdfFormatPricingTab": true,
+        "pdfPricingInfoAvailable": true,
+        "otherPricingInfoAvailable": false,
+        "mandatoryBundle": false,
+        "optionalBundle": false,
+        "displayTextWhenOtherFormatPricingNotAvailable": "The purchase and pricing options for this item are unavailable. Select items are only available as part of a subscription package. You may try again later or <a href='https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/xpl/contact' target='_blank'>contact us</a> for more information.",
+        "pdfPricingInfo": [
+            {
+                "memberPrice": "$14.95",
+                "nonMemberPrice": "$33.00",
+                "partNumber": "8601309",
+                "type": "PDF/HTML"
+            }
+        ],
+        "openUrlFullLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu?url_ver=Z39.88-2004&rfr_id=info:sid/IEEE.org:XPLORE&rft_id=info:doi/10.1109/TEVC.2019.2890858&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&rft.atitle=One Pixel Attack for Fooling Deep Neural Networks&rft.jtitle=IEEE Transactions on Evolutionary Computation&rft.date=2019&rft.volume=23&rft.issue=5&rft.spage=828&rft.epage=841&rft.issn=1089-778X&rft.eissn=1941-0026&rft.au=Jiawei Su&rft.aulast=Jiawei Su"
+    },
+    "getProgramTermsAccepted": false,
+    "sections": {
+        "abstract": "true",
+        "authors": "true",
+        "figures": "true",
+        "multimedia": "false",
+        "references": "true",
+        "citedby": "true",
+        "keywords": "true",
+        "definitions": "false",
+        "algorithm": "false",
+        "dataset": "false",
+        "cadmore": "false",
+        "footnotes": "false",
+        "disclaimer": "false",
+        "relatedContent": "false",
+        "metrics": "true"
+    },
+    "abstract": "Recent research has revealed that the output of deep neural networks (DNNs) can be easily altered by adding relatively small perturbations to the input vector. In this paper, we analyze an attack in an extremely limited scenario where only one pixel can be modified. For that we propose a novel method for generating one-pixel adversarial perturbations based on differential evolution (DE). It requires less adversarial information (a black-box attack) and can fool more types of networks due to the inherent features of DE. The results show that 67.97% of the natural images in Kaggle CIFAR-10 test dataset and 16.04% of the ImageNet (ILSVRC 2012) test images can be perturbed to at least one target class by modifying just one pixel with 74.03% and 22.91% confidence on average. We also show the same vulnerability on the original CIFAR-10 dataset. Thus, the proposed attack explores a different take on adversarial machine learning in an extreme limited scenario, showing that current DNNs are also vulnerable to such low dimension attacks. Besides, we also illustrate an important application of DE (or broadly speaking, evolutionary computation) in the domain of adversarial machine learning: creating tools that can effectively generate low-cost adversarial attacks against neural networks for evaluating robustness.",
+    "publicationYear": "2019",
+    "pdfPath": "/iel7/4235/8854227/08601309.pdf",
+    "publicationDate": "October 2019",
+    "doi": "10.1109/TEVC.2019.2890858",
+    "formulaStrippedArticleTitle": "One Pixel Attack for Fooling Deep Neural Networks",
+    "displayPublicationTitle": "IEEE Transactions on Evolutionary Computation",
+    "authorNames": "Jiawei Su;Danilo Vasconcellos Vargas;Kouichi Sakurai",
+    "publicationTitle": "IEEE Transactions on Evolutionary Computation",
+    "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=4235&title=One+Pixel+Attack+for+Fooling+Deep+Neural+Networks&isbn=&publicationDate=October+2019&author=Jiawei+Su&ContentID=10.1109/TEVC.2019.2890858&orderBeanReset=true&startPage=828&endPage=841&volumeNum=23&issueNum=5",
+    "dateOfInsertion": "04 January 2019",
+    "startPage": "828",
+    "endPage": "841",
+    "pdfUrl": "/stamp/stamp.jsp?tp=&arnumber=8601309",
+    "keywords": [
+        {
+            "type": "IEEE Keywords",
+            "kwd": [
+                "Perturbation methods",
+                "Neural networks",
+                "Robustness",
+                "Image color analysis",
+                "Image recognition",
+                "Additives"
+            ]
+        },
+        {
+            "type": "INSPEC: Controlled Indexing",
+            "kwd": [
+                "evolutionary computation",
+                "feature extraction",
+                "image classification",
+                "learning (artificial intelligence)",
+                "neural nets",
+                "object recognition"
+            ]
+        },
+        {
+            "type": "INSPEC: Non-Controlled Indexing",
+            "kwd": [
+                "DNN",
+                "CIFAR-10 dataset",
+                "deep neural networks",
+                "low-cost adversarial attacks",
+                "low dimension attacks",
+                "extreme limited scenario",
+                "adversarial machine learning",
+                "ILSVRC 2012",
+                "ImageNet test images",
+                "natural images",
+                "adversarial information",
+                "differential evolution",
+                "one-pixel adversarial perturbations",
+                "input vector",
+                "pixel attack"
+            ]
+        },
+        {
+            "type": "Author Keywords ",
+            "kwd": [
+                "Convolutional neural network",
+                "differential evolution (DE)",
+                "image recognition",
+                "information security"
+            ]
+        }
+    ],
+    "doiLink": "https://doi-org.proxy.lib.ohio-state.edu/10.1109/TEVC.2019.2890858",
+    "displayPublicationDate": "04 January 2019",
+    "articleCopyRight": "2019 IEEE",
+    "issueLink": "/xpl/tocresult.jsp?isnumber=8854227&punumber=4235",
+    "pubLink": "/xpl/RecentIssue.jsp?punumber=4235",
+    "allowComments": false,
+    "isGetAddressInfoCaptured": false,
+    "isMarketingOptIn": false,
+    "pubTopics": [
+        {
+            "name": "Computing and Processing"
+        }
+    ],
+    "publisher": "IEEE",
+    "displayDocTitle": "One Pixel Attack for Fooling Deep Neural Networks",
+    "isStandard": false,
+    "isConference": false,
+    "volume": "23",
+    "issue": "5",
+    "isBookWithoutChapters": false,
+    "isChapter": false,
+    "isProduct": false,
+    "isEarlyAccess": false,
+    "isOpenAccess": false,
+    "isEphemera": false,
+    "xploreDocumentType": "Journals & Magazine",
+    "isBook": false,
+    "isJournal": true,
+    "isSpringer": false,
+    "accessionNumber": "19027844",
+    "isFreeDocument": false,
+    "isPromo": false,
+    "isDynamicHtml": true,
+    "htmlLink": "/document/8601309/",
+    "htmlAbstractLink": "/document/8601309/",
+    "isCustomDenial": false,
+    "persistentLink": "https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/servlet/opac?punumber=4235",
+    "isNow": false,
+    "isSAE": false,
+    "isOUP": false,
+    "isSMPTE": false,
+    "fundingAgencies": {
+        "fundingAgency": [
+            {
+                "fundingName": "Collaboration Hubs for International Program of SICORP"
+            },
+            {
+                "fundingId": "10.13039/501100002241",
+                "fundingName": "Japan Science and Technology Agency"
+            },
+            {
+                "fundingId": "10.13039/501100004096",
+                "fundingName": "Kyushu University"
+            }
+        ]
+    },
+    "openAccessFlag": "F",
+    "insertDate": "04 January 2019",
+    "ephemeraFlag": "false",
+    "title": "One Pixel Attack for Fooling Deep Neural Networks",
+    "html_flag": "false",
+    "ml_html_flag": "true",
+    "sourcePdf": "tevc-su-2890858-x.pdf",
+    "mlTime": "PT0.073359S",
+    "xplore-pub-id": "4235",
+    "isNumber": "8854227",
+    "rightsLinkFlag": "1",
+    "contentType": "periodicals",
+    "publicationNumber": "4235",
+    "citationCount": "988",
+    "xplore-issue": "8854227",
+    "articleId": "8601309",
+    "contentTypeDisplay": "Journals",
+    "subType": "IEEE Transaction",
+    "_value": "IEEE",
+    "lastupdate": "2023-10-19",
+    "mediaPath": "/mediastore_new/IEEE/content/media/4235/8854227/8601309"
+}

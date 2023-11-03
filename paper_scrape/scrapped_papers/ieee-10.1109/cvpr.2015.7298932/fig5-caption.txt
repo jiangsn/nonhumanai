@@ -1,0 +1,1 @@
+Figure 5. Example alignments predicted by our model. For every test image above, we retrieve the most compatible test sentence and visualize the highest-scoring region for each word (before MRF smoothing described in Section 3.1.4) and the associated scores (v_{i}^{T}s_{t}). We hide the alignments of low-scoring words to reduce clutter. We assign each region an arbitrary color.

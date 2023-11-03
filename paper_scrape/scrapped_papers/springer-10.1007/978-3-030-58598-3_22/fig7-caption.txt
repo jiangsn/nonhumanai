@@ -1,0 +1,1 @@
+Qualitative results on the MannequinChallenge and ScanNet datasets. Click on an image to play video. Note the results are consistent over time and viewpoints (see Supplementary material). Please view with Acrobat Reader.

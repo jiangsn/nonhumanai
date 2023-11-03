@@ -1,0 +1,1 @@
+Table 1. Taxonomy of methods. Nv: neural volume, ns: neural surface. Factorize indicates if the method supports some decomposition of geometry, materials, and lighting.

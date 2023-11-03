@@ -1,0 +1,2 @@
+Figure 19. 
+With synthetic data, we can easily train models that accurately predict ten times as many landmarks as usual. Here are some example dense landmark predictions on the 300W dataset.

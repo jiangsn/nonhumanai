@@ -1,0 +1,1 @@
+Figure 2: RF heatmaps and an RGB image recorded at the same time.

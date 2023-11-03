@@ -1,0 +1,1 @@
+Figure 2: Overview of our framework. Two levels of pixel-aligned predictors produce high-resolution 3D reconstructions. The coarse level (top) captures global 3D structure, while high-resolution detail is added by the fine level.

@@ -1,0 +1,1 @@
+Figure 1: Given any two unordered image collections X and Y, our algorithm learns to automatically “translate” an image from one into the other and vice versa. Example application (bottom): Using a collection of paintings of a famous artist, learn to render a user's photograph into their style.

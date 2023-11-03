@@ -1,0 +1,1 @@
+Our diffuse model is applied as a post-process step for single-phase particle-based fluid (top left). Air–water mixtures like spray, foam and bubbles are generated, advected and dissolved (top right). For rendering, the fluid’s surface is triangulated neglecting isolated particles. A volumetric render technique is employed for diffuse material (bottom right)

@@ -1,0 +1,1 @@
+Figure 6: Our method and the techique of Shih et al. [15] generate visually satisfying results. However, our algorithm requires a single style image instead of a full time-lapse video, and it can handle other scenarios in addition to time-of-day hallucination.

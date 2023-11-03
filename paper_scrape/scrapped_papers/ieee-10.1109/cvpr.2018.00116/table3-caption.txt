@@ -1,0 +1,1 @@
+Table 3. F1 score comparison on four standard datasets. `-’ de-notes that the result is not available in the literature

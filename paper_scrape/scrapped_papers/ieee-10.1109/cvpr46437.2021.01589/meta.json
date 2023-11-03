@@ -1,0 +1,293 @@
+{
+    "userInfo": {
+        "customerNameRaw": "The Ohio State University",
+        "institutionName": "The Ohio State University",
+        "institute": true,
+        "member": false,
+        "individual": false,
+        "guest": false,
+        "subscribedContent": false,
+        "fileCabinetContent": false,
+        "fileCabinetUser": false,
+        "institutionalFileCabinetUser": false,
+        "products": "IEL|EBOOKS:1974:2014|JRNLARCH:1884:1994|CONFARCH:1951:1999|IBM:1872:2020|VDE|NOKIA BELL LABS|",
+        "instType": "Academic",
+        "userIds": [
+            7827
+        ],
+        "showPatentCitations": true,
+        "showGet802Link": true,
+        "openUrlImgLoc": "http://library-osu-edu.proxy.lib.ohio-state.edu/resources/serialssolutions/buttons/button75x25edit.jpg",
+        "openUrlLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu",
+        "instLogoFile": "7827_OSULHoriz.png",
+        "openUrlTxt": "Find It!",
+        "showOpenUrlLink": true,
+        "marketingInfoCaptured": false,
+        "tracked": false,
+        "ringGoldId": "2647",
+        "delegatedAdmin": false,
+        "desktop": false,
+        "isInstitutionDashboardEnabled": false,
+        "isInstitutionProfileEnabled": false,
+        "isRoamingEnabled": true,
+        "isDelegatedAdmin": false,
+        "isMdl": false,
+        "isCwg": false,
+        "isIel": true,
+        "isAcademic": true
+    },
+    "authors": [
+        {
+            "name": "Stepan Tulyakov",
+            "affiliation": [
+                "Zurich Research Center, Huawei Technologies"
+            ],
+            "firstName": "Stepan",
+            "lastName": "Tulyakov",
+            "id": "37082633600"
+        },
+        {
+            "name": "Daniel Gehrig",
+            "affiliation": [
+                "Dept. of Informatics, Univ. of Zurich, Dept. of Neuroinformatics, Univ. of Zurich and ETH Zurich"
+            ],
+            "firstName": "Daniel",
+            "lastName": "Gehrig",
+            "id": "37088211963"
+        },
+        {
+            "name": "Stamatios Georgoulis",
+            "affiliation": [
+                "Zurich Research Center, Huawei Technologies"
+            ],
+            "firstName": "Stamatios",
+            "lastName": "Georgoulis",
+            "id": "37085505437"
+        },
+        {
+            "name": "Julius Erbach",
+            "affiliation": [
+                "Zurich Research Center, Huawei Technologies"
+            ],
+            "firstName": "Julius",
+            "lastName": "Erbach",
+            "id": "37089012718"
+        },
+        {
+            "name": "Mathias Gehrig",
+            "affiliation": [
+                "Dept. of Informatics, Univ. of Zurich, Dept. of Neuroinformatics, Univ. of Zurich and ETH Zurich"
+            ],
+            "firstName": "Mathias",
+            "lastName": "Gehrig",
+            "id": "37086118781"
+        },
+        {
+            "name": "Yuanyou Li",
+            "affiliation": [
+                "Zurich Research Center, Huawei Technologies"
+            ],
+            "firstName": "Yuanyou",
+            "lastName": "Li",
+            "id": "37089012804"
+        },
+        {
+            "name": "Davide Scaramuzza",
+            "affiliation": [
+                "Dept. of Informatics, Univ. of Zurich, Dept. of Neuroinformatics, Univ. of Zurich and ETH Zurich"
+            ],
+            "firstName": "Davide",
+            "lastName": "Scaramuzza",
+            "id": "37397688400"
+        }
+    ],
+    "isbn": [
+        {
+            "format": "Electronic ISBN",
+            "value": "978-1-6654-4509-2",
+            "isbnType": ""
+        },
+        {
+            "format": "Print on Demand(PoD) ISBN",
+            "value": "978-1-6654-4510-8",
+            "isbnType": ""
+        }
+    ],
+    "issn": [
+        {
+            "format": "Electronic ISSN",
+            "value": "2575-7075"
+        },
+        {
+            "format": "Print on Demand(PoD) ISSN",
+            "value": "1063-6919"
+        }
+    ],
+    "articleNumber": "9577899",
+    "dbTime": "1 ms",
+    "metrics": {
+        "citationCountPaper": 48,
+        "citationCountPatent": 0,
+        "totalDownloads": 238
+    },
+    "purchaseOptions": {
+        "showOtherFormatPricingTab": false,
+        "showPdfFormatPricingTab": true,
+        "pdfPricingInfoAvailable": true,
+        "otherPricingInfoAvailable": false,
+        "mandatoryBundle": false,
+        "optionalBundle": false,
+        "displayTextWhenOtherFormatPricingNotAvailable": "The purchase and pricing options for this item are unavailable. Select items are only available as part of a subscription package. You may try again later or <a href='https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/xpl/contact' target='_blank'>contact us</a> for more information.",
+        "pdfPricingInfo": [
+            {
+                "memberPrice": "$14.95",
+                "nonMemberPrice": "$33.00",
+                "partNumber": "9577899",
+                "type": "PDF/HTML"
+            }
+        ],
+        "openUrlFullLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu?url_ver=Z39.88-2004&rfr_id=info:sid/IEEE.org:XPLORE&rft_id=info:doi/10.1109/CVPR46437.2021.01589&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&rft.atitle=Time Lens: Event-based Video Frame Interpolation&rft.jtitle=2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)&rft.date=2021&rft.spage=16150&rft.epage=16159&rft.eissn=2575-7075&rft.au=Stepan Tulyakov&rft.aulast=Stepan Tulyakov&rft.isbn=978-1-6654-4509-2"
+    },
+    "getProgramTermsAccepted": false,
+    "sections": {
+        "abstract": "true",
+        "authors": "true",
+        "figures": "true",
+        "multimedia": "true",
+        "references": "true",
+        "citedby": "true",
+        "keywords": "true",
+        "definitions": "false",
+        "algorithm": "false",
+        "dataset": "false",
+        "cadmore": "false",
+        "footnotes": "true",
+        "disclaimer": "false",
+        "relatedContent": "false",
+        "metrics": "true"
+    },
+    "abstract": "State-of-the-art frame interpolation methods generate intermediate frames by inferring object motions in the image from consecutive key-frames. In the absence of additional information, first-order approximations, i.e. optical flow, must be used, but this choice restricts the types of motions that can be modeled, leading to errors in highly dynamic scenarios. Event cameras are novel sensors that address this limitation by providing auxiliary visual information in the blind-time between frames. They asynchronously measure per-pixel brightness changes and do this with high temporal resolution and low latency. Event-based frame interpolation methods typically adopt a synthesis-based approach, where predicted frame residuals are directly applied to the key-frames. However, while these approaches can capture non-linear motions they suffer from ghosting and perform poorly in low-texture regions with few events. Thus, synthesis-based and flow-based approaches are complementary. In this work, we introduce Time Lens, a novel method that leverages the advantages of both. We extensively evaluate our method on three synthetic and two real benchmarks where we show an up to 5.21 dB improvement in terms of PSNR over state-of-the-art frame-based and event-based methods. Finally, we release a new large-scale dataset in highly dynamic scenarios, aimed at pushing the limits of existing methods.",
+    "publicationYear": "2021",
+    "pdfPath": "/iel7/9577055/9577056/09577899.pdf",
+    "publicationDate": "June 2021",
+    "doi": "10.1109/CVPR46437.2021.01589",
+    "formulaStrippedArticleTitle": "Time Lens: Event-based Video Frame Interpolation",
+    "displayPublicationTitle": "2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+    "authorNames": "Stepan Tulyakov;Daniel Gehrig;Stamatios Georgoulis;Julius Erbach;Mathias Gehrig;Yuanyou Li;Davide Scaramuzza",
+    "publicationTitle": "2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+    "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=proceedings&title=Time+Lens%3A+Event-based+Video+Frame+Interpolation&isbn=978-1-6654-4509-2&publicationDate=June+2021&author=Stepan+Tulyakov&ContentID=10.1109/CVPR46437.2021.01589&orderBeanReset=true&startPage=16150&endPage=16159&proceedingName=2021+IEEE%2FCVF+Conference+on+Computer+Vision+and+Pattern+Recognition+%28CVPR%29",
+    "dateOfInsertion": "02 November 2021",
+    "startPage": "16150",
+    "endPage": "16159",
+    "pdfUrl": "/stamp/stamp.jsp?tp=&arnumber=9577899",
+    "keywords": [
+        {
+            "type": "IEEE Keywords",
+            "kwd": [
+                "Interpolation",
+                "Visualization",
+                "Image color analysis",
+                "Benchmark testing",
+                "Cameras",
+                "Sensors",
+                "Pattern recognition"
+            ]
+        },
+        {
+            "type": "INSPEC: Controlled Indexing",
+            "kwd": [
+                "approximation theory",
+                "cameras",
+                "image motion analysis",
+                "image sequences",
+                "image texture",
+                "interpolation",
+                "video signal processing"
+            ]
+        },
+        {
+            "type": "INSPEC: Non-Controlled Indexing",
+            "kwd": [
+                "optical flow",
+                "highly dynamic scenarios",
+                "event cameras",
+                "auxiliary visual information",
+                "temporal resolution",
+                "synthesis-based approach",
+                "nonlinear motions",
+                "low-texture regions",
+                "flow-based approaches",
+                "Time Lens",
+                "event-based video frame interpolation",
+                "intermediate frames",
+                "object motions",
+                "consecutive key-frames",
+                "first-order approximations",
+                "perpixel brightness changes",
+                "frame residual prediction",
+                "synthesis-based approach"
+            ]
+        }
+    ],
+    "doiLink": "https://doi-org.proxy.lib.ohio-state.edu/10.1109/CVPR46437.2021.01589",
+    "displayPublicationDate": "20-25 June 2021",
+    "articleCopyRight": "2021 IEEE",
+    "issueLink": "/xpl/tocresult.jsp?isnumber=9577056&punumber=9577055",
+    "pubLink": "/xpl/conhome/9577055/proceeding",
+    "allowComments": false,
+    "isGetAddressInfoCaptured": false,
+    "isMarketingOptIn": false,
+    "pubTopics": [
+        {
+            "name": "Computing and Processing"
+        }
+    ],
+    "publisher": "IEEE",
+    "displayDocTitle": "Time Lens: Event-based Video Frame Interpolation",
+    "isStandard": false,
+    "isConference": true,
+    "isBookWithoutChapters": false,
+    "isChapter": false,
+    "isProduct": false,
+    "isEarlyAccess": false,
+    "isOpenAccess": false,
+    "isEphemera": false,
+    "xploreDocumentType": "Conference Publication",
+    "isBook": false,
+    "isJournal": false,
+    "isSpringer": false,
+    "accessionNumber": "21413445",
+    "isFreeDocument": false,
+    "isPromo": false,
+    "isDynamicHtml": true,
+    "htmlLink": "/document/9577899/",
+    "htmlAbstractLink": "/document/9577899/",
+    "isCustomDenial": false,
+    "persistentLink": "https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/servlet/opac?punumber=9577055",
+    "isNow": false,
+    "isSAE": false,
+    "isOUP": false,
+    "isSMPTE": false,
+    "openAccessFlag": "F",
+    "insertDate": "02 November 2021",
+    "ephemeraFlag": "false",
+    "title": "Time Lens: Event-based Video Frame Interpolation",
+    "confLoc": "Nashville, TN, USA",
+    "html_flag": "false",
+    "ml_html_flag": "true",
+    "sourcePdf": "450900q6150.pdf",
+    "mlTime": "PT0.075305S",
+    "xplore-pub-id": "9577055",
+    "isNumber": "9577056",
+    "rightsLinkFlag": "1",
+    "contentType": "conferences",
+    "publicationNumber": "9577055",
+    "citationCount": "48",
+    "xplore-issue": "9577056",
+    "articleId": "9577899",
+    "contentTypeDisplay": "Conferences",
+    "subType": "IEEE Conference",
+    "_value": "IEEE",
+    "lastupdate": "2023-10-08",
+    "mediaPath": "/mediastore_new/IEEE/content/media/9577055/9577056/9577899"
+}

@@ -1,0 +1,2 @@
+Figure 4. 
+Hair style edits using our mapper when training Mc and Mm only. The driving text prompts are indicated below each column. All input images are inversions of real images.

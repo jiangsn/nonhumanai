@@ -1,0 +1,1 @@
+Table 1: Inception scores (IS) and structured similarities (SSIM) of reconstructed test images on DeepFashion and Market1501 datasets. Our method outperforms both pix2pix [12] and PG2 [24] in terms of SSIM. As to IS the proposed method performs better than pix2pix and obtains comparable results to PG2.

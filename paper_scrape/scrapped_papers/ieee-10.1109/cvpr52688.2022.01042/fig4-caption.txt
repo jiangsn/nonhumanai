@@ -1,0 +1,1 @@
+Figure 4. Samples from LDMs trained on celebahq [38], ffhq [40], lsun-churches [98], lsun-bedrooms [98] and class-conditional imagenet [12], each with a resolution of 256\times 256. Best viewed when zoomed in. For more samples cf. The supplement.

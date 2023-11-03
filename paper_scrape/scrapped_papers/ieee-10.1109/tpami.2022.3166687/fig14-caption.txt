@@ -1,0 +1,2 @@
+Fig. 14. 
+We compare our results to original GTA images and a number of baselines. Our results are structurally consistent with the input. ColorTransfer does not modify textures. WCT2 strongly depends on a favorable reference image. SPADE fails due to differences in the scene layouts. MUNIT hallucinates trees, and CyCADA and CUT hallucinate star logos. Additional results for all baselines are shown in the supplement, available online.

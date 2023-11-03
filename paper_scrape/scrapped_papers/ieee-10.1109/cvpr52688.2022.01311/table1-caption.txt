@@ -1,0 +1,1 @@
+Table 1. Pck-transfer@αbbox = 0.1 results on spair-71k categories (test split).

@@ -1,0 +1,1 @@
+Self-reenactment: Evaluation of our rendering network and the audio-prediction network. Error plot shows the euclidean photo-metric error.

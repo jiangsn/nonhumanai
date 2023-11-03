@@ -1,0 +1,1 @@
+Figure 6: Performance comparisons on each sequence of the middlebury dataset. Numbers are obtained from the middlebury evaluation server.

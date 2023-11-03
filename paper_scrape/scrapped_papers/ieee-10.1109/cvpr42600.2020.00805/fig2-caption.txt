@@ -1,0 +1,1 @@
+Figure 2. Preprocessing. Preprocessing of the color and depth input (a-b). We use a bilateral median filter to sharpen the input depth maps (c-d), detect raw discontinuities using disparity thresholds (e), and clean up spurious threshold responses and link discontinuities into connected depth edges (f). These linked depth edges form the basic unit for our inpainting process.

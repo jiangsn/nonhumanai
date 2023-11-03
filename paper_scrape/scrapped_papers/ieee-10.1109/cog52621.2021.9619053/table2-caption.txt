@@ -1,0 +1,1 @@
+Table II: The solver's setup. In both environments, the solver uses ray casts to navigate around obstacles. In the racing game, the ray casts “fan out” around the vehicle to keep track of the road, and in the platform game a height map around the agent is used.

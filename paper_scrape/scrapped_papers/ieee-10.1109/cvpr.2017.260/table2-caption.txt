@@ -1,0 +1,1 @@
+Table 2: Room layout pixel misclassification error on LSUN [1].

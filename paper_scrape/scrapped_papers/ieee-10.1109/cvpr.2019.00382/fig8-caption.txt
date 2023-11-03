@@ -1,0 +1,2 @@
+Figure 8. 
+Visual comparisons on the UCF101 dataset [33]. The proposed method aligns the content (e.g., the pole) well and restores more details on the man’s leg.

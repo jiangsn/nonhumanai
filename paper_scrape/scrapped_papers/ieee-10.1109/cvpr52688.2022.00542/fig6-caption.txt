@@ -1,0 +1,1 @@
+Figure 6. Synthetic, bounded scenes. Example results on the lego and ship synthetic scenes from NeRF [28].

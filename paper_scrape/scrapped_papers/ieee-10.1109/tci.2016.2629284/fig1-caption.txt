@@ -1,0 +1,2 @@
+Fig. 1. The basic learning and application scheme of a global filter that maps LR images to their HR versions. (a)
+ Learning Stage. (b) Upscaling Stage.

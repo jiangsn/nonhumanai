@@ -1,0 +1,1 @@
+Figure 3. We condition ldms either via concatenation or by a more general cross-attention mechanism. See sec. 3.3

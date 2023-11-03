@@ -1,0 +1,1 @@
+Figure 6. Rendering engine for disentangling static and dynamic components. See sec 3.3 for details.

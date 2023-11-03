@@ -1,0 +1,2 @@
+Table 3: 
+Comparison of pose estimation accuracy and quality metrics for our method with physics (dyn) and without physics (kin) along with competitive pose estimator baselines. All errors are measured in millimeters. VIBE [18] is a strong oracle method that uses the large-scale AMASS [32] motion capture dataset for training. Note that as PhysCap [44] and the other baselines operate at 25fps, we downsample our 50fps motion for making a direct comparison.

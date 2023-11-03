@@ -1,0 +1,2 @@
+Figure 10. 
+Comparison with Lu et al. [17]. We achieve comparable results to [17] using just binary masks instead of the peoplespecific UV maps used in [17]. These binary segmentation masks are easier to obtain and are general – allowing our method to support arbitrary objects ([17] is applicable just to people). Notice how our omnimattes capture trampoline deformation well (top two rows), and reflections in the glass (bottom two rows).

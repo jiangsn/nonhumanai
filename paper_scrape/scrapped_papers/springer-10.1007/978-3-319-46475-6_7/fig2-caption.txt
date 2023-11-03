@@ -1,0 +1,1 @@
+Illustration of the patches used as atomic units during the annotation process. Top left: one of the images in our dataset. Top right: patches constructed by grouping pixels that share a common MTS combination. Different patches are filled with different colors for illustration. Bottom row: partial magnifications of the top images. (Color figure online)

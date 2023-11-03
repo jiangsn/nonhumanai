@@ -1,0 +1,116 @@
+[
+    {
+        "GA Key": "UA-26408784-1",
+        "DOI": "10.1007/978-3-031-19769-7_30",
+        "Page": "chapter",
+        "page": {
+            "attributes": {
+                "environment": "live"
+            }
+        },
+        "Country": "US",
+        "japan": false,
+        "doi": "10.1007-978-3-031-19769-7_30",
+        "Keywords": "",
+        "kwrd": [],
+        "Labs": "Y",
+        "ksg": "Krux.segments",
+        "kuid": "Krux.uid",
+        "Has Body": "Y",
+        "Features": [
+            "doNotAutoAssociate",
+            "cobranding",
+            "doNotAutoAssociate",
+            "cobranding"
+        ],
+        "Open Access": "N",
+        "hasAccess": "Y",
+        "bypassPaywall": "N",
+        "user": {
+            "license": {
+                "businessPartnerID": [
+                    "3000266689",
+                    "8200724141"
+                ],
+                "businessPartnerIDString": "3000266689|8200724141"
+            }
+        },
+        "Access Type": "subscription",
+        "Bpids": "3000266689, 8200724141",
+        "Bpnames": "OhioLINK Consortium, Ohio State University Libraries",
+        "BPID": [
+            "3000266689",
+            "8200724141"
+        ],
+        "VG Wort Identifier": "pw-vgzm.415900-10.1007-978-3-031-19769-7",
+        "Full HTML": "Y",
+        "session": {
+            "authentication": {
+                "loginStatus": "N"
+            },
+            "attributes": {
+                "edition": "academic"
+            }
+        },
+        "content": {
+            "serial": {
+                "eissn": "1611-3349",
+                "pissn": "0302-9743"
+            },
+            "book": {
+                "doi": "10.1007/978-3-031-19769-7",
+                "title": "Computer Vision \u2013 ECCV 2022",
+                "pisbn": "978-3-031-19768-0",
+                "eisbn": "978-3-031-19769-7",
+                "bookProductType": "Proceedings",
+                "seriesTitle": "Lecture Notes in Computer Science",
+                "seriesId": "558"
+            },
+            "chapter": {
+                "doi": "10.1007/978-3-031-19769-7_30"
+            },
+            "type": "ConferencePaper",
+            "category": {
+                "pmc": {
+                    "primarySubject": "Computer Science",
+                    "primarySubjectCode": "SCI",
+                    "secondarySubjects": {
+                        "1": "Image Processing and Computer Vision",
+                        "2": "Computer Communication Networks",
+                        "3": "User Interfaces and Human Computer Interaction",
+                        "4": "Pattern Recognition",
+                        "5": "Machine Learning",
+                        "6": "Special Purpose and Application-Based Systems"
+                    },
+                    "secondarySubjectCodes": {
+                        "1": "SCI22021",
+                        "2": "SCI13022",
+                        "3": "SCI18067",
+                        "4": "SCI2203X",
+                        "5": "SCI21010",
+                        "6": "SCI13030"
+                    }
+                },
+                "sucode": "SUCO11645"
+            },
+            "attributes": {
+                "deliveryPlatform": "oscar"
+            },
+            "country": "US",
+            "Has Preview": "N",
+            "subjectCodes": "SCI,SCI22021,SCI13022,SCI18067,SCI2203X,SCI21010,SCI13030",
+            "PMC": [
+                "SCI",
+                "SCI22021",
+                "SCI13022",
+                "SCI18067",
+                "SCI2203X",
+                "SCI21010",
+                "SCI13030"
+            ]
+        },
+        "Event Category": "Conference Paper",
+        "ConferenceSeriesId": "eccv, eccv",
+        "productId": "9783031197697"
+    }
+]

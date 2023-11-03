@@ -1,0 +1,2 @@
+Fig. 10. 
+Scene layouts are different in GTA (top) and Cityscapes (bottom). This affects the probability of seeing certain classes at specific positions. For example, GTA is more likely to have sky at the top of the image, while Cityscapes is more likely to have trees there and a star logo on the hood of the car. Fig. 11 illustrates the impact of this structural mismatch on photorealism enhancement.

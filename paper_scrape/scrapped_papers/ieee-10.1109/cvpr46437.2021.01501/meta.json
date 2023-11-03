@@ -1,0 +1,266 @@
+{
+    "userInfo": {
+        "customerNameRaw": "The Ohio State University",
+        "institutionName": "The Ohio State University",
+        "institute": true,
+        "member": false,
+        "individual": false,
+        "guest": false,
+        "subscribedContent": false,
+        "fileCabinetContent": false,
+        "fileCabinetUser": false,
+        "institutionalFileCabinetUser": false,
+        "products": "IEL|EBOOKS:1974:2014|JRNLARCH:1884:1994|CONFARCH:1951:1999|IBM:1872:2020|VDE|NOKIA BELL LABS|",
+        "instType": "Academic",
+        "userIds": [
+            7827
+        ],
+        "showPatentCitations": true,
+        "showGet802Link": true,
+        "openUrlImgLoc": "http://library-osu-edu.proxy.lib.ohio-state.edu/resources/serialssolutions/buttons/button75x25edit.jpg",
+        "openUrlLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu",
+        "instLogoFile": "7827_OSULHoriz.png",
+        "openUrlTxt": "Find It!",
+        "showOpenUrlLink": true,
+        "marketingInfoCaptured": false,
+        "tracked": false,
+        "ringGoldId": "2647",
+        "delegatedAdmin": false,
+        "desktop": false,
+        "isInstitutionDashboardEnabled": false,
+        "isInstitutionProfileEnabled": false,
+        "isRoamingEnabled": true,
+        "isDelegatedAdmin": false,
+        "isMdl": false,
+        "isCwg": false,
+        "isIel": true,
+        "isAcademic": true
+    },
+    "authors": [
+        {
+            "name": "Dan Hendrycks",
+            "affiliation": [
+                "UC Berkeley"
+            ],
+            "firstName": "Dan",
+            "lastName": "Hendrycks",
+            "id": "37089017086"
+        },
+        {
+            "name": "Kevin Zhao",
+            "affiliation": [
+                "University of Washington"
+            ],
+            "firstName": "Kevin",
+            "lastName": "Zhao",
+            "id": "37089017391"
+        },
+        {
+            "name": "Steven Basart",
+            "affiliation": [
+                "UChicago"
+            ],
+            "firstName": "Steven",
+            "lastName": "Basart",
+            "id": "37089014288"
+        },
+        {
+            "name": "Jacob Steinhardt",
+            "affiliation": [
+                "UC Berkeley"
+            ],
+            "firstName": "Jacob",
+            "lastName": "Steinhardt",
+            "id": "37088483303"
+        },
+        {
+            "name": "Dawn Song",
+            "affiliation": [
+                "UC Berkeley"
+            ],
+            "firstName": "Dawn",
+            "lastName": "Song",
+            "id": "37275586500"
+        }
+    ],
+    "isbn": [
+        {
+            "format": "Electronic ISBN",
+            "value": "978-1-6654-4509-2",
+            "isbnType": ""
+        },
+        {
+            "format": "Print on Demand(PoD) ISBN",
+            "value": "978-1-6654-4510-8",
+            "isbnType": ""
+        }
+    ],
+    "issn": [
+        {
+            "format": "Electronic ISSN",
+            "value": "2575-7075"
+        },
+        {
+            "format": "Print on Demand(PoD) ISSN",
+            "value": "1063-6919"
+        }
+    ],
+    "articleNumber": "9578772",
+    "dbTime": "1 ms",
+    "metrics": {
+        "citationCountPaper": 159,
+        "citationCountPatent": 0,
+        "totalDownloads": 134
+    },
+    "purchaseOptions": {
+        "showOtherFormatPricingTab": false,
+        "showPdfFormatPricingTab": true,
+        "pdfPricingInfoAvailable": true,
+        "otherPricingInfoAvailable": false,
+        "mandatoryBundle": false,
+        "optionalBundle": false,
+        "displayTextWhenOtherFormatPricingNotAvailable": "The purchase and pricing options for this item are unavailable. Select items are only available as part of a subscription package. You may try again later or <a href='https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/xpl/contact' target='_blank'>contact us</a> for more information.",
+        "pdfPricingInfo": [
+            {
+                "memberPrice": "$14.95",
+                "nonMemberPrice": "$33.00",
+                "partNumber": "9578772",
+                "type": "PDF/HTML"
+            }
+        ],
+        "openUrlFullLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu?url_ver=Z39.88-2004&rfr_id=info:sid/IEEE.org:XPLORE&rft_id=info:doi/10.1109/CVPR46437.2021.01501&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&rft.atitle=Natural Adversarial Examples&rft.jtitle=2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)&rft.date=2021&rft.spage=15257&rft.epage=15266&rft.eissn=2575-7075&rft.au=Dan Hendrycks&rft.aulast=Dan Hendrycks&rft.isbn=978-1-6654-4509-2"
+    },
+    "getProgramTermsAccepted": false,
+    "sections": {
+        "abstract": "true",
+        "authors": "true",
+        "figures": "true",
+        "multimedia": "true",
+        "references": "true",
+        "citedby": "true",
+        "keywords": "true",
+        "definitions": "false",
+        "algorithm": "false",
+        "dataset": "false",
+        "cadmore": "false",
+        "footnotes": "false",
+        "disclaimer": "false",
+        "relatedContent": "false",
+        "metrics": "true"
+    },
+    "abstract": "We introduce two challenging datasets that reliably cause machine learning model performance to substantially degrade. The datasets are collected with a simple adversarial filtration technique to create datasets with limited spurious cues. Our datasets\u2019 real-world, unmodified examples transfer to various unseen models reliably, demonstrating that computer vision models have shared weaknesses. The first dataset is called IMAGENET-A and is like the ImageNet test set, but it is far more challenging for existing models. We also curate an adversarial out-of-distribution detection dataset called IMAGENET-O, which is the first out-of-distribution detection dataset created for ImageNet models. On IMAGENET-A a DenseNet-121 obtains around 2% accuracy, an accuracy drop of approximately 90%, and its out-of-distribution detection performance on IMAGENET-O is near random chance levels. We find that existing data augmentation techniques hardly boost performance, and using other public training datasets provides improvements that are limited. However, we find that improvements to computer vision architectures provide a promising path towards robust models.",
+    "publicationYear": "2021",
+    "pdfPath": "/iel7/9577055/9577056/09578772.pdf",
+    "publicationDate": "June 2021",
+    "doi": "10.1109/CVPR46437.2021.01501",
+    "formulaStrippedArticleTitle": "Natural Adversarial Examples",
+    "displayPublicationTitle": "2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+    "authorNames": "Dan Hendrycks;Kevin Zhao;Steven Basart;Jacob Steinhardt;Dawn Song",
+    "publicationTitle": "2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+    "dateOfInsertion": "02 November 2021",
+    "startPage": "15257",
+    "endPage": "15266",
+    "pdfUrl": "/stamp/stamp.jsp?tp=&arnumber=9578772",
+    "keywords": [
+        {
+            "type": "IEEE Keywords",
+            "kwd": [
+                "Training",
+                "Computer vision",
+                "Filtration",
+                "Convolution",
+                "Computational modeling",
+                "Machine learning",
+                "Computer architecture"
+            ]
+        },
+        {
+            "type": "INSPEC: Controlled Indexing",
+            "kwd": [
+                "computer vision",
+                "learning (artificial intelligence)"
+            ]
+        },
+        {
+            "type": "INSPEC: Non-Controlled Indexing",
+            "kwd": [
+                "ImageNet models",
+                "IMAGENET-A",
+                "out-of-distribution detection performance",
+                "data augmentation techniques",
+                "public training datasets",
+                "natural adversarial examples",
+                "challenging datasets",
+                "machine learning model performance",
+                "simple adversarial filtration technique",
+                "unmodified examples transfer",
+                "unseen models",
+                "computer vision models",
+                "ImageNet test set",
+                "adversarial out-of-distribution detection dataset",
+                "IMAGENET-O",
+                "DenseNet-121",
+                "computer vision architectures"
+            ]
+        }
+    ],
+    "doiLink": "https://doi-org.proxy.lib.ohio-state.edu/10.1109/CVPR46437.2021.01501",
+    "displayPublicationDate": "20-25 June 2021",
+    "issueLink": "/xpl/tocresult.jsp?isnumber=9577056&punumber=9577055",
+    "pubLink": "/xpl/conhome/9577055/proceeding",
+    "allowComments": false,
+    "isGetAddressInfoCaptured": false,
+    "isMarketingOptIn": false,
+    "pubTopics": [
+        {
+            "name": "Computing and Processing"
+        }
+    ],
+    "publisher": "IEEE",
+    "displayDocTitle": "Natural Adversarial Examples",
+    "isStandard": false,
+    "isConference": true,
+    "isBookWithoutChapters": false,
+    "isChapter": false,
+    "isProduct": false,
+    "isEarlyAccess": false,
+    "isOpenAccess": false,
+    "isEphemera": false,
+    "xploreDocumentType": "Conference Publication",
+    "isBook": false,
+    "isJournal": false,
+    "isSpringer": false,
+    "accessionNumber": "21413826",
+    "isFreeDocument": false,
+    "isPromo": false,
+    "isDynamicHtml": true,
+    "htmlLink": "/document/9578772/",
+    "htmlAbstractLink": "/document/9578772/",
+    "isCustomDenial": false,
+    "persistentLink": "https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/servlet/opac?punumber=9577055",
+    "isNow": false,
+    "isSAE": false,
+    "isOUP": false,
+    "isSMPTE": false,
+    "openAccessFlag": "F",
+    "insertDate": "02 November 2021",
+    "ephemeraFlag": "false",
+    "title": "Natural Adversarial Examples",
+    "confLoc": "Nashville, TN, USA",
+    "html_flag": "false",
+    "ml_html_flag": "true",
+    "sourcePdf": "450900p5257.pdf",
+    "mlTime": "PT0.070021S",
+    "xplore-pub-id": "9577055",
+    "isNumber": "9577056",
+    "contentType": "conferences",
+    "publicationNumber": "9577055",
+    "citationCount": "159",
+    "xplore-issue": "9577056",
+    "articleId": "9578772",
+    "contentTypeDisplay": "Conferences",
+    "subType": "IEEE Conference",
+    "_value": "USGov",
+    "lastupdate": "2023-10-18",
+    "mediaPath": "/mediastore_new/IEEE/content/media/9577055/9577056/9578772"
+}

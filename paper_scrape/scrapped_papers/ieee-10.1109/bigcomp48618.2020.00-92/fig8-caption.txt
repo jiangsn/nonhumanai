@@ -1,0 +1,1 @@
+Figure 8. Examples of Unsupervised image translation from portrait(portrait Dataset, Domain A) to human face(portrait Dataset, Domain B) using various network structures. CycleGAN, DRIT, UNIT, MUNIT are all trained to 64×64 resolution using the default settings from the official implementations.

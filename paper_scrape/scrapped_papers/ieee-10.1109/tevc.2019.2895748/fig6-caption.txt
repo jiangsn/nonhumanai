@@ -1,0 +1,2 @@
+Fig. 6. Generated bedroom images on 128\times128
+ LSUN bedrooms.

@@ -1,0 +1,2 @@
+Figure 8: 
+Qualitative comparisons on the Dynamic Scenes dataset. Compared with prior methods, our rendered images more closely match the ground truth, and include fewer artifacts, as shown in the highlighted regions.

@@ -1,0 +1,1 @@
+Table 6. Assessing inpainting efficiency. †: deviations from fig. 6 due to varying GPU settings/batch sizes cf. The supplement.

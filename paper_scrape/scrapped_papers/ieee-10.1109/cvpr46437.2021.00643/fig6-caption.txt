@@ -1,0 +1,2 @@
+Figure 6: 
+Static scene representation ablation. Adding a static scene representation yields higher fidelity renderings, especially in static regions (a,c) when compared to the pure dynamic model (b).

@@ -1,0 +1,279 @@
+{
+    "userInfo": {
+        "customerNameRaw": "The Ohio State University",
+        "institutionName": "The Ohio State University",
+        "institute": true,
+        "member": false,
+        "individual": false,
+        "guest": false,
+        "subscribedContent": false,
+        "fileCabinetContent": false,
+        "fileCabinetUser": false,
+        "institutionalFileCabinetUser": false,
+        "products": "IEL|EBOOKS:1974:2014|JRNLARCH:1884:1994|CONFARCH:1951:1999|IBM:1872:2020|VDE|NOKIA BELL LABS|",
+        "instType": "Academic",
+        "userIds": [
+            7827
+        ],
+        "showPatentCitations": true,
+        "showGet802Link": true,
+        "openUrlImgLoc": "http://library-osu-edu.proxy.lib.ohio-state.edu/resources/serialssolutions/buttons/button75x25edit.jpg",
+        "openUrlLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu",
+        "instLogoFile": "7827_OSULHoriz.png",
+        "openUrlTxt": "Find It!",
+        "showOpenUrlLink": true,
+        "marketingInfoCaptured": false,
+        "tracked": false,
+        "ringGoldId": "2647",
+        "delegatedAdmin": false,
+        "desktop": false,
+        "isInstitutionDashboardEnabled": false,
+        "isInstitutionProfileEnabled": false,
+        "isRoamingEnabled": true,
+        "isDelegatedAdmin": false,
+        "isMdl": false,
+        "isCwg": false,
+        "isIel": true,
+        "isAcademic": true
+    },
+    "authors": [
+        {
+            "name": "Ricardo Martin-Brualla",
+            "affiliation": [
+                "Google Research"
+            ],
+            "firstName": "Ricardo",
+            "lastName": "Martin-Brualla",
+            "id": "37085739202"
+        },
+        {
+            "name": "Noha Radwan",
+            "affiliation": [
+                "Google Research"
+            ],
+            "firstName": "Noha",
+            "lastName": "Radwan",
+            "id": "37085817759"
+        },
+        {
+            "name": "Mehdi S. M. Sajjadi",
+            "affiliation": [
+                "Google Research"
+            ],
+            "firstName": "Mehdi S. M.",
+            "lastName": "Sajjadi",
+            "id": "38242729400"
+        },
+        {
+            "name": "Jonathan T. Barron",
+            "affiliation": [
+                "Google Research"
+            ],
+            "firstName": "Jonathan T.",
+            "lastName": "Barron",
+            "id": "37953015500"
+        },
+        {
+            "name": "Alexey Dosovitskiy",
+            "affiliation": [
+                "Google Research"
+            ],
+            "firstName": "Alexey",
+            "lastName": "Dosovitskiy",
+            "id": "37075730700"
+        },
+        {
+            "name": "Daniel Duckworth",
+            "affiliation": [
+                "Google Research"
+            ],
+            "firstName": "Daniel",
+            "lastName": "Duckworth",
+            "id": "37089012287"
+        }
+    ],
+    "isbn": [
+        {
+            "format": "Electronic ISBN",
+            "value": "978-1-6654-4509-2",
+            "isbnType": ""
+        },
+        {
+            "format": "Print on Demand(PoD) ISBN",
+            "value": "978-1-6654-4510-8",
+            "isbnType": ""
+        }
+    ],
+    "issn": [
+        {
+            "format": "Electronic ISSN",
+            "value": "2575-7075"
+        },
+        {
+            "format": "Print on Demand(PoD) ISSN",
+            "value": "1063-6919"
+        }
+    ],
+    "articleNumber": "9578784",
+    "dbTime": "1 ms",
+    "metrics": {
+        "citationCountPaper": 287,
+        "citationCountPatent": 0,
+        "totalDownloads": 662
+    },
+    "purchaseOptions": {
+        "showOtherFormatPricingTab": false,
+        "showPdfFormatPricingTab": true,
+        "pdfPricingInfoAvailable": true,
+        "otherPricingInfoAvailable": false,
+        "mandatoryBundle": false,
+        "optionalBundle": false,
+        "displayTextWhenOtherFormatPricingNotAvailable": "The purchase and pricing options for this item are unavailable. Select items are only available as part of a subscription package. You may try again later or <a href='https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/xpl/contact' target='_blank'>contact us</a> for more information.",
+        "pdfPricingInfo": [
+            {
+                "memberPrice": "$14.95",
+                "nonMemberPrice": "$33.00",
+                "partNumber": "9578784",
+                "type": "PDF/HTML"
+            }
+        ],
+        "openUrlFullLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu?url_ver=Z39.88-2004&rfr_id=info:sid/IEEE.org:XPLORE&rft_id=info:doi/10.1109/CVPR46437.2021.00713&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&rft.atitle=NeRF in the Wild: Neural Radiance Fields for Unconstrained Photo Collections&rft.jtitle=2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)&rft.date=2021&rft.spage=7206&rft.epage=7215&rft.eissn=2575-7075&rft.au=Ricardo Martin-Brualla&rft.aulast=Ricardo Martin-Brualla&rft.isbn=978-1-6654-4509-2"
+    },
+    "getProgramTermsAccepted": false,
+    "sections": {
+        "abstract": "true",
+        "authors": "true",
+        "figures": "true",
+        "multimedia": "true",
+        "references": "true",
+        "citedby": "true",
+        "keywords": "true",
+        "definitions": "false",
+        "algorithm": "false",
+        "dataset": "false",
+        "cadmore": "false",
+        "footnotes": "true",
+        "disclaimer": "false",
+        "relatedContent": "false",
+        "metrics": "true"
+    },
+    "abstract": "We present a learning-based method for synthesizing novel views of complex scenes using only unstructured collections of in-the-wild photographs. We build on Neural Radiance Fields (NeRF), which uses the weights of a multi-layer perceptron to model the density and color of a scene as a function of 3D coordinates. While NeRF works well on images of static subjects captured under controlled settings, it is incapable of modeling many ubiquitous, real-world phenomena in uncontrolled images, such as variable illumination or transient occluders. We introduce a series of extensions to NeRF to address these issues, thereby enabling accurate reconstructions from unstructured image collections taken from the internet. We apply our system, dubbed NeRF-W, to internet photo collections of famous landmarks, and demonstrate temporally consistent novel view renderings that are significantly closer to photorealism than the prior state of the art.",
+    "publicationYear": "2021",
+    "pdfPath": "/iel7/9577055/9577056/09578784.pdf",
+    "publicationDate": "June 2021",
+    "doi": "10.1109/CVPR46437.2021.00713",
+    "formulaStrippedArticleTitle": "NeRF in the Wild: Neural Radiance Fields for Unconstrained Photo Collections",
+    "displayPublicationTitle": "2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+    "authorNames": "Ricardo Martin-Brualla;Noha Radwan;Mehdi S. M. Sajjadi;Jonathan T. Barron;Alexey Dosovitskiy;Daniel Duckworth",
+    "publicationTitle": "2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+    "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=proceedings&title=NeRF+in+the+Wild%3A+Neural+Radiance+Fields+for+Unconstrained+Photo+Collections&isbn=978-1-6654-4509-2&publicationDate=June+2021&author=Ricardo+Martin-Brualla&ContentID=10.1109/CVPR46437.2021.00713&orderBeanReset=true&startPage=7206&endPage=7215&proceedingName=2021+IEEE%2FCVF+Conference+on+Computer+Vision+and+Pattern+Recognition+%28CVPR%29",
+    "dateOfInsertion": "02 November 2021",
+    "startPage": "7206",
+    "endPage": "7215",
+    "pdfUrl": "/stamp/stamp.jsp?tp=&arnumber=9578784",
+    "keywords": [
+        {
+            "type": "IEEE Keywords",
+            "kwd": [
+                "Learning systems",
+                "Solid modeling",
+                "Photorealism",
+                "Three-dimensional displays",
+                "Image color analysis",
+                "Lighting",
+                "Rendering (computer graphics)"
+            ]
+        },
+        {
+            "type": "INSPEC: Controlled Indexing",
+            "kwd": [
+                "image matching",
+                "image reconstruction",
+                "image representation",
+                "image segmentation",
+                "Internet",
+                "learning (artificial intelligence)",
+                "multilayer perceptrons",
+                "rendering (computer graphics)"
+            ]
+        },
+        {
+            "type": "INSPEC: Non-Controlled Indexing",
+            "kwd": [
+                "view renderings",
+                "Internet photo collections",
+                "dubbed NeRF-W",
+                "unstructured image collections",
+                "variable illumination",
+                "uncontrolled images",
+                "multilayer perceptron",
+                "in-the-wild photographs",
+                "complex scenes",
+                "learning-based method",
+                "unconstrained photo collections",
+                "neural radiance fields"
+            ]
+        }
+    ],
+    "doiLink": "https://doi-org.proxy.lib.ohio-state.edu/10.1109/CVPR46437.2021.00713",
+    "displayPublicationDate": "20-25 June 2021",
+    "articleCopyRight": "2021 IEEE",
+    "issueLink": "/xpl/tocresult.jsp?isnumber=9577056&punumber=9577055",
+    "pubLink": "/xpl/conhome/9577055/proceeding",
+    "allowComments": false,
+    "isGetAddressInfoCaptured": false,
+    "isMarketingOptIn": false,
+    "pubTopics": [
+        {
+            "name": "Computing and Processing"
+        }
+    ],
+    "publisher": "IEEE",
+    "displayDocTitle": "NeRF in the Wild: Neural Radiance Fields for Unconstrained Photo Collections",
+    "isStandard": false,
+    "isConference": true,
+    "isBookWithoutChapters": false,
+    "isChapter": false,
+    "isProduct": false,
+    "isEarlyAccess": false,
+    "isOpenAccess": false,
+    "isEphemera": false,
+    "xploreDocumentType": "Conference Publication",
+    "isBook": false,
+    "isJournal": false,
+    "isSpringer": false,
+    "accessionNumber": "21413579",
+    "isFreeDocument": false,
+    "isPromo": false,
+    "isDynamicHtml": true,
+    "htmlLink": "/document/9578784/",
+    "htmlAbstractLink": "/document/9578784/",
+    "isCustomDenial": false,
+    "persistentLink": "https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/servlet/opac?punumber=9577055",
+    "isNow": false,
+    "isSAE": false,
+    "isOUP": false,
+    "isSMPTE": false,
+    "openAccessFlag": "F",
+    "insertDate": "02 November 2021",
+    "ephemeraFlag": "false",
+    "title": "NeRF in the Wild: Neural Radiance Fields for Unconstrained Photo Collections",
+    "confLoc": "Nashville, TN, USA",
+    "html_flag": "false",
+    "ml_html_flag": "true",
+    "sourcePdf": "450900h206.pdf",
+    "mlTime": "PT0.068083S",
+    "xplore-pub-id": "9577055",
+    "isNumber": "9577056",
+    "rightsLinkFlag": "1",
+    "contentType": "conferences",
+    "publicationNumber": "9577055",
+    "citationCount": "287",
+    "xplore-issue": "9577056",
+    "articleId": "9578784",
+    "contentTypeDisplay": "Conferences",
+    "subType": "IEEE Conference",
+    "_value": "IEEE",
+    "lastupdate": "2023-10-13",
+    "mediaPath": "/mediastore_new/IEEE/content/media/9577055/9577056/9578784"
+}

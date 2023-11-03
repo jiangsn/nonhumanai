@@ -1,0 +1,2 @@
+Fig. 3. 
+Detailed sub-network architecture of our proposed 3D-to-2D pose projector module in the (a) training phase and (b) testing phase. The Fully Connected (FC) layers for the regression function are in blue, while those for the projection function are in yellow. The black arrows represent the forward data flow, while the dashed arrows denote the backward propagation used to update the network parameters and perform gradual pose refinement in (a) and (b), respectively.

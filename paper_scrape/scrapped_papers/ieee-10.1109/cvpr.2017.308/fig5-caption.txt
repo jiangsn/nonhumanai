@@ -1,0 +1,1 @@
+Figure 5. Effects of the multi-scale strategy. (a) Results using single-scale 5\times 5 patches. (b) Results using single-scale 15 \times 15 patches. (c) Results using joint 5 \times 5 patches over 5 scales.

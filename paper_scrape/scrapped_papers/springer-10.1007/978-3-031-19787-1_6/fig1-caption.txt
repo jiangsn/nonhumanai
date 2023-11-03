@@ -1,0 +1,1 @@
+Given conditional inputs in multiple modalities (the left column), our approach can synthesize images that satisfy all input conditions (the right column (g)) or an arbitrary subset of input conditions (the middle column (a)–(f)) with a single model.

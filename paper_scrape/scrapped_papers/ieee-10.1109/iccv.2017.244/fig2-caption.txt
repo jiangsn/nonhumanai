@@ -1,0 +1,1 @@
+Figure 2: Paired training data (left) consists of training examples {xi, yi}Ni=1, where the yi that corresponds to each xi is given [20]. We instead consider unpaired training data (right), consisting of a source set {xi}Ni=1∈X and a target set {yj}Mj=1∈Y, with no information provided as to which xi matches which yj.

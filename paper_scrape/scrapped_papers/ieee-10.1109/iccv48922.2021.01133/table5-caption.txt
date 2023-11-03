@@ -1,0 +1,2 @@
+Table 5: 
+Comparison of motion synthesis diversity and accuracy between motion synthesis models with different training data. Note that the errors are measured in meters as we stick to the convention in motion synthesis works. The (GT)* denotes that the method was trained with ground truth mocap data, not estimated from video and should be understood to be an oracle baseline. PE-dyn is using our physics corrected pose estimation dataset and PE-kin is ablating away the physics loss in the physics correction.

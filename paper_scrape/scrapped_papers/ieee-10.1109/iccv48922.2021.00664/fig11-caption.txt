@@ -1,0 +1,2 @@
+Figure 11. 
+Toonify comparison. Applying ReStyle with bootstrapping, denoted  ReStyle BSpSp, is able to better preserve the identity characteristics of the input real image.

@@ -1,0 +1,1 @@
+Fig. 7: A trajectory leaving the game area due to a missing collision box. The collision box of a small segment in the wall (red arrow) was intentionally removed to validate the use and application of the collected data and the proposed visualizations.

@@ -1,0 +1,1 @@
+Table 1: Room layout pixel misclassification error on Hedau [15].

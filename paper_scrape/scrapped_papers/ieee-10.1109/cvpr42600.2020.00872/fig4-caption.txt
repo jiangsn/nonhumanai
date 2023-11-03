@@ -1,0 +1,1 @@
+Figure 4: Model comparison. Compared to zhang et al. [44], we observe that for the most part, our models generalize better to other architectures. Notable exceptions to this are cyclegan (which is identical to the training architecture from [44]), stargan (where both methods obtain close to 100. Ap), and SAN (where applying data augmentation hurts performance).

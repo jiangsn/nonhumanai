@@ -1,0 +1,1 @@
+Table 3. Top 5 accuracy for predicting which wall in an apartment the camera is facing for different information used in the model, i.e., “window+aspect”, “window+aspect+scene” and “window+aspect+room”. We use C = 1000 in S-SVM training.

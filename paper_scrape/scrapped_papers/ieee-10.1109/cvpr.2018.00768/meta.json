@@ -1,0 +1,284 @@
+{
+    "userInfo": {
+        "customerNameRaw": "The Ohio State University",
+        "institutionName": "The Ohio State University",
+        "institute": true,
+        "member": false,
+        "individual": false,
+        "guest": false,
+        "subscribedContent": false,
+        "fileCabinetContent": false,
+        "fileCabinetUser": false,
+        "institutionalFileCabinetUser": false,
+        "products": "IEL|EBOOKS:1974:2014|JRNLARCH:1884:1994|CONFARCH:1951:1999|IBM:1872:2020|VDE|NOKIA BELL LABS|",
+        "instType": "Academic",
+        "userIds": [
+            7827
+        ],
+        "showPatentCitations": true,
+        "showGet802Link": true,
+        "openUrlImgLoc": "http://library-osu-edu.proxy.lib.ohio-state.edu/resources/serialssolutions/buttons/button75x25edit.jpg",
+        "openUrlLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu",
+        "instLogoFile": "7827_OSULHoriz.png",
+        "openUrlTxt": "Find It!",
+        "showOpenUrlLink": true,
+        "marketingInfoCaptured": false,
+        "tracked": false,
+        "ringGoldId": "2647",
+        "delegatedAdmin": false,
+        "desktop": false,
+        "isInstitutionDashboardEnabled": false,
+        "isInstitutionProfileEnabled": false,
+        "isRoamingEnabled": true,
+        "isDelegatedAdmin": false,
+        "isMdl": false,
+        "isCwg": false,
+        "isIel": true,
+        "isAcademic": true
+    },
+    "authors": [
+        {
+            "name": "Mingmin Zhao",
+            "affiliation": [
+                "MIT CSAIL"
+            ],
+            "firstName": "Mingmin",
+            "lastName": "Zhao",
+            "id": "37086579974"
+        },
+        {
+            "name": "Tianhong Li",
+            "affiliation": [
+                "MIT CSAIL"
+            ],
+            "firstName": "Tianhong",
+            "lastName": "Li",
+            "id": "37086574841"
+        },
+        {
+            "name": "Mohammad Abu Alsheikh",
+            "affiliation": [
+                "MIT CSAIL"
+            ],
+            "firstName": "Mohammad Abu",
+            "lastName": "Alsheikh",
+            "id": "37085467921"
+        },
+        {
+            "name": "Yonglong Tian",
+            "affiliation": [
+                "MIT CSAIL"
+            ],
+            "firstName": "Yonglong",
+            "lastName": "Tian",
+            "id": "37086582134"
+        },
+        {
+            "name": "Hang Zhao",
+            "affiliation": [
+                "MIT CSAIL"
+            ],
+            "firstName": "Hang",
+            "lastName": "Zhao",
+            "id": "37090018632"
+        },
+        {
+            "name": "Antonio Torralba",
+            "affiliation": [
+                "MIT CSAIL"
+            ],
+            "firstName": "Antonio",
+            "lastName": "Torralba",
+            "id": "38183107900"
+        },
+        {
+            "name": "Dina Katabi",
+            "affiliation": [
+                "MIT CSAIL"
+            ],
+            "firstName": "Dina",
+            "lastName": "Katabi",
+            "id": "37283723000"
+        }
+    ],
+    "isbn": [
+        {
+            "format": "Electronic ISBN",
+            "value": "978-1-5386-6420-9",
+            "isbnType": ""
+        },
+        {
+            "format": "Print on Demand(PoD) ISBN",
+            "value": "978-1-5386-6421-6",
+            "isbnType": ""
+        }
+    ],
+    "issn": [
+        {
+            "format": "Electronic ISSN",
+            "value": "2575-7075"
+        },
+        {
+            "format": "Print on Demand(PoD) ISSN",
+            "value": "1063-6919"
+        }
+    ],
+    "articleNumber": "8578866",
+    "dbTime": "1 ms",
+    "metrics": {
+        "citationCountPaper": 303,
+        "citationCountPatent": 3,
+        "totalDownloads": 2427
+    },
+    "purchaseOptions": {
+        "showOtherFormatPricingTab": false,
+        "showPdfFormatPricingTab": true,
+        "pdfPricingInfoAvailable": true,
+        "otherPricingInfoAvailable": false,
+        "mandatoryBundle": false,
+        "optionalBundle": false,
+        "displayTextWhenOtherFormatPricingNotAvailable": "The purchase and pricing options for this item are unavailable. Select items are only available as part of a subscription package. You may try again later or <a href='https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/xpl/contact' target='_blank'>contact us</a> for more information.",
+        "pdfPricingInfo": [
+            {
+                "memberPrice": "$14.95",
+                "nonMemberPrice": "$33.00",
+                "partNumber": "8578866",
+                "type": "PDF/HTML"
+            }
+        ],
+        "openUrlFullLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu?url_ver=Z39.88-2004&rfr_id=info:sid/IEEE.org:XPLORE&rft_id=info:doi/10.1109/CVPR.2018.00768&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&rft.atitle=Through-Wall Human Pose Estimation Using Radio Signals&rft.jtitle=2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition&rft.date=2018&rft.spage=7356&rft.epage=7365&rft.eissn=2575-7075&rft.au=Mingmin Zhao&rft.aulast=Mingmin Zhao&rft.isbn=978-1-5386-6420-9"
+    },
+    "getProgramTermsAccepted": false,
+    "sections": {
+        "abstract": "true",
+        "authors": "true",
+        "figures": "true",
+        "multimedia": "false",
+        "references": "true",
+        "citedby": "true",
+        "keywords": "true",
+        "definitions": "false",
+        "algorithm": "false",
+        "dataset": "false",
+        "cadmore": "false",
+        "footnotes": "true",
+        "disclaimer": "false",
+        "relatedContent": "false",
+        "metrics": "true"
+    },
+    "abstract": "This paper demonstrates accurate human pose estimation through walls and occlusions. We leverage the fact that wireless signals in the WiFi frequencies traverse walls and reflect off the human body. We introduce a deep neural network approach that parses such radio signals to estimate 2D poses. Since humans cannot annotate radio signals, we use state-of-the-art vision model to provide cross-modal supervision. Specifically, during training the system uses synchronized wireless and visual inputs, extracts pose information from the visual stream, and uses it to guide the training process. Once trained, the network uses only the wireless signal for pose estimation. We show that, when tested on visible scenes, the radio-based system is almost as accurate as the vision-based system used to train it. Yet, unlike vision-based pose estimation, the radio-based system can estimate 2D poses through walls despite never trained on such scenarios. Demo videos are available at our website.",
+    "publicationYear": "2018",
+    "pdfPath": "/iel7/8576498/8578098/08578866.pdf",
+    "publicationDate": "June 2018",
+    "doi": "10.1109/CVPR.2018.00768",
+    "formulaStrippedArticleTitle": "Through-Wall Human Pose Estimation Using Radio Signals",
+    "displayPublicationTitle": "2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+    "authorNames": "Mingmin Zhao;Tianhong Li;Mohammad Abu Alsheikh;Yonglong Tian;Hang Zhao;Antonio Torralba;Dina Katabi",
+    "publicationTitle": "2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+    "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=proceedings&title=Through-Wall+Human+Pose+Estimation+Using+Radio+Signals&isbn=978-1-5386-6420-9&publicationDate=June+2018&author=Mingmin+Zhao&ContentID=10.1109/CVPR.2018.00768&orderBeanReset=true&startPage=7356&endPage=7365&proceedingName=2018+IEEE%2FCVF+Conference+on+Computer+Vision+and+Pattern+Recognition",
+    "dateOfInsertion": "16 December 2018",
+    "startPage": "7356",
+    "endPage": "7365",
+    "pdfUrl": "/stamp/stamp.jsp?tp=&arnumber=8578866",
+    "keywords": [
+        {
+            "type": "IEEE Keywords",
+            "kwd": [
+                "RF signals",
+                "Wireless communication",
+                "Wireless sensor networks",
+                "Radio frequency",
+                "Visualization",
+                "Pose estimation",
+                "Heating systems"
+            ]
+        },
+        {
+            "type": "INSPEC: Controlled Indexing",
+            "kwd": [
+                "feature extraction",
+                "neural nets",
+                "pose estimation"
+            ]
+        },
+        {
+            "type": "INSPEC: Non-Controlled Indexing",
+            "kwd": [
+                "training process",
+                "wireless signal",
+                "radio-based system",
+                "vision-based system",
+                "radio signals",
+                "human body",
+                "deep neural network approach",
+                "state-of-the-art vision model",
+                "wireless inputs",
+                "visual inputs",
+                "human pose estimation",
+                "cross-modal supervision",
+                "pose information extraction"
+            ]
+        }
+    ],
+    "doiLink": "https://doi-org.proxy.lib.ohio-state.edu/10.1109/CVPR.2018.00768",
+    "displayPublicationDate": "18-23 June 2018",
+    "articleCopyRight": "2018 IEEE",
+    "issueLink": "/xpl/tocresult.jsp?isnumber=8578098&punumber=8576498",
+    "pubLink": "/xpl/conhome/8576498/proceeding",
+    "allowComments": false,
+    "isGetAddressInfoCaptured": false,
+    "isMarketingOptIn": false,
+    "pubTopics": [
+        {
+            "name": "Computing and Processing"
+        }
+    ],
+    "publisher": "IEEE",
+    "displayDocTitle": "Through-Wall Human Pose Estimation Using Radio Signals",
+    "isStandard": false,
+    "isConference": true,
+    "isBookWithoutChapters": false,
+    "isChapter": false,
+    "isProduct": false,
+    "isEarlyAccess": false,
+    "isOpenAccess": false,
+    "isEphemera": false,
+    "xploreDocumentType": "Conference Publication",
+    "isBook": false,
+    "isJournal": false,
+    "isSpringer": false,
+    "accessionNumber": "18326211",
+    "isFreeDocument": false,
+    "isPromo": false,
+    "isDynamicHtml": true,
+    "htmlLink": "/document/8578866/",
+    "htmlAbstractLink": "/document/8578866/",
+    "isCustomDenial": false,
+    "persistentLink": "https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/servlet/opac?punumber=8576498",
+    "isNow": false,
+    "isSAE": false,
+    "isOUP": false,
+    "isSMPTE": false,
+    "openAccessFlag": "F",
+    "insertDate": "16 December 2018",
+    "ephemeraFlag": "false",
+    "title": "Through-Wall Human Pose Estimation Using Radio Signals",
+    "confLoc": "Salt Lake City, UT, USA",
+    "html_flag": "false",
+    "ml_html_flag": "true",
+    "sourcePdf": "642000h356.pdf",
+    "mlTime": "PT0.065847S",
+    "xplore-pub-id": "8576498",
+    "isNumber": "8578098",
+    "rightsLinkFlag": "1",
+    "contentType": "conferences",
+    "publicationNumber": "8576498",
+    "citationCount": "303",
+    "xplore-issue": "8578098",
+    "articleId": "8578866",
+    "contentTypeDisplay": "Conferences",
+    "subType": "IEEE Conference",
+    "_value": "IEEE",
+    "lastupdate": "2023-10-09",
+    "mediaPath": "/mediastore_new/IEEE/content/media/8576498/8578098/8578866"
+}

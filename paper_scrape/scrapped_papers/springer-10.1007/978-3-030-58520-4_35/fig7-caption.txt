@@ -1,0 +1,2 @@
+Comparison of Image2StyleGAN
+[29] (top row) and our in-domain inversion (bottom row) on tower image editing. For the manipulation of each attribute, we show the results by either decreasing or increasing the semantic degree.

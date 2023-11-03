@@ -1,0 +1,2 @@
+Figure 7. 
+A variety of edits along global text-driven manipulation directions, demonstrated on portraits of celebrities. Edits are performed using StyleGAN2 pretrained on FFHQ [24]. The inputs are real images, embedded in W+ space using the e4e encoder [54]. The target attribute used in the text prompt is indicated above each column.

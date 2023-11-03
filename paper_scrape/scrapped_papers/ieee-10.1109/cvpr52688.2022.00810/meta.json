@@ -1,0 +1,320 @@
+{
+    "userInfo": {
+        "customerNameRaw": "The Ohio State University",
+        "institutionName": "The Ohio State University",
+        "institute": true,
+        "member": false,
+        "individual": false,
+        "guest": false,
+        "subscribedContent": false,
+        "fileCabinetContent": false,
+        "fileCabinetUser": false,
+        "institutionalFileCabinetUser": false,
+        "products": "IEL|EBOOKS:1974:2014|JRNLARCH:1884:1994|CONFARCH:1951:1999|IBM:1872:2020|VDE|NOKIA BELL LABS|",
+        "instType": "Academic",
+        "userIds": [
+            7827
+        ],
+        "showPatentCitations": true,
+        "showGet802Link": true,
+        "openUrlImgLoc": "http://library-osu-edu.proxy.lib.ohio-state.edu/resources/serialssolutions/buttons/button75x25edit.jpg",
+        "openUrlLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu",
+        "instLogoFile": "7827_OSULHoriz.png",
+        "openUrlTxt": "Find It!",
+        "showOpenUrlLink": true,
+        "marketingInfoCaptured": false,
+        "tracked": false,
+        "ringGoldId": "2647",
+        "delegatedAdmin": false,
+        "desktop": false,
+        "isInstitutionDashboardEnabled": false,
+        "isInstitutionProfileEnabled": false,
+        "isRoamingEnabled": true,
+        "isDelegatedAdmin": false,
+        "isMdl": false,
+        "isCwg": false,
+        "isIel": true,
+        "isAcademic": true
+    },
+    "authors": [
+        {
+            "name": "Jacob Munkberg",
+            "affiliation": [
+                "NVIDIA"
+            ],
+            "firstName": "Jacob",
+            "lastName": "Munkberg",
+            "id": "37089535186"
+        },
+        {
+            "name": "Wenzheng Chen",
+            "affiliation": [
+                "NVIDIA",
+                "University of Toronto",
+                "Vector Institute"
+            ],
+            "firstName": "Wenzheng",
+            "lastName": "Chen",
+            "id": "37086571383"
+        },
+        {
+            "name": "Jon Hasselgren",
+            "affiliation": [
+                "NVIDIA"
+            ],
+            "firstName": "Jon",
+            "lastName": "Hasselgren",
+            "id": "37829771600"
+        },
+        {
+            "name": "Alex Evans",
+            "affiliation": [
+                "NVIDIA"
+            ],
+            "firstName": "Alex",
+            "lastName": "Evans",
+            "id": "37089542759"
+        },
+        {
+            "name": "Tianchang Shen",
+            "affiliation": [
+                "NVIDIA",
+                "University of Toronto",
+                "Vector Institute"
+            ],
+            "firstName": "Tianchang",
+            "lastName": "Shen",
+            "id": "37089536971"
+        },
+        {
+            "name": "Thomas M\u00fcller",
+            "affiliation": [
+                "NVIDIA"
+            ],
+            "firstName": "Thomas",
+            "lastName": "M\u00fcller",
+            "id": "37089540791"
+        },
+        {
+            "name": "Jun Gao",
+            "affiliation": [
+                "NVIDIA",
+                "University of Toronto",
+                "Vector Institute"
+            ],
+            "firstName": "Jun",
+            "lastName": "Gao",
+            "id": "37087233774"
+        },
+        {
+            "name": "Sanja Fidler",
+            "affiliation": [
+                "NVIDIA",
+                "University of Toronto",
+                "Vector Institute"
+            ],
+            "firstName": "Sanja",
+            "lastName": "Fidler",
+            "id": "37689726500"
+        }
+    ],
+    "isbn": [
+        {
+            "format": "Electronic ISBN",
+            "value": "978-1-6654-6946-3",
+            "isbnType": ""
+        },
+        {
+            "format": "Print on Demand(PoD) ISBN",
+            "value": "978-1-6654-6947-0",
+            "isbnType": ""
+        }
+    ],
+    "issn": [
+        {
+            "format": "Electronic ISSN",
+            "value": "2575-7075"
+        },
+        {
+            "format": "Print on Demand(PoD) ISSN",
+            "value": "1063-6919"
+        }
+    ],
+    "articleNumber": "9879169",
+    "dbTime": "1 ms",
+    "metrics": {
+        "citationCountPaper": 41,
+        "citationCountPatent": 0,
+        "totalDownloads": 142
+    },
+    "purchaseOptions": {
+        "showOtherFormatPricingTab": false,
+        "showPdfFormatPricingTab": true,
+        "pdfPricingInfoAvailable": true,
+        "otherPricingInfoAvailable": false,
+        "mandatoryBundle": false,
+        "optionalBundle": false,
+        "displayTextWhenOtherFormatPricingNotAvailable": "The purchase and pricing options for this item are unavailable. Select items are only available as part of a subscription package. You may try again later or <a href='https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/xpl/contact' target='_blank'>contact us</a> for more information.",
+        "pdfPricingInfo": [
+            {
+                "memberPrice": "$14.95",
+                "nonMemberPrice": "$33.00",
+                "partNumber": "9879169",
+                "type": "PDF/HTML"
+            }
+        ],
+        "openUrlFullLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu?url_ver=Z39.88-2004&rfr_id=info:sid/IEEE.org:XPLORE&rft_id=info:doi/10.1109/CVPR52688.2022.00810&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&rft.atitle=Extracting Triangular 3D Models, Materials, and Lighting From Images&rft.jtitle=2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)&rft.date=2022&rft.spage=8270&rft.epage=8280&rft.eissn=2575-7075&rft.au=Jacob Munkberg&rft.aulast=Jacob Munkberg&rft.isbn=978-1-6654-6946-3"
+    },
+    "getProgramTermsAccepted": false,
+    "sections": {
+        "abstract": "true",
+        "authors": "true",
+        "figures": "true",
+        "multimedia": "true",
+        "references": "true",
+        "citedby": "true",
+        "keywords": "true",
+        "definitions": "false",
+        "algorithm": "false",
+        "dataset": "false",
+        "cadmore": "false",
+        "footnotes": "false",
+        "disclaimer": "false",
+        "relatedContent": "false",
+        "metrics": "true"
+    },
+    "abstract": "We present an efficient method for joint optimization of topology, materials and lighting from multi-view image observations. Unlike recent multi-view reconstruction approaches, which typically produce entangled 3D representations encoded in neural networks, we output triangle meshes with spatially-varying materials and environment lighting that can be deployed in any traditional graphics engine unmodified. We leverage recent work in differentiable rendering, coordinate-based networks to compactly represent volumetric texturing, alongside differentiable marching tetrahedrons to enable gradient-based optimization directly on the surface mesh. Finally, we introduce a differentiable formulation of the split sum approximation of environment lighting to efficiently recover all-frequency lighting. Experiments show our extracted models used in advanced scene editing, material decomposition, and high quality view interpolation, all running at interactive rates in triangle-based renderers (rasterizers and path tracers).",
+    "publicationYear": "2022",
+    "pdfPath": "/iel7/9878378/9878366/09879169.pdf",
+    "publicationDate": "June 2022",
+    "doi": "10.1109/CVPR52688.2022.00810",
+    "formulaStrippedArticleTitle": "Extracting Triangular 3D Models, Materials, and Lighting From Images",
+    "displayPublicationTitle": "2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+    "authorNames": "Jacob Munkberg;Wenzheng Chen;Jon Hasselgren;Alex Evans;Tianchang Shen;Thomas M\u00fcller;Jun Gao;Sanja Fidler",
+    "publicationTitle": "2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+    "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=proceedings&title=Extracting+Triangular+3D+Models%2C+Materials%2C+and+Lighting+From+Images&isbn=978-1-6654-6946-3&publicationDate=June+2022&author=Jacob+Munkberg&ContentID=10.1109/CVPR52688.2022.00810&orderBeanReset=true&startPage=8270&endPage=8280&proceedingName=2022+IEEE%2FCVF+Conference+on+Computer+Vision+and+Pattern+Recognition+%28CVPR%29",
+    "dateOfInsertion": "27 September 2022",
+    "startPage": "8270",
+    "endPage": "8280",
+    "pdfUrl": "/stamp/stamp.jsp?tp=&arnumber=9879169",
+    "keywords": [
+        {
+            "type": "IEEE Keywords",
+            "kwd": [
+                "Graphics",
+                "Solid modeling",
+                "Three-dimensional displays",
+                "Computational modeling",
+                "Lighting",
+                "Rendering (computer graphics)",
+                "Topology"
+            ]
+        },
+        {
+            "type": "INSPEC: Controlled Indexing",
+            "kwd": [
+                "computational geometry",
+                "computer graphics",
+                "gradient methods",
+                "image reconstruction",
+                "image texture",
+                "interpolation",
+                "mesh generation",
+                "optimisation",
+                "rendering (computer graphics)"
+            ]
+        },
+        {
+            "type": "INSPEC: Non-Controlled Indexing",
+            "kwd": [
+                "leverage recent work",
+                "differentiable rendering",
+                "coordinate-based networks",
+                "volumetric texturing",
+                "differentiable marching tetrahedrons",
+                "surface mesh",
+                "differentiable formulation",
+                "split sum approximation",
+                "environment lighting",
+                "all-frequency lighting",
+                "extracted models",
+                "material decomposition",
+                "high quality view interpolation",
+                "triangle-based renderers",
+                "triangular 3D models",
+                "joint optimization",
+                "multiview image observations",
+                "recent multiview reconstruction approaches",
+                "neural networks",
+                "traditional graphics engine"
+            ]
+        },
+        {
+            "type": "Author Keywords ",
+            "kwd": [
+                "3D from multi-view and sensors; Machine learning; Vision + graphics"
+            ]
+        }
+    ],
+    "doiLink": "https://doi-org.proxy.lib.ohio-state.edu/10.1109/CVPR52688.2022.00810",
+    "displayPublicationDate": "18-24 June 2022",
+    "articleCopyRight": "2022 IEEE",
+    "issueLink": "/xpl/tocresult.jsp?isnumber=9878366&punumber=9878378",
+    "pubLink": "/xpl/conhome/9878378/proceeding",
+    "allowComments": false,
+    "isGetAddressInfoCaptured": false,
+    "isMarketingOptIn": false,
+    "pubTopics": [
+        {
+            "name": "Computing and Processing"
+        }
+    ],
+    "publisher": "IEEE",
+    "displayDocTitle": "Extracting Triangular 3D Models, Materials, and Lighting From Images",
+    "isStandard": false,
+    "isConference": true,
+    "isBookWithoutChapters": false,
+    "isChapter": false,
+    "isProduct": false,
+    "isEarlyAccess": false,
+    "isOpenAccess": false,
+    "isEphemera": false,
+    "xploreDocumentType": "Conference Publication",
+    "isBook": false,
+    "isJournal": false,
+    "isSpringer": false,
+    "accessionNumber": "22093731",
+    "isFreeDocument": false,
+    "isPromo": false,
+    "isDynamicHtml": true,
+    "htmlLink": "/document/9879169/",
+    "htmlAbstractLink": "/document/9879169/",
+    "isCustomDenial": false,
+    "persistentLink": "https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/servlet/opac?punumber=9878378",
+    "isNow": false,
+    "isSAE": false,
+    "isOUP": false,
+    "isSMPTE": false,
+    "openAccessFlag": "F",
+    "insertDate": "27 September 2022",
+    "ephemeraFlag": "false",
+    "title": "Extracting Triangular 3D Models, Materials, and Lighting From Images",
+    "confLoc": "New Orleans, LA, USA",
+    "html_flag": "false",
+    "ml_html_flag": "true",
+    "sourcePdf": "694600i270.pdf",
+    "mlTime": "PT0.088669S",
+    "xplore-pub-id": "9878378",
+    "isNumber": "9878366",
+    "rightsLinkFlag": "1",
+    "contentType": "conferences",
+    "publicationNumber": "9878378",
+    "citationCount": "41",
+    "xplore-issue": "9878366",
+    "articleId": "9879169",
+    "contentTypeDisplay": "Conferences",
+    "subType": "IEEE Conference",
+    "_value": "IEEE",
+    "lastupdate": "2023-10-08",
+    "mediaPath": "/mediastore_new/IEEE/content/media/9878378/9878366/9879169"
+}

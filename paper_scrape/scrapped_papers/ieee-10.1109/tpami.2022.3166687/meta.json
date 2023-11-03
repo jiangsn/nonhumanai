@@ -1,0 +1,273 @@
+{
+    "userInfo": {
+        "customerNameRaw": "The Ohio State University",
+        "institutionName": "The Ohio State University",
+        "institute": true,
+        "member": false,
+        "individual": false,
+        "guest": false,
+        "subscribedContent": false,
+        "fileCabinetContent": false,
+        "fileCabinetUser": false,
+        "institutionalFileCabinetUser": false,
+        "products": "IEL|EBOOKS:1974:2014|JRNLARCH:1884:1994|CONFARCH:1951:1999|IBM:1872:2020|VDE|NOKIA BELL LABS|",
+        "instType": "Academic",
+        "userIds": [
+            7827
+        ],
+        "showPatentCitations": true,
+        "showGet802Link": true,
+        "openUrlImgLoc": "http://library-osu-edu.proxy.lib.ohio-state.edu/resources/serialssolutions/buttons/button75x25edit.jpg",
+        "openUrlLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu",
+        "instLogoFile": "7827_OSULHoriz.png",
+        "openUrlTxt": "Find It!",
+        "showOpenUrlLink": true,
+        "marketingInfoCaptured": false,
+        "tracked": false,
+        "ringGoldId": "2647",
+        "delegatedAdmin": false,
+        "desktop": false,
+        "isInstitutionDashboardEnabled": false,
+        "isInstitutionProfileEnabled": false,
+        "isRoamingEnabled": true,
+        "isDelegatedAdmin": false,
+        "isMdl": false,
+        "isCwg": false,
+        "isIel": true,
+        "isAcademic": true
+    },
+    "authors": [
+        {
+            "name": "Stephan R. Richter",
+            "affiliation": [
+                "Intelligent Systems Lab, Intel Labs, Santa Clara, CA, USA"
+            ],
+            "bio": {
+                "graphic": "/mediastore_new/IEEE/content/freeimages/34/10008914/9756256/richt-3166687-small.gif",
+                "p": [
+                    "Stephan R. Richter received the BSc and MSc degrees in IT systems engineering from the Hasso-Plattner-Institute in Potsdam, Germany, and the PhD degree in computer science from TU Darmstadt, Germany. He is currently a research scientist with the Intelligent Systems Lab at Intel in Munich, Germany. His research interests span topics in computer vision and related areas."
+                ]
+            },
+            "firstName": "Stephan R.",
+            "lastName": "Richter",
+            "orcid": "0000-0002-2579-7242",
+            "id": "37086330459"
+        },
+        {
+            "name": "Hassan Abu Alhaija",
+            "affiliation": [
+                "PCH Innovations, Berlin, Germany"
+            ],
+            "bio": {
+                "graphic": "/mediastore_new/IEEE/content/freeimages/34/10008914/9756256/alhai-3166687-small.gif",
+                "p": [
+                    "Hassan Abu Alhaija received the BSc degree in informatics engineering from Damascus University, Syria in 2011 and the European master's degree in color informatics and media technology (CIMET) in 2014. He is currently a research scientist with PCH Innovations in Berlin, Germany, and working toward the PhD degree with Heidelberg University, Germany. His research interests include neural rendering, 3D generative models and synthetic media."
+                ]
+            },
+            "firstName": "Hassan Abu",
+            "lastName": "Alhaija",
+            "id": "37086233066"
+        },
+        {
+            "name": "Vladlen Koltun",
+            "affiliation": [
+                "Intelligent Systems Lab, Intel Labs, Santa Clara, CA, USA"
+            ],
+            "bio": {
+                "graphic": "/mediastore_new/IEEE/content/freeimages/34/10008914/9756256/koltu-3166687-small.gif",
+                "p": [
+                    "Vladlen Koltun is currently the chief scientist for Intelligent Systems with Intel. He directs the Intelligent Systems Lab, which conducts high-impact basic research in computer vision, machine learning, robotics, and related areas. He has mentored more than 50 PhD students, postdocs, research scientists, and PhD student interns, many of whom are now successful research leaders."
+                ]
+            },
+            "firstName": "Vladlen",
+            "lastName": "Koltun",
+            "orcid": "0000-0003-0858-0970",
+            "id": "37739465900"
+        }
+    ],
+    "issn": [
+        {
+            "format": "Print ISSN",
+            "value": "0162-8828"
+        },
+        {
+            "format": "CD",
+            "value": "2160-9292"
+        },
+        {
+            "format": "Electronic ISSN",
+            "value": "1939-3539"
+        }
+    ],
+    "articleNumber": "9756256",
+    "dbTime": "0 ms",
+    "metrics": {
+        "citationCountPaper": 7,
+        "citationCountPatent": 0,
+        "totalDownloads": 2337
+    },
+    "purchaseOptions": {
+        "showOtherFormatPricingTab": false,
+        "showPdfFormatPricingTab": true,
+        "pdfPricingInfoAvailable": false,
+        "otherPricingInfoAvailable": false,
+        "mandatoryBundle": false,
+        "optionalBundle": false,
+        "displayTextWhenPdfPricingNotAvailable": "The purchase and pricing options for this item are unavailable. Select items are only available as part of a subscription package. You may try again later or <a href='https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/xpl/contact' target='_blank'>contact us</a> for more information.",
+        "displayTextWhenOtherFormatPricingNotAvailable": "The purchase and pricing options for this item are unavailable. Select items are only available as part of a subscription package. You may try again later or <a href='https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/xpl/contact' target='_blank'>contact us</a> for more information.",
+        "openUrlFullLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu?url_ver=Z39.88-2004&rfr_id=info:sid/IEEE.org:XPLORE&rft_id=info:doi/10.1109/TPAMI.2022.3166687&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&rft.atitle=Enhancing Photorealism Enhancement&rft.jtitle=IEEE Transactions on Pattern Analysis and Machine Intelligence&rft.date=2023&rft.volume=45&rft.issue=2&rft.spage=1700&rft.epage=1715&rft.issn=0162-8828&rft.eissn=1939-3539&rft.au=Stephan R. Richter&rft.aulast=Stephan R. Richter"
+    },
+    "getProgramTermsAccepted": false,
+    "sections": {
+        "abstract": "true",
+        "authors": "true",
+        "figures": "true",
+        "multimedia": "true",
+        "references": "true",
+        "citedby": "true",
+        "keywords": "true",
+        "definitions": "false",
+        "algorithm": "false",
+        "dataset": "false",
+        "cadmore": "false",
+        "footnotes": "true",
+        "disclaimer": "false",
+        "relatedContent": "false",
+        "metrics": "true"
+    },
+    "abstract": "We present an approach to enhancing the realism of synthetic images. The images are enhanced by a convolutional network that leverages intermediate representations produced by conventional rendering pipelines. The network is trained via a novel adversarial objective, which provides strong supervision at multiple perceptual levels. We analyze scene layout distributions in commonly used datasets and find that they differ in important ways. We hypothesize that this is one of the causes of strong artifacts that can be observed in the results of many prior methods. To address this we propose a new strategy for sampling image patches during training. We also introduce multiple architectural improvements in the deep network modules used for photorealism enhancement. We confirm the benefits of our contributions in controlled experiments and report substantial gains in stability and realism in comparison to recent image-to-image translation methods and a variety of other baselines.",
+    "publicationYear": "2023",
+    "pdfPath": "/iel7/34/10008914/09756256.pdf",
+    "publicationDate": "01 February 2023",
+    "doi": "10.1109/TPAMI.2022.3166687",
+    "formulaStrippedArticleTitle": "Enhancing Photorealism Enhancement",
+    "displayPublicationTitle": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+    "authorNames": "Stephan R. Richter;Hassan Abu Alhaija;Vladlen Koltun",
+    "publicationTitle": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+    "dateOfInsertion": "12 April 2022",
+    "startPage": "1700",
+    "endPage": "1715",
+    "pdfUrl": "/stamp/stamp.jsp?tp=&arnumber=9756256",
+    "keywords": [
+        {
+            "type": "IEEE Keywords",
+            "kwd": [
+                "Photorealism",
+                "Training",
+                "Semantics",
+                "Rendering (computer graphics)",
+                "Games",
+                "Image segmentation",
+                "Pipelines"
+            ]
+        },
+        {
+            "type": "INSPEC: Controlled Indexing",
+            "kwd": [
+                "computer vision",
+                "data visualisation",
+                "image representation",
+                "learning (artificial intelligence)",
+                "realistic images",
+                "rendering (computer graphics)"
+            ]
+        },
+        {
+            "type": "INSPEC: Non-Controlled Indexing",
+            "kwd": [
+                "adversarial objective",
+                "convolutional network",
+                "deep network modules",
+                "image patches",
+                "image-to-image translation methods",
+                "intermediate representations",
+                "multiple architectural improvements",
+                "multiple perceptual levels",
+                "photorealism enhancement",
+                "rendering pipelines",
+                "scene layout distributions",
+                "strong artifacts",
+                "synthetic images"
+            ]
+        },
+        {
+            "type": "Author Keywords ",
+            "kwd": [
+                "Photorealism enhancement",
+                "photorealism",
+                "image-to-image translation",
+                "style transfer"
+            ]
+        }
+    ],
+    "doiLink": "https://doi-org.proxy.lib.ohio-state.edu/10.1109/TPAMI.2022.3166687",
+    "displayPublicationDate": "12 April 2022",
+    "issueLink": "/xpl/tocresult.jsp?isnumber=10008914&punumber=34",
+    "pubLink": "/xpl/RecentIssue.jsp?punumber=34",
+    "allowComments": false,
+    "isGetAddressInfoCaptured": false,
+    "isMarketingOptIn": false,
+    "pubTopics": [
+        {
+            "name": "Computing and Processing"
+        },
+        {
+            "name": "Bioengineering"
+        }
+    ],
+    "publisher": "IEEE",
+    "displayDocTitle": "Enhancing Photorealism Enhancement",
+    "isStandard": false,
+    "isConference": false,
+    "volume": "45",
+    "issue": "2",
+    "isBookWithoutChapters": false,
+    "isChapter": false,
+    "isProduct": false,
+    "isEarlyAccess": false,
+    "isOpenAccess": true,
+    "isEphemera": false,
+    "xploreDocumentType": "Journals & Magazine",
+    "isBook": false,
+    "isJournal": true,
+    "isSpringer": false,
+    "accessionNumber": "22476884",
+    "pubMedId": "35412970",
+    "isFreeDocument": true,
+    "isPromo": false,
+    "isDynamicHtml": true,
+    "htmlLink": "/document/9756256/",
+    "htmlAbstractLink": "/document/9756256/",
+    "isCustomDenial": false,
+    "persistentLink": "https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/servlet/opac?punumber=34",
+    "isNow": false,
+    "isSAE": false,
+    "isOUP": false,
+    "isSMPTE": false,
+    "openAccessFlag": "T",
+    "insertDate": "12 April 2022",
+    "ephemeraFlag": "false",
+    "title": "Enhancing Photorealism Enhancement",
+    "html_flag": "false",
+    "ml_html_flag": "true",
+    "sourcePdf": "tpami-richter-3166687-x.pdf",
+    "mlTime": "PT0.118671S",
+    "xplore-pub-id": "34",
+    "sponsors": [
+        {
+            "name": "IEEE Computer Society",
+            "url": "http://computer.org.proxy.lib.ohio-state.edu/"
+        }
+    ],
+    "isNumber": "10008914",
+    "contentType": "periodicals",
+    "publicationNumber": "34",
+    "citationCount": "7",
+    "xplore-issue": "10008914",
+    "articleId": "9756256",
+    "contentTypeDisplay": "Journals",
+    "subType": "IEEE Transaction",
+    "_value": "CCBY",
+    "lastupdate": "2023-10-08",
+    "mediaPath": "/mediastore_new/IEEE/content/media/34/10008914/9756256"
+}

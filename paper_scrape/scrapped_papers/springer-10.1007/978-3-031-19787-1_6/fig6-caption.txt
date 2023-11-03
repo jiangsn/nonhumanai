@@ -1,0 +1,1 @@
+Visual comparison of segmentation-to-image synthesis on MS-COCO 2017.

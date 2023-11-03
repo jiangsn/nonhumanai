@@ -1,0 +1,1 @@
+Table 2. An ablation study of our model. Metrics are averaged over the 8 scenes from our realistic synthetic dataset. See Sect. 6.4 for detailed descriptions.

@@ -1,0 +1,1 @@
+a, Raw retinal OCT scan (6 × 6 × 2.3 mm³ around the macula). b, Deep segmentation network, trained with manually segmented OCT scans. c, Resulting tissue segmentation map. d, Deep classification network, trained with tissue maps with confirmed diagnoses and optimal referral decisions. e, Predicted diagnosis probabilities and referral suggestions.

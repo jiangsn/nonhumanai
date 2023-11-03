@@ -1,0 +1,2 @@
+Figure 4. 
+Omnimattes as input to state-of-the-art object removal. Results by FGVC [10] using different types of input masks: (b) Raw masks from MaskRCNN do not capture shadows, and produce unrealistic results (e). By using manually annotated masks that include the shadow (b), both the horse and the shadow are removed (f). (d) binary mask automatically derived from omnimatte produces comparable result (g) when inputted to FGVC.

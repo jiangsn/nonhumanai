@@ -1,0 +1,1 @@
+Table 4. Votes from AMT workers for the most preferred method regarding visual quality and style reflection (%). Stargan v2 out-performs the baselines with remarkable margins in all aspects.

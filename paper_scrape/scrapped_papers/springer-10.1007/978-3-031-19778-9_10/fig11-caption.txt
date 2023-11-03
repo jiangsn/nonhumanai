@@ -1,0 +1,1 @@
+Ablation studies on the NoW [54] validation set confirm that denser is better: model fitting with more landmarks leads to more accurate results. In addition, we see that fitting without using \sigma  leads to worse results.

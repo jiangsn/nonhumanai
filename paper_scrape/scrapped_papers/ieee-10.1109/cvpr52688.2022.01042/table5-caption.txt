@@ -1,0 +1,1 @@
+Table 5. Task 1: subjects were shown ground truth and generated image and asked for preference. Task 2: subjects had to decide between two generated images. More details in D.3.6

@@ -1,0 +1,2 @@
+Figure 11: 
+Comparing Double-DIP’s dehazing to specialized dehazing methods. (many more results in theprojectpage)

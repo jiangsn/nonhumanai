@@ -1,0 +1,1 @@
+Figure 1. Overview: Our method takes as input the source text image S, its counterpart stylized image S′ and the target text image T, then automatically generates the target stylized image T′ with the special effects as in S′.

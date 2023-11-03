@@ -1,0 +1,1 @@
+Figure 10. Qualitative results on object removal with our big, w/ft inpainting model. For more results, see fig. 21.

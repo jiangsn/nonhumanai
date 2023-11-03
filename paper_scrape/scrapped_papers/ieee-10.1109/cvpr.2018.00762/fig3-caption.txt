@@ -1,0 +1,1 @@
+Figure 3: Visualization of annotations: Image (left), U (middle) and V (right) values for the collected points.

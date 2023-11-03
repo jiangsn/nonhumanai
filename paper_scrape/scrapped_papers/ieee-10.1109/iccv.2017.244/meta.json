@@ -1,0 +1,244 @@
+{
+    "userInfo": {
+        "customerNameRaw": "The Ohio State University",
+        "institutionName": "The Ohio State University",
+        "institute": true,
+        "member": false,
+        "individual": false,
+        "guest": false,
+        "subscribedContent": false,
+        "fileCabinetContent": false,
+        "fileCabinetUser": false,
+        "institutionalFileCabinetUser": false,
+        "products": "IEL|EBOOKS:1974:2014|JRNLARCH:1884:1994|CONFARCH:1951:1999|IBM:1872:2020|VDE|NOKIA BELL LABS|",
+        "instType": "Academic",
+        "userIds": [
+            7827
+        ],
+        "showPatentCitations": true,
+        "showGet802Link": true,
+        "openUrlImgLoc": "http://library-osu-edu.proxy.lib.ohio-state.edu/resources/serialssolutions/buttons/button75x25edit.jpg",
+        "openUrlLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu",
+        "instLogoFile": "7827_OSULHoriz.png",
+        "openUrlTxt": "Find It!",
+        "showOpenUrlLink": true,
+        "marketingInfoCaptured": false,
+        "tracked": false,
+        "ringGoldId": "2647",
+        "delegatedAdmin": false,
+        "desktop": false,
+        "isInstitutionDashboardEnabled": false,
+        "isInstitutionProfileEnabled": false,
+        "isRoamingEnabled": true,
+        "isDelegatedAdmin": false,
+        "isMdl": false,
+        "isCwg": false,
+        "isIel": true,
+        "isAcademic": true
+    },
+    "authors": [
+        {
+            "name": "Jun-Yan Zhu",
+            "affiliation": [
+                "UC Berkeley, Berkeley AI Research (BAIR) laboratory"
+            ],
+            "firstName": "Jun-Yan",
+            "lastName": "Zhu",
+            "id": "37085631277"
+        },
+        {
+            "name": "Taesung Park",
+            "affiliation": [
+                "UC Berkeley, Berkeley AI Research (BAIR) laboratory"
+            ],
+            "firstName": "Taesung",
+            "lastName": "Park",
+            "id": "37086335935"
+        },
+        {
+            "name": "Phillip Isola",
+            "affiliation": [
+                "UC Berkeley, Berkeley AI Research (BAIR) laboratory"
+            ],
+            "firstName": "Phillip",
+            "lastName": "Isola",
+            "id": "37945396900"
+        },
+        {
+            "name": "Alexei A. Efros",
+            "affiliation": [
+                "UC Berkeley, Berkeley AI Research (BAIR) laboratory"
+            ],
+            "firstName": "Alexei A.",
+            "lastName": "Efros",
+            "id": "37282930300"
+        }
+    ],
+    "isbn": [
+        {
+            "format": "Electronic ISBN",
+            "value": "978-1-5386-1032-9",
+            "isbnType": ""
+        },
+        {
+            "format": "Print on Demand(PoD) ISBN",
+            "value": "978-1-5386-1033-6",
+            "isbnType": ""
+        }
+    ],
+    "issn": [
+        {
+            "format": "Electronic ISSN",
+            "value": "2380-7504"
+        }
+    ],
+    "articleNumber": "8237506",
+    "dbTime": "1 ms",
+    "metrics": {
+        "citationCountPaper": 9144,
+        "citationCountPatent": 0,
+        "totalDownloads": 20032
+    },
+    "purchaseOptions": {
+        "showOtherFormatPricingTab": false,
+        "showPdfFormatPricingTab": true,
+        "pdfPricingInfoAvailable": false,
+        "otherPricingInfoAvailable": false,
+        "mandatoryBundle": false,
+        "optionalBundle": false,
+        "displayTextWhenPdfPricingNotAvailable": "The purchase and pricing options for this item are unavailable. Select items are only available as part of a subscription package. You may try again later or <a href='https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/xpl/contact' target='_blank'>contact us</a> for more information.",
+        "displayTextWhenOtherFormatPricingNotAvailable": "The purchase and pricing options for this item are unavailable. Select items are only available as part of a subscription package. You may try again later or <a href='https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/xpl/contact' target='_blank'>contact us</a> for more information.",
+        "openUrlFullLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu?url_ver=Z39.88-2004&rfr_id=info:sid/IEEE.org:XPLORE&rft_id=info:doi/10.1109/ICCV.2017.244&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&rft.atitle=Unpaired Image-to-Image Translation Using Cycle-Consistent Adversarial Networks&rft.jtitle=2017 IEEE International Conference on Computer Vision (ICCV)&rft.date=2017&rft.spage=2242&rft.epage=2251&rft.eissn=2380-7504&rft.au=Jun-Yan Zhu&rft.aulast=Jun-Yan Zhu&rft.isbn=978-1-5386-1032-9"
+    },
+    "getProgramTermsAccepted": false,
+    "sections": {
+        "abstract": "true",
+        "authors": "true",
+        "figures": "true",
+        "multimedia": "false",
+        "references": "true",
+        "citedby": "true",
+        "keywords": "true",
+        "definitions": "false",
+        "algorithm": "false",
+        "dataset": "false",
+        "cadmore": "false",
+        "footnotes": "true",
+        "disclaimer": "false",
+        "relatedContent": "false",
+        "metrics": "true"
+    },
+    "abstract": "Image-to-image translation is a class of vision and graphics problems where the goal is to learn the mapping between an input image and an output image using a training set of aligned image pairs. However, for many tasks, paired training data will not be available. We present an approach for learning to translate an image from a source domain X to a target domain Y in the absence of paired examples. Our goal is to learn a mapping G : X \u2192 Y such that the distribution of images from G(X) is indistinguishable from the distribution Y using an adversarial loss. Because this mapping is highly under-constrained, we couple it with an inverse mapping F : Y \u2192 X and introduce a cycle consistency loss to push F(G(X)) \u2248 X (and vice versa). Qualitative results are presented on several tasks where paired training data does not exist, including collection style transfer, object transfiguration, season transfer, photo enhancement, etc. Quantitative comparisons against several prior methods demonstrate the superiority of our approach.",
+    "publicationYear": "2017",
+    "pdfPath": "/iel7/8234942/8237262/08237506.pdf",
+    "publicationDate": "October 2017",
+    "doi": "10.1109/ICCV.2017.244",
+    "formulaStrippedArticleTitle": "Unpaired Image-to-Image Translation Using Cycle-Consistent Adversarial Networks",
+    "displayPublicationTitle": "2017 IEEE International Conference on Computer Vision (ICCV)",
+    "authorNames": "Jun-Yan Zhu;Taesung Park;Phillip Isola;Alexei A. Efros",
+    "publicationTitle": "2017 IEEE International Conference on Computer Vision (ICCV)",
+    "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=proceedings&title=Unpaired+Image-to-Image+Translation+Using+Cycle-Consistent+Adversarial+Networks&isbn=978-1-5386-1032-9&publicationDate=October+2017&author=Jun-Yan+Zhu&ContentID=10.1109/ICCV.2017.244&orderBeanReset=true&startPage=2242&endPage=2251&proceedingName=2017+IEEE+International+Conference+on+Computer+Vision+%28ICCV%29",
+    "dateOfInsertion": "25 December 2017",
+    "startPage": "2242",
+    "endPage": "2251",
+    "pdfUrl": "/stamp/stamp.jsp?tp=&arnumber=8237506",
+    "keywords": [
+        {
+            "type": "IEEE Keywords",
+            "kwd": [
+                "Training",
+                "Painting",
+                "Training data",
+                "Semantics",
+                "Extraterrestrial measurements",
+                "Graphics"
+            ]
+        },
+        {
+            "type": "INSPEC: Controlled Indexing",
+            "kwd": [
+                "computer vision",
+                "learning (artificial intelligence)"
+            ]
+        },
+        {
+            "type": "INSPEC: Non-Controlled Indexing",
+            "kwd": [
+                "cycle consistency loss",
+                "unpaired image-to-image translation",
+                "inverse mapping",
+                "image pair alignment",
+                "cycle-consistent adversarial networks",
+                "vision problem",
+                "graphics problem",
+                "learning",
+                "image distribution",
+                "adversarial loss",
+                "object transfiguration",
+                "collection style transfer",
+                "photo enhancement"
+            ]
+        }
+    ],
+    "doiLink": "https://doi-org.proxy.lib.ohio-state.edu/10.1109/ICCV.2017.244",
+    "displayPublicationDate": "22-29 October 2017",
+    "articleCopyRight": "2017 IEEE",
+    "issueLink": "/xpl/tocresult.jsp?isnumber=8237262&punumber=8234942",
+    "pubLink": "/xpl/conhome/8234942/proceeding",
+    "allowComments": false,
+    "isGetAddressInfoCaptured": false,
+    "isMarketingOptIn": false,
+    "pubTopics": [
+        {
+            "name": "Computing and Processing"
+        }
+    ],
+    "publisher": "IEEE",
+    "displayDocTitle": "Unpaired Image-to-Image Translation Using Cycle-Consistent Adversarial Networks",
+    "isStandard": false,
+    "isConference": true,
+    "isBookWithoutChapters": false,
+    "isChapter": false,
+    "isProduct": false,
+    "isEarlyAccess": false,
+    "isOpenAccess": false,
+    "isEphemera": false,
+    "xploreDocumentType": "Conference Publication",
+    "isBook": false,
+    "isJournal": false,
+    "isSpringer": false,
+    "accessionNumber": "17453078",
+    "isFreeDocument": false,
+    "isPromo": false,
+    "isDynamicHtml": true,
+    "htmlLink": "/document/8237506/",
+    "htmlAbstractLink": "/document/8237506/",
+    "isCustomDenial": false,
+    "persistentLink": "https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/servlet/opac?punumber=8234942",
+    "isNow": false,
+    "isSAE": false,
+    "isOUP": false,
+    "isSMPTE": false,
+    "openAccessFlag": "F",
+    "insertDate": "25 December 2017",
+    "ephemeraFlag": "false",
+    "title": "Unpaired Image-to-Image Translation Using Cycle-Consistent Adversarial Networks",
+    "confLoc": "Venice, Italy",
+    "html_flag": "false",
+    "ml_html_flag": "true",
+    "sourcePdf": "1032c242.pdf",
+    "mlTime": "PT0.097803S",
+    "xplore-pub-id": "8234942",
+    "isNumber": "8237262",
+    "rightsLinkFlag": "1",
+    "contentType": "conferences",
+    "publicationNumber": "8234942",
+    "citationCount": "9144",
+    "xplore-issue": "8237262",
+    "articleId": "8237506",
+    "contentTypeDisplay": "Conferences",
+    "subType": "IEEE Conference",
+    "_value": "IEEE",
+    "lastupdate": "2023-10-19",
+    "mediaPath": "/mediastore_new/IEEE/content/media/8234942/8237262/8237506"
+}

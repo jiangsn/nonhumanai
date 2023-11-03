@@ -1,0 +1,2 @@
+Figure 4: 
+Additional adversarially filtered examples from the IMAGENET-A dataset. Examples are adversarially selected to cause classifier accuracy to degrade. The black text is the actual class, and the red text is a ResNet-50 prediction.

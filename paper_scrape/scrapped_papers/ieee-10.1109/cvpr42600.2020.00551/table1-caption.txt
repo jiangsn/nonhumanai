@@ -1,0 +1,1 @@
+Table 1: Quantitative comparison results with baseline models. “SHE” means human evaluation of a model's performance on SMIS task. We use frame per second (FPS) to represent the “speed” of the model. “# Param” means the number of parameters, whose unit is “M”, denoting million. For mCSD, the higher, the better. For mOCD, the lower, the better.

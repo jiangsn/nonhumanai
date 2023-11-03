@@ -1,0 +1,349 @@
+{
+    "userInfo": {
+        "customerNameRaw": "The Ohio State University",
+        "institutionName": "The Ohio State University",
+        "institute": true,
+        "member": false,
+        "individual": false,
+        "guest": false,
+        "subscribedContent": false,
+        "fileCabinetContent": false,
+        "fileCabinetUser": false,
+        "institutionalFileCabinetUser": false,
+        "products": "IEL|EBOOKS:1974:2014|JRNLARCH:1884:1994|CONFARCH:1951:1999|IBM:1872:2020|VDE|NOKIA BELL LABS|",
+        "instType": "Academic",
+        "userIds": [
+            7827
+        ],
+        "showPatentCitations": true,
+        "showGet802Link": true,
+        "openUrlImgLoc": "http://library-osu-edu.proxy.lib.ohio-state.edu/resources/serialssolutions/buttons/button75x25edit.jpg",
+        "openUrlLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu",
+        "instLogoFile": "7827_OSULHoriz.png",
+        "openUrlTxt": "Find It!",
+        "showOpenUrlLink": true,
+        "marketingInfoCaptured": false,
+        "tracked": false,
+        "ringGoldId": "2647",
+        "delegatedAdmin": false,
+        "desktop": false,
+        "isInstitutionDashboardEnabled": false,
+        "isInstitutionProfileEnabled": false,
+        "isRoamingEnabled": true,
+        "isDelegatedAdmin": false,
+        "isMdl": false,
+        "isCwg": false,
+        "isIel": true,
+        "isAcademic": true
+    },
+    "authors": [
+        {
+            "name": "Jonathan Shen",
+            "affiliation": [
+                "Google, Inc."
+            ],
+            "firstName": "Jonathan",
+            "lastName": "Shen",
+            "id": "37086454037"
+        },
+        {
+            "name": "Ruoming Pang",
+            "affiliation": [
+                "Google, Inc."
+            ],
+            "firstName": "Ruoming",
+            "lastName": "Pang",
+            "id": "37086455293"
+        },
+        {
+            "name": "Ron J. Weiss",
+            "affiliation": [
+                "Google, Inc."
+            ],
+            "firstName": "Ron J.",
+            "lastName": "Weiss",
+            "id": "37085642153"
+        },
+        {
+            "name": "Mike Schuster",
+            "affiliation": [
+                "Google, Inc."
+            ],
+            "firstName": "Mike",
+            "lastName": "Schuster",
+            "id": "37356913100"
+        },
+        {
+            "name": "Navdeep Jaitly",
+            "affiliation": [
+                "Google, Inc."
+            ],
+            "firstName": "Navdeep",
+            "lastName": "Jaitly",
+            "id": "37673125600"
+        },
+        {
+            "name": "Zongheng Yang",
+            "affiliation": [
+                "University of California, Berkeley"
+            ],
+            "firstName": "Zongheng",
+            "lastName": "Yang",
+            "id": "37088743899"
+        },
+        {
+            "name": "Zhifeng Chen",
+            "affiliation": [
+                "Google, Inc."
+            ],
+            "firstName": "Zhifeng",
+            "lastName": "Chen",
+            "id": "37086454413"
+        },
+        {
+            "name": "Yu Zhang",
+            "affiliation": [
+                "Google, Inc."
+            ],
+            "firstName": "Yu",
+            "lastName": "Zhang",
+            "id": "37086455980"
+        },
+        {
+            "name": "Yuxuan Wang",
+            "affiliation": [
+                "Google, Inc."
+            ],
+            "firstName": "Yuxuan",
+            "lastName": "Wang",
+            "id": "38517620800"
+        },
+        {
+            "name": "Rj Skerrv-Ryan",
+            "affiliation": [
+                "Google, Inc."
+            ],
+            "firstName": "Rj",
+            "lastName": "Skerrv-Ryan",
+            "id": "37088724176"
+        },
+        {
+            "name": "Rif A. Saurous",
+            "affiliation": [
+                "Google, Inc."
+            ],
+            "firstName": "Rif A.",
+            "lastName": "Saurous",
+            "id": "37086107655"
+        },
+        {
+            "name": "Yannis Agiomvrgiannakis",
+            "affiliation": [
+                "Google, Inc."
+            ],
+            "firstName": "Yannis",
+            "lastName": "Agiomvrgiannakis",
+            "id": "37088730023"
+        },
+        {
+            "name": "Yonghui Wu",
+            "affiliation": [
+                "Google, Inc."
+            ],
+            "firstName": "Yonghui",
+            "lastName": "Wu",
+            "id": "37086455821"
+        }
+    ],
+    "isbn": [
+        {
+            "format": "Electronic ISBN",
+            "value": "978-1-5386-4658-8",
+            "isbnType": ""
+        },
+        {
+            "format": "USB ISBN",
+            "value": "978-1-5386-4657-1",
+            "isbnType": ""
+        },
+        {
+            "format": "Print on Demand(PoD) ISBN",
+            "value": "978-1-5386-4659-5",
+            "isbnType": ""
+        }
+    ],
+    "issn": [
+        {
+            "format": "Electronic ISSN",
+            "value": "2379-190X"
+        }
+    ],
+    "articleNumber": "8461368",
+    "dbTime": "1 ms",
+    "metrics": {
+        "citationCountPaper": 904,
+        "citationCountPatent": 12,
+        "totalDownloads": 8087
+    },
+    "purchaseOptions": {
+        "showOtherFormatPricingTab": false,
+        "showPdfFormatPricingTab": true,
+        "pdfPricingInfoAvailable": true,
+        "otherPricingInfoAvailable": false,
+        "mandatoryBundle": false,
+        "optionalBundle": false,
+        "displayTextWhenOtherFormatPricingNotAvailable": "The purchase and pricing options for this item are unavailable. Select items are only available as part of a subscription package. You may try again later or <a href='https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/xpl/contact' target='_blank'>contact us</a> for more information.",
+        "pdfPricingInfo": [
+            {
+                "memberPrice": "$14.95",
+                "nonMemberPrice": "$33.00",
+                "partNumber": "8461368",
+                "type": "PDF/HTML"
+            }
+        ],
+        "openUrlFullLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu?url_ver=Z39.88-2004&rfr_id=info:sid/IEEE.org:XPLORE&rft_id=info:doi/10.1109/ICASSP.2018.8461368&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&rft.atitle=Natural TTS Synthesis by Conditioning Wavenet on MEL Spectrogram Predictions&rft.jtitle=2018 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)&rft.date=2018&rft.spage=4779&rft.epage=4783&rft.eissn=2379-190X&rft.au=Jonathan Shen&rft.aulast=Jonathan Shen&rft.isbn=978-1-5386-4658-8"
+    },
+    "getProgramTermsAccepted": false,
+    "sections": {
+        "abstract": "true",
+        "authors": "true",
+        "figures": "true",
+        "multimedia": "false",
+        "references": "true",
+        "citedby": "true",
+        "keywords": "true",
+        "definitions": "false",
+        "algorithm": "false",
+        "dataset": "false",
+        "cadmore": "false",
+        "footnotes": "true",
+        "disclaimer": "false",
+        "relatedContent": "false",
+        "metrics": "true"
+    },
+    "abstract": "This paper describes Tacotron 2, a neural network architecture for speech synthesis directly from text. The system is composed of a recurrent sequence-to-sequence feature prediction network that maps character embeddings to mel-scale spectrograms, followed by a modified WaveNet model acting as a vocoder to synthesize time-domain waveforms from those spectrograms. Our model achieves a mean opinion score (MOS) of 4.53 comparable to a MOS of 4.58 for professionally recorded speech. To validate our design choices, we present ablation studies of key components of our system and evaluate the impact of using mel spectrograms as the conditioning input to WaveNet instead of linguistic, duration, and F0 features. We further show that using this compact acoustic intermediate representation allows for a significant reduction in the size of the WaveNet architecture.",
+    "publicationYear": "2018",
+    "pdfPath": "/iel7/8450881/8461260/08461368.pdf",
+    "publicationDate": "April 2018",
+    "doi": "10.1109/ICASSP.2018.8461368",
+    "formulaStrippedArticleTitle": "Natural TTS Synthesis by Conditioning Wavenet on MEL Spectrogram Predictions",
+    "displayPublicationTitle": "2018 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)",
+    "authorNames": "Jonathan Shen;Ruoming Pang;Ron J. Weiss;Mike Schuster;Navdeep Jaitly;Zongheng Yang;Zhifeng Chen;Yu Zhang;Yuxuan Wang;Rj Skerrv-Ryan;Rif A. Saurous;Yannis Agiomvrgiannakis;Yonghui Wu",
+    "publicationTitle": "2018 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)",
+    "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=proceedings&title=Natural+TTS+Synthesis+by+Conditioning+Wavenet+on+MEL+Spectrogram+Predictions&isbn=978-1-5386-4658-8&publicationDate=April+2018&author=Jonathan+Shen&ContentID=10.1109/ICASSP.2018.8461368&orderBeanReset=true&startPage=4779&endPage=4783&proceedingName=2018+IEEE+International+Conference+on+Acoustics%2C+Speech+and+Signal+Processing+%28ICASSP%29",
+    "dateOfInsertion": "13 September 2018",
+    "startPage": "4779",
+    "endPage": "4783",
+    "pdfUrl": "/stamp/stamp.jsp?tp=&arnumber=8461368",
+    "keywords": [
+        {
+            "type": "IEEE Keywords",
+            "kwd": [
+                "Spectrogram",
+                "Decoding",
+                "Vocoders",
+                "Training",
+                "Time-domain analysis",
+                "Linguistics",
+                "Acoustics"
+            ]
+        },
+        {
+            "type": "INSPEC: Controlled Indexing",
+            "kwd": [
+                "neural net architecture",
+                "speech synthesis",
+                "vocoders",
+                "waveform analysis"
+            ]
+        },
+        {
+            "type": "INSPEC: Non-Controlled Indexing",
+            "kwd": [
+                "MEL spectrogram predictions",
+                "Tacotron 2",
+                "neural network architecture",
+                "speech synthesis",
+                "sequence-to-sequence feature prediction network",
+                "maps character embeddings",
+                "mel-scale spectrograms",
+                "modified WaveNet model",
+                "time-domain waveforms",
+                "mean opinion score",
+                "WaveNet architecture",
+                "natural TTS synthesis",
+                "conditioning wavenet",
+                "vocoder"
+            ]
+        },
+        {
+            "type": "Author Keywords ",
+            "kwd": [
+                "Tacotron 2",
+                "WaveNet",
+                "text-to-speech"
+            ]
+        }
+    ],
+    "doiLink": "https://doi-org.proxy.lib.ohio-state.edu/10.1109/ICASSP.2018.8461368",
+    "displayPublicationDate": "15-20 April 2018",
+    "articleCopyRight": "2018 IEEE",
+    "issueLink": "/xpl/tocresult.jsp?isnumber=8461260&punumber=8450881",
+    "pubLink": "/xpl/conhome/8450881/proceeding",
+    "allowComments": false,
+    "isGetAddressInfoCaptured": false,
+    "isMarketingOptIn": false,
+    "pubTopics": [
+        {
+            "name": "Signal Processing and Analysis"
+        }
+    ],
+    "publisher": "IEEE",
+    "displayDocTitle": "Natural TTS Synthesis by Conditioning Wavenet on MEL Spectrogram Predictions",
+    "isStandard": false,
+    "isConference": true,
+    "isBookWithoutChapters": false,
+    "isChapter": false,
+    "isProduct": false,
+    "isEarlyAccess": false,
+    "isOpenAccess": false,
+    "isEphemera": false,
+    "xploreDocumentType": "Conference Publication",
+    "isBook": false,
+    "isJournal": false,
+    "isSpringer": false,
+    "accessionNumber": "18096496",
+    "isFreeDocument": false,
+    "isPromo": false,
+    "isDynamicHtml": true,
+    "htmlLink": "/document/8461368/",
+    "htmlAbstractLink": "/document/8461368/",
+    "isCustomDenial": false,
+    "persistentLink": "https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/servlet/opac?punumber=8450881",
+    "isNow": false,
+    "isSAE": false,
+    "isOUP": false,
+    "isSMPTE": false,
+    "openAccessFlag": "F",
+    "insertDate": "13 September 2018",
+    "ephemeraFlag": "false",
+    "title": "Natural TTS Synthesis by Conditioning Wavenet on MEL Spectrogram Predictions",
+    "confLoc": "Calgary, AB, Canada",
+    "html_flag": "false",
+    "ml_html_flag": "true",
+    "sourcePdf": "0004779.pdf",
+    "mlTime": "PT0.07933S",
+    "xplore-pub-id": "8450881",
+    "isNumber": "8461260",
+    "rightsLinkFlag": "1",
+    "contentType": "conferences",
+    "publicationNumber": "8450881",
+    "citationCount": "904",
+    "xplore-issue": "8461260",
+    "articleId": "8461368",
+    "contentTypeDisplay": "Conferences",
+    "subType": "IEEE Conference",
+    "_value": "IEEE",
+    "lastupdate": "2023-10-14",
+    "mediaPath": "/mediastore_new/IEEE/content/media/8450881/8461260/8461368"
+}

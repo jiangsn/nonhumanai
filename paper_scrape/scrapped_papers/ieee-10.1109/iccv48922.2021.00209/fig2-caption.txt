@@ -1,0 +1,2 @@
+Figure 2. 
+Edits of real celebrity portraits obtained by latent optimization. The driving text prompt and the (λL2,λID) parameters for each edit are indicated under the corresponding result.

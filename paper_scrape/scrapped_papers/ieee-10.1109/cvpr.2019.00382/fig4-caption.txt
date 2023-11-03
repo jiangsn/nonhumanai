@@ -1,0 +1,2 @@
+Figure 4. 
+Structure of the context extraction network. Instead of using the weights of a pre-trained classification network [23], we train our context extraction network from scratch and learn hierarchical features for video frame interpolation.

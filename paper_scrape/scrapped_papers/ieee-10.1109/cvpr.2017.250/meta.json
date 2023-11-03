@@ -1,0 +1,269 @@
+{
+    "userInfo": {
+        "customerNameRaw": "The Ohio State University",
+        "institutionName": "The Ohio State University",
+        "institute": true,
+        "member": false,
+        "individual": false,
+        "guest": false,
+        "subscribedContent": false,
+        "fileCabinetContent": false,
+        "fileCabinetUser": false,
+        "institutionalFileCabinetUser": false,
+        "products": "IEL|EBOOKS:1974:2014|JRNLARCH:1884:1994|CONFARCH:1951:1999|IBM:1872:2020|VDE|NOKIA BELL LABS|",
+        "instType": "Academic",
+        "userIds": [
+            7827
+        ],
+        "showPatentCitations": true,
+        "showGet802Link": true,
+        "openUrlImgLoc": "http://library-osu-edu.proxy.lib.ohio-state.edu/resources/serialssolutions/buttons/button75x25edit.jpg",
+        "openUrlLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu",
+        "instLogoFile": "7827_OSULHoriz.png",
+        "openUrlTxt": "Find It!",
+        "showOpenUrlLink": true,
+        "marketingInfoCaptured": false,
+        "tracked": false,
+        "ringGoldId": "2647",
+        "delegatedAdmin": false,
+        "desktop": false,
+        "isInstitutionDashboardEnabled": false,
+        "isInstitutionProfileEnabled": false,
+        "isRoamingEnabled": true,
+        "isDelegatedAdmin": false,
+        "isMdl": false,
+        "isCwg": false,
+        "isIel": true,
+        "isAcademic": true
+    },
+    "authors": [
+        {
+            "name": "Shunsuke Saito",
+            "affiliation": [
+                "Pinscreen",
+                "University of Southern California"
+            ],
+            "firstName": "Shunsuke",
+            "lastName": "Saito",
+            "id": "37086253428"
+        },
+        {
+            "name": "Lingyu Wei",
+            "affiliation": [
+                "Pinscreen",
+                "University of Southern California"
+            ],
+            "firstName": "Lingyu",
+            "lastName": "Wei",
+            "id": "37086138903"
+        },
+        {
+            "name": "Liwen Hu",
+            "affiliation": [
+                "Pinscreen",
+                "University of Southern California"
+            ],
+            "firstName": "Liwen",
+            "lastName": "Hu",
+            "id": "37086259321"
+        },
+        {
+            "name": "Koki Nagano",
+            "affiliation": [
+                "USC Institute for Creative Technologies"
+            ],
+            "firstName": "Koki",
+            "lastName": "Nagano",
+            "id": "37086183605"
+        },
+        {
+            "name": "Hao Li",
+            "affiliation": [
+                "Pinscreen",
+                "USC Institute for Creative Technologies"
+            ],
+            "firstName": "Hao",
+            "lastName": "Li",
+            "id": "37085660319"
+        }
+    ],
+    "isbn": [
+        {
+            "format": "Electronic ISBN",
+            "value": "978-1-5386-0457-1",
+            "isbnType": ""
+        },
+        {
+            "format": "Print on Demand(PoD) ISBN",
+            "value": "978-1-5386-0458-8",
+            "isbnType": ""
+        }
+    ],
+    "issn": [
+        {
+            "format": "Print ISSN",
+            "value": "1063-6919"
+        }
+    ],
+    "articleNumber": "8099733",
+    "dbTime": "1 ms",
+    "metrics": {
+        "citationCountPaper": 69,
+        "citationCountPatent": 4,
+        "totalDownloads": 220
+    },
+    "purchaseOptions": {
+        "showOtherFormatPricingTab": false,
+        "showPdfFormatPricingTab": true,
+        "pdfPricingInfoAvailable": true,
+        "otherPricingInfoAvailable": false,
+        "mandatoryBundle": false,
+        "optionalBundle": false,
+        "displayTextWhenOtherFormatPricingNotAvailable": "The purchase and pricing options for this item are unavailable. Select items are only available as part of a subscription package. You may try again later or <a href='https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/xpl/contact' target='_blank'>contact us</a> for more information.",
+        "pdfPricingInfo": [
+            {
+                "memberPrice": "$14.95",
+                "nonMemberPrice": "$33.00",
+                "partNumber": "8099733",
+                "type": "PDF/HTML"
+            }
+        ],
+        "openUrlFullLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu?url_ver=Z39.88-2004&rfr_id=info:sid/IEEE.org:XPLORE&rft_id=info:doi/10.1109/CVPR.2017.250&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&rft.atitle=Photorealistic Facial Texture Inference Using Deep Neural Networks&rft.jtitle=2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)&rft.date=2017&rft.spage=2326&rft.epage=2335&rft.issn=1063-6919&rft.au=Shunsuke Saito&rft.aulast=Shunsuke Saito&rft.isbn=978-1-5386-0457-1"
+    },
+    "getProgramTermsAccepted": false,
+    "sections": {
+        "abstract": "true",
+        "authors": "true",
+        "figures": "true",
+        "multimedia": "false",
+        "references": "true",
+        "citedby": "true",
+        "keywords": "true",
+        "definitions": "false",
+        "algorithm": "false",
+        "dataset": "false",
+        "cadmore": "false",
+        "footnotes": "false",
+        "disclaimer": "false",
+        "relatedContent": "false",
+        "metrics": "true"
+    },
+    "abstract": "We present a data-driven inference method that can synthesize a photorealistic texture map of a complete 3D face model given a partial 2D view of a person in the wild. After an initial estimation of shape and low-frequency albedo, we compute a high-frequency partial texture map, without the shading component, of the visible face area. To extract the fine appearance details from this incomplete input, we introduce a multi-scale detail analysis technique based on mid-layer feature correlations extracted from a deep convolutional neural network. We demonstrate that fitting a convex combination of feature correlations from a high-resolution face database can yield a semantically plausible facial detail description of the entire face. A complete and photorealistic texture map can then be synthesized by iteratively optimizing for the reconstructed feature correlations. Using these high-resolution textures and a commercial rendering framework, we can produce high-fidelity 3D renderings that are visually comparable to those obtained with state-of-the-art multi-view face capture systems. We demonstrate successful face reconstructions from a wide range of low resolution input images, including those of historical figures. In addition to extensive evaluations, we validate the realism of our results using a crowdsourced user study.",
+    "publicationYear": "2017",
+    "pdfPath": "/iel7/8097368/8099483/08099733.pdf",
+    "publicationDate": "July 2017",
+    "doi": "10.1109/CVPR.2017.250",
+    "formulaStrippedArticleTitle": "Photorealistic Facial Texture Inference Using Deep Neural Networks",
+    "displayPublicationTitle": "2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)",
+    "authorNames": "Shunsuke Saito;Lingyu Wei;Liwen Hu;Koki Nagano;Hao Li",
+    "publicationTitle": "2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)",
+    "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=proceedings&title=Photorealistic+Facial+Texture+Inference+Using+Deep+Neural+Networks&isbn=978-1-5386-0457-1&publicationDate=July+2017&author=Shunsuke+Saito&ContentID=10.1109/CVPR.2017.250&orderBeanReset=true&startPage=2326&endPage=2335&proceedingName=2017+IEEE+Conference+on+Computer+Vision+and+Pattern+Recognition+%28CVPR%29",
+    "dateOfInsertion": "09 November 2017",
+    "startPage": "2326",
+    "endPage": "2335",
+    "pdfUrl": "/stamp/stamp.jsp?tp=&arnumber=8099733",
+    "keywords": [
+        {
+            "type": "IEEE Keywords",
+            "kwd": [
+                "Face",
+                "Three-dimensional displays",
+                "Correlation",
+                "Feature extraction",
+                "Neural networks",
+                "Rendering (computer graphics)",
+                "Shape"
+            ]
+        },
+        {
+            "type": "INSPEC: Controlled Indexing",
+            "kwd": [
+                "face recognition",
+                "feature extraction",
+                "image reconstruction",
+                "image resolution",
+                "image texture",
+                "neural nets",
+                "rendering (computer graphics)"
+            ]
+        },
+        {
+            "type": "INSPEC: Non-Controlled Indexing",
+            "kwd": [
+                "photorealistic facial texture inference",
+                "deep neural networks",
+                "photorealistic texture map",
+                "multiscale detail analysis technique",
+                "mid-layer feature correlations",
+                "deep convolutional neural network",
+                "convex combination",
+                "high-resolution face database",
+                "high-resolution textures",
+                "high-fidelity 3D renderings",
+                "3D face model",
+                "face reconstructions"
+            ]
+        }
+    ],
+    "doiLink": "https://doi-org.proxy.lib.ohio-state.edu/10.1109/CVPR.2017.250",
+    "displayPublicationDate": "21-26 July 2017",
+    "articleCopyRight": "2017 IEEE",
+    "issueLink": "/xpl/tocresult.jsp?isnumber=8099483&punumber=8097368",
+    "pubLink": "/xpl/conhome/8097368/proceeding",
+    "allowComments": false,
+    "isGetAddressInfoCaptured": false,
+    "isMarketingOptIn": false,
+    "pubTopics": [
+        {
+            "name": "Computing and Processing"
+        }
+    ],
+    "publisher": "IEEE",
+    "displayDocTitle": "Photorealistic Facial Texture Inference Using Deep Neural Networks",
+    "isStandard": false,
+    "isConference": true,
+    "isBookWithoutChapters": false,
+    "isChapter": false,
+    "isProduct": false,
+    "isEarlyAccess": false,
+    "isOpenAccess": false,
+    "isEphemera": false,
+    "xploreDocumentType": "Conference Publication",
+    "isBook": false,
+    "isJournal": false,
+    "isSpringer": false,
+    "accessionNumber": "17355452",
+    "isFreeDocument": false,
+    "isPromo": false,
+    "isDynamicHtml": true,
+    "htmlLink": "/document/8099733/",
+    "htmlAbstractLink": "/document/8099733/",
+    "isCustomDenial": false,
+    "persistentLink": "https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/servlet/opac?punumber=8097368",
+    "isNow": false,
+    "isSAE": false,
+    "isOUP": false,
+    "isSMPTE": false,
+    "openAccessFlag": "F",
+    "insertDate": "09 November 2017",
+    "ephemeraFlag": "false",
+    "title": "Photorealistic Facial Texture Inference Using Deep Neural Networks",
+    "confLoc": "Honolulu, HI, USA",
+    "html_flag": "false",
+    "ml_html_flag": "true",
+    "sourcePdf": "0457c326.pdf",
+    "mlTime": "PT0.083827S",
+    "xplore-pub-id": "8097368",
+    "isNumber": "8099483",
+    "rightsLinkFlag": "1",
+    "contentType": "conferences",
+    "publicationNumber": "8097368",
+    "citationCount": "69",
+    "xplore-issue": "8099483",
+    "articleId": "8099733",
+    "contentTypeDisplay": "Conferences",
+    "subType": "IEEE Conference",
+    "_value": "IEEE",
+    "lastupdate": "2023-09-09",
+    "mediaPath": "/mediastore_new/IEEE/content/media/8097368/8099483/8099733"
+}

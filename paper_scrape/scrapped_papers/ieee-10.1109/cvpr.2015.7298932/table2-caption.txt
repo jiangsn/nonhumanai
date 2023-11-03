@@ -1,0 +1,1 @@
+Table 2. Evaluation of full image predictions on 1,000 test images. B-n is BLEU score that uses up to n-grams. High is good in all columns. For future comparisons, our meteor/cider flickr8K scores are 16.7/31.8 and the flickr30K scores are 15.3/24.7.

@@ -1,0 +1,1 @@
+Left: results on 300W dataset, lower is better. Note competitive performance of our model (despite being evaluated across-dataset) and importance of GNLL loss. Right: sample predictions (top row) with label-translated results (bottom row).

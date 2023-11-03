@@ -1,0 +1,1 @@
+Figure 6: Swapping styles between two images. Original images are shown on the main diagonal. The examples show that hidt is capable to swap the styles between two real images while preserving details.

@@ -1,0 +1,1 @@
+Our method leverages modern ES (PGPE with ClipUp), with 50 triangles and runs for 10, 000 steps to fit the target image “Mona Lisa” (left). Here it is followed by the evolved results (middle) and the evolution process (right).

@@ -1,0 +1,2 @@
+Fig. 1. 
+Form2Fit learns to assemble a wide variety of kits by finding geometric correspondences between object surfaces and their target placement locations. By leveraging data-driven shape priors learned from multiple kits during training, the system generalizes to new objects and kits.

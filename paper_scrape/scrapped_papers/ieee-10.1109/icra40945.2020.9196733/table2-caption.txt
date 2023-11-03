@@ -1,0 +1,2 @@
+TABLE II 
+Success Rate (Mean) Under Varying Initial Conditions

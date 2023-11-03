@@ -1,0 +1,2 @@
+Figure 9: 
+Qualitative comparisons on monocular video clips. When compared to baselines, our approach more correctly synthesizes hidden content in disocclusions (shown in the last three rows), and locations with complex scene structure such as the fence in the first row.

@@ -1,0 +1,2 @@
+Table 5. 
+Reconstruction FID on ImageNet (validation split). VQVAE-2 reported their reconstruction FID as "∼ 10".

@@ -1,0 +1,247 @@
+{
+    "userInfo": {
+        "customerNameRaw": "The Ohio State University",
+        "institutionName": "The Ohio State University",
+        "institute": true,
+        "member": false,
+        "individual": false,
+        "guest": false,
+        "subscribedContent": false,
+        "fileCabinetContent": false,
+        "fileCabinetUser": false,
+        "institutionalFileCabinetUser": false,
+        "products": "IEL|EBOOKS:1974:2014|JRNLARCH:1884:1994|CONFARCH:1951:1999|IBM:1872:2020|VDE|NOKIA BELL LABS|",
+        "instType": "Academic",
+        "userIds": [
+            7827
+        ],
+        "showPatentCitations": true,
+        "showGet802Link": true,
+        "openUrlImgLoc": "http://library-osu-edu.proxy.lib.ohio-state.edu/resources/serialssolutions/buttons/button75x25edit.jpg",
+        "openUrlLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu",
+        "instLogoFile": "7827_OSULHoriz.png",
+        "openUrlTxt": "Find It!",
+        "showOpenUrlLink": true,
+        "marketingInfoCaptured": false,
+        "tracked": false,
+        "ringGoldId": "2647",
+        "delegatedAdmin": false,
+        "desktop": false,
+        "isInstitutionDashboardEnabled": false,
+        "isInstitutionProfileEnabled": false,
+        "isRoamingEnabled": true,
+        "isDelegatedAdmin": false,
+        "isMdl": false,
+        "isCwg": false,
+        "isIel": true,
+        "isAcademic": true
+    },
+    "authors": [
+        {
+            "name": "Hamid Izadinia",
+            "affiliation": [
+                "University of Washington"
+            ],
+            "firstName": "Hamid",
+            "lastName": "Izadinia",
+            "id": "37680434800"
+        },
+        {
+            "name": "Qi Shan",
+            "affiliation": [
+                "Zillow Group"
+            ],
+            "firstName": "Qi",
+            "lastName": "Shan",
+            "id": "37546755800"
+        },
+        {
+            "name": "Steven M. Seitz",
+            "affiliation": [
+                "University of Washington"
+            ],
+            "firstName": "Steven M.",
+            "lastName": "Seitz",
+            "id": "37298459900"
+        }
+    ],
+    "isbn": [
+        {
+            "format": "Electronic ISBN",
+            "value": "978-1-5386-0457-1",
+            "isbnType": ""
+        },
+        {
+            "format": "Print on Demand(PoD) ISBN",
+            "value": "978-1-5386-0458-8",
+            "isbnType": ""
+        }
+    ],
+    "issn": [
+        {
+            "format": "Print ISSN",
+            "value": "1063-6919"
+        }
+    ],
+    "articleNumber": "8099743",
+    "dbTime": "1 ms",
+    "metrics": {
+        "citationCountPaper": 98,
+        "citationCountPatent": 3,
+        "totalDownloads": 211
+    },
+    "purchaseOptions": {
+        "showOtherFormatPricingTab": false,
+        "showPdfFormatPricingTab": true,
+        "pdfPricingInfoAvailable": true,
+        "otherPricingInfoAvailable": false,
+        "mandatoryBundle": false,
+        "optionalBundle": false,
+        "displayTextWhenOtherFormatPricingNotAvailable": "The purchase and pricing options for this item are unavailable. Select items are only available as part of a subscription package. You may try again later or <a href='https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/xpl/contact' target='_blank'>contact us</a> for more information.",
+        "pdfPricingInfo": [
+            {
+                "memberPrice": "$14.95",
+                "nonMemberPrice": "$33.00",
+                "partNumber": "8099743",
+                "type": "PDF/HTML"
+            }
+        ],
+        "openUrlFullLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu?url_ver=Z39.88-2004&rfr_id=info:sid/IEEE.org:XPLORE&rft_id=info:doi/10.1109/CVPR.2017.260&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&rft.atitle=IM2CAD&rft.jtitle=2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)&rft.date=2017&rft.spage=2422&rft.epage=2431&rft.issn=1063-6919&rft.au=Hamid Izadinia&rft.aulast=Hamid Izadinia&rft.isbn=978-1-5386-0457-1"
+    },
+    "getProgramTermsAccepted": false,
+    "sections": {
+        "abstract": "true",
+        "authors": "true",
+        "figures": "true",
+        "multimedia": "false",
+        "references": "true",
+        "citedby": "true",
+        "keywords": "true",
+        "definitions": "false",
+        "algorithm": "false",
+        "dataset": "false",
+        "cadmore": "false",
+        "footnotes": "true",
+        "disclaimer": "false",
+        "relatedContent": "false",
+        "metrics": "true"
+    },
+    "abstract": "Given a single photo of a room and a large database of furniture CAD models, our goal is to reconstruct a scene that is as similar as possible to the scene depicted in the photograph, and composed of objects drawn from the database. We present a completely automatic system to address this IM2CAD problem that produces high quality results on challenging imagery from interior home design and remodeling websites. Our approach iteratively optimizes the placement and scale of objects in the room to best match scene renderings to the input photo, using image comparison metrics trained via deep convolutional neural nets. By operating jointly on the full scene at once, we account for inter-object occlusions. We also show the applicability of our method in standard scene understanding benchmarks where we obtain significant improvement.",
+    "publicationYear": "2017",
+    "pdfPath": "/iel7/8097368/8099483/08099743.pdf",
+    "publicationDate": "July 2017",
+    "doi": "10.1109/CVPR.2017.260",
+    "formulaStrippedArticleTitle": "IM2CAD",
+    "displayPublicationTitle": "2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)",
+    "authorNames": "Hamid Izadinia;Qi Shan;Steven M. Seitz",
+    "publicationTitle": "2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)",
+    "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=proceedings&title=IM2CAD&isbn=978-1-5386-0457-1&publicationDate=July+2017&author=Hamid+Izadinia&ContentID=10.1109/CVPR.2017.260&orderBeanReset=true&startPage=2422&endPage=2431&proceedingName=2017+IEEE+Conference+on+Computer+Vision+and+Pattern+Recognition+%28CVPR%29",
+    "dateOfInsertion": "09 November 2017",
+    "startPage": "2422",
+    "endPage": "2431",
+    "pdfUrl": "/stamp/stamp.jsp?tp=&arnumber=8099743",
+    "keywords": [
+        {
+            "type": "IEEE Keywords",
+            "kwd": [
+                "Solid modeling",
+                "Three-dimensional displays",
+                "Computational modeling",
+                "Databases",
+                "Estimation",
+                "Image reconstruction"
+            ]
+        },
+        {
+            "type": "INSPEC: Controlled Indexing",
+            "kwd": [
+                "architectural CAD",
+                "CAD",
+                "furniture",
+                "iterative methods",
+                "learning (artificial intelligence)",
+                "neural nets",
+                "rendering (computer graphics)"
+            ]
+        },
+        {
+            "type": "INSPEC: Non-Controlled Indexing",
+            "kwd": [
+                "image comparison metrics",
+                "deep convolutional neural nets",
+                "furniture CAD models",
+                "photograph",
+                "completely automatic system",
+                "IM2CAD problem",
+                "interior home design",
+                "match scene renderings",
+                "scene understanding",
+                "interobject occlusions",
+                "remodeling Websites",
+                "object placement",
+                "object scale"
+            ]
+        }
+    ],
+    "doiLink": "https://doi-org.proxy.lib.ohio-state.edu/10.1109/CVPR.2017.260",
+    "displayPublicationDate": "21-26 July 2017",
+    "articleCopyRight": "2017 IEEE",
+    "issueLink": "/xpl/tocresult.jsp?isnumber=8099483&punumber=8097368",
+    "pubLink": "/xpl/conhome/8097368/proceeding",
+    "allowComments": false,
+    "isGetAddressInfoCaptured": false,
+    "isMarketingOptIn": false,
+    "pubTopics": [
+        {
+            "name": "Computing and Processing"
+        }
+    ],
+    "publisher": "IEEE",
+    "displayDocTitle": "IM2CAD",
+    "isStandard": false,
+    "isConference": true,
+    "isBookWithoutChapters": false,
+    "isChapter": false,
+    "isProduct": false,
+    "isEarlyAccess": false,
+    "isOpenAccess": false,
+    "isEphemera": false,
+    "xploreDocumentType": "Conference Publication",
+    "isBook": false,
+    "isJournal": false,
+    "isSpringer": false,
+    "accessionNumber": "17355145",
+    "isFreeDocument": false,
+    "isPromo": false,
+    "isDynamicHtml": true,
+    "htmlLink": "/document/8099743/",
+    "htmlAbstractLink": "/document/8099743/",
+    "isCustomDenial": false,
+    "persistentLink": "https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/servlet/opac?punumber=8097368",
+    "isNow": false,
+    "isSAE": false,
+    "isOUP": false,
+    "isSMPTE": false,
+    "openAccessFlag": "F",
+    "insertDate": "09 November 2017",
+    "ephemeraFlag": "false",
+    "title": "IM2CAD",
+    "confLoc": "Honolulu, HI, USA",
+    "html_flag": "false",
+    "ml_html_flag": "true",
+    "sourcePdf": "0457c422.pdf",
+    "mlTime": "PT0.058237S",
+    "xplore-pub-id": "8097368",
+    "isNumber": "8099483",
+    "rightsLinkFlag": "1",
+    "contentType": "conferences",
+    "publicationNumber": "8097368",
+    "citationCount": "98",
+    "xplore-issue": "8099483",
+    "articleId": "8099743",
+    "contentTypeDisplay": "Conferences",
+    "subType": "IEEE Conference",
+    "_value": "IEEE",
+    "lastupdate": "2023-10-18",
+    "mediaPath": "/mediastore_new/IEEE/content/media/8097368/8099483/8099743"
+}

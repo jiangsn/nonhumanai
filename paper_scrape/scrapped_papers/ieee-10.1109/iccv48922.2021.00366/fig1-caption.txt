@@ -1,0 +1,2 @@
+Figure 1. 
+We render training images of faces with unprecedented realism and diversity. The first example above is shown along with 3D geometry and accompanying labels for machine learning.

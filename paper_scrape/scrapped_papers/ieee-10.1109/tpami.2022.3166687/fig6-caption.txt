@@ -1,0 +1,2 @@
+Fig. 6. 
+G-buffer encoder. The G-buffer encoder accounts for different data types and varying spatial density of the G-buffers. It processes them via multiple streams (0–c), which are fused into a joint representation in accordance with one-hot-encoded object IDs. The features are further transformed via residual blocks (see Fig. 7), of which the orange blocks downscale the tensors. The output scale of the feature tensors is red, the channel width is blue. Scales match with branches in the image enhancement network.

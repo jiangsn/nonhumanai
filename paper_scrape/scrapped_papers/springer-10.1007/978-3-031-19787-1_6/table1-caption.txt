@@ -1,0 +1,1 @@
+Table 1. FID Comparison on MM-CelebA-HQ (1024\times 1024). We evaluate models conditioned on different modalities (from left to right: no conditions, text, segmentation, sketch, and all three modalities). The best scores are highlighted in bold

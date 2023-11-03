@@ -1,0 +1,2 @@
+TABLE III 
+Inception Scores and FIDs With Unsupervised Image Generation on CIFAR-10. The Method With Higher is or Lower FID Implies the Generated Distribution is Closer to the Target One. † [22], ‡ [6]

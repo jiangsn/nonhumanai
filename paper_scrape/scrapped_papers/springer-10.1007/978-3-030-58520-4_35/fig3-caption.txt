@@ -1,0 +1,2 @@
+Precision-recall curves by directly using the inverted codes for facial attribute classification. Our in-domain inversion shows much better performance than Image2StyleGAN
+[29], suggesting a stronger semantic preservation.

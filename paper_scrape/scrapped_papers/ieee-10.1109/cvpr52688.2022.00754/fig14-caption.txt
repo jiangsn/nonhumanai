@@ -1,0 +1,1 @@
+Figure 14. Performance on pixar, comic and slam dunk styles.

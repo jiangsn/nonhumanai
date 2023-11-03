@@ -1,0 +1,1 @@
+Figure 3: The error introduced due to voxelisation, shown as a function of volume density.

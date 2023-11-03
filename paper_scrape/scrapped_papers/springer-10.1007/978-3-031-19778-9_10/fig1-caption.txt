@@ -1,0 +1,1 @@
+Given a single image (top), we first robustly and accurately predict 703 landmarks (middle). To aid visualization, we draw lines between landmarks. We then fit our 3D morphable face model to these landmarks to reconstruct faces in 3D (bottom).

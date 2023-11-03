@@ -1,0 +1,1 @@
+Figure 11 Additional applications of our method, (left) reconstruction from real world rgb images, (right) geometry prediction from partial low resolution input volumes.

@@ -1,0 +1,1 @@
+Figure 4. The effect of the amplification factor on a patch from an indoor image in the SID dataset (sony ×100 subset). The amplification factor is provided as an external input to our pipeline, akin to the ISO setting in cameras. Higher amplification factors yield brighter images. This figure shows the output of our pipeline with different amplification factors.

@@ -1,0 +1,1 @@
+Figure 6. Qualitative comparison of reference-guided image synthesis results on the celeba-hq and AFHQ datasets. Each method translates the source images into target domains, reflecting the styles of the reference images.

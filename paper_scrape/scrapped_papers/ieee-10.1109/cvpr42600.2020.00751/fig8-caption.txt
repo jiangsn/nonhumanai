@@ -1,0 +1,1 @@
+Figure 8: Comparison with baselines. Columns, left to right: the original image, FUNIT-T, FUNIT-O, DRIT, HIDT (ours). Our model, trained and applied without knowledge about domain labels, has translation quality similar to the models that require such supervision.

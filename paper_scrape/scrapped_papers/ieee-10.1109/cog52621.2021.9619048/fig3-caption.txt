@@ -1,0 +1,1 @@
+Fig. 3: Map coverage as a function of simulation time. The maximum number of points which could be reached (equiva-lent to 100%) was estimated to be 25k. The plot shows the mean and variance of the performance of different policies over 5 different runs.

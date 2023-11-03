@@ -1,0 +1,2 @@
+Figure 6: 
+Novel views synthesized by linearly interpolating the deformation latent codes of two frames of the Badminton (left and right) show a smooth racquet motion.

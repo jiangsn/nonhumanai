@@ -1,0 +1,2 @@
+Figure 7. 
+We apply coarse and meso-displacement to our 3D face model to ensure faces look realistic even when viewed close-up.

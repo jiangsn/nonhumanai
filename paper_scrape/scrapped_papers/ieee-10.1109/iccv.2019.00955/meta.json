@@ -1,0 +1,253 @@
+{
+    "userInfo": {
+        "customerNameRaw": "The Ohio State University",
+        "institutionName": "The Ohio State University",
+        "institute": true,
+        "member": false,
+        "individual": false,
+        "guest": false,
+        "subscribedContent": false,
+        "fileCabinetContent": false,
+        "fileCabinetUser": false,
+        "institutionalFileCabinetUser": false,
+        "products": "IEL|EBOOKS:1974:2014|JRNLARCH:1884:1994|CONFARCH:1951:1999|IBM:1872:2020|VDE|NOKIA BELL LABS|",
+        "instType": "Academic",
+        "userIds": [
+            7827
+        ],
+        "showPatentCitations": true,
+        "showGet802Link": true,
+        "openUrlImgLoc": "http://library-osu-edu.proxy.lib.ohio-state.edu/resources/serialssolutions/buttons/button75x25edit.jpg",
+        "openUrlLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu",
+        "instLogoFile": "7827_OSULHoriz.png",
+        "openUrlTxt": "Find It!",
+        "showOpenUrlLink": true,
+        "marketingInfoCaptured": false,
+        "tracked": false,
+        "ringGoldId": "2647",
+        "delegatedAdmin": false,
+        "desktop": false,
+        "isInstitutionDashboardEnabled": false,
+        "isInstitutionProfileEnabled": false,
+        "isRoamingEnabled": true,
+        "isDelegatedAdmin": false,
+        "isMdl": false,
+        "isCwg": false,
+        "isIel": true,
+        "isAcademic": true
+    },
+    "authors": [
+        {
+            "name": "Egor Zakharov",
+            "affiliation": [
+                "Skolkovo Institute of Science and Technology"
+            ],
+            "firstName": "Egor",
+            "lastName": "Zakharov",
+            "id": "37087232918"
+        },
+        {
+            "name": "Aliaksandra Shysheya",
+            "affiliation": [
+                "Samsung"
+            ],
+            "firstName": "Aliaksandra",
+            "lastName": "Shysheya",
+            "id": "37087231962"
+        },
+        {
+            "name": "Egor Burkov",
+            "affiliation": [
+                "Skoltech"
+            ],
+            "firstName": "Egor",
+            "lastName": "Burkov",
+            "id": "37087234959"
+        },
+        {
+            "name": "Victor Lempitsky",
+            "affiliation": [
+                "Samsung"
+            ],
+            "firstName": "Victor",
+            "lastName": "Lempitsky",
+            "id": "37332794000"
+        }
+    ],
+    "isbn": [
+        {
+            "format": "Electronic ISBN",
+            "value": "978-1-7281-4803-8",
+            "isbnType": ""
+        },
+        {
+            "format": "Print on Demand(PoD) ISBN",
+            "value": "978-1-7281-4804-5",
+            "isbnType": ""
+        }
+    ],
+    "issn": [
+        {
+            "format": "Electronic ISSN",
+            "value": "2380-7504"
+        },
+        {
+            "format": "Print on Demand(PoD) ISSN",
+            "value": "1550-5499"
+        }
+    ],
+    "articleNumber": "9009591",
+    "dbTime": "2 ms",
+    "metrics": {
+        "citationCountPaper": 254,
+        "citationCountPatent": 0,
+        "totalDownloads": 493
+    },
+    "purchaseOptions": {
+        "showOtherFormatPricingTab": false,
+        "showPdfFormatPricingTab": true,
+        "pdfPricingInfoAvailable": true,
+        "otherPricingInfoAvailable": false,
+        "mandatoryBundle": false,
+        "optionalBundle": false,
+        "displayTextWhenOtherFormatPricingNotAvailable": "The purchase and pricing options for this item are unavailable. Select items are only available as part of a subscription package. You may try again later or <a href='https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/xpl/contact' target='_blank'>contact us</a> for more information.",
+        "pdfPricingInfo": [
+            {
+                "memberPrice": "$14.95",
+                "nonMemberPrice": "$33.00",
+                "partNumber": "9009591",
+                "type": "PDF/HTML"
+            }
+        ],
+        "openUrlFullLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu?url_ver=Z39.88-2004&rfr_id=info:sid/IEEE.org:XPLORE&rft_id=info:doi/10.1109/ICCV.2019.00955&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&rft.atitle=Few-Shot Adversarial Learning of Realistic Neural Talking Head Models&rft.jtitle=2019 IEEE/CVF International Conference on Computer Vision (ICCV)&rft.date=2019&rft.spage=9458&rft.epage=9467&rft.eissn=2380-7504&rft.au=Egor Zakharov&rft.aulast=Egor Zakharov&rft.isbn=978-1-7281-4803-8"
+    },
+    "getProgramTermsAccepted": false,
+    "sections": {
+        "abstract": "true",
+        "authors": "true",
+        "figures": "true",
+        "multimedia": "false",
+        "references": "true",
+        "citedby": "true",
+        "keywords": "true",
+        "definitions": "false",
+        "algorithm": "false",
+        "dataset": "false",
+        "cadmore": "false",
+        "footnotes": "false",
+        "disclaimer": "false",
+        "relatedContent": "false",
+        "metrics": "true"
+    },
+    "abstract": "Several recent works have shown how highly realistic human head images can be obtained by training convolutional neural networks to generate them. In order to create a personalized talking head model, these works require training on a large dataset of images of a single person. However, in many practical scenarios, such personalized talking head models need to be learned from a few image views of a person, potentially even a single image. Here, we present a system with such few-shot capability. It performs lengthy meta-learning on a large dataset of videos, and after that is able to frame few- and one-shot learning of neural talking head models of previously unseen people as adversarial training problems with high capacity generators and discriminators. Crucially, the system is able to initialize the parameters of both the generator and the discriminator in a person-specific way, so that training can be based on just a few images and done quickly, despite the need to tune tens of millions of parameters. We show that such an approach is able to learn highly realistic and personalized talking head models of new people and even portrait paintings.",
+    "publicationYear": "2019",
+    "pdfPath": "/iel7/8972782/9008105/09009591.pdf",
+    "publicationDate": "October 2019",
+    "doi": "10.1109/ICCV.2019.00955",
+    "formulaStrippedArticleTitle": "Few-Shot Adversarial Learning of Realistic Neural Talking Head Models",
+    "displayPublicationTitle": "2019 IEEE/CVF International Conference on Computer Vision (ICCV)",
+    "authorNames": "Egor Zakharov;Aliaksandra Shysheya;Egor Burkov;Victor Lempitsky",
+    "publicationTitle": "2019 IEEE/CVF International Conference on Computer Vision (ICCV)",
+    "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=proceedings&title=Few-Shot+Adversarial+Learning+of+Realistic+Neural+Talking+Head+Models&isbn=978-1-7281-4803-8&publicationDate=October+2019&author=Egor+Zakharov&ContentID=10.1109/ICCV.2019.00955&orderBeanReset=true&startPage=9458&endPage=9467&proceedingName=2019+IEEE%2FCVF+International+Conference+on+Computer+Vision+%28ICCV%29",
+    "dateOfInsertion": "27 February 2020",
+    "startPage": "9458",
+    "endPage": "9467",
+    "pdfUrl": "/stamp/stamp.jsp?tp=&arnumber=9009591",
+    "keywords": [
+        {
+            "type": "IEEE Keywords",
+            "kwd": [
+                "Training",
+                "Face",
+                "Generators",
+                "Video sequences",
+                "Task analysis",
+                "Adaptation models"
+            ]
+        },
+        {
+            "type": "INSPEC: Controlled Indexing",
+            "kwd": [
+                "convolutional neural nets",
+                "image classification",
+                "learning (artificial intelligence)",
+                "video signal processing"
+            ]
+        },
+        {
+            "type": "INSPEC: Non-Controlled Indexing",
+            "kwd": [
+                "person-specific way",
+                "realistic neural talking head models",
+                "highly realistic human head images",
+                "convolutional neural networks training",
+                "personalized talking head model",
+                "image views",
+                "adversarial training problems",
+                "high capacity generators",
+                "few-shot adversarial learning"
+            ]
+        }
+    ],
+    "doiLink": "https://doi-org.proxy.lib.ohio-state.edu/10.1109/ICCV.2019.00955",
+    "displayPublicationDate": "27 October 2019 - 02 November 2019",
+    "articleCopyRight": "2019 IEEE",
+    "issueLink": "/xpl/tocresult.jsp?isnumber=9008105&punumber=8972782",
+    "pubLink": "/xpl/conhome/8972782/proceeding",
+    "allowComments": false,
+    "isGetAddressInfoCaptured": false,
+    "isMarketingOptIn": false,
+    "pubTopics": [
+        {
+            "name": "Computing and Processing"
+        }
+    ],
+    "publisher": "IEEE",
+    "displayDocTitle": "Few-Shot Adversarial Learning of Realistic Neural Talking Head Models",
+    "isStandard": false,
+    "isConference": true,
+    "isBookWithoutChapters": false,
+    "isChapter": false,
+    "isProduct": false,
+    "isEarlyAccess": false,
+    "isOpenAccess": false,
+    "isEphemera": false,
+    "xploreDocumentType": "Conference Publication",
+    "isBook": false,
+    "isJournal": false,
+    "isSpringer": false,
+    "accessionNumber": "19399012",
+    "isFreeDocument": false,
+    "isPromo": false,
+    "isDynamicHtml": true,
+    "htmlLink": "/document/9009591/",
+    "htmlAbstractLink": "/document/9009591/",
+    "isCustomDenial": false,
+    "persistentLink": "https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/servlet/opac?punumber=8972782",
+    "isNow": false,
+    "isSAE": false,
+    "isOUP": false,
+    "isSMPTE": false,
+    "openAccessFlag": "F",
+    "insertDate": "27 February 2020",
+    "ephemeraFlag": "false",
+    "title": "Few-Shot Adversarial Learning of Realistic Neural Talking Head Models",
+    "confLoc": "Seoul, Korea (South)",
+    "html_flag": "false",
+    "ml_html_flag": "true",
+    "sourcePdf": "480300j458.pdf",
+    "mlTime": "PT0.086122S",
+    "xplore-pub-id": "8972782",
+    "isNumber": "9008105",
+    "rightsLinkFlag": "1",
+    "contentType": "conferences",
+    "publicationNumber": "8972782",
+    "citationCount": "254",
+    "xplore-issue": "9008105",
+    "articleId": "9009591",
+    "contentTypeDisplay": "Conferences",
+    "subType": "IEEE Conference",
+    "_value": "IEEE",
+    "lastupdate": "2023-10-07",
+    "mediaPath": "/mediastore_new/IEEE/content/media/8972782/9008105/9009591"
+}

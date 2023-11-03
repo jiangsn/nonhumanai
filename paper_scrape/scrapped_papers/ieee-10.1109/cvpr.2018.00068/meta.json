@@ -1,0 +1,261 @@
+{
+    "userInfo": {
+        "customerNameRaw": "The Ohio State University",
+        "institutionName": "The Ohio State University",
+        "institute": true,
+        "member": false,
+        "individual": false,
+        "guest": false,
+        "subscribedContent": false,
+        "fileCabinetContent": false,
+        "fileCabinetUser": false,
+        "institutionalFileCabinetUser": false,
+        "products": "IEL|EBOOKS:1974:2014|JRNLARCH:1884:1994|CONFARCH:1951:1999|IBM:1872:2020|VDE|NOKIA BELL LABS|",
+        "instType": "Academic",
+        "userIds": [
+            7827
+        ],
+        "showPatentCitations": true,
+        "showGet802Link": true,
+        "openUrlImgLoc": "http://library-osu-edu.proxy.lib.ohio-state.edu/resources/serialssolutions/buttons/button75x25edit.jpg",
+        "openUrlLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu",
+        "instLogoFile": "7827_OSULHoriz.png",
+        "openUrlTxt": "Find It!",
+        "showOpenUrlLink": true,
+        "marketingInfoCaptured": false,
+        "tracked": false,
+        "ringGoldId": "2647",
+        "delegatedAdmin": false,
+        "desktop": false,
+        "isInstitutionDashboardEnabled": false,
+        "isInstitutionProfileEnabled": false,
+        "isRoamingEnabled": true,
+        "isDelegatedAdmin": false,
+        "isMdl": false,
+        "isCwg": false,
+        "isIel": true,
+        "isAcademic": true
+    },
+    "authors": [
+        {
+            "name": "Richard Zhang",
+            "affiliation": [
+                "UC Berkeley"
+            ],
+            "firstName": "Richard",
+            "lastName": "Zhang",
+            "id": "37088213916"
+        },
+        {
+            "name": "Phillip Isola",
+            "affiliation": [
+                "UC Berkeley"
+            ],
+            "firstName": "Phillip",
+            "lastName": "Isola",
+            "id": "37945396900"
+        },
+        {
+            "name": "Alexei A. Efros",
+            "affiliation": [
+                "UC Berkeley"
+            ],
+            "firstName": "Alexei A.",
+            "lastName": "Efros",
+            "id": "37282930300"
+        },
+        {
+            "name": "Eli Shechtman",
+            "affiliation": [
+                "Adobe Research"
+            ],
+            "firstName": "Eli",
+            "lastName": "Shechtman",
+            "id": "37282591600"
+        },
+        {
+            "name": "Oliver Wang",
+            "affiliation": [
+                "Adobe Research"
+            ],
+            "firstName": "Oliver",
+            "lastName": "Wang",
+            "id": "37298538400"
+        }
+    ],
+    "isbn": [
+        {
+            "format": "Electronic ISBN",
+            "value": "978-1-5386-6420-9",
+            "isbnType": ""
+        },
+        {
+            "format": "Print on Demand(PoD) ISBN",
+            "value": "978-1-5386-6421-6",
+            "isbnType": ""
+        }
+    ],
+    "issn": [
+        {
+            "format": "Electronic ISSN",
+            "value": "2575-7075"
+        },
+        {
+            "format": "Print on Demand(PoD) ISSN",
+            "value": "1063-6919"
+        }
+    ],
+    "articleNumber": "8578166",
+    "dbTime": "7 ms",
+    "metrics": {
+        "citationCountPaper": 3198,
+        "citationCountPatent": 11,
+        "totalDownloads": 2677
+    },
+    "purchaseOptions": {
+        "showOtherFormatPricingTab": false,
+        "showPdfFormatPricingTab": true,
+        "pdfPricingInfoAvailable": true,
+        "otherPricingInfoAvailable": false,
+        "mandatoryBundle": false,
+        "optionalBundle": false,
+        "displayTextWhenOtherFormatPricingNotAvailable": "The purchase and pricing options for this item are unavailable. Select items are only available as part of a subscription package. You may try again later or <a href='https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/xpl/contact' target='_blank'>contact us</a> for more information.",
+        "pdfPricingInfo": [
+            {
+                "memberPrice": "$14.95",
+                "nonMemberPrice": "$33.00",
+                "partNumber": "8578166",
+                "type": "PDF/HTML"
+            }
+        ],
+        "openUrlFullLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu?url_ver=Z39.88-2004&rfr_id=info:sid/IEEE.org:XPLORE&rft_id=info:doi/10.1109/CVPR.2018.00068&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&rft.atitle=The Unreasonable Effectiveness of Deep Features as a Perceptual Metric&rft.jtitle=2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition&rft.date=2018&rft.spage=586&rft.epage=595&rft.eissn=2575-7075&rft.au=Richard Zhang&rft.aulast=Richard Zhang&rft.isbn=978-1-5386-6420-9"
+    },
+    "getProgramTermsAccepted": false,
+    "sections": {
+        "abstract": "true",
+        "authors": "true",
+        "figures": "true",
+        "multimedia": "false",
+        "references": "true",
+        "citedby": "true",
+        "keywords": "true",
+        "definitions": "false",
+        "algorithm": "false",
+        "dataset": "false",
+        "cadmore": "false",
+        "footnotes": "false",
+        "disclaimer": "false",
+        "relatedContent": "false",
+        "metrics": "true"
+    },
+    "abstract": "While it is nearly effortless for humans to quickly assess the perceptual similarity between two images, the underlying processes are thought to be quite complex. Despite this, the most widely used perceptual metrics today, such as PSNR and SSIM, are simple, shallow functions, and fail to account for many nuances of human perception. Recently, the deep learning community has found that features of the VGG network trained on ImageNet classification has been remarkably useful as a training loss for image synthesis. But how perceptual are these so-called \"perceptual losses\"? What elements are critical for their success? To answer these questions, we introduce a new dataset of human perceptual similarity judgments. We systematically evaluate deep features across different architectures and tasks and compare them with classic metrics. We find that deep features outperform all previous metrics by large margins on our dataset. More surprisingly, this result is not restricted to ImageNet-trained VGG features, but holds across different deep architectures and levels of supervision (supervised, self-supervised, or even unsupervised). Our results suggest that perceptual similarity is an emergent property shared across deep visual representations.",
+    "publicationYear": "2018",
+    "pdfPath": "/iel7/8576498/8578098/08578166.pdf",
+    "publicationDate": "June 2018",
+    "doi": "10.1109/CVPR.2018.00068",
+    "formulaStrippedArticleTitle": "The Unreasonable Effectiveness of Deep Features as a Perceptual Metric",
+    "displayPublicationTitle": "2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+    "authorNames": "Richard Zhang;Phillip Isola;Alexei A. Efros;Eli Shechtman;Oliver Wang",
+    "publicationTitle": "2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+    "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=proceedings&title=The+Unreasonable+Effectiveness+of+Deep+Features+as+a+Perceptual+Metric&isbn=978-1-5386-6420-9&publicationDate=June+2018&author=Richard+Zhang&ContentID=10.1109/CVPR.2018.00068&orderBeanReset=true&startPage=586&endPage=595&proceedingName=2018+IEEE%2FCVF+Conference+on+Computer+Vision+and+Pattern+Recognition",
+    "dateOfInsertion": "16 December 2018",
+    "startPage": "586",
+    "endPage": "595",
+    "pdfUrl": "/stamp/stamp.jsp?tp=&arnumber=8578166",
+    "keywords": [
+        {
+            "type": "IEEE Keywords",
+            "kwd": [
+                "Distortion",
+                "Task analysis",
+                "Measurement",
+                "Visualization",
+                "Training",
+                "Network architecture",
+                "Computer architecture"
+            ]
+        },
+        {
+            "type": "INSPEC: Controlled Indexing",
+            "kwd": [
+                "image classification",
+                "learning (artificial intelligence)"
+            ]
+        },
+        {
+            "type": "INSPEC: Non-Controlled Indexing",
+            "kwd": [
+                "deep features",
+                "perceptual metric",
+                "human perception",
+                "deep learning community",
+                "image synthesis",
+                "human perceptual similarity judgments",
+                "ImageNet-trained VGG features",
+                "deep visual representations",
+                "ImageNet classification"
+            ]
+        }
+    ],
+    "doiLink": "https://doi-org.proxy.lib.ohio-state.edu/10.1109/CVPR.2018.00068",
+    "displayPublicationDate": "18-23 June 2018",
+    "articleCopyRight": "2018 IEEE",
+    "issueLink": "/xpl/tocresult.jsp?isnumber=8578098&punumber=8576498",
+    "pubLink": "/xpl/conhome/8576498/proceeding",
+    "allowComments": false,
+    "isGetAddressInfoCaptured": false,
+    "isMarketingOptIn": false,
+    "pubTopics": [
+        {
+            "name": "Computing and Processing"
+        }
+    ],
+    "publisher": "IEEE",
+    "displayDocTitle": "The Unreasonable Effectiveness of Deep Features as a Perceptual Metric",
+    "isStandard": false,
+    "isConference": true,
+    "isBookWithoutChapters": false,
+    "isChapter": false,
+    "isProduct": false,
+    "isEarlyAccess": false,
+    "isOpenAccess": false,
+    "isEphemera": false,
+    "xploreDocumentType": "Conference Publication",
+    "isBook": false,
+    "isJournal": false,
+    "isSpringer": false,
+    "accessionNumber": "18311777",
+    "isFreeDocument": false,
+    "isPromo": false,
+    "isDynamicHtml": true,
+    "htmlLink": "/document/8578166/",
+    "htmlAbstractLink": "/document/8578166/",
+    "isCustomDenial": false,
+    "persistentLink": "https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/servlet/opac?punumber=8576498",
+    "isNow": false,
+    "isSAE": false,
+    "isOUP": false,
+    "isSMPTE": false,
+    "openAccessFlag": "F",
+    "insertDate": "16 December 2018",
+    "ephemeraFlag": "false",
+    "title": "The Unreasonable Effectiveness of Deep Features as a Perceptual Metric",
+    "confLoc": "Salt Lake City, UT, USA",
+    "html_flag": "false",
+    "ml_html_flag": "true",
+    "sourcePdf": "642000a586.pdf",
+    "mlTime": "PT0.087422S",
+    "xplore-pub-id": "8576498",
+    "isNumber": "8578098",
+    "rightsLinkFlag": "1",
+    "contentType": "conferences",
+    "publicationNumber": "8576498",
+    "citationCount": "3198",
+    "xplore-issue": "8578098",
+    "articleId": "8578166",
+    "contentTypeDisplay": "Conferences",
+    "subType": "IEEE Conference",
+    "_value": "IEEE",
+    "lastupdate": "2023-10-19",
+    "mediaPath": "/mediastore_new/IEEE/content/media/8576498/8578098/8578166"
+}

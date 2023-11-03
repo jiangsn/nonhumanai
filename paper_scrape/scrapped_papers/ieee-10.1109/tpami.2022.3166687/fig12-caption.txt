@@ -1,0 +1,2 @@
+Fig. 12. 
+Matching patches across datasets. We show patches sampled from GTA (top) and corresponding patches from Cityscapes (bottom).

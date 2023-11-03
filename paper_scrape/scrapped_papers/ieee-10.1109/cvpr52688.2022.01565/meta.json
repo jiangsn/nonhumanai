@@ -1,0 +1,342 @@
+{
+    "userInfo": {
+        "customerNameRaw": "The Ohio State University",
+        "institutionName": "The Ohio State University",
+        "institute": true,
+        "member": false,
+        "individual": false,
+        "guest": false,
+        "subscribedContent": false,
+        "fileCabinetContent": false,
+        "fileCabinetUser": false,
+        "institutionalFileCabinetUser": false,
+        "products": "IEL|EBOOKS:1974:2014|JRNLARCH:1884:1994|CONFARCH:1951:1999|IBM:1872:2020|VDE|NOKIA BELL LABS|",
+        "instType": "Academic",
+        "userIds": [
+            7827
+        ],
+        "showPatentCitations": true,
+        "showGet802Link": true,
+        "openUrlImgLoc": "http://library-osu-edu.proxy.lib.ohio-state.edu/resources/serialssolutions/buttons/button75x25edit.jpg",
+        "openUrlLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu",
+        "instLogoFile": "7827_OSULHoriz.png",
+        "openUrlTxt": "Find It!",
+        "showOpenUrlLink": true,
+        "marketingInfoCaptured": false,
+        "tracked": false,
+        "ringGoldId": "2647",
+        "delegatedAdmin": false,
+        "desktop": false,
+        "isInstitutionDashboardEnabled": false,
+        "isInstitutionProfileEnabled": false,
+        "isRoamingEnabled": true,
+        "isDelegatedAdmin": false,
+        "isMdl": false,
+        "isCwg": false,
+        "isIel": true,
+        "isAcademic": true
+    },
+    "authors": [
+        {
+            "name": "Eric R. Chan",
+            "affiliation": [
+                "Stanford University",
+                "NVIDIA"
+            ],
+            "firstName": "Eric R.",
+            "lastName": "Chan",
+            "id": "37089016729"
+        },
+        {
+            "name": "Connor Z. Lin",
+            "affiliation": [
+                "Stanford University"
+            ],
+            "firstName": "Connor Z.",
+            "lastName": "Lin",
+            "id": "37089540860"
+        },
+        {
+            "name": "Matthew A. Chan",
+            "affiliation": [
+                "Stanford University"
+            ],
+            "firstName": "Matthew A.",
+            "lastName": "Chan",
+            "id": "37089538788"
+        },
+        {
+            "name": "Koki Nagano",
+            "affiliation": [
+                "NVIDIA"
+            ],
+            "firstName": "Koki",
+            "lastName": "Nagano",
+            "id": "37086183605"
+        },
+        {
+            "name": "Boxiao Pan",
+            "affiliation": [
+                "Stanford University"
+            ],
+            "firstName": "Boxiao",
+            "lastName": "Pan",
+            "id": "37088458600"
+        },
+        {
+            "name": "Shalini de Mello",
+            "affiliation": [
+                "NVIDIA"
+            ],
+            "firstName": "Shalini",
+            "lastName": "de Mello",
+            "id": "37086222113"
+        },
+        {
+            "name": "Orazio Gallo",
+            "affiliation": [
+                "NVIDIA"
+            ],
+            "firstName": "Orazio",
+            "lastName": "Gallo",
+            "id": "37393801900"
+        },
+        {
+            "name": "Leonidas Guibas",
+            "affiliation": [
+                "Stanford University"
+            ],
+            "firstName": "Leonidas",
+            "lastName": "Guibas",
+            "id": "37273486900"
+        },
+        {
+            "name": "Jonathan Tremblay",
+            "affiliation": [
+                "NVIDIA"
+            ],
+            "firstName": "Jonathan",
+            "lastName": "Tremblay",
+            "id": "37086455314"
+        },
+        {
+            "name": "Sameh Khamis",
+            "affiliation": [
+                "NVIDIA"
+            ],
+            "firstName": "Sameh",
+            "lastName": "Khamis",
+            "id": "37089544579"
+        },
+        {
+            "name": "Tero Karras",
+            "affiliation": [
+                "NVIDIA"
+            ],
+            "firstName": "Tero",
+            "lastName": "Karras",
+            "id": "37588594800"
+        },
+        {
+            "name": "Gordon Wetzstein",
+            "affiliation": [
+                "Stanford University"
+            ],
+            "firstName": "Gordon",
+            "lastName": "Wetzstein",
+            "id": "37547128900"
+        }
+    ],
+    "isbn": [
+        {
+            "format": "Electronic ISBN",
+            "value": "978-1-6654-6946-3",
+            "isbnType": ""
+        },
+        {
+            "format": "Print on Demand(PoD) ISBN",
+            "value": "978-1-6654-6947-0",
+            "isbnType": ""
+        }
+    ],
+    "issn": [
+        {
+            "format": "Electronic ISSN",
+            "value": "2575-7075"
+        },
+        {
+            "format": "Print on Demand(PoD) ISSN",
+            "value": "1063-6919"
+        }
+    ],
+    "articleNumber": "9880428",
+    "dbTime": "1 ms",
+    "metrics": {
+        "citationCountPaper": 137,
+        "citationCountPatent": 0,
+        "totalDownloads": 279
+    },
+    "purchaseOptions": {
+        "showOtherFormatPricingTab": false,
+        "showPdfFormatPricingTab": true,
+        "pdfPricingInfoAvailable": true,
+        "otherPricingInfoAvailable": false,
+        "mandatoryBundle": false,
+        "optionalBundle": false,
+        "displayTextWhenOtherFormatPricingNotAvailable": "The purchase and pricing options for this item are unavailable. Select items are only available as part of a subscription package. You may try again later or <a href='https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/xpl/contact' target='_blank'>contact us</a> for more information.",
+        "pdfPricingInfo": [
+            {
+                "memberPrice": "$14.95",
+                "nonMemberPrice": "$33.00",
+                "partNumber": "9880428",
+                "type": "PDF/HTML"
+            }
+        ],
+        "openUrlFullLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu?url_ver=Z39.88-2004&rfr_id=info:sid/IEEE.org:XPLORE&rft_id=info:doi/10.1109/CVPR52688.2022.01565&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&rft.atitle=Efficient Geometry-aware 3D Generative Adversarial Networks&rft.jtitle=2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)&rft.date=2022&rft.spage=16102&rft.epage=16112&rft.eissn=2575-7075&rft.au=Eric R. Chan&rft.aulast=Eric R. Chan&rft.isbn=978-1-6654-6946-3"
+    },
+    "getProgramTermsAccepted": false,
+    "sections": {
+        "abstract": "true",
+        "authors": "true",
+        "figures": "true",
+        "multimedia": "true",
+        "references": "true",
+        "citedby": "true",
+        "keywords": "true",
+        "definitions": "false",
+        "algorithm": "false",
+        "dataset": "false",
+        "cadmore": "false",
+        "footnotes": "false",
+        "disclaimer": "false",
+        "relatedContent": "false",
+        "metrics": "true"
+    },
+    "abstract": "Unsupervised generation of high-quality multi-view-consistent images and 3D shapes using only collections of single-view 2D photographs has been a long-standing challenge. Existing 3D GANs are either compute intensive or make approximations that are not 3D-consistent; the former limits quality and resolution of the generated images and the latter adversely affects multi-view consistency and shape quality. In this work, we improve the computational efficiency and image quality of 3D GANs without overly relying on these approximations. We introduce an expressive hybrid explicit implicit network architecture that, together with other design choices, synthesizes not only high-resolution multi-view-consistent images in real time but also produces high-quality 3D geometry. By decoupling feature generation and neural rendering, our framework is able to leverage state-of-the-art 2D CNN generators, such as StyleGAN2, and inherit their efficiency and expressiveness. We demonstrate state-of-the-art 3D-aware synthesis with FFHQ and AFHQ Cats, among other experiments.",
+    "publicationYear": "2022",
+    "pdfPath": "/iel7/9878378/9878366/09880428.pdf",
+    "publicationDate": "June 2022",
+    "doi": "10.1109/CVPR52688.2022.01565",
+    "formulaStrippedArticleTitle": "Efficient Geometry-aware 3D Generative Adversarial Networks",
+    "displayPublicationTitle": "2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+    "authorNames": "Eric R. Chan;Connor Z. Lin;Matthew A. Chan;Koki Nagano;Boxiao Pan;Shalini de Mello;Orazio Gallo;Leonidas Guibas;Jonathan Tremblay;Sameh Khamis;Tero Karras;Gordon Wetzstein",
+    "publicationTitle": "2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+    "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=proceedings&title=Efficient+Geometry-aware+3D+Generative+Adversarial+Networks&isbn=978-1-6654-6946-3&publicationDate=June+2022&author=Eric+R.+Chan&ContentID=10.1109/CVPR52688.2022.01565&orderBeanReset=true&startPage=16102&endPage=16112&proceedingName=2022+IEEE%2FCVF+Conference+on+Computer+Vision+and+Pattern+Recognition+%28CVPR%29",
+    "dateOfInsertion": "27 September 2022",
+    "startPage": "16102",
+    "endPage": "16112",
+    "pdfUrl": "/stamp/stamp.jsp?tp=&arnumber=9880428",
+    "keywords": [
+        {
+            "type": "IEEE Keywords",
+            "kwd": [
+                "Solid modeling",
+                "Three-dimensional displays",
+                "Shape",
+                "Image synthesis",
+                "Network architecture",
+                "Rendering (computer graphics)",
+                "Rapid prototyping"
+            ]
+        },
+        {
+            "type": "INSPEC: Controlled Indexing",
+            "kwd": [
+                "convolutional neural nets",
+                "image representation",
+                "image resolution",
+                "rendering (computer graphics)"
+            ]
+        },
+        {
+            "type": "INSPEC: Non-Controlled Indexing",
+            "kwd": [
+                "computational efficiency",
+                "image quality",
+                "3D GANs",
+                "high-resolution multiview-consistent images",
+                "high-quality 3D geometry",
+                "feature generation",
+                "state-of-the-art 3D-aware synthesis",
+                "unsupervised generation",
+                "high-quality multiview-consistent images",
+                "single-view 2D photographs",
+                "shape quality",
+                "geometry-aware 3D generative adversarial networks",
+                "hybrid explicit implicit network architecture",
+                "2D CNN generators",
+                "neural rendering",
+                "StyleGAN2",
+                "AFHQ Cats",
+                "FFHQ Cats"
+            ]
+        },
+        {
+            "type": "Author Keywords ",
+            "kwd": [
+                "Representation learning; Face and gestures; Vision + graphics"
+            ]
+        }
+    ],
+    "doiLink": "https://doi-org.proxy.lib.ohio-state.edu/10.1109/CVPR52688.2022.01565",
+    "displayPublicationDate": "18-24 June 2022",
+    "articleCopyRight": "2022 IEEE",
+    "issueLink": "/xpl/tocresult.jsp?isnumber=9878366&punumber=9878378",
+    "pubLink": "/xpl/conhome/9878378/proceeding",
+    "allowComments": false,
+    "isGetAddressInfoCaptured": false,
+    "isMarketingOptIn": false,
+    "pubTopics": [
+        {
+            "name": "Computing and Processing"
+        }
+    ],
+    "publisher": "IEEE",
+    "displayDocTitle": "Efficient Geometry-aware 3D Generative Adversarial Networks",
+    "isStandard": false,
+    "isConference": true,
+    "isBookWithoutChapters": false,
+    "isChapter": false,
+    "isProduct": false,
+    "isEarlyAccess": false,
+    "isOpenAccess": false,
+    "isEphemera": false,
+    "xploreDocumentType": "Conference Publication",
+    "isBook": false,
+    "isJournal": false,
+    "isSpringer": false,
+    "accessionNumber": "22094240",
+    "isFreeDocument": false,
+    "isPromo": false,
+    "isDynamicHtml": true,
+    "htmlLink": "/document/9880428/",
+    "htmlAbstractLink": "/document/9880428/",
+    "isCustomDenial": false,
+    "persistentLink": "https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/servlet/opac?punumber=9878378",
+    "isNow": false,
+    "isSAE": false,
+    "isOUP": false,
+    "isSMPTE": false,
+    "openAccessFlag": "F",
+    "insertDate": "27 September 2022",
+    "ephemeraFlag": "false",
+    "title": "Efficient Geometry-aware 3D Generative Adversarial Networks",
+    "confLoc": "New Orleans, LA, USA",
+    "html_flag": "false",
+    "ml_html_flag": "true",
+    "sourcePdf": "694600q6102.pdf",
+    "mlTime": "PT0.095511S",
+    "xplore-pub-id": "9878378",
+    "isNumber": "9878366",
+    "rightsLinkFlag": "1",
+    "contentType": "conferences",
+    "publicationNumber": "9878378",
+    "citationCount": "137",
+    "xplore-issue": "9878366",
+    "articleId": "9880428",
+    "contentTypeDisplay": "Conferences",
+    "subType": "IEEE Conference",
+    "_value": "IEEE",
+    "lastupdate": "2023-10-14",
+    "mediaPath": "/mediastore_new/IEEE/content/media/9878378/9878366/9880428"
+}

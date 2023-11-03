@@ -1,0 +1,1 @@
+Figure 1. (a) Though mip-nerf is able to produce accurate ren-derings of objects, for unbounded scenes it often generates blurry backgrounds and low-detail foregrounds. (b) Our model produces detailed realistic renderings of these unbounded scenes, as evi-denced by the renderings (top) and depth maps (bottom) from both models. See the supplemental video for additional results.

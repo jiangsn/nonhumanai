@@ -1,0 +1,256 @@
+{
+    "userInfo": {
+        "customerNameRaw": "The Ohio State University",
+        "institutionName": "The Ohio State University",
+        "institute": true,
+        "member": false,
+        "individual": false,
+        "guest": false,
+        "subscribedContent": false,
+        "fileCabinetContent": false,
+        "fileCabinetUser": false,
+        "institutionalFileCabinetUser": false,
+        "products": "IEL|EBOOKS:1974:2014|JRNLARCH:1884:1994|CONFARCH:1951:1999|IBM:1872:2020|VDE|NOKIA BELL LABS|",
+        "instType": "Academic",
+        "userIds": [
+            7827
+        ],
+        "showPatentCitations": true,
+        "showGet802Link": true,
+        "openUrlImgLoc": "http://library-osu-edu.proxy.lib.ohio-state.edu/resources/serialssolutions/buttons/button75x25edit.jpg",
+        "openUrlLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu",
+        "instLogoFile": "7827_OSULHoriz.png",
+        "openUrlTxt": "Find It!",
+        "showOpenUrlLink": true,
+        "marketingInfoCaptured": false,
+        "tracked": false,
+        "ringGoldId": "2647",
+        "delegatedAdmin": false,
+        "desktop": false,
+        "isInstitutionDashboardEnabled": false,
+        "isInstitutionProfileEnabled": false,
+        "isRoamingEnabled": true,
+        "isDelegatedAdmin": false,
+        "isMdl": false,
+        "isCwg": false,
+        "isIel": true,
+        "isAcademic": true
+    },
+    "authors": [
+        {
+            "name": "Tinghui Zhou",
+            "affiliation": [
+                "UC Berkeley"
+            ],
+            "firstName": "Tinghui",
+            "lastName": "Zhou",
+            "id": "37085632920"
+        },
+        {
+            "name": "Matthew Brown",
+            "affiliation": [
+                "Google"
+            ],
+            "firstName": "Matthew",
+            "lastName": "Brown",
+            "id": "37403600800"
+        },
+        {
+            "name": "Noah Snavely",
+            "affiliation": [
+                "Google"
+            ],
+            "firstName": "Noah",
+            "lastName": "Snavely",
+            "id": "37397866800"
+        },
+        {
+            "name": "David G. Lowe",
+            "affiliation": [
+                "Google"
+            ],
+            "firstName": "David G.",
+            "lastName": "Lowe",
+            "id": "37281871400"
+        }
+    ],
+    "isbn": [
+        {
+            "format": "Electronic ISBN",
+            "value": "978-1-5386-0457-1",
+            "isbnType": ""
+        },
+        {
+            "format": "Print on Demand(PoD) ISBN",
+            "value": "978-1-5386-0458-8",
+            "isbnType": ""
+        }
+    ],
+    "issn": [
+        {
+            "format": "Print ISSN",
+            "value": "1063-6919"
+        }
+    ],
+    "articleNumber": "8100183",
+    "dbTime": "1 ms",
+    "metrics": {
+        "citationCountPaper": 1345,
+        "citationCountPatent": 24,
+        "totalDownloads": 3751
+    },
+    "purchaseOptions": {
+        "showOtherFormatPricingTab": false,
+        "showPdfFormatPricingTab": true,
+        "pdfPricingInfoAvailable": true,
+        "otherPricingInfoAvailable": false,
+        "mandatoryBundle": false,
+        "optionalBundle": false,
+        "displayTextWhenOtherFormatPricingNotAvailable": "The purchase and pricing options for this item are unavailable. Select items are only available as part of a subscription package. You may try again later or <a href='https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/xpl/contact' target='_blank'>contact us</a> for more information.",
+        "pdfPricingInfo": [
+            {
+                "memberPrice": "$14.95",
+                "nonMemberPrice": "$33.00",
+                "partNumber": "8100183",
+                "type": "PDF/HTML"
+            }
+        ],
+        "openUrlFullLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu?url_ver=Z39.88-2004&rfr_id=info:sid/IEEE.org:XPLORE&rft_id=info:doi/10.1109/CVPR.2017.700&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&rft.atitle=Unsupervised Learning of Depth and Ego-Motion from Video&rft.jtitle=2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)&rft.date=2017&rft.spage=6612&rft.epage=6619&rft.issn=1063-6919&rft.au=Tinghui Zhou&rft.aulast=Tinghui Zhou&rft.isbn=978-1-5386-0457-1"
+    },
+    "getProgramTermsAccepted": false,
+    "sections": {
+        "abstract": "true",
+        "authors": "true",
+        "figures": "true",
+        "multimedia": "false",
+        "references": "true",
+        "citedby": "true",
+        "keywords": "true",
+        "definitions": "false",
+        "algorithm": "false",
+        "dataset": "false",
+        "cadmore": "false",
+        "footnotes": "true",
+        "disclaimer": "false",
+        "relatedContent": "false",
+        "metrics": "true"
+    },
+    "abstract": "We present an unsupervised learning framework for the task of monocular depth and camera motion estimation from unstructured video sequences. In common with recent work [10, 14, 16], we use an end-to-end learning approach with view synthesis as the supervisory signal. In contrast to the previous work, our method is completely unsupervised, requiring only monocular video sequences for training. Our method uses single-view depth and multiview pose networks, with a loss based on warping nearby views to the target using the computed depth and pose. The networks are thus coupled by the loss during training, but can be applied independently at test time. Empirical evaluation on the KITTI dataset demonstrates the effectiveness of our approach: 1) monocular depth performs comparably with supervised methods that use either ground-truth pose or depth for training, and 2) pose estimation performs favorably compared to established SLAM systems under comparable input settings.",
+    "publicationYear": "2017",
+    "pdfPath": "/iel7/8097368/8099483/08100183.pdf",
+    "publicationDate": "July 2017",
+    "doi": "10.1109/CVPR.2017.700",
+    "formulaStrippedArticleTitle": "Unsupervised Learning of Depth and Ego-Motion from Video",
+    "displayPublicationTitle": "2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)",
+    "authorNames": "Tinghui Zhou;Matthew Brown;Noah Snavely;David G. Lowe",
+    "publicationTitle": "2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)",
+    "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=proceedings&title=Unsupervised+Learning+of+Depth+and+Ego-Motion+from+Video&isbn=978-1-5386-0457-1&publicationDate=July+2017&author=Tinghui+Zhou&ContentID=10.1109/CVPR.2017.700&orderBeanReset=true&startPage=6612&endPage=6619&proceedingName=2017+IEEE+Conference+on+Computer+Vision+and+Pattern+Recognition+%28CVPR%29",
+    "dateOfInsertion": "09 November 2017",
+    "startPage": "6612",
+    "endPage": "6619",
+    "pdfUrl": "/stamp/stamp.jsp?tp=&arnumber=8100183",
+    "keywords": [
+        {
+            "type": "IEEE Keywords",
+            "kwd": [
+                "Cameras",
+                "Training",
+                "Pose estimation",
+                "Three-dimensional displays",
+                "Geometry",
+                "Pipelines"
+            ]
+        },
+        {
+            "type": "INSPEC: Controlled Indexing",
+            "kwd": [
+                "cameras",
+                "image motion analysis",
+                "image sequences",
+                "learning (artificial intelligence)",
+                "motion estimation",
+                "object detection",
+                "pose estimation",
+                "unsupervised learning",
+                "video signal processing"
+            ]
+        },
+        {
+            "type": "INSPEC: Non-Controlled Indexing",
+            "kwd": [
+                "ego-motion",
+                "unsupervised learning framework",
+                "monocular depth",
+                "camera motion estimation",
+                "unstructured video sequences",
+                "end-to-end learning approach",
+                "supervisory signal",
+                "monocular video sequences",
+                "pose estimation",
+                "KITTI dataset",
+                "ground-truth pose"
+            ]
+        }
+    ],
+    "doiLink": "https://doi-org.proxy.lib.ohio-state.edu/10.1109/CVPR.2017.700",
+    "displayPublicationDate": "21-26 July 2017",
+    "articleCopyRight": "2017 IEEE",
+    "issueLink": "/xpl/tocresult.jsp?isnumber=8099483&punumber=8097368",
+    "pubLink": "/xpl/conhome/8097368/proceeding",
+    "allowComments": false,
+    "isGetAddressInfoCaptured": false,
+    "isMarketingOptIn": false,
+    "pubTopics": [
+        {
+            "name": "Computing and Processing"
+        }
+    ],
+    "publisher": "IEEE",
+    "displayDocTitle": "Unsupervised Learning of Depth and Ego-Motion from Video",
+    "isStandard": false,
+    "isConference": true,
+    "isBookWithoutChapters": false,
+    "isChapter": false,
+    "isProduct": false,
+    "isEarlyAccess": false,
+    "isOpenAccess": false,
+    "isEphemera": false,
+    "xploreDocumentType": "Conference Publication",
+    "isBook": false,
+    "isJournal": false,
+    "isSpringer": false,
+    "accessionNumber": "17355514",
+    "isFreeDocument": false,
+    "isPromo": false,
+    "isDynamicHtml": true,
+    "htmlLink": "/document/8100183/",
+    "htmlAbstractLink": "/document/8100183/",
+    "isCustomDenial": false,
+    "persistentLink": "https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/servlet/opac?punumber=8097368",
+    "isNow": false,
+    "isSAE": false,
+    "isOUP": false,
+    "isSMPTE": false,
+    "openAccessFlag": "F",
+    "insertDate": "09 November 2017",
+    "ephemeraFlag": "false",
+    "title": "Unsupervised Learning of Depth and Ego-Motion from Video",
+    "confLoc": "Honolulu, HI, USA",
+    "html_flag": "false",
+    "ml_html_flag": "true",
+    "sourcePdf": "0457g612.pdf",
+    "mlTime": "PT0.066991S",
+    "xplore-pub-id": "8097368",
+    "isNumber": "8099483",
+    "rightsLinkFlag": "1",
+    "contentType": "conferences",
+    "publicationNumber": "8097368",
+    "citationCount": "1345",
+    "xplore-issue": "8099483",
+    "articleId": "8100183",
+    "contentTypeDisplay": "Conferences",
+    "subType": "IEEE Conference",
+    "_value": "IEEE",
+    "lastupdate": "2023-10-19",
+    "mediaPath": "/mediastore_new/IEEE/content/media/8097368/8099483/8100183"
+}

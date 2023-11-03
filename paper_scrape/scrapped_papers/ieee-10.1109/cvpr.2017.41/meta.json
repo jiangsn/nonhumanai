@@ -1,0 +1,252 @@
+{
+    "userInfo": {
+        "customerNameRaw": "The Ohio State University",
+        "institutionName": "The Ohio State University",
+        "institute": true,
+        "member": false,
+        "individual": false,
+        "guest": false,
+        "subscribedContent": false,
+        "fileCabinetContent": false,
+        "fileCabinetUser": false,
+        "institutionalFileCabinetUser": false,
+        "products": "IEL|EBOOKS:1974:2014|JRNLARCH:1884:1994|CONFARCH:1951:1999|IBM:1872:2020|VDE|NOKIA BELL LABS|",
+        "instType": "Academic",
+        "userIds": [
+            7827
+        ],
+        "showPatentCitations": true,
+        "showGet802Link": true,
+        "openUrlImgLoc": "http://library-osu-edu.proxy.lib.ohio-state.edu/resources/serialssolutions/buttons/button75x25edit.jpg",
+        "openUrlLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu",
+        "instLogoFile": "7827_OSULHoriz.png",
+        "openUrlTxt": "Find It!",
+        "showOpenUrlLink": true,
+        "marketingInfoCaptured": false,
+        "tracked": false,
+        "ringGoldId": "2647",
+        "delegatedAdmin": false,
+        "desktop": false,
+        "isInstitutionDashboardEnabled": false,
+        "isInstitutionProfileEnabled": false,
+        "isRoamingEnabled": true,
+        "isDelegatedAdmin": false,
+        "isMdl": false,
+        "isCwg": false,
+        "isIel": true,
+        "isAcademic": true
+    },
+    "authors": [
+        {
+            "name": "Ning Xu",
+            "affiliation": [
+                "University of Illinois at Urbana-Champaign"
+            ],
+            "firstName": "Ning",
+            "lastName": "Xu",
+            "id": "37277813100"
+        },
+        {
+            "name": "Brian Price",
+            "affiliation": [
+                "Adobe Research"
+            ],
+            "firstName": "Brian",
+            "lastName": "Price",
+            "id": "37411272900"
+        },
+        {
+            "name": "Scott Cohen",
+            "affiliation": [
+                "Adobe Research"
+            ],
+            "firstName": "Scott",
+            "lastName": "Cohen",
+            "id": "37399707300"
+        },
+        {
+            "name": "Thomas Huang",
+            "affiliation": [
+                "University of Illinois at Urbana-Champaign"
+            ],
+            "firstName": "Thomas",
+            "lastName": "Huang",
+            "id": "37275421800"
+        }
+    ],
+    "isbn": [
+        {
+            "format": "Electronic ISBN",
+            "value": "978-1-5386-0457-1",
+            "isbnType": ""
+        },
+        {
+            "format": "Print on Demand(PoD) ISBN",
+            "value": "978-1-5386-0458-8",
+            "isbnType": ""
+        }
+    ],
+    "issn": [
+        {
+            "format": "Print ISSN",
+            "value": "1063-6919"
+        }
+    ],
+    "articleNumber": "8099524",
+    "dbTime": "1 ms",
+    "metrics": {
+        "citationCountPaper": 253,
+        "citationCountPatent": 6,
+        "totalDownloads": 851
+    },
+    "purchaseOptions": {
+        "showOtherFormatPricingTab": false,
+        "showPdfFormatPricingTab": true,
+        "pdfPricingInfoAvailable": true,
+        "otherPricingInfoAvailable": false,
+        "mandatoryBundle": false,
+        "optionalBundle": false,
+        "displayTextWhenOtherFormatPricingNotAvailable": "The purchase and pricing options for this item are unavailable. Select items are only available as part of a subscription package. You may try again later or <a href='https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/xpl/contact' target='_blank'>contact us</a> for more information.",
+        "pdfPricingInfo": [
+            {
+                "memberPrice": "$14.95",
+                "nonMemberPrice": "$33.00",
+                "partNumber": "8099524",
+                "type": "PDF/HTML"
+            }
+        ],
+        "openUrlFullLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu?url_ver=Z39.88-2004&rfr_id=info:sid/IEEE.org:XPLORE&rft_id=info:doi/10.1109/CVPR.2017.41&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&rft.atitle=Deep Image Matting&rft.jtitle=2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)&rft.date=2017&rft.spage=311&rft.epage=320&rft.issn=1063-6919&rft.au=Ning Xu&rft.aulast=Ning Xu&rft.isbn=978-1-5386-0457-1"
+    },
+    "getProgramTermsAccepted": false,
+    "sections": {
+        "abstract": "true",
+        "authors": "true",
+        "figures": "true",
+        "multimedia": "false",
+        "references": "true",
+        "citedby": "true",
+        "keywords": "true",
+        "definitions": "false",
+        "algorithm": "false",
+        "dataset": "false",
+        "cadmore": "false",
+        "footnotes": "false",
+        "disclaimer": "false",
+        "relatedContent": "false",
+        "metrics": "true"
+    },
+    "abstract": "Image matting is a fundamental computer vision problem and has many applications. Previous algorithms have poor performance when an image has similar foreground and background colors or complicated textures. The main reasons are prior methods 1) only use low-level features and 2) lack high-level context. In this paper, we propose a novel deep learning based algorithm that can tackle both these problems. Our deep model has two parts. The first part is a deep convolutional encoder-decoder network that takes an image and the corresponding trimap as inputs and predict the alpha matte of the image. The second part is a small convolutional network that refines the alpha matte predictions of the first network to have more accurate alpha values and sharper edges. In addition, we also create a large-scale image matting dataset including 49300 training images and 1000 testing images. We evaluate our algorithm on the image matting benchmark, our testing set, and a wide variety of real images. Experimental results clearly demonstrate the superiority of our algorithm over previous methods.",
+    "publicationYear": "2017",
+    "pdfPath": "/iel7/8097368/8099483/08099524.pdf",
+    "publicationDate": "July 2017",
+    "doi": "10.1109/CVPR.2017.41",
+    "formulaStrippedArticleTitle": "Deep Image Matting",
+    "displayPublicationTitle": "2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)",
+    "authorNames": "Ning Xu;Brian Price;Scott Cohen;Thomas Huang",
+    "publicationTitle": "2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)",
+    "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=proceedings&title=Deep+Image+Matting&isbn=978-1-5386-0457-1&publicationDate=July+2017&author=Ning+Xu&ContentID=10.1109/CVPR.2017.41&orderBeanReset=true&startPage=311&endPage=320&proceedingName=2017+IEEE+Conference+on+Computer+Vision+and+Pattern+Recognition+%28CVPR%29",
+    "dateOfInsertion": "09 November 2017",
+    "startPage": "311",
+    "endPage": "320",
+    "pdfUrl": "/stamp/stamp.jsp?tp=&arnumber=8099524",
+    "keywords": [
+        {
+            "type": "IEEE Keywords",
+            "kwd": [
+                "Image color analysis",
+                "Training",
+                "Mathematical model",
+                "Machine learning",
+                "Testing",
+                "Videos",
+                "Decoding"
+            ]
+        },
+        {
+            "type": "INSPEC: Controlled Indexing",
+            "kwd": [
+                "computer vision",
+                "convolution",
+                "feature extraction",
+                "image coding",
+                "image colour analysis",
+                "image segmentation",
+                "image texture",
+                "learning (artificial intelligence)",
+                "neural nets"
+            ]
+        },
+        {
+            "type": "INSPEC: Non-Controlled Indexing",
+            "kwd": [
+                "deep convolutional encoder-decoder network",
+                "computer vision",
+                "deep learning algorithm",
+                "deep image matting",
+                "image color",
+                "image textures"
+            ]
+        }
+    ],
+    "doiLink": "https://doi-org.proxy.lib.ohio-state.edu/10.1109/CVPR.2017.41",
+    "displayPublicationDate": "21-26 July 2017",
+    "articleCopyRight": "2017 IEEE",
+    "issueLink": "/xpl/tocresult.jsp?isnumber=8099483&punumber=8097368",
+    "pubLink": "/xpl/conhome/8097368/proceeding",
+    "allowComments": false,
+    "isGetAddressInfoCaptured": false,
+    "isMarketingOptIn": false,
+    "pubTopics": [
+        {
+            "name": "Computing and Processing"
+        }
+    ],
+    "publisher": "IEEE",
+    "displayDocTitle": "Deep Image Matting",
+    "isStandard": false,
+    "isConference": true,
+    "isBookWithoutChapters": false,
+    "isChapter": false,
+    "isProduct": false,
+    "isEarlyAccess": false,
+    "isOpenAccess": false,
+    "isEphemera": false,
+    "xploreDocumentType": "Conference Publication",
+    "isBook": false,
+    "isJournal": false,
+    "isSpringer": false,
+    "accessionNumber": "17355467",
+    "isFreeDocument": false,
+    "isPromo": false,
+    "isDynamicHtml": true,
+    "htmlLink": "/document/8099524/",
+    "htmlAbstractLink": "/document/8099524/",
+    "isCustomDenial": false,
+    "persistentLink": "https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/servlet/opac?punumber=8097368",
+    "isNow": false,
+    "isSAE": false,
+    "isOUP": false,
+    "isSMPTE": false,
+    "openAccessFlag": "F",
+    "insertDate": "09 November 2017",
+    "ephemeraFlag": "false",
+    "title": "Deep Image Matting",
+    "confLoc": "Honolulu, HI, USA",
+    "html_flag": "false",
+    "ml_html_flag": "true",
+    "sourcePdf": "0457a311.pdf",
+    "mlTime": "PT0.061228S",
+    "xplore-pub-id": "8097368",
+    "isNumber": "8099483",
+    "rightsLinkFlag": "1",
+    "contentType": "conferences",
+    "publicationNumber": "8097368",
+    "citationCount": "253",
+    "xplore-issue": "8099483",
+    "articleId": "8099524",
+    "contentTypeDisplay": "Conferences",
+    "subType": "IEEE Conference",
+    "_value": "IEEE",
+    "lastupdate": "2023-10-14",
+    "mediaPath": "/mediastore_new/IEEE/content/media/8097368/8099483/8099524"
+}

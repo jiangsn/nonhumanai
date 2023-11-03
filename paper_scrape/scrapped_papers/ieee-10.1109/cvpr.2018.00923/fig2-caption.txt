@@ -1,0 +1,1 @@
+Figure 2: Our conditional U-net combined with a variational autoencoder. x: Query image y^: Shape estimate, z: Appearance.

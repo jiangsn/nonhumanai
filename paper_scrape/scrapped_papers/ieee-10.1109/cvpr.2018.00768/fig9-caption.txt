@@ -1,0 +1,1 @@
+Figure 9: Activation of different keypoints over time.

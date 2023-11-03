@@ -1,0 +1,21 @@
+Non-local completion candidates. The right figure shows a space-time visualization for the highlighted scanlines in the left images. Green regions are missing. The yellow, orange and brown line in the right subfigure represents the scanline at the first non-local frame, the current frame and the third non-local frame, respectively. The figure illustrates the completion candidates for the
+
+
+
+and
+
+
+
+pixels (large discs on the orange line). By following the flow trajectories (dashed black lines) until the edge of the missing region, we obtain local candidates for the
+
+
+
+pixel (small discs), but not for the
+
+
+
+pixel, because the sweeping legs of the person form impassable flow barriers. With the help of the non-local flow that connects to the temporally distant frames, we obtain extra non-local neighbors for the
+
+
+
+pixel (red discs on the yellow and brown line). As a result, we can reveal the true background that is covered by the sweeping legs. (Color figure online)

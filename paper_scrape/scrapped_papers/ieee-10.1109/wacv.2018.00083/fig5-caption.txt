@@ -1,0 +1,1 @@
+Figure 5: Visualization of filters. Filters are ranked by its L1L1 norm in a descending order from top left to bottom right. Filters with red bounding boxes are the ones kept by our algorithm (with b=2b=2).

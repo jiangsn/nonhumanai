@@ -1,0 +1,2 @@
+Figure 5: 
+Visualizations of our propagation results. Given the labels as input in the first frame, our feature can propagate them to the rest of frames, without further fine-tuning. The labels include (a) instance masks in DAVIS-2017 [48], (b) pose key-points in JHMDB [26], (c) semantic masks in VIP [85] and even (d) texture map.

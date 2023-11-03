@@ -1,0 +1,2 @@
+Figure 2. 
+An overview of our attack pipeline to generate Adversarial Deepfakes. We generate an adversarial example for each frame in the given fake video and combine them together to create an adversan ally modified fake video.

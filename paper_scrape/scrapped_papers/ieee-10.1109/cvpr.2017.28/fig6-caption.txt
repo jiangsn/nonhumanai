@@ -1,0 +1,1 @@
+Figure 6. Synthesizing training data. We collected a large-scale synthetic 3D scene dataset to train our network. For each of the 3D scenes, we select a set of camera positions and generate pairs of rendered depth images and volumetric ground truth as training examples.

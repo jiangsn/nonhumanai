@@ -1,0 +1,2 @@
+TABLE 4 
+Comparison of the Average Running Time (milliseconds per image) on the Human3.6M Benchmark

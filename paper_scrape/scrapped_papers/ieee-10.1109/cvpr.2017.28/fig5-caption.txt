@@ -1,0 +1,1 @@
+Figure 5. Different encodings for surface (a). The projective TSDF (b) Is computed with respect to the camera and is therefore view-dependent. The accurate TSDF (c) Has less view dependency but exhibits strong gradients in empty space along the occlusion boundary (circled in gray). In contrast, the flipped TSDF (d) Has the strongest gradient near the surface.

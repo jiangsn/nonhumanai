@@ -1,0 +1,9 @@
+Table 1. Video completion results with two types of synthetic masks. We report the average PSNR, SSIM and LPIPS results with comparisons to existing methods on DAVIS dataset. The best performance is in
+
+
+
+and the second best is
+
+
+
+. Missing entries indicate the method fails at the respective resolution.

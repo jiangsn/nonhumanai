@@ -1,0 +1,1 @@
+Table 4. Results on the KITTI dataset. Training with game data yields a 2.6 % point improvement over training without game data.

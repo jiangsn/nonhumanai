@@ -1,0 +1,2 @@
+Figure 5: 
+In this capture, the subject rotates their head (top) and smiles (bottom). With m = 4 positional encoding frequencies, the deformation model does not capture the smile, while it fails to rotate the head with m = 8 frequencies. With coarse-to-fine regularization (c2f) the model captures both.

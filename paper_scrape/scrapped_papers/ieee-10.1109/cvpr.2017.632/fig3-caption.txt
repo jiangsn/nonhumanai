@@ -1,0 +1,1 @@
+Figure 3: Different losses induce different quality of results. Each column shows results trained under a different loss. Please see https://phillipi.github.io/pix2pix/ for additional examples.

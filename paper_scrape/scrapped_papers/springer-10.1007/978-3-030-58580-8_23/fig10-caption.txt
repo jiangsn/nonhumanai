@@ -1,0 +1,1 @@
+By changing the amplification factor \(\lambda \) of the CSB, our model generates different translation outputs for the same pair of content and style images.

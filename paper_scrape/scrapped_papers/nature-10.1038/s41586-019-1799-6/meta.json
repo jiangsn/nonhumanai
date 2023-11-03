@@ -1,0 +1,513 @@
+{
+    "mainEntity": {
+        "headline": "International evaluation of an AI system for breast cancer screening",
+        "description": "Screening mammography aims to identify breast cancer at earlier stages of the disease, when treatment can be more successful1. Despite the existence of screening programmes worldwide, the interpretation of mammograms is affected by high rates of false positives and false negatives2. Here we present an artificial intelligence (AI) system that is capable of surpassing human experts in breast cancer prediction. To assess its performance in the clinical setting, we curated a large representative dataset from the UK and a large enriched dataset from the USA. We show an absolute reduction of 5.7%\u00a0and 1.2% (USA and UK) in false positives and 9.4%\u00a0and 2.7% in false negatives. We provide evidence of the ability of the system to generalize from the UK to the USA. In an independent study of six radiologists, the AI system outperformed all of the human readers: the area under the receiver operating characteristic curve (AUC-ROC) for the AI system was greater than the AUC-ROC for the average radiologist by an absolute margin of 11.5%. We ran a simulation in which the AI system participated in the double-reading process that is used in the UK, and found that the AI system maintained non-inferior performance and reduced the workload of the second reader by 88%. This robust assessment of the AI system paves the way for clinical trials to improve the accuracy and efficiency of breast cancer screening. An artificial intelligence (AI) system performs as well as or better than radiologists at detecting breast cancer from mammograms, and using a combination of AI and human inputs could help to improve screening efficiency.",
+        "datePublished": "2020-01-01",
+        "dateModified": "2020-01-01",
+        "pageStart": "89",
+        "pageEnd": "94",
+        "sameAs": "https://doi-org.proxy.lib.ohio-state.edu/10.1038/s41586-019-1799-6",
+        "keywords": "Breast cancer,Preclinical research,Science,Humanities and Social Sciences,multidisciplinary",
+        "image": "https://static-content.springer.com/image/art%3A10.1038%2Fs41586-019-1799-6/MediaObjects/41586_2019_1799_Fig1_HTML.png",
+        "isPartOf": {
+            "name": "Nature",
+            "issn": [
+                "1476-4687",
+                "0028-0836"
+            ],
+            "volumeNumber": "577",
+            "@type": [
+                "Periodical",
+                "PublicationVolume"
+            ]
+        },
+        "publisher": {
+            "name": "Nature Publishing Group UK",
+            "logo": {
+                "url": "https://www-springernature-com.proxy.lib.ohio-state.edu/app-sn/public/images/logo-springernature.png",
+                "@type": "ImageObject"
+            },
+            "@type": "Organization"
+        },
+        "author": [
+            {
+                "name": "Scott Mayer McKinney",
+                "affiliation": [
+                    {
+                        "name": "Google Health",
+                        "address": {
+                            "name": "Google Health, Palo Alto, USA",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    }
+                ],
+                "email": "scottmayer@google.com",
+                "@type": "Person"
+            },
+            {
+                "name": "Marcin Sieniek",
+                "affiliation": [
+                    {
+                        "name": "Google Health",
+                        "address": {
+                            "name": "Google Health, Palo Alto, USA",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    }
+                ],
+                "@type": "Person"
+            },
+            {
+                "name": "Varun Godbole",
+                "affiliation": [
+                    {
+                        "name": "Google Health",
+                        "address": {
+                            "name": "Google Health, Palo Alto, USA",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    }
+                ],
+                "@type": "Person"
+            },
+            {
+                "name": "Jonathan Godwin",
+                "affiliation": [
+                    {
+                        "name": "DeepMind",
+                        "address": {
+                            "name": "DeepMind, London, UK",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    }
+                ],
+                "@type": "Person"
+            },
+            {
+                "name": "Natasha Antropova",
+                "affiliation": [
+                    {
+                        "name": "DeepMind",
+                        "address": {
+                            "name": "DeepMind, London, UK",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    }
+                ],
+                "@type": "Person"
+            },
+            {
+                "name": "Hutan Ashrafian",
+                "affiliation": [
+                    {
+                        "name": "Imperial College London",
+                        "address": {
+                            "name": "Department of Surgery and Cancer, Imperial College London, London, UK",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    },
+                    {
+                        "name": "Imperial College London",
+                        "address": {
+                            "name": "Institute of Global Health Innovation, Imperial College London, London, UK",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    }
+                ],
+                "@type": "Person"
+            },
+            {
+                "name": "Trevor Back",
+                "affiliation": [
+                    {
+                        "name": "DeepMind",
+                        "address": {
+                            "name": "DeepMind, London, UK",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    }
+                ],
+                "@type": "Person"
+            },
+            {
+                "name": "Mary Chesus",
+                "affiliation": [
+                    {
+                        "name": "DeepMind",
+                        "address": {
+                            "name": "DeepMind, London, UK",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    }
+                ],
+                "@type": "Person"
+            },
+            {
+                "name": "Greg S. Corrado",
+                "affiliation": [
+                    {
+                        "name": "Google Health",
+                        "address": {
+                            "name": "Google Health, Palo Alto, USA",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    }
+                ],
+                "@type": "Person"
+            },
+            {
+                "name": "Ara Darzi",
+                "affiliation": [
+                    {
+                        "name": "Imperial College London",
+                        "address": {
+                            "name": "Department of Surgery and Cancer, Imperial College London, London, UK",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    },
+                    {
+                        "name": "Imperial College London",
+                        "address": {
+                            "name": "Institute of Global Health Innovation, Imperial College London, London, UK",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    },
+                    {
+                        "name": "Imperial College London",
+                        "address": {
+                            "name": "Cancer Research UK Imperial Centre, Imperial College London, London, UK",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    }
+                ],
+                "@type": "Person"
+            },
+            {
+                "name": "Mozziyar Etemadi",
+                "affiliation": [
+                    {
+                        "name": "Northwestern Medicine",
+                        "address": {
+                            "name": "Northwestern Medicine, Chicago, USA",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    }
+                ],
+                "@type": "Person"
+            },
+            {
+                "name": "Florencia Garcia-Vicente",
+                "affiliation": [
+                    {
+                        "name": "Northwestern Medicine",
+                        "address": {
+                            "name": "Northwestern Medicine, Chicago, USA",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    }
+                ],
+                "@type": "Person"
+            },
+            {
+                "name": "Fiona J. Gilbert",
+                "affiliation": [
+                    {
+                        "name": "University of Cambridge",
+                        "address": {
+                            "name": "Department of Radiology, Cambridge Biomedical Research Centre, University of Cambridge, Cambridge, UK",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    }
+                ],
+                "@type": "Person"
+            },
+            {
+                "name": "Mark Halling-Brown",
+                "affiliation": [
+                    {
+                        "name": "Royal Surrey County Hospital",
+                        "address": {
+                            "name": "Royal Surrey County Hospital, Guildford, UK",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    }
+                ],
+                "@type": "Person"
+            },
+            {
+                "name": "Demis Hassabis",
+                "affiliation": [
+                    {
+                        "name": "DeepMind",
+                        "address": {
+                            "name": "DeepMind, London, UK",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    }
+                ],
+                "@type": "Person"
+            },
+            {
+                "name": "Sunny Jansen",
+                "affiliation": [
+                    {
+                        "name": "Verily Life Sciences",
+                        "address": {
+                            "name": "Verily Life Sciences, South San Francisco, USA",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    }
+                ],
+                "@type": "Person"
+            },
+            {
+                "name": "Alan Karthikesalingam",
+                "affiliation": [
+                    {
+                        "name": "Google Health",
+                        "address": {
+                            "name": "Google Health, London, UK",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    }
+                ],
+                "@type": "Person"
+            },
+            {
+                "name": "Christopher J. Kelly",
+                "affiliation": [
+                    {
+                        "name": "Google Health",
+                        "address": {
+                            "name": "Google Health, London, UK",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    }
+                ],
+                "@type": "Person"
+            },
+            {
+                "name": "Dominic King",
+                "affiliation": [
+                    {
+                        "name": "Google Health",
+                        "address": {
+                            "name": "Google Health, London, UK",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    }
+                ],
+                "@type": "Person"
+            },
+            {
+                "name": "Joseph R. Ledsam",
+                "affiliation": [
+                    {
+                        "name": "DeepMind",
+                        "address": {
+                            "name": "DeepMind, London, UK",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    }
+                ],
+                "@type": "Person"
+            },
+            {
+                "name": "David Melnick",
+                "affiliation": [
+                    {
+                        "name": "Northwestern Medicine",
+                        "address": {
+                            "name": "Northwestern Medicine, Chicago, USA",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    }
+                ],
+                "@type": "Person"
+            },
+            {
+                "name": "Hormuz Mostofi",
+                "affiliation": [
+                    {
+                        "name": "Google Health",
+                        "address": {
+                            "name": "Google Health, Palo Alto, USA",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    }
+                ],
+                "@type": "Person"
+            },
+            {
+                "name": "Lily Peng",
+                "affiliation": [
+                    {
+                        "name": "Google Health",
+                        "address": {
+                            "name": "Google Health, Palo Alto, USA",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    }
+                ],
+                "@type": "Person"
+            },
+            {
+                "name": "Joshua Jay Reicher",
+                "affiliation": [
+                    {
+                        "name": "Stanford Health Care and Palo Alto Veterans Affairs",
+                        "address": {
+                            "name": "Stanford Health Care and Palo Alto Veterans Affairs, Palo Alto, USA",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    }
+                ],
+                "@type": "Person"
+            },
+            {
+                "name": "Bernardino Romera-Paredes",
+                "affiliation": [
+                    {
+                        "name": "DeepMind",
+                        "address": {
+                            "name": "DeepMind, London, UK",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    }
+                ],
+                "@type": "Person"
+            },
+            {
+                "name": "Richard Sidebottom",
+                "affiliation": [
+                    {
+                        "name": "The Royal Marsden Hospital",
+                        "address": {
+                            "name": "The Royal Marsden Hospital, London, UK",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    },
+                    {
+                        "name": "Thirlestaine Breast Centre",
+                        "address": {
+                            "name": "Thirlestaine Breast Centre, Cheltenham, UK",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    }
+                ],
+                "@type": "Person"
+            },
+            {
+                "name": "Mustafa Suleyman",
+                "affiliation": [
+                    {
+                        "name": "DeepMind",
+                        "address": {
+                            "name": "DeepMind, London, UK",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    }
+                ],
+                "@type": "Person"
+            },
+            {
+                "name": "Daniel Tse",
+                "affiliation": [
+                    {
+                        "name": "Google Health",
+                        "address": {
+                            "name": "Google Health, Palo Alto, USA",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    }
+                ],
+                "email": "tsed@google.com",
+                "@type": "Person"
+            },
+            {
+                "name": "Kenneth C. Young",
+                "affiliation": [
+                    {
+                        "name": "Royal Surrey County Hospital",
+                        "address": {
+                            "name": "Royal Surrey County Hospital, Guildford, UK",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    }
+                ],
+                "@type": "Person"
+            },
+            {
+                "name": "Jeffrey De Fauw",
+                "affiliation": [
+                    {
+                        "name": "DeepMind",
+                        "address": {
+                            "name": "DeepMind, London, UK",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    }
+                ],
+                "@type": "Person"
+            },
+            {
+                "name": "Shravya Shetty",
+                "affiliation": [
+                    {
+                        "name": "Google Health",
+                        "address": {
+                            "name": "Google Health, Palo Alto, USA",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    }
+                ],
+                "email": "sshetty@google.com",
+                "@type": "Person"
+            }
+        ],
+        "isAccessibleForFree": false,
+        "hasPart": {
+            "isAccessibleForFree": false,
+            "cssSelector": ".main-content",
+            "@type": "WebPageElement"
+        },
+        "@type": "ScholarlyArticle"
+    },
+    "@context": "https://schema.org",
+    "@type": "WebPage"
+}

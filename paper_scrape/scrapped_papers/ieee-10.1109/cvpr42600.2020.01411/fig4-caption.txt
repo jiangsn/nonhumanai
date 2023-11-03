@@ -1,0 +1,1 @@
+Figure 4: MNIST traversal. Reconstructions of the interpolations in the \mathcal{Z} space, and the \mathcal{W} space, between the same digits. The latter transition appears to be smoother.

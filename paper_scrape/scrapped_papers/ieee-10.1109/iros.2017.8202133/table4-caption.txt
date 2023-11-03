@@ -1,0 +1,1 @@
+Table IV Average detection error on geometric shapes by cm11Each of the models was trained with 20,000 training examples

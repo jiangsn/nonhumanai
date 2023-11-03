@@ -1,0 +1,205 @@
+{
+    "mainEntity": {
+        "headline": "BrainNet: A Multi-Person Brain-to-Brain Interface for Direct Collaboration Between Brains",
+        "description": "We present BrainNet which, to our knowledge, is the first multi-person\u00a0non-invasive direct brain-to-brain interface for collaborative problem solving. The interface combines electroencephalography (EEG) to record brain signals and transcranial magnetic stimulation (TMS) to deliver information noninvasively to the brain. The interface allows three human subjects to collaborate and solve a task using direct brain-to-brain communication. Two of the three subjects are designated as \u201cSenders\u201d whose brain signals are decoded using real-time EEG data analysis. The decoding process extracts each Sender\u2019s decision about whether to rotate a block in a Tetris-like game before it is dropped to fill a line. The Senders\u2019 decisions are transmitted via the Internet to the brain of a third subject, the \u201cReceiver,\u201d who cannot see the game screen. The Senders\u2019 decisions are delivered to the Receiver\u2019s brain via magnetic stimulation of the occipital cortex. The Receiver integrates the information received from the two Senders and uses an EEG interface to make a decision about either turning the block or keeping it in the same orientation. A second round of the game provides an additional chance for the Senders to evaluate the Receiver\u2019s decision and send feedback to the Receiver\u2019s brain, and for the Receiver to rectify a possible incorrect decision made in the first round. We evaluated the performance of BrainNet in terms of (1) Group-level performance during the game, (2) True/False positive rates of subjects\u2019 decisions, and (3) Mutual information between subjects. Five groups, each with three human subjects, successfully used BrainNet to perform the collaborative\u00a0task, with an average accuracy of 81.25%. Furthermore, by varying the information reliability of the Senders by artificially injecting noise into one Sender\u2019s signal, we investigated how the Receiver learns to integrate noisy signals in order to make a correct decision. We found that like conventional social networks, BrainNet allows Receivers to learn to trust the Sender who is more reliable, in this case, based solely on the information transmitted directly to their brains. Our results point the way to future brain-to-brain interfaces that enable cooperative problem solving by humans using a \u201csocial network\u201d of connected brains.",
+        "datePublished": "2019-04-16",
+        "dateModified": "2019-04-16",
+        "pageStart": "1",
+        "pageEnd": "11",
+        "license": "http://creativecommons.org/licenses/by/4.0/",
+        "sameAs": "https://doi-org.proxy.lib.ohio-state.edu/10.1038/s41598-019-41895-7",
+        "keywords": "Human behaviour,Neural decoding,Problem solving,Science,Humanities and Social Sciences,multidisciplinary",
+        "image": "https://static-content.springer.com/image/art%3A10.1038%2Fs41598-019-41895-7/MediaObjects/41598_2019_41895_Fig1_HTML.png",
+        "isPartOf": {
+            "name": "Scientific Reports",
+            "issn": [
+                "2045-2322"
+            ],
+            "volumeNumber": "9",
+            "@type": [
+                "Periodical",
+                "PublicationVolume"
+            ]
+        },
+        "publisher": {
+            "name": "Nature Publishing Group UK",
+            "logo": {
+                "url": "https://www-springernature-com.proxy.lib.ohio-state.edu/app-sn/public/images/logo-springernature.png",
+                "@type": "ImageObject"
+            },
+            "@type": "Organization"
+        },
+        "author": [
+            {
+                "name": "Linxing Jiang",
+                "affiliation": [
+                    {
+                        "name": "University of Washington, Paul G. Allen School of Computer Science & Engineering",
+                        "address": {
+                            "name": "University of Washington, Paul G. Allen School of Computer Science & Engineering, Seattle, USA",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    }
+                ],
+                "@type": "Person"
+            },
+            {
+                "name": "Andrea Stocco",
+                "url": "http://orcid.org/0000-0001-8919-3934",
+                "affiliation": [
+                    {
+                        "name": "University of Washington, Department of Psychology",
+                        "address": {
+                            "name": "University of Washington, Department of Psychology, Seattle, USA",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    },
+                    {
+                        "name": "University of Washington, Institute for Learning and Brain Sciences",
+                        "address": {
+                            "name": "University of Washington, Institute for Learning and Brain Sciences, Seattle, USA",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    },
+                    {
+                        "name": "University of Washington Institute for Neuroengineering",
+                        "address": {
+                            "name": "University of Washington Institute for Neuroengineering, Seattle, USA",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    },
+                    {
+                        "name": "University of Washington, Center for Neurotechnology",
+                        "address": {
+                            "name": "University of Washington, Center for Neurotechnology, Seattle, USA",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    }
+                ],
+                "@type": "Person"
+            },
+            {
+                "name": "Darby M. Losey",
+                "affiliation": [
+                    {
+                        "name": "Carnegie Mellon University, Department of Machine Learning",
+                        "address": {
+                            "name": "Carnegie Mellon University, Department of Machine Learning, Pittsburgh, USA",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    },
+                    {
+                        "name": "Carnegie Mellon University, Center for the Neural Basis of Cognition",
+                        "address": {
+                            "name": "Carnegie Mellon University, Center for the Neural Basis of Cognition, Pittsburgh, USA",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    }
+                ],
+                "@type": "Person"
+            },
+            {
+                "name": "Justin A. Abernethy",
+                "affiliation": [
+                    {
+                        "name": "University of Washington, Department of Psychology",
+                        "address": {
+                            "name": "University of Washington, Department of Psychology, Seattle, USA",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    },
+                    {
+                        "name": "University of Washington, Institute for Learning and Brain Sciences",
+                        "address": {
+                            "name": "University of Washington, Institute for Learning and Brain Sciences, Seattle, USA",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    }
+                ],
+                "@type": "Person"
+            },
+            {
+                "name": "Chantel S. Prat",
+                "affiliation": [
+                    {
+                        "name": "University of Washington, Department of Psychology",
+                        "address": {
+                            "name": "University of Washington, Department of Psychology, Seattle, USA",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    },
+                    {
+                        "name": "University of Washington, Institute for Learning and Brain Sciences",
+                        "address": {
+                            "name": "University of Washington, Institute for Learning and Brain Sciences, Seattle, USA",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    },
+                    {
+                        "name": "University of Washington Institute for Neuroengineering",
+                        "address": {
+                            "name": "University of Washington Institute for Neuroengineering, Seattle, USA",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    },
+                    {
+                        "name": "University of Washington, Center for Neurotechnology",
+                        "address": {
+                            "name": "University of Washington, Center for Neurotechnology, Seattle, USA",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    }
+                ],
+                "@type": "Person"
+            },
+            {
+                "name": "Rajesh P. N. Rao",
+                "affiliation": [
+                    {
+                        "name": "University of Washington, Paul G. Allen School of Computer Science & Engineering",
+                        "address": {
+                            "name": "University of Washington, Paul G. Allen School of Computer Science & Engineering, Seattle, USA",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    },
+                    {
+                        "name": "University of Washington Institute for Neuroengineering",
+                        "address": {
+                            "name": "University of Washington Institute for Neuroengineering, Seattle, USA",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    },
+                    {
+                        "name": "University of Washington, Center for Neurotechnology",
+                        "address": {
+                            "name": "University of Washington, Center for Neurotechnology, Seattle, USA",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    }
+                ],
+                "email": "rao@cs.washington.edu",
+                "@type": "Person"
+            }
+        ],
+        "isAccessibleForFree": true,
+        "@type": "ScholarlyArticle"
+    },
+    "@context": "https://schema.org",
+    "@type": "WebPage"
+}

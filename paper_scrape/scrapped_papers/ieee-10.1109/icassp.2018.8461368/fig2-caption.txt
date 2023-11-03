@@ -1,0 +1,1 @@
+Fig. 2. Synthesized vs. ground truth: 800 Ratings on 100 items.

@@ -1,0 +1,2 @@
+Table 2. 
+Success Rate of White-box attack on XceptionNet and MesoNet. We report the average L∞ distortion between the adversarial and original frames and the attack success rate on uncompressed (SR-U) and compressed (SR-C) videos. Acc-C denotes the accuracy of the detector on compressed adversarial videos.

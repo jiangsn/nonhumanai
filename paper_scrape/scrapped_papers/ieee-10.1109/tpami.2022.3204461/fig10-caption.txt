@@ -1,0 +1,2 @@
+Fig. 10. 
+ImageNet super-resolution fool rates. Model outputs are compared to ground truth with pair of images shown for 6 seconds.

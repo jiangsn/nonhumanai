@@ -1,0 +1,1 @@
+Gradient domain reconstruction. Previous methods operate directly in the color domain, which results in seams (a). We propagate in the gradient domain (b), and reconstruct the results by Poisson reconstruction (c).

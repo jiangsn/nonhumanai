@@ -1,0 +1,2 @@
+Figure 2: 
+Double-DIP Framework. Two Deep-ImagePrior networks (DIP1 & DIP2) jointly decompose an input image I into its layers (y1 & y2). Mixing those layers back according to a learned mask m, reconstructs an image Iˆ≈I.

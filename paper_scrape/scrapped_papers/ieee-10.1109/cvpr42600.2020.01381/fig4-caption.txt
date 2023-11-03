@@ -1,0 +1,1 @@
+Figure 4. We plot the activations of the penultimate layer of the face encoder and the attention alignment from the decoder. We see that the face encoder is highly attentive towards the mouth region.

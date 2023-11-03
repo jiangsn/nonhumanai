@@ -1,0 +1,2 @@
+TABLE I Quantifying the Benefit of the Built-in Sharpening Effect. We measure the average PSNR and SSIM (higher
+ is better) over Set5 and Set14 images, along with the standard-error of each quality metric

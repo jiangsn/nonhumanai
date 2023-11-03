@@ -1,0 +1,1 @@
+Figure 2. Given a single-view depth observation of a 3D scene the goal of our SSCNet is to predict both occupancy and object category for the voxels on the observed surface and occluded regions.

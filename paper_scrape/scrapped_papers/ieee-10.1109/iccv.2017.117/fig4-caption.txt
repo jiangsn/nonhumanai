@@ -1,0 +1,1 @@
+Figure 4: An overview of the proposed three architectures for volumetric regression: volumetric regression network (VRN), VRN - guided and VRN - multitask.

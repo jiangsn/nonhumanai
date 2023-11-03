@@ -1,0 +1,1 @@
+Figure 6: (a) We ran variations of the full system and an image-matching method (RGB + spacetime). For each model, we include an oracle model (labeled with “+ mat”) that draws its sound examples from videos with the same material label. (b) Class-averaged material recognition accuracy obtained by training an SVM with different image and sound features.

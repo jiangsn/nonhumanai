@@ -1,0 +1,1 @@
+Fig. 11: The connectivity graph presented in fig. 10 allows us to generate trajectories between any given two points in the map. In this case, the red block to the left was set as the origin while the green block to the right was declared as the navigation target. The path which an agent could have followed is shown in white.

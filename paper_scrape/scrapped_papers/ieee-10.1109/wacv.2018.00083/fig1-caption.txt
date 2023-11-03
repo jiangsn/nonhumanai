@@ -1,0 +1,1 @@
+Figure 1: Pruning results of VGG-16 on CIFAR 10. Numbers on top of bars are the pruning ratios.

@@ -1,0 +1,10 @@
+Fig. 7. Visualization of the learned filter sets for (a) 2 \times
+, (b) 3 \times and
+ (c) 4 \times upscaling, learned from using an
+ angle, strength, and coherence based hashing scheme. Per each subset of filters, the angle varies from left to right;
+ the top, middle, and bottom 3 rows correspond to low, medium and high coherence. Within each set of 3 rows, gradient
+ strength increases from top to bottom. As can be inferred, the general trend is that as coherence increases, the
+ directionality of the filter increases. Also, as strength increases the intensity of the filter increases. Notice how
+ the 3 \times and 4 \times upscaling filters are not simply scaled versions of
+ the 2 \times filters, but also have extracted
+ additional information from the training data.

@@ -1,0 +1,2 @@
+Figure 2: 
+A Cycle in Time. Given a video, tracking along the sequence formed by a cycle in time can be self-supervised: the target is simply the beginning of the cycle. The yellow arrow between the start and end represents the differentiable learning signal.

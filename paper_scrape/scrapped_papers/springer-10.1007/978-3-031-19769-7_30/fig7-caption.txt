@@ -1,0 +1,1 @@
+Perpetual view generation. Given a single RGB image, we show the results of our method generating sequences of 500 realistic new views of natural scenes without suffering significant drift. Please see video for animated results. (Color figure online)

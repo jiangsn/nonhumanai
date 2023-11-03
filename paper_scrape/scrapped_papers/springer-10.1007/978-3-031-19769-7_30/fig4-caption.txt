@@ -1,0 +1,1 @@
+Generated views after 50 steps with different settings. Each row shows results for a different input image. From left to right: input view; results without balanced GAN sampling; without the adversarial perpetual view generation strategy; without progressive trajectory growing; without self-supervised view synthesis; without global sky correction; full approach.

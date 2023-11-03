@@ -1,0 +1,1 @@
+Fig. 13: Semantic map generated automatically using the data collected from the agents. Regions in the map are identified and color-coded using unsupervised clustering algorithms and the connectivity graph is then used to visualize traversability between regions. Blue and red lines represent upwards and downwards trajectories respectively.

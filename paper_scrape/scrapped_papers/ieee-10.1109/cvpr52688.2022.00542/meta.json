@@ -1,0 +1,277 @@
+{
+    "userInfo": {
+        "customerNameRaw": "The Ohio State University",
+        "institutionName": "The Ohio State University",
+        "institute": true,
+        "member": false,
+        "individual": false,
+        "guest": false,
+        "subscribedContent": false,
+        "fileCabinetContent": false,
+        "fileCabinetUser": false,
+        "institutionalFileCabinetUser": false,
+        "products": "IEL|EBOOKS:1974:2014|JRNLARCH:1884:1994|CONFARCH:1951:1999|IBM:1872:2020|VDE|NOKIA BELL LABS|",
+        "instType": "Academic",
+        "userIds": [
+            7827
+        ],
+        "showPatentCitations": true,
+        "showGet802Link": true,
+        "openUrlImgLoc": "http://library-osu-edu.proxy.lib.ohio-state.edu/resources/serialssolutions/buttons/button75x25edit.jpg",
+        "openUrlLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu",
+        "instLogoFile": "7827_OSULHoriz.png",
+        "openUrlTxt": "Find It!",
+        "showOpenUrlLink": true,
+        "marketingInfoCaptured": false,
+        "tracked": false,
+        "ringGoldId": "2647",
+        "delegatedAdmin": false,
+        "desktop": false,
+        "isInstitutionDashboardEnabled": false,
+        "isInstitutionProfileEnabled": false,
+        "isRoamingEnabled": true,
+        "isDelegatedAdmin": false,
+        "isMdl": false,
+        "isCwg": false,
+        "isIel": true,
+        "isAcademic": true
+    },
+    "authors": [
+        {
+            "name": "Sara Fridovich-Keil",
+            "affiliation": [
+                "UC Berkeley"
+            ],
+            "firstName": "Sara",
+            "lastName": "Fridovich-Keil",
+            "id": "37086687828"
+        },
+        {
+            "name": "Alex Yu",
+            "affiliation": [
+                "UC Berkeley"
+            ],
+            "firstName": "Alex",
+            "lastName": "Yu",
+            "id": "37087232617"
+        },
+        {
+            "name": "Matthew Tancik",
+            "affiliation": [
+                "UC Berkeley"
+            ],
+            "firstName": "Matthew",
+            "lastName": "Tancik",
+            "id": "37086030996"
+        },
+        {
+            "name": "Qinhong Chen",
+            "affiliation": [
+                "UC Berkeley"
+            ],
+            "firstName": "Qinhong",
+            "lastName": "Chen",
+            "id": "37089535954"
+        },
+        {
+            "name": "Benjamin Recht",
+            "affiliation": [
+                "UC Berkeley"
+            ],
+            "firstName": "Benjamin",
+            "lastName": "Recht",
+            "id": "37265897700"
+        },
+        {
+            "name": "Angjoo Kanazawa",
+            "affiliation": [
+                "UC Berkeley"
+            ],
+            "firstName": "Angjoo",
+            "lastName": "Kanazawa",
+            "id": "37085996056"
+        }
+    ],
+    "isbn": [
+        {
+            "format": "Electronic ISBN",
+            "value": "978-1-6654-6946-3",
+            "isbnType": ""
+        },
+        {
+            "format": "Print on Demand(PoD) ISBN",
+            "value": "978-1-6654-6947-0",
+            "isbnType": ""
+        }
+    ],
+    "issn": [
+        {
+            "format": "Electronic ISSN",
+            "value": "2575-7075"
+        },
+        {
+            "format": "Print on Demand(PoD) ISSN",
+            "value": "1063-6919"
+        }
+    ],
+    "articleNumber": "9880358",
+    "dbTime": "1 ms",
+    "metrics": {
+        "citationCountPaper": 146,
+        "citationCountPatent": 0,
+        "totalDownloads": 319
+    },
+    "purchaseOptions": {
+        "showOtherFormatPricingTab": false,
+        "showPdfFormatPricingTab": true,
+        "pdfPricingInfoAvailable": true,
+        "otherPricingInfoAvailable": false,
+        "mandatoryBundle": false,
+        "optionalBundle": false,
+        "displayTextWhenOtherFormatPricingNotAvailable": "The purchase and pricing options for this item are unavailable. Select items are only available as part of a subscription package. You may try again later or <a href='https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/xpl/contact' target='_blank'>contact us</a> for more information.",
+        "pdfPricingInfo": [
+            {
+                "memberPrice": "$14.95",
+                "nonMemberPrice": "$33.00",
+                "partNumber": "9880358",
+                "type": "PDF/HTML"
+            }
+        ],
+        "openUrlFullLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu?url_ver=Z39.88-2004&rfr_id=info:sid/IEEE.org:XPLORE&rft_id=info:doi/10.1109/CVPR52688.2022.00542&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&rft.atitle=Plenoxels: Radiance Fields without Neural Networks&rft.jtitle=2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)&rft.date=2022&rft.spage=5491&rft.epage=5500&rft.eissn=2575-7075&rft.au=Sara Fridovich-Keil&rft.aulast=Sara Fridovich-Keil&rft.isbn=978-1-6654-6946-3"
+    },
+    "getProgramTermsAccepted": false,
+    "sections": {
+        "abstract": "true",
+        "authors": "true",
+        "figures": "true",
+        "multimedia": "true",
+        "references": "true",
+        "citedby": "true",
+        "keywords": "true",
+        "definitions": "false",
+        "algorithm": "false",
+        "dataset": "false",
+        "cadmore": "false",
+        "footnotes": "false",
+        "disclaimer": "false",
+        "relatedContent": "false",
+        "metrics": "true"
+    },
+    "abstract": "We introduce Plenoxels (plenoptic voxels), a systemfor photorealistic view synthesis. Plenoxels represent a scene as a sparse 3D grid with spherical harmonics. This representation can be optimized from calibrated images via gradient methods and regularization without any neural components. On standard, benchmark tasks, Plenoxels are optimized two orders of magnitude faster than Neural Radiance Fields with no loss in visual quality. For video and code, please see https://alexyu.net/plenoxels.",
+    "publicationYear": "2022",
+    "pdfPath": "/iel7/9878378/9878366/09880358.pdf",
+    "publicationDate": "June 2022",
+    "doi": "10.1109/CVPR52688.2022.00542",
+    "formulaStrippedArticleTitle": "Plenoxels: Radiance Fields without Neural Networks",
+    "displayPublicationTitle": "2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+    "authorNames": "Sara Fridovich-Keil;Alex Yu;Matthew Tancik;Qinhong Chen;Benjamin Recht;Angjoo Kanazawa",
+    "publicationTitle": "2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+    "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=proceedings&title=Plenoxels%3A+Radiance+Fields+without+Neural+Networks&isbn=978-1-6654-6946-3&publicationDate=June+2022&author=Sara+Fridovich-Keil&ContentID=10.1109/CVPR52688.2022.00542&orderBeanReset=true&startPage=5491&endPage=5500&proceedingName=2022+IEEE%2FCVF+Conference+on+Computer+Vision+and+Pattern+Recognition+%28CVPR%29",
+    "dateOfInsertion": "27 September 2022",
+    "startPage": "5491",
+    "endPage": "5500",
+    "pdfUrl": "/stamp/stamp.jsp?tp=&arnumber=9880358",
+    "keywords": [
+        {
+            "type": "IEEE Keywords",
+            "kwd": [
+                "Visualization",
+                "Gradient methods",
+                "Computer vision",
+                "Three-dimensional displays",
+                "Codes",
+                "Neural networks",
+                "Benchmark testing"
+            ]
+        },
+        {
+            "type": "INSPEC: Controlled Indexing",
+            "kwd": [
+                "calibration",
+                "gradient methods",
+                "rendering (computer graphics)"
+            ]
+        },
+        {
+            "type": "INSPEC: Non-Controlled Indexing",
+            "kwd": [
+                "gradient methods",
+                "neural components",
+                "Neural Radiance Fields",
+                "Neural networks",
+                "plenoptic voxels",
+                "systemfor photorealistic view synthesis",
+                "sparse 3D grid",
+                "spherical harmonics",
+                "calibrated images"
+            ]
+        },
+        {
+            "type": "Author Keywords ",
+            "kwd": [
+                "3D from multi-view and sensors; Efficient learning and inferences; Optimization methods; Vision + graphics"
+            ]
+        }
+    ],
+    "doiLink": "https://doi-org.proxy.lib.ohio-state.edu/10.1109/CVPR52688.2022.00542",
+    "displayPublicationDate": "18-24 June 2022",
+    "articleCopyRight": "2022 IEEE",
+    "issueLink": "/xpl/tocresult.jsp?isnumber=9878366&punumber=9878378",
+    "pubLink": "/xpl/conhome/9878378/proceeding",
+    "allowComments": false,
+    "isGetAddressInfoCaptured": false,
+    "isMarketingOptIn": false,
+    "pubTopics": [
+        {
+            "name": "Computing and Processing"
+        }
+    ],
+    "publisher": "IEEE",
+    "displayDocTitle": "Plenoxels: Radiance Fields without Neural Networks",
+    "isStandard": false,
+    "isConference": true,
+    "isBookWithoutChapters": false,
+    "isChapter": false,
+    "isProduct": false,
+    "isEarlyAccess": false,
+    "isOpenAccess": false,
+    "isEphemera": false,
+    "xploreDocumentType": "Conference Publication",
+    "isBook": false,
+    "isJournal": false,
+    "isSpringer": false,
+    "accessionNumber": "22093802",
+    "isFreeDocument": false,
+    "isPromo": false,
+    "isDynamicHtml": true,
+    "htmlLink": "/document/9880358/",
+    "htmlAbstractLink": "/document/9880358/",
+    "isCustomDenial": false,
+    "persistentLink": "https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/servlet/opac?punumber=9878378",
+    "isNow": false,
+    "isSAE": false,
+    "isOUP": false,
+    "isSMPTE": false,
+    "openAccessFlag": "F",
+    "insertDate": "27 September 2022",
+    "ephemeraFlag": "false",
+    "title": "Plenoxels: Radiance Fields without Neural Networks",
+    "confLoc": "New Orleans, LA, USA",
+    "html_flag": "false",
+    "ml_html_flag": "true",
+    "sourcePdf": "694600f491.pdf",
+    "mlTime": "PT0.073864S",
+    "xplore-pub-id": "9878378",
+    "isNumber": "9878366",
+    "rightsLinkFlag": "1",
+    "contentType": "conferences",
+    "publicationNumber": "9878378",
+    "citationCount": "146",
+    "xplore-issue": "9878366",
+    "articleId": "9880358",
+    "contentTypeDisplay": "Conferences",
+    "subType": "IEEE Conference",
+    "_value": "IEEE",
+    "lastupdate": "2023-10-14",
+    "mediaPath": "/mediastore_new/IEEE/content/media/9878378/9878366/9880358"
+}

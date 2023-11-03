@@ -1,0 +1,1 @@
+Figure 11: We compare our method with neural style transfer [11]. Left to right: Input images, results from [11] using single representative image as a style image, results from [11] using all the images from the target domain, and CycleGAN (ours)

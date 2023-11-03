@@ -1,0 +1,2 @@
+Table 2: 
+Overview of variables that are directly optimized, their symbol and description. For all of the variables that depend on time, we are actually optimizing the parameters of their respective splines (including tangent values).

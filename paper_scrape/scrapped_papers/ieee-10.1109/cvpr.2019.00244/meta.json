@@ -1,0 +1,250 @@
+{
+    "userInfo": {
+        "customerNameRaw": "The Ohio State University",
+        "institutionName": "The Ohio State University",
+        "institute": true,
+        "member": false,
+        "individual": false,
+        "guest": false,
+        "subscribedContent": false,
+        "fileCabinetContent": false,
+        "fileCabinetUser": false,
+        "institutionalFileCabinetUser": false,
+        "products": "IEL|EBOOKS:1974:2014|JRNLARCH:1884:1994|CONFARCH:1951:1999|IBM:1872:2020|VDE|NOKIA BELL LABS|",
+        "instType": "Academic",
+        "userIds": [
+            7827
+        ],
+        "showPatentCitations": true,
+        "showGet802Link": true,
+        "openUrlImgLoc": "http://library-osu-edu.proxy.lib.ohio-state.edu/resources/serialssolutions/buttons/button75x25edit.jpg",
+        "openUrlLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu",
+        "instLogoFile": "7827_OSULHoriz.png",
+        "openUrlTxt": "Find It!",
+        "showOpenUrlLink": true,
+        "marketingInfoCaptured": false,
+        "tracked": false,
+        "ringGoldId": "2647",
+        "delegatedAdmin": false,
+        "desktop": false,
+        "isInstitutionDashboardEnabled": false,
+        "isInstitutionProfileEnabled": false,
+        "isRoamingEnabled": true,
+        "isDelegatedAdmin": false,
+        "isMdl": false,
+        "isCwg": false,
+        "isIel": true,
+        "isAcademic": true
+    },
+    "authors": [
+        {
+            "name": "Taesung Park",
+            "affiliation": [
+                "UC Berkeley"
+            ],
+            "firstName": "Taesung",
+            "lastName": "Park",
+            "id": "37086335935"
+        },
+        {
+            "name": "Ming-Yu Liu",
+            "affiliation": [
+                "NVIDIA"
+            ],
+            "firstName": "Ming-Yu",
+            "lastName": "Liu",
+            "id": "37086564383"
+        },
+        {
+            "name": "Ting-Chun Wang",
+            "affiliation": [
+                "NVIDIA"
+            ],
+            "firstName": "Ting-Chun",
+            "lastName": "Wang",
+            "id": "37086568973"
+        },
+        {
+            "name": "Jun-Yan Zhu",
+            "affiliation": [
+                "NVIDIA",
+                "MIT CSAIL"
+            ],
+            "firstName": "Jun-Yan",
+            "lastName": "Zhu",
+            "id": "37085631277"
+        }
+    ],
+    "isbn": [
+        {
+            "format": "Electronic ISBN",
+            "value": "978-1-7281-3293-8",
+            "isbnType": ""
+        },
+        {
+            "format": "Print on Demand(PoD) ISBN",
+            "value": "978-1-7281-3294-5",
+            "isbnType": ""
+        }
+    ],
+    "issn": [
+        {
+            "format": "Electronic ISSN",
+            "value": "2575-7075"
+        },
+        {
+            "format": "Print on Demand(PoD) ISSN",
+            "value": "1063-6919"
+        }
+    ],
+    "articleNumber": "8953676",
+    "dbTime": "1 ms",
+    "metrics": {
+        "citationCountPaper": 1132,
+        "citationCountPatent": 2,
+        "totalDownloads": 1413
+    },
+    "purchaseOptions": {
+        "showOtherFormatPricingTab": false,
+        "showPdfFormatPricingTab": true,
+        "pdfPricingInfoAvailable": true,
+        "otherPricingInfoAvailable": false,
+        "mandatoryBundle": false,
+        "optionalBundle": false,
+        "displayTextWhenOtherFormatPricingNotAvailable": "The purchase and pricing options for this item are unavailable. Select items are only available as part of a subscription package. You may try again later or <a href='https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/xpl/contact' target='_blank'>contact us</a> for more information.",
+        "pdfPricingInfo": [
+            {
+                "memberPrice": "$14.95",
+                "nonMemberPrice": "$33.00",
+                "partNumber": "8953676",
+                "type": "PDF/HTML"
+            }
+        ],
+        "openUrlFullLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu?url_ver=Z39.88-2004&rfr_id=info:sid/IEEE.org:XPLORE&rft_id=info:doi/10.1109/CVPR.2019.00244&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&rft.atitle=Semantic Image Synthesis With Spatially-Adaptive Normalization&rft.jtitle=2019 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)&rft.date=2019&rft.spage=2332&rft.epage=2341&rft.eissn=2575-7075&rft.au=Taesung Park&rft.aulast=Taesung Park&rft.isbn=978-1-7281-3293-8"
+    },
+    "getProgramTermsAccepted": false,
+    "sections": {
+        "abstract": "true",
+        "authors": "true",
+        "figures": "true",
+        "multimedia": "false",
+        "references": "true",
+        "citedby": "true",
+        "keywords": "true",
+        "definitions": "false",
+        "algorithm": "false",
+        "dataset": "false",
+        "cadmore": "false",
+        "footnotes": "true",
+        "disclaimer": "false",
+        "relatedContent": "false",
+        "metrics": "true"
+    },
+    "abstract": "We propose spatially-adaptive normalization, a simple but effective layer for synthesizing photorealistic images given an input semantic layout. Previous methods directly feed the semantic layout as input to the network, forcing the network to memorize the information throughout all the layers. Instead, we propose using the input layout for modulating the activations in normalization layers through a spatially-adaptive, learned affine transformation. Experiments on several challenging datasets demonstrate the superiority of our method compared to existing approaches, regarding both visual fidelity and alignment with input layouts. Finally, our model allows users to easily control the style and content of image synthesis results as well as create multi-modal results. Code is available upon publication.",
+    "publicationYear": "2019",
+    "pdfPath": "/iel7/8938205/8953184/08953676.pdf",
+    "publicationDate": "June 2019",
+    "doi": "10.1109/CVPR.2019.00244",
+    "formulaStrippedArticleTitle": "Semantic Image Synthesis With Spatially-Adaptive Normalization",
+    "displayPublicationTitle": "2019 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+    "authorNames": "Taesung Park;Ming-Yu Liu;Ting-Chun Wang;Jun-Yan Zhu",
+    "publicationTitle": "2019 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+    "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=proceedings&title=Semantic+Image+Synthesis+With+Spatially-Adaptive+Normalization&isbn=978-1-7281-3293-8&publicationDate=June+2019&author=Taesung+Park&ContentID=10.1109/CVPR.2019.00244&orderBeanReset=true&startPage=2332&endPage=2341&proceedingName=2019+IEEE%2FCVF+Conference+on+Computer+Vision+and+Pattern+Recognition+%28CVPR%29",
+    "dateOfInsertion": "09 January 2020",
+    "startPage": "2332",
+    "endPage": "2341",
+    "pdfUrl": "/stamp/stamp.jsp?tp=&arnumber=8953676",
+    "keywords": [
+        {
+            "type": "INSPEC: Controlled Indexing",
+            "kwd": [
+                "affine transforms",
+                "image processing",
+                "learning (artificial intelligence)"
+            ]
+        },
+        {
+            "type": "INSPEC: Non-Controlled Indexing",
+            "kwd": [
+                "semantic image synthesis",
+                "spatially-adaptive normalization",
+                "simple but effective layer",
+                "photorealistic image synthesis",
+                "input semantic layout",
+                "normalization layers",
+                "input layouts",
+                "image synthesis results",
+                "visual fidelity",
+                "spatially-adaptive learned affine transformation"
+            ]
+        },
+        {
+            "type": "Author Keywords ",
+            "kwd": [
+                "Image and Video Synthesis",
+                "Computational Photography; Deep Learning ; Vision + Graphics"
+            ]
+        }
+    ],
+    "doiLink": "https://doi-org.proxy.lib.ohio-state.edu/10.1109/CVPR.2019.00244",
+    "displayPublicationDate": "15-20 June 2019",
+    "articleCopyRight": "2019 IEEE",
+    "issueLink": "/xpl/tocresult.jsp?isnumber=8953184&punumber=8938205",
+    "pubLink": "/xpl/conhome/8938205/proceeding",
+    "allowComments": false,
+    "isGetAddressInfoCaptured": false,
+    "isMarketingOptIn": false,
+    "pubTopics": [
+        {
+            "name": "Computing and Processing"
+        }
+    ],
+    "publisher": "IEEE",
+    "displayDocTitle": "Semantic Image Synthesis With Spatially-Adaptive Normalization",
+    "isStandard": false,
+    "isConference": true,
+    "isBookWithoutChapters": false,
+    "isChapter": false,
+    "isProduct": false,
+    "isEarlyAccess": false,
+    "isOpenAccess": false,
+    "isEphemera": false,
+    "xploreDocumentType": "Conference Publication",
+    "isBook": false,
+    "isJournal": false,
+    "isSpringer": false,
+    "accessionNumber": "19262756",
+    "isFreeDocument": false,
+    "isPromo": false,
+    "isDynamicHtml": true,
+    "htmlLink": "/document/8953676/",
+    "htmlAbstractLink": "/document/8953676/",
+    "isCustomDenial": false,
+    "persistentLink": "https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/servlet/opac?punumber=8938205",
+    "isNow": false,
+    "isSAE": false,
+    "isOUP": false,
+    "isSMPTE": false,
+    "openAccessFlag": "F",
+    "insertDate": "09 January 2020",
+    "ephemeraFlag": "false",
+    "title": "Semantic Image Synthesis With Spatially-Adaptive Normalization",
+    "confLoc": "Long Beach, CA, USA",
+    "html_flag": "false",
+    "ml_html_flag": "true",
+    "sourcePdf": "329300c332.pdf",
+    "mlTime": "PT0.073513S",
+    "xplore-pub-id": "8938205",
+    "isNumber": "8953184",
+    "rightsLinkFlag": "1",
+    "contentType": "conferences",
+    "publicationNumber": "8938205",
+    "citationCount": "1132",
+    "xplore-issue": "8953184",
+    "articleId": "8953676",
+    "contentTypeDisplay": "Conferences",
+    "subType": "IEEE Conference",
+    "_value": "IEEE",
+    "lastupdate": "2023-10-19",
+    "mediaPath": "/mediastore_new/IEEE/content/media/8938205/8953184/8953676"
+}

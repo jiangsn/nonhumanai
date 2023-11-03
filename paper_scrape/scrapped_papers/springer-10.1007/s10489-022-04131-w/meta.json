@@ -1,0 +1,104 @@
+[
+    {
+        "GA Key": "UA-26408784-1",
+        "DOI": "10.1007/s10489-022-04131-w",
+        "Page": "article",
+        "springerJournal": true,
+        "page": {
+            "attributes": {
+                "environment": "live"
+            }
+        },
+        "Country": "US",
+        "japan": false,
+        "doi": "10.1007-s10489-022-04131-w",
+        "Journal Title": "Applied Intelligence",
+        "Journal Id": 10489,
+        "Keywords": "Table tennis robot, Stroke learning, Reinforcement learning, Sim2Real",
+        "kwrd": [
+            "Table_tennis_robot",
+            "Stroke_learning",
+            "Reinforcement_learning",
+            "Sim2Real"
+        ],
+        "Labs": "Y",
+        "ksg": "Krux.segments",
+        "kuid": "Krux.uid",
+        "Has Body": "Y",
+        "Features": [
+            "doNotAutoAssociate",
+            "cobranding",
+            "doNotAutoAssociate",
+            "cobranding"
+        ],
+        "Open Access": "N",
+        "hasAccess": "Y",
+        "bypassPaywall": "N",
+        "user": {
+            "license": {
+                "businessPartnerID": [
+                    "3000266689",
+                    "8200724141"
+                ],
+                "businessPartnerIDString": "3000266689|8200724141"
+            }
+        },
+        "Access Type": "subscription",
+        "Bpids": "3000266689, 8200724141",
+        "Bpnames": "OhioLINK Consortium, Ohio State University Libraries",
+        "BPID": [
+            "3000266689",
+            "8200724141"
+        ],
+        "VG Wort Identifier": "pw-vgzm.415900-10.1007-s10489-022-04131-w",
+        "Full HTML": "Y",
+        "Subject Codes": [
+            "SCI",
+            "SCI21000",
+            "SCT17004",
+            "SCT22050"
+        ],
+        "pmc": [
+            "I",
+            "I21000",
+            "T17004",
+            "T22050"
+        ],
+        "session": {
+            "authentication": {
+                "loginStatus": "N"
+            },
+            "attributes": {
+                "edition": "academic"
+            }
+        },
+        "content": {
+            "serial": {
+                "eissn": "1573-7497",
+                "pissn": "0924-669X"
+            },
+            "type": "Article",
+            "category": {
+                "pmc": {
+                    "primarySubject": "Computer Science",
+                    "primarySubjectCode": "I",
+                    "secondarySubjects": {
+                        "1": "Artificial Intelligence",
+                        "2": "Mechanical Engineering",
+                        "3": "Manufacturing, Machines, Tools, Processes"
+                    },
+                    "secondarySubjectCodes": {
+                        "1": "I21000",
+                        "2": "T17004",
+                        "3": "T22050"
+                    }
+                },
+                "sucode": "SC6"
+            },
+            "attributes": {
+                "deliveryPlatform": "oscar"
+            }
+        },
+        "Event Category": "Article"
+    }
+]

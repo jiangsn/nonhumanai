@@ -1,0 +1,1 @@
+Table 2: Pairwise comparison results on the cityscapes dataset [7]. Each cell lists the percentage where our result is preferred over the other method. Chance is at 50%.

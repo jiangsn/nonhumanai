@@ -1,0 +1,1 @@
+Table 3. Ablation study on SUNCG testset. First two row shows the evaluation on surface segmentation with and without joint training. The following rows show the evaluation on semantic scene completion task. D: 3D dilated convolution. M: Multi-scale aggregation.

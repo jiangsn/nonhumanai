@@ -1,0 +1,1 @@
+Table 3: Subset of 10 hand-chosen “easy” classes.

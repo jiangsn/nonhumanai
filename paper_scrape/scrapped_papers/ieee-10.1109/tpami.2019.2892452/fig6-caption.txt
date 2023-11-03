@@ -1,0 +1,2 @@
+Fig. 6. 
+Some qualitative comparisons of our model and Zhou et al. [23] on two representative datasets in the wild, i.e., KTH Football II [60] (first row) and MPII datasets [48] (the remaining rows). For each image, the original viewpoint and a better viewpoint are illustrated. Best viewed in color. Red and green indicate left and right, respectively.

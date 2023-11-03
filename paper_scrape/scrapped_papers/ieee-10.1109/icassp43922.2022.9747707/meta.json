@@ -1,0 +1,299 @@
+{
+    "userInfo": {
+        "customerNameRaw": "The Ohio State University",
+        "institutionName": "The Ohio State University",
+        "institute": true,
+        "member": false,
+        "individual": false,
+        "guest": false,
+        "subscribedContent": false,
+        "fileCabinetContent": false,
+        "fileCabinetUser": false,
+        "institutionalFileCabinetUser": false,
+        "products": "IEL|EBOOKS:1974:2014|JRNLARCH:1884:1994|CONFARCH:1951:1999|IBM:1872:2020|VDE|NOKIA BELL LABS|",
+        "instType": "Academic",
+        "userIds": [
+            7827
+        ],
+        "showPatentCitations": true,
+        "showGet802Link": true,
+        "openUrlImgLoc": "http://library-osu-edu.proxy.lib.ohio-state.edu/resources/serialssolutions/buttons/button75x25edit.jpg",
+        "openUrlLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu",
+        "instLogoFile": "7827_OSULHoriz.png",
+        "openUrlTxt": "Find It!",
+        "showOpenUrlLink": true,
+        "marketingInfoCaptured": false,
+        "tracked": false,
+        "ringGoldId": "2647",
+        "delegatedAdmin": false,
+        "desktop": false,
+        "isInstitutionDashboardEnabled": false,
+        "isInstitutionProfileEnabled": false,
+        "isRoamingEnabled": true,
+        "isDelegatedAdmin": false,
+        "isMdl": false,
+        "isCwg": false,
+        "isIel": true,
+        "isAcademic": true
+    },
+    "authors": [
+        {
+            "name": "Rohan Badlani",
+            "affiliation": [
+                "NVIDIA, Santa Clara"
+            ],
+            "firstName": "Rohan",
+            "lastName": "Badlani",
+            "id": "37086238046"
+        },
+        {
+            "name": "Adrian \u0141a\u0144cucki",
+            "affiliation": [
+                "NVIDIA, Santa Clara"
+            ],
+            "firstName": "Adrian",
+            "lastName": "\u0141a\u0144cucki",
+            "id": "37085630265"
+        },
+        {
+            "name": "Kevin J. Shih",
+            "affiliation": [
+                "NVIDIA, Santa Clara"
+            ],
+            "firstName": "Kevin J.",
+            "lastName": "Shih",
+            "id": "37076000200"
+        },
+        {
+            "name": "Rafael Valle",
+            "affiliation": [
+                "NVIDIA, Santa Clara"
+            ],
+            "firstName": "Rafael",
+            "lastName": "Valle",
+            "id": "37085789245"
+        },
+        {
+            "name": "Wei Ping",
+            "affiliation": [
+                "NVIDIA, Santa Clara"
+            ],
+            "firstName": "Wei",
+            "lastName": "Ping",
+            "id": "37089469838"
+        },
+        {
+            "name": "Bryan Catanzaro",
+            "affiliation": [
+                "NVIDIA, Santa Clara"
+            ],
+            "firstName": "Bryan",
+            "lastName": "Catanzaro",
+            "id": "37377652300"
+        }
+    ],
+    "isbn": [
+        {
+            "format": "Electronic ISBN",
+            "value": "978-1-6654-0540-9",
+            "isbnType": ""
+        },
+        {
+            "format": "Print on Demand(PoD) ISBN",
+            "value": "978-1-6654-0541-6",
+            "isbnType": ""
+        }
+    ],
+    "issn": [
+        {
+            "format": "Electronic ISSN",
+            "value": "2379-190X"
+        },
+        {
+            "format": "Print on Demand(PoD) ISSN",
+            "value": "1520-6149"
+        }
+    ],
+    "articleNumber": "9747707",
+    "dbTime": "1 ms",
+    "metrics": {
+        "citationCountPaper": 10,
+        "citationCountPatent": 0,
+        "totalDownloads": 829
+    },
+    "purchaseOptions": {
+        "showOtherFormatPricingTab": false,
+        "showPdfFormatPricingTab": true,
+        "pdfPricingInfoAvailable": true,
+        "otherPricingInfoAvailable": false,
+        "mandatoryBundle": false,
+        "optionalBundle": false,
+        "displayTextWhenOtherFormatPricingNotAvailable": "The purchase and pricing options for this item are unavailable. Select items are only available as part of a subscription package. You may try again later or <a href='https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/xpl/contact' target='_blank'>contact us</a> for more information.",
+        "pdfPricingInfo": [
+            {
+                "memberPrice": "$14.95",
+                "nonMemberPrice": "$33.00",
+                "partNumber": "9747707",
+                "type": "PDF/HTML"
+            }
+        ],
+        "openUrlFullLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu?url_ver=Z39.88-2004&rfr_id=info:sid/IEEE.org:XPLORE&rft_id=info:doi/10.1109/ICASSP43922.2022.9747707&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&rft.atitle=One TTS Alignment to Rule Them All&rft.jtitle=ICASSP 2022 - 2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)&rft.date=2022&rft.spage=6092&rft.epage=6096&rft.eissn=2379-190X&rft.au=Rohan Badlani&rft.aulast=Rohan Badlani&rft.isbn=978-1-6654-0540-9"
+    },
+    "getProgramTermsAccepted": false,
+    "sections": {
+        "abstract": "true",
+        "authors": "true",
+        "figures": "true",
+        "multimedia": "false",
+        "references": "true",
+        "citedby": "true",
+        "keywords": "true",
+        "definitions": "false",
+        "algorithm": "false",
+        "dataset": "false",
+        "cadmore": "false",
+        "footnotes": "true",
+        "disclaimer": "false",
+        "relatedContent": "false",
+        "metrics": "true"
+    },
+    "abstract": "Speech-to-text alignment is a critical component of neural text-to-speech (TTS) models. Autoregressive TTS models typically use an attention mechanism to learn these alignments on-line. However, these alignments tend to be brittle and often fail to generalize to long utterances and out-of-domain text, leading to missing or repeating words. Most non-autoregressive end-to-end TTS models rely on durations extracted from external sources. In this paper we leverage the alignment mechanism proposed in RAD-TTS and demonstrate its applicability to wide variety of neural TTS models. The alignment learning framework combines the forward-sum algorithm, Viterbi algorithm, and an efficient static prior. In our experiments, the framework improves all tested TTS architectures, both autoregressive (Flowtron, Tacotron 2) and non-autoregressive (FastPitch, FastSpeech 2, RAD-TTS). Specifically, it improves alignment convergence speed, simplifies the training pipeline by eliminating need for external aligners, enhances robustness to errors on long utterances and improves the perceived speech synthesis quality, as judged by human evaluators.",
+    "publicationYear": "2022",
+    "pdfPath": "/iel7/9745891/9746004/09747707.pdf",
+    "publicationDate": "23 May 2022",
+    "doi": "10.1109/ICASSP43922.2022.9747707",
+    "formulaStrippedArticleTitle": "One TTS Alignment to Rule Them All",
+    "displayPublicationTitle": "ICASSP 2022 - 2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)",
+    "authorNames": "Rohan Badlani;Adrian \u0141a\u0144cucki;Kevin J. Shih;Rafael Valle;Wei Ping;Bryan Catanzaro",
+    "publicationTitle": "ICASSP 2022 - 2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)",
+    "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=proceedings&title=One+TTS+Alignment+to+Rule+Them+All&isbn=978-1-6654-0540-9&publicationDate=23+May+2022&author=Rohan+Badlani&ContentID=10.1109/ICASSP43922.2022.9747707&orderBeanReset=true&startPage=6092&endPage=6096&proceedingName=ICASSP+2022+-+2022+IEEE+International+Conference+on+Acoustics%2C+Speech+and+Signal+Processing+%28ICASSP%29",
+    "dateOfInsertion": "27 April 2022",
+    "startPage": "6092",
+    "endPage": "6096",
+    "pdfUrl": "/stamp/stamp.jsp?tp=&arnumber=9747707",
+    "keywords": [
+        {
+            "type": "IEEE Keywords",
+            "kwd": [
+                "Training",
+                "Viterbi algorithm",
+                "Conferences",
+                "Pipelines",
+                "Signal processing algorithms",
+                "Signal processing",
+                "Robustness"
+            ]
+        },
+        {
+            "type": "INSPEC: Controlled Indexing",
+            "kwd": [
+                "autoregressive processes",
+                "feature extraction",
+                "learning (artificial intelligence)",
+                "neural nets",
+                "speech synthesis",
+                "text analysis"
+            ]
+        },
+        {
+            "type": "INSPEC: Non-Controlled Indexing",
+            "kwd": [
+                "TTS alignment",
+                "speech-to-text alignment",
+                "critical component",
+                "text-to-speech models",
+                "autoregressive TTS models",
+                "attention mechanism",
+                "long utterances",
+                "out-of-domain text",
+                "nonautoregressive end-to-end TTS models",
+                "alignment mechanism",
+                "RAD-TTS",
+                "neural TTS models",
+                "alignment learning framework",
+                "forward-sum algorithm",
+                "tested TTS architectures",
+                "alignment convergence speed",
+                "external aligners",
+                "perceived speech synthesis quality"
+            ]
+        },
+        {
+            "type": "Author Keywords ",
+            "kwd": [
+                "neural speech synthesis",
+                "speech text alignments"
+            ]
+        }
+    ],
+    "doiLink": "https://doi-org.proxy.lib.ohio-state.edu/10.1109/ICASSP43922.2022.9747707",
+    "displayPublicationDate": "23-27 May 2022",
+    "articleCopyRight": "2021 IEEE",
+    "issueLink": "/xpl/tocresult.jsp?isnumber=9746004&punumber=9745891",
+    "pubLink": "/xpl/conhome/9745891/proceeding",
+    "allowComments": false,
+    "isGetAddressInfoCaptured": false,
+    "isMarketingOptIn": false,
+    "pubTopics": [
+        {
+            "name": "Bioengineering"
+        },
+        {
+            "name": "Communication, Networking and Broadcast Technologies"
+        },
+        {
+            "name": "Computing and Processing"
+        },
+        {
+            "name": "Signal Processing and Analysis"
+        }
+    ],
+    "publisher": "IEEE",
+    "displayDocTitle": "One TTS Alignment to Rule Them All",
+    "isStandard": false,
+    "isConference": true,
+    "isBookWithoutChapters": false,
+    "isChapter": false,
+    "isProduct": false,
+    "isEarlyAccess": false,
+    "isOpenAccess": false,
+    "isEphemera": false,
+    "xploreDocumentType": "Conference Publication",
+    "isBook": false,
+    "isJournal": false,
+    "isSpringer": false,
+    "accessionNumber": "21906651",
+    "isFreeDocument": false,
+    "isPromo": false,
+    "isDynamicHtml": true,
+    "htmlLink": "/document/9747707/",
+    "htmlAbstractLink": "/document/9747707/",
+    "isCustomDenial": false,
+    "persistentLink": "https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/servlet/opac?punumber=9745891",
+    "isNow": false,
+    "isSAE": false,
+    "isOUP": false,
+    "isSMPTE": false,
+    "openAccessFlag": "F",
+    "insertDate": "27 April 2022",
+    "ephemeraFlag": "false",
+    "title": "One TTS Alignment to Rule Them All",
+    "confLoc": "Singapore, Singapore",
+    "html_flag": "false",
+    "ml_html_flag": "true",
+    "sourcePdf": "0006092.pdf",
+    "mlTime": "PT0.046145S",
+    "xplore-pub-id": "9745891",
+    "isNumber": "9746004",
+    "rightsLinkFlag": "1",
+    "contentType": "conferences",
+    "publicationNumber": "9745891",
+    "citationCount": "10",
+    "xplore-issue": "9746004",
+    "articleId": "9747707",
+    "contentTypeDisplay": "Conferences",
+    "subType": "IEEE Conference",
+    "_value": "IEEE",
+    "lastupdate": "2023-10-08",
+    "mediaPath": "/mediastore_new/IEEE/content/media/9745891/9746004/9747707"
+}

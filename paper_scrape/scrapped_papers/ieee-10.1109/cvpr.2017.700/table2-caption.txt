@@ -1,0 +1,1 @@
+Table 2. Results on the Make3D dataset [42]. Similar to ours, go-dard et al. [16] do not utilize any of the make3D data during training, and directly apply the model trained on KITTI+Cityscapes to the test set. Following the evaluation protocol of [16], the errors are only computed where depth is less than 70 meters in a central image crop.

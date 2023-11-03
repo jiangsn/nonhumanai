@@ -1,0 +1,1 @@
+Figure 3. Diagram for evaluating the image-sentence score Skl. Object regions are embedded with a CNN (left). Words (enriched by their context) are embedded in the same multimodal space with a BRNN (right). Pairwise similarities are computed with inner products (magnitudes shown in grayscale) and finally reduced to image-sentence score with equation 8.

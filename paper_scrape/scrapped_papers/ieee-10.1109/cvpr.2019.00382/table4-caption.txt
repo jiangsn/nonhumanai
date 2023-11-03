@@ -1,0 +1,2 @@
+Table 4. 
+Quantitative comparisons on the UCF101, Vimeo90K, HD, and Middlebury OTHER datasets. The numbers in \color{red}{\text{red}}red and \color{blue}{\text{blue}}blue indicate the best and second best performance. We also compare the model parameters and runtime of each method.

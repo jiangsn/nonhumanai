@@ -1,0 +1,1 @@
+Figure 9. Examples of Unsupervised image translation from edges(edges2shoes Dataset, Domain A) to shoes (edges2shoes Dataset, Domain B) using various network structures. CycleGAN, DRIT, UNIT, MUNIT are all trained to 64×64 resolution using the default settings from the official implementations.

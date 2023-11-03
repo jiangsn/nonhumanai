@@ -1,0 +1,1 @@
+Figure 4: Comparison of our tracking to Shi et al. [26]. From left to right: RGB input, reconstructed model, overlay with input, close-ups on eye and cheek. Note that shi et al. Perform shape-from-shading in a post process.

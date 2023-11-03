@@ -1,0 +1,1 @@
+Fig. 1. One-pixel attacks created with the proposed algorithm that successfully fooled three types of DNNs trained on CIFAR-10 dataset: the AllConv, NiN, and VGG. The original class labels are in black color while the target class labels and the corresponding confidence are given below.

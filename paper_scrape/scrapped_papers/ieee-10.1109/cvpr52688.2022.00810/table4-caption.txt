@@ -1,0 +1,1 @@
+Table 4. View interpolation error metrics on nerfactor's variant of the nerf synthetic dataset. The reported image metrics are the arithmetic mean over the eight validation images of all four scenes.

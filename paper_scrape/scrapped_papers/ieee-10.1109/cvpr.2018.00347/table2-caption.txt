@@ -1,0 +1,1 @@
+Table 2. Perceptual experiments were used to compare the pre-sented pipeline with bm3D and burst denoising. The experiment is skewed in favor of the baselines, as described in the text. The presented single-image pipeline still significantly outperforms the baselines on the challenging x300 set and is on par on the easier x100 set

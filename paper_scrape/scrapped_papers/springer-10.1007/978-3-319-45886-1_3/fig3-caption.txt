@@ -1,0 +1,1 @@
+Scene from Miss Marple, combined with The Starry Night painting. (a) Short-term consistency only. (b) Long-term consistency with J = \{1, 10, 20, 40\}. Corresponding video is linked in Sect. 8.1.

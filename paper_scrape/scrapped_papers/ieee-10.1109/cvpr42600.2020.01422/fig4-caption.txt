@@ -1,0 +1,1 @@
+Figure 4: Quantitative evaluation on controlled sequences. For each sequence, we show the keyframe (left) and recovered background (middle) and reflection/occluder (right). We report the NCC scores of recovered backgrounds and reflections for quantitative comparisons.

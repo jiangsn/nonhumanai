@@ -1,0 +1,2 @@
+Fig. 3. 
+Depiction of U-Net architecture of SR3. The low resolution input image {\boldsymbol{x}} is up-sampled to the target resolution using bicubic interpolation, and concatenated with the noisy high resolution output image {\boldsymbol{y}}_{t}. We show the activation dimensions for a 16×16 \rightarrow 128×128 super resolution model. We perform self-attention on 16×16 feature maps.

@@ -1,0 +1,2 @@
+Figure 1: 
+Our method can synthesize novel views in both space and time from a single monocular video of a dynamic scene. Here we show video results with various configurations of fixing and interpolating view and time (left), as well as a visualization of the recovered scene geometry (right). Please view with Adobe Acrobat or KDE Okular to see animations.

@@ -1,0 +1,1 @@
+Retraining process for the original racket (a) and for the coefficient-unknown racket (b), with balls served by a ball throwing machine. The metrics 𝜖d and 𝜖h in units of centimeters (cm) are the landing distance error 𝜖d and the height error 𝜖h when the ball crosses the net

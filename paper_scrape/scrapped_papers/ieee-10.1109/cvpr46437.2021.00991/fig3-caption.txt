@@ -1,0 +1,2 @@
+Figure 3: 
+Source and driving feature extraction. (a) From the source image, we extract appearance features and 3D canonical keypoints. We also estimate the head pose and the keypoint perturbations due to expressions. We use them to compute the source keypoints. (b) For the driving image, we again estimate the head pose and the expression deformations. By reusing canonical keypoints from the source image, we compute the driving keypoints.

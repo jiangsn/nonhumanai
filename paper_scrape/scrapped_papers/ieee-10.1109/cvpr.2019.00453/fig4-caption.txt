@@ -1,0 +1,2 @@
+Figure 4. 
+Examples of stochastic variation, (a) Two generated images, (b) Zoom-in with different realizations of input noise. While the overall appearance is almost identical, individual hairs are placed very differently, (c) Standard deviation of each pixel over 100 different realizations, highlighting which parts of the images are affected by the noise. The main areas are the hair, silhouettes, and parts of background, but there is also interesting stochastic variation in the eye reflections. Global aspects such as identity and pose are unaffected by stochastic variation.

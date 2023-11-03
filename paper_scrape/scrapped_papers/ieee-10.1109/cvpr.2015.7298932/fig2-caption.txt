@@ -1,0 +1,1 @@
+Figure 2. Overview of our approach. A dataset of images and their sentence descriptions is the input to our model (left). Our model first infers the correspondences (middle, section 3.1) and then learns to generate novel descriptions (right, section 3.2).

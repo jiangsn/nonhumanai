@@ -1,0 +1,2 @@
+Figure 10: 
+Uniform vs. Non-Uniform Airlight recovery. The uniform airlight assumption is often violated (e.g., in dusk and dawn). Double-DIP allows to recover a nonuniform airlight map, yielding higher-quality dehazing.

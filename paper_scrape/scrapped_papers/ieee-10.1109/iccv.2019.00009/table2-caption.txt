@@ -1,0 +1,1 @@
+Table 2 : Results of the Low Quality Trained Model of Each Detection Method On Our Benchmark. We Report Precision Results For Deepfakes (DF), Face2face (F2F), Faceswap (FS), Neuraltextures (NT), and Pristine Images (Real) As Well As the Overall Total Accuracy.

@@ -1,0 +1,1 @@
+3D reconstruction performance (CED curves) on in-the-wild AFLW2000-3D dataset and Florence dataset. The mean NME% of each method is showed in the legend. On AFLW2000-3D, more than 45K points are used for evaluation. On Florence, about 19K points are used.

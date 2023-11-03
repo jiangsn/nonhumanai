@@ -1,0 +1,2 @@
+Figure 3: 
+The complexity of mixtures of layers vs. the simplicity of the individual components. (See text for explanation).

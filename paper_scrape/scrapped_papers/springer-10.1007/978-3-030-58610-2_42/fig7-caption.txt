@@ -1,0 +1,1 @@
+Qualitative results. We show the results of stationary screen-space inpainting task (first three columns) and object removal task (last three columns).

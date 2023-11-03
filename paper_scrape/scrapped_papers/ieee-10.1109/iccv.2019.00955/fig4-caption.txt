@@ -1,0 +1,6 @@
+
+Figure 4:
+ 
+
+Results for our best models on the VoxCeleb2 dataset. The number of training frames is, again, equal to T (the leftmost column) and the example training frame in shown in the source column. Next columns show ground truth image and the results for Ours-FF feed-forward model, Ours-FT model before and after fine-tuning. While the feed-forward variant allows fast (real-time) few-shot learning of new avatars, fine-tuning ultimately provides better realism and fidelity.
+

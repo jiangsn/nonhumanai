@@ -1,0 +1,1 @@
+Table 3. Comparison of a class-conditional imagenet LDM with recent state-of-the-art methods for class-conditional image generation on the ImageNet [12] dataset. A more detailed comparison with additional baselines can be found in C.5, tab. 10 and e.

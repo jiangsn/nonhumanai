@@ -1,0 +1,2 @@
+Figure 8. 
+Editing Comparison. We apply edits on inversions obtained from several methods. For performing the edits in the human facial domain we use InterFaceGAN [36], for the cars domain we use GANSpace [16], and for the horse domain we use SeFa [37].

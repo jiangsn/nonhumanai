@@ -1,0 +1,1 @@
+Figure 3: Schematic illustration of the blending procedure in curriculum training for the generator (top) and the discriminator (bottom). v_{scale}, r_{s}vscale,rs denote the scale-specific input and reconstruction layer, and u_{s}us denotes the pyramid of scale s. \alphas.α varies from 0 to 1 during blending to control the impact of the new pyramid.

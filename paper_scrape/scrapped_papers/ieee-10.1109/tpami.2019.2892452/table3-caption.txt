@@ -1,0 +1,2 @@
+TABLE 3 
+Quantitative Comparisons on the HumanEva-I Dataset Using 3D Pose Errors (in millimeters) for the “walking”, “jogging” and “boxing” Sequences

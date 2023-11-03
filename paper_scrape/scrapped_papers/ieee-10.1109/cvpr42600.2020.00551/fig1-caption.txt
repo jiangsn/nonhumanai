@@ -1,0 +1,1 @@
+Figure 1: Demonstration of the semantically multi-modal image synthesis (SMIS) task. Text of each column above the images indicates the semantic area that is changing across the whole column. The first row represents the input labels and the rest rows are generated images by our method.

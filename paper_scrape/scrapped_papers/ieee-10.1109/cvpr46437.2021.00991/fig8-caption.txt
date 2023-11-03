@@ -1,0 +1,2 @@
+Figure 8: 
+Qualitative results for cross-subject motion transfer. Ours captures the motion and preserves the identity better.

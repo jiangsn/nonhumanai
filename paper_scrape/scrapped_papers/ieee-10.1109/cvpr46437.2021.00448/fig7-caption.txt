@@ -1,0 +1,2 @@
+Figure 7. 
+Comparison with shadow detection. (b) Results produced by ISD [32], a recent state of the art, single-image shadow detection method, and (c) our results when using (d) MaskRCNN masks as input. See SM for additional comparisons.

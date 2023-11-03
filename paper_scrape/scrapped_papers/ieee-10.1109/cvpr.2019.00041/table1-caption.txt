@@ -1,0 +1,2 @@
+Table 1: 
+Quantitative results of binaural audio prediction on four diverse datasets. We report the STFT distance and the envelope distance; lower is better. For FAIR-Play, we report the average results across 10 random splits. The results have a standard error of approximately 5×10−2 for STFT distance and 3×10−3 for ENV distance on average.

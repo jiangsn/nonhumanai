@@ -1,0 +1,2 @@
+Figure 4. 
+Qualitative Comparison. We compare various encoder-based and optimization-based inversion methods with our ReStyle scheme applied over pSp [35] and e4e [40] (denoted by ReStylepSp and ReStylee4e). Hybrid results are obtained by performing optimization on the latent codes obtained by the adjacent encoder. Additional comparisons in the supplementary materials. Best viewed zoomed-in.

@@ -1,0 +1,259 @@
+{
+    "userInfo": {
+        "customerNameRaw": "The Ohio State University",
+        "institutionName": "The Ohio State University",
+        "institute": true,
+        "member": false,
+        "individual": false,
+        "guest": false,
+        "subscribedContent": false,
+        "fileCabinetContent": false,
+        "fileCabinetUser": false,
+        "institutionalFileCabinetUser": false,
+        "products": "IEL|EBOOKS:1974:2014|JRNLARCH:1884:1994|CONFARCH:1951:1999|IBM:1872:2020|VDE|NOKIA BELL LABS|",
+        "instType": "Academic",
+        "userIds": [
+            7827
+        ],
+        "showPatentCitations": true,
+        "showGet802Link": true,
+        "openUrlImgLoc": "http://library-osu-edu.proxy.lib.ohio-state.edu/resources/serialssolutions/buttons/button75x25edit.jpg",
+        "openUrlLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu",
+        "instLogoFile": "7827_OSULHoriz.png",
+        "openUrlTxt": "Find It!",
+        "showOpenUrlLink": true,
+        "marketingInfoCaptured": false,
+        "tracked": false,
+        "ringGoldId": "2647",
+        "delegatedAdmin": false,
+        "desktop": false,
+        "isInstitutionDashboardEnabled": false,
+        "isInstitutionProfileEnabled": false,
+        "isRoamingEnabled": true,
+        "isDelegatedAdmin": false,
+        "isMdl": false,
+        "isCwg": false,
+        "isIel": true,
+        "isAcademic": true
+    },
+    "authors": [
+        {
+            "name": "Kevin Zakka",
+            "affiliation": [
+                "Stanford University"
+            ],
+            "firstName": "Kevin",
+            "lastName": "Zakka",
+            "id": "37088504227"
+        },
+        {
+            "name": "Andy Zeng",
+            "affiliation": [
+                "Google"
+            ],
+            "firstName": "Andy",
+            "lastName": "Zeng",
+            "id": "37086217185"
+        },
+        {
+            "name": "Johnny Lee",
+            "affiliation": [
+                "Google"
+            ],
+            "firstName": "Johnny",
+            "lastName": "Lee",
+            "id": "37088438951"
+        },
+        {
+            "name": "Shuran Song",
+            "affiliation": [
+                "Google"
+            ],
+            "firstName": "Shuran",
+            "lastName": "Song",
+            "id": "37085613509"
+        }
+    ],
+    "isbn": [
+        {
+            "format": "Electronic ISBN",
+            "value": "978-1-7281-7395-5",
+            "isbnType": ""
+        },
+        {
+            "format": "USB ISBN",
+            "value": "978-1-7281-7394-8",
+            "isbnType": ""
+        },
+        {
+            "format": "Print on Demand(PoD) ISBN",
+            "value": "978-1-7281-7396-2",
+            "isbnType": ""
+        }
+    ],
+    "issn": [
+        {
+            "format": "Electronic ISSN",
+            "value": "2577-087X"
+        },
+        {
+            "format": "Print on Demand(PoD) ISSN",
+            "value": "1050-4729"
+        }
+    ],
+    "articleNumber": "9196733",
+    "dbTime": "1 ms",
+    "metrics": {
+        "citationCountPaper": 39,
+        "citationCountPatent": 0,
+        "totalDownloads": 813
+    },
+    "purchaseOptions": {
+        "showOtherFormatPricingTab": false,
+        "showPdfFormatPricingTab": true,
+        "pdfPricingInfoAvailable": true,
+        "otherPricingInfoAvailable": false,
+        "mandatoryBundle": false,
+        "optionalBundle": false,
+        "displayTextWhenOtherFormatPricingNotAvailable": "The purchase and pricing options for this item are unavailable. Select items are only available as part of a subscription package. You may try again later or <a href='https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/xpl/contact' target='_blank'>contact us</a> for more information.",
+        "pdfPricingInfo": [
+            {
+                "memberPrice": "$14.95",
+                "nonMemberPrice": "$33.00",
+                "partNumber": "9196733",
+                "type": "PDF/HTML"
+            }
+        ],
+        "openUrlFullLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu?url_ver=Z39.88-2004&rfr_id=info:sid/IEEE.org:XPLORE&rft_id=info:doi/10.1109/ICRA40945.2020.9196733&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&rft.atitle=Form2Fit: Learning Shape Priors for Generalizable Assembly from Disassembly&rft.jtitle=2020 IEEE International Conference on Robotics and Automation (ICRA)&rft.date=2020&rft.spage=9404&rft.epage=9410&rft.eissn=2577-087X&rft.au=Kevin Zakka&rft.aulast=Kevin Zakka&rft.isbn=978-1-7281-7395-5"
+    },
+    "getProgramTermsAccepted": false,
+    "sections": {
+        "abstract": "true",
+        "authors": "true",
+        "figures": "true",
+        "multimedia": "true",
+        "references": "true",
+        "citedby": "true",
+        "keywords": "true",
+        "definitions": "false",
+        "algorithm": "false",
+        "dataset": "false",
+        "cadmore": "false",
+        "footnotes": "true",
+        "disclaimer": "false",
+        "relatedContent": "false",
+        "metrics": "true"
+    },
+    "abstract": "Is it possible to learn policies for robotic assembly that can generalize to new objects? We explore this idea in the context of the kit assembly task. Since classic methods rely heavily on object pose estimation, they often struggle to generalize to new objects without 3D CAD models or task-specific training data. In this work, we propose to formulate the kit assembly task as a shape matching problem, where the goal is to learn a shape descriptor that establishes geometric correspondences between object surfaces and their target placement locations from visual input. This formulation enables the model to acquire a broader understanding of how shapes and surfaces fit together for assembly - allowing it to generalize to new objects and kits. To obtain training data for our model, we present a self-supervised data-collection pipeline that obtains ground truth object-to-placement correspondences by disassembling complete kits. Our resulting real-world system, Form2Fit, learns effective pick and place strategies for assembling objects into a variety of kits - achieving 90% average success rates under different initial conditions (e.g. varying object and kit poses), 94% success under new configurations of multiple kits, and over 86% success with completely new objects and kits. Code, videos, and supplemental material are available at https://form2fit.github.io\n<sup xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">.</sup>",
+    "publicationYear": "2020",
+    "pdfPath": "/iel7/9187508/9196508/09196733.pdf",
+    "publicationDate": "May 2020",
+    "doi": "10.1109/ICRA40945.2020.9196733",
+    "formulaStrippedArticleTitle": "Form2Fit: Learning Shape Priors for Generalizable Assembly from Disassembly",
+    "displayPublicationTitle": "2020 IEEE International Conference on Robotics and Automation (ICRA)",
+    "authorNames": "Kevin Zakka;Andy Zeng;Johnny Lee;Shuran Song",
+    "publicationTitle": "2020 IEEE International Conference on Robotics and Automation (ICRA)",
+    "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=proceedings&title=Form2Fit%3A+Learning+Shape+Priors+for+Generalizable+Assembly+from+Disassembly&isbn=978-1-7281-7395-5&publicationDate=May+2020&author=Kevin+Zakka&ContentID=10.1109/ICRA40945.2020.9196733&orderBeanReset=true&startPage=9404&endPage=9410&proceedingName=2020+IEEE+International+Conference+on+Robotics+and+Automation+%28ICRA%29",
+    "dateOfInsertion": "15 September 2020",
+    "startPage": "9404",
+    "endPage": "9410",
+    "pdfUrl": "/stamp/stamp.jsp?tp=&arnumber=9196733",
+    "keywords": [
+        {
+            "type": "IEEE Keywords",
+            "kwd": [
+                "Task analysis",
+                "Shape",
+                "Visualization",
+                "Training data",
+                "Three-dimensional displays",
+                "Solid modeling",
+                "Training"
+            ]
+        },
+        {
+            "type": "INSPEC: Controlled Indexing",
+            "kwd": [
+                "CAD",
+                "learning (artificial intelligence)",
+                "object recognition",
+                "pose estimation",
+                "robotic assembly"
+            ]
+        },
+        {
+            "type": "INSPEC: Non-Controlled Indexing",
+            "kwd": [
+                "kit assembly task",
+                "shape matching problem",
+                "shape descriptor",
+                "object surfaces",
+                "self-supervised data-collection pipeline",
+                "robotic assembly",
+                "3D CAD models",
+                "task-specific training data"
+            ]
+        }
+    ],
+    "doiLink": "https://doi-org.proxy.lib.ohio-state.edu/10.1109/ICRA40945.2020.9196733",
+    "displayPublicationDate": "31 May 2020 - 31 August 2020",
+    "articleCopyRight": "2020 IEEE",
+    "issueLink": "/xpl/tocresult.jsp?isnumber=9196508&punumber=9187508",
+    "pubLink": "/xpl/conhome/9187508/proceeding",
+    "allowComments": false,
+    "isGetAddressInfoCaptured": false,
+    "isMarketingOptIn": false,
+    "pubTopics": [
+        {
+            "name": "Robotics and Control Systems"
+        }
+    ],
+    "publisher": "IEEE",
+    "displayDocTitle": "Form2Fit: Learning Shape Priors for Generalizable Assembly from Disassembly",
+    "isStandard": false,
+    "isConference": true,
+    "isBookWithoutChapters": false,
+    "isChapter": false,
+    "isProduct": false,
+    "isEarlyAccess": false,
+    "isOpenAccess": false,
+    "isEphemera": false,
+    "xploreDocumentType": "Conference Publication",
+    "isBook": false,
+    "isJournal": false,
+    "isSpringer": false,
+    "accessionNumber": "19987238",
+    "isFreeDocument": false,
+    "isPromo": false,
+    "isDynamicHtml": true,
+    "htmlLink": "/document/9196733/",
+    "htmlAbstractLink": "/document/9196733/",
+    "isCustomDenial": false,
+    "persistentLink": "https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/servlet/opac?punumber=9187508",
+    "isNow": false,
+    "isSAE": false,
+    "isOUP": false,
+    "isSMPTE": false,
+    "openAccessFlag": "F",
+    "insertDate": "15 September 2020",
+    "ephemeraFlag": "false",
+    "title": "Form2Fit: Learning Shape Priors for Generalizable Assembly from Disassembly",
+    "confLoc": "Paris, France",
+    "html_flag": "false",
+    "ml_html_flag": "true",
+    "sourcePdf": "1290.pdf",
+    "mlTime": "PT0.065981S",
+    "xplore-pub-id": "9187508",
+    "isNumber": "9196508",
+    "rightsLinkFlag": "1",
+    "contentType": "conferences",
+    "publicationNumber": "9187508",
+    "citationCount": "39",
+    "xplore-issue": "9196508",
+    "articleId": "9196733",
+    "contentTypeDisplay": "Conferences",
+    "subType": "IEEE Conference",
+    "_value": "IEEE",
+    "lastupdate": "2023-10-08",
+    "mediaPath": "/mediastore_new/IEEE/content/media/9187508/9196508/9196733"
+}

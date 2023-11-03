@@ -1,0 +1,1 @@
+Stereo results on Cityscapes. Click on an image to see the outputs produced by a pair of stereo cameras. Note how our method produces images consistent across the two views, while they differ in the highlighted regions without using the world consistency (see Supplementary material). Please view with Acrobat Reader.

@@ -1,0 +1,3 @@
+Figure 3: 
+
+Face view interpolation. (a) Shows an example of an appearance map of the source subject (Donald Trump). The green dots represent different views of the source subject, the blue lines represent the Delaunay Triangulation of those views, and the red X marks the location of the current target’s pose. (b) The interpolated views associated with the vertices of the selected triangle (represented by the yellow dots). (c) The reenactment result and the current target image.

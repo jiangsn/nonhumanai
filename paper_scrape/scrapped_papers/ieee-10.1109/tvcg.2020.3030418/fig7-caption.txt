@@ -1,0 +1,1 @@
+Fig. 7. The hyperparameter widget, a component of the accompanying interactive article, allows users to adjust hyperparameters and observe in real time how the kernel's sliding pattern changes in convolutional layers.

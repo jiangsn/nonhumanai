@@ -1,0 +1,2 @@
+Figure 6. 
+Image manipulation driven by the prompt "grey hair" for different manipulation strengths and disentanglement thresholds. Moving along the ∆s direction, causes the hair color to become more grey, while steps in the −∆s direction yields darker hair. The effect becomes stronger as the strength α increases. When the disentanglement threshold β is high, only the hair color is affected, and as β is lowered, additional correlated attributes, such as wrinkles and the shape of the face are affected as well.

@@ -1,0 +1,1 @@
+Figure 7. Qualitative comparison between giraffe, π-gan, lifting stylegan, ours, with ffhq at 2562. Shapes are iso-surfaces extracted from the density field using marching cubes. We inspected the underlying 3d representations of giraffe and found that its overreliance on image-space approximations significantly harms the learning of the 3d geometry.

@@ -1,0 +1,2 @@
+Figure 6. 
+Examples from our data-driven expression library and manually animated sequence, visualized on our template face.

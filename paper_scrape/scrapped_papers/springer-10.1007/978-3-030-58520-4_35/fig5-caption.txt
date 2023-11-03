@@ -1,0 +1,2 @@
+Qualitative comparison on image interpolation between Image2StyleGAN
+[29] (odd rows) and our in-domain inversion (even rows).

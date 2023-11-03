@@ -1,0 +1,5 @@
+Figure 7: 
+
+Comparison to Face2Face 
+[44] on FaceForensics++ 
+[39]. As demonstrated, our method exhibits far less artifacts than Face2Face.

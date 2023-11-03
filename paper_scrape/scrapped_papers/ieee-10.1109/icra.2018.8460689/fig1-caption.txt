@@ -1,0 +1,1 @@
+Fig. 1 (Top) at test time, NTP instantiates a task-conditional policy (a neural program) that performs the specified task by interpreting a demonstration of a task. The policy interacts with the environment through robot apis. (Bottom) we evaluate NTP on block stacking (A,B), object sorting (C, D) and table clean-up (Figure 8) tasks in both simulated and real environment.

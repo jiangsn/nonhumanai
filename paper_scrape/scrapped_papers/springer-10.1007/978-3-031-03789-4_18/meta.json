@@ -1,0 +1,113 @@
+[
+    {
+        "GA Key": "UA-26408784-1",
+        "DOI": "10.1007/978-3-031-03789-4_18",
+        "Page": "chapter",
+        "page": {
+            "attributes": {
+                "environment": "live"
+            }
+        },
+        "Country": "US",
+        "japan": false,
+        "doi": "10.1007-978-3-031-03789-4_18",
+        "Keywords": "",
+        "kwrd": [],
+        "Labs": "Y",
+        "ksg": "Krux.segments",
+        "kuid": "Krux.uid",
+        "Has Body": "Y",
+        "Features": [
+            "doNotAutoAssociate",
+            "cobranding",
+            "doNotAutoAssociate",
+            "cobranding"
+        ],
+        "Open Access": "N",
+        "hasAccess": "Y",
+        "bypassPaywall": "N",
+        "user": {
+            "license": {
+                "businessPartnerID": [
+                    "3000266689",
+                    "8200724141"
+                ],
+                "businessPartnerIDString": "3000266689|8200724141"
+            }
+        },
+        "Access Type": "subscription",
+        "Bpids": "3000266689, 8200724141",
+        "Bpnames": "OhioLINK Consortium, Ohio State University Libraries",
+        "BPID": [
+            "3000266689",
+            "8200724141"
+        ],
+        "VG Wort Identifier": "pw-vgzm.415900-10.1007-978-3-031-03789-4",
+        "Full HTML": "Y",
+        "session": {
+            "authentication": {
+                "loginStatus": "N"
+            },
+            "attributes": {
+                "edition": "academic"
+            }
+        },
+        "content": {
+            "serial": {
+                "eissn": "1611-3349",
+                "pissn": "0302-9743"
+            },
+            "book": {
+                "doi": "10.1007/978-3-031-03789-4",
+                "title": "Artificial Intelligence in Music, Sound, Art and Design",
+                "pisbn": "978-3-031-03788-7",
+                "eisbn": "978-3-031-03789-4",
+                "bookProductType": "Proceedings",
+                "seriesTitle": "Lecture Notes in Computer Science",
+                "seriesId": "558"
+            },
+            "chapter": {
+                "doi": "10.1007/978-3-031-03789-4_18"
+            },
+            "type": "ConferencePaper",
+            "category": {
+                "pmc": {
+                    "primarySubject": "Computer Science",
+                    "primarySubjectCode": "SCI",
+                    "secondarySubjects": {
+                        "1": "Theory of Computation",
+                        "2": "Computing Milieux",
+                        "3": "Computer Imaging, Vision, Pattern Recognition and Graphics",
+                        "4": "Software Engineering/Programming and Operating Systems",
+                        "5": "Information Systems and Communication Service"
+                    },
+                    "secondarySubjectCodes": {
+                        "1": "SCI16005",
+                        "2": "SCI24008",
+                        "3": "SCI22005",
+                        "4": "SCI14002",
+                        "5": "SCI18008"
+                    }
+                },
+                "sucode": "SUCO11645"
+            },
+            "attributes": {
+                "deliveryPlatform": "oscar"
+            },
+            "country": "US",
+            "Has Preview": "N",
+            "subjectCodes": "SCI,SCI16005,SCI24008,SCI22005,SCI14002,SCI18008",
+            "PMC": [
+                "SCI",
+                "SCI16005",
+                "SCI24008",
+                "SCI22005",
+                "SCI14002",
+                "SCI18008"
+            ]
+        },
+        "Event Category": "Conference Paper",
+        "ConferenceSeriesId": "evomusart, evoW",
+        "productId": "9783031037894"
+    }
+]

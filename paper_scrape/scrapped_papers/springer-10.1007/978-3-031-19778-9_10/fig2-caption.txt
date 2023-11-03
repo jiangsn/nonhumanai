@@ -1,0 +1,1 @@
+Compared to a typical sparse set of 68 facial landmarks (a), our dense landmarks (b) cover the entire head in great detail, including ears, eyes, and teeth. These dense landmarks are better at encoding facial identity and subtle expressions.

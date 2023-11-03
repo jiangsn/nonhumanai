@@ -1,0 +1,2 @@
+Fig. 6. Visualization of the cone sizes of reflection/refraction rays for the scene
+ shown in Fig. 1. Cone sizes are measured as solid angles.

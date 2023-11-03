@@ -1,0 +1,1 @@
+Figure 7: Visual results of a sample from UCF101. Our model produces less artifacts around the brush and the hand (best viewed in color). Please see the supplementary material for more image and video results.

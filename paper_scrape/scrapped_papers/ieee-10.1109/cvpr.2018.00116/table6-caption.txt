@@ -1,0 +1,1 @@
+Table 6. F1 score on NIST16 dataset for JPEG compression (with quality 70 and 50) and resizing (with scale 0.7 and 0.5) attacks. Each entry is the F1 score of JPEG/Resizing

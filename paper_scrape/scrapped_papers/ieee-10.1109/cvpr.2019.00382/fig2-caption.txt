@@ -1,0 +1,2 @@
+Figure 2. 
+Proposed depth-aware flow projection. The existing flow projection method [2] obtains an average flow vector which may not point to the correct object or pixel. In contrast, we rewrite the flows according to the depth values and generate the flow vector pointing to the closer pixel.

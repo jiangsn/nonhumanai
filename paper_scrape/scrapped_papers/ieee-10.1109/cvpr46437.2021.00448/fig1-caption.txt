@@ -1,0 +1,2 @@
+Figure 1. 
+We pose a novel problem: automatically associating subjects in videos with ‘effects’ related to them in the scene. Given an input video (top) and rough masks of subjects of interest (middle), our method estimates an omnimatte – an alpha matte and foreground color that includes the subject itself along with all scene elements associated with it (bottom). The associated elements can be other objects attached to the subject or moving with it, or complex effects such as shadows, reflections, smoke, or ripples the subject creates in water.

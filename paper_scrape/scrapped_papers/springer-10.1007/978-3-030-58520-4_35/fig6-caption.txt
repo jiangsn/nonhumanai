@@ -1,0 +1,2 @@
+Comparison of Image2StyleGAN
+[29] (top row) and our in-domain inversion (bottom row) on facial attribute manipulation.

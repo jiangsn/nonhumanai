@@ -1,0 +1,1 @@
+Figure 10 Results for the category cars. Each block from left to right, input image, our proposed HSP, LR soft, LR hard.

@@ -1,0 +1,1 @@
+Figure 4. Inference uses exhaustive search and branch & bound.

@@ -1,0 +1,1 @@
+Figure 5: Using convex constraints, we can ensure detail preservation for low-quality and noisy input data.

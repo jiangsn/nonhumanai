@@ -1,0 +1,1 @@
+Fig. 3. Survey results from 19 participants who have previously learned about CNNs. TOP: Biggest challenges encountered during learning. Bottom: Desired features for an interactive visual learning tool for cnns.

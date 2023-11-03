@@ -1,0 +1,1 @@
+Evolution Strategies (non-gradient method) v.s. Differentiable renderer (gradient-based method) with fitting text with CLIP. Both settings are fitting 200 triangles to the target prompts. The details of evolution process is shown in the bottom half, where the upper group is for evolution strategy and the lower group is for differtiable renderer.

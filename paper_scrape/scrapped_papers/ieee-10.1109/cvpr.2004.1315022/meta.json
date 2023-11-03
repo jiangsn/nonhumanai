@@ -1,0 +1,251 @@
+{
+    "userInfo": {
+        "customerNameRaw": "The Ohio State University",
+        "institutionName": "The Ohio State University",
+        "institute": true,
+        "member": false,
+        "individual": false,
+        "guest": false,
+        "subscribedContent": false,
+        "fileCabinetContent": false,
+        "fileCabinetUser": false,
+        "institutionalFileCabinetUser": false,
+        "products": "IEL|EBOOKS:1974:2014|JRNLARCH:1884:1994|CONFARCH:1951:1999|IBM:1872:2020|VDE|NOKIA BELL LABS|",
+        "instType": "Academic",
+        "userIds": [
+            7827
+        ],
+        "showPatentCitations": true,
+        "showGet802Link": true,
+        "openUrlImgLoc": "http://library-osu-edu.proxy.lib.ohio-state.edu/resources/serialssolutions/buttons/button75x25edit.jpg",
+        "openUrlLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu",
+        "instLogoFile": "7827_OSULHoriz.png",
+        "openUrlTxt": "Find It!",
+        "showOpenUrlLink": true,
+        "marketingInfoCaptured": false,
+        "tracked": false,
+        "ringGoldId": "2647",
+        "delegatedAdmin": false,
+        "desktop": false,
+        "isInstitutionDashboardEnabled": false,
+        "isInstitutionProfileEnabled": false,
+        "isRoamingEnabled": true,
+        "isDelegatedAdmin": false,
+        "isMdl": false,
+        "isCwg": false,
+        "isIel": true,
+        "isAcademic": true
+    },
+    "authors": [
+        {
+            "name": "Y. Wexler",
+            "affiliation": [
+                "Department of Computer Science and Applied Math, Weizmann Institute of Science, Rehovot, Israel"
+            ],
+            "firstName": "Y.",
+            "lastName": "Wexler",
+            "id": "37282592000"
+        },
+        {
+            "name": "E. Shechtman",
+            "affiliation": [
+                "Department of Computer Science and Applied Math, Weizmann Institute of Science, Rehovot, Israel"
+            ],
+            "firstName": "E.",
+            "lastName": "Shechtman",
+            "id": "37282591600"
+        },
+        {
+            "name": "M. Irani",
+            "affiliation": [
+                "Department of Computer Science and Applied Math, Weizmann Institute of Science, Rehovot, Israel"
+            ],
+            "firstName": "M.",
+            "lastName": "Irani",
+            "id": "37282593100"
+        }
+    ],
+    "isbn": [
+        {
+            "format": "Print ISBN",
+            "value": "0-7695-2158-4",
+            "isbnType": ""
+        }
+    ],
+    "issn": [
+        {
+            "format": "Print ISSN",
+            "value": "1063-6919"
+        }
+    ],
+    "articleNumber": "1315022",
+    "dbTime": "1 ms",
+    "metrics": {
+        "citationCountPaper": 173,
+        "citationCountPatent": 11,
+        "totalDownloads": 1246
+    },
+    "purchaseOptions": {
+        "showOtherFormatPricingTab": false,
+        "showPdfFormatPricingTab": true,
+        "pdfPricingInfoAvailable": true,
+        "otherPricingInfoAvailable": false,
+        "mandatoryBundle": false,
+        "optionalBundle": false,
+        "displayTextWhenOtherFormatPricingNotAvailable": "The purchase and pricing options for this item are unavailable. Select items are only available as part of a subscription package. You may try again later or <a href='https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/xpl/contact' target='_blank'>contact us</a> for more information.",
+        "pdfPricingInfo": [
+            {
+                "memberPrice": "$14.95",
+                "nonMemberPrice": "$33.00",
+                "partNumber": "1315022",
+                "type": "PDF/HTML"
+            }
+        ],
+        "openUrlFullLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu?url_ver=Z39.88-2004&rfr_id=info:sid/IEEE.org:XPLORE&rft_id=info:doi/10.1109/CVPR.2004.1315022&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&rft.atitle=Space-time video completion&rft.jtitle=Proceedings of the 2004 IEEE Computer Society Conference on Computer Vision and Pattern Recognition, 2004. CVPR 2004.&rft.date=2004&rft.volume=1&rft.spage=I&rft.epage=I&rft.issn=1063-6919&rft.au=Y. Wexler&rft.aulast=Y. Wexler&rft.isbn=0-7695-2158-4"
+    },
+    "getProgramTermsAccepted": false,
+    "sections": {
+        "abstract": "true",
+        "authors": "true",
+        "figures": "true",
+        "multimedia": "false",
+        "references": "true",
+        "citedby": "true",
+        "keywords": "true",
+        "definitions": "false",
+        "algorithm": "false",
+        "dataset": "false",
+        "cadmore": "false",
+        "footnotes": "true",
+        "disclaimer": "false",
+        "relatedContent": "false",
+        "metrics": "true"
+    },
+    "abstract": "We present a method for space-time completion of large space-time \"holes\" in video sequences of complex dynamic scenes. The missing portions are filled-in by sampling spatio-temporal patches from the available parts of the video, while enforcing global spatio-temporal consistency between all patches in and around the hole. This is obtained by posing the task of video completion and synthesis as a global optimization problem with a well-defined objective function. The consistent completion of static scene parts simultaneously with dynamic behaviors leads to realistic looking video sequences. Space-time video completion is useful for a variety of tasks, including, but not limited to: (i) Sophisticated video removal (of undesired static or dynamic objects) by completing the appropriate static or dynamic background information, (ii) Correction of missing/corrupted video frames in old movies, and (iii) Synthesis of new video frames to add a visual story, modify it, or generate a new one. Some examples of these are shown in the paper.",
+    "publicationYear": "2004",
+    "pdfPath": "/iel5/9183/29133/01315022.pdf",
+    "publicationDate": "2004",
+    "doi": "10.1109/CVPR.2004.1315022",
+    "formulaStrippedArticleTitle": "Space-time video completion",
+    "displayPublicationTitle": "Proceedings of the 2004 IEEE Computer Society Conference on Computer Vision and Pattern Recognition, 2004. CVPR 2004.",
+    "authorNames": "Y. Wexler;E. Shechtman;M. Irani",
+    "publicationTitle": "Proceedings of the 2004 IEEE Computer Society Conference on Computer Vision and Pattern Recognition, 2004. CVPR 2004.",
+    "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=proceedings&title=Space-time+video+completion&isbn=0-7695-2158-4&publicationDate=2004&author=Y.+Wexler&ContentID=10.1109/CVPR.2004.1315022&orderBeanReset=true&startPage=I&endPage=I&volumeNum=1&proceedingName=Proceedings+of+the+2004+IEEE+Computer+Society+Conference+on+Computer+Vision+and+Pattern+Recognition%2C+2004.+CVPR+2004.",
+    "dateOfInsertion": "19 July 2004",
+    "startPage": "I",
+    "endPage": "I",
+    "pdfUrl": "/stamp/stamp.jsp?tp=&arnumber=1315022",
+    "keywords": [
+        {
+            "type": "IEEE Keywords",
+            "kwd": [
+                "Video sequences",
+                "Layout",
+                "Sampling methods",
+                "Computer science",
+                "Motion pictures",
+                "Laboratories",
+                "Constraint optimization",
+                "Image texture",
+                "Filling",
+                "Heuristic algorithms"
+            ]
+        },
+        {
+            "type": "INSPEC: Controlled Indexing",
+            "kwd": [
+                "video signal processing",
+                "image sequences",
+                "image sampling",
+                "optimisation",
+                "spatiotemporal phenomena"
+            ]
+        },
+        {
+            "type": "INSPEC: Non-Controlled Indexing",
+            "kwd": [
+                "space time video completion task",
+                "video synthesis task",
+                "video sequences",
+                "complex dynamic scenes",
+                "spatio-temporal patches sampling",
+                "global optimization problem",
+                "static scene",
+                "missing video frame correction",
+                "corrupted video frame correction",
+                "old movies"
+            ]
+        }
+    ],
+    "doiLink": "https://doi-org.proxy.lib.ohio-state.edu/10.1109/CVPR.2004.1315022",
+    "displayPublicationDate": "27 June 2004 - 02 July 2004",
+    "articleCopyRight": "2004 IEEE",
+    "issueLink": "/xpl/tocresult.jsp?isnumber=29133&punumber=9183",
+    "pubLink": "/xpl/conhome/9183/proceeding",
+    "allowComments": false,
+    "isGetAddressInfoCaptured": false,
+    "isMarketingOptIn": false,
+    "pubTopics": [
+        {
+            "name": "Computing and Processing"
+        },
+        {
+            "name": "Signal Processing and Analysis"
+        }
+    ],
+    "publisher": "IEEE",
+    "displayDocTitle": "Space-time video completion",
+    "isStandard": false,
+    "isConference": true,
+    "volume": "1",
+    "isBookWithoutChapters": false,
+    "isChapter": false,
+    "isProduct": false,
+    "isEarlyAccess": false,
+    "isOpenAccess": false,
+    "isEphemera": false,
+    "xploreDocumentType": "Conference Publication",
+    "isBook": false,
+    "isJournal": false,
+    "isSpringer": false,
+    "accessionNumber": "8152804",
+    "isFreeDocument": false,
+    "isPromo": false,
+    "isDynamicHtml": true,
+    "htmlLink": "/document/1315022/",
+    "htmlAbstractLink": "/document/1315022/",
+    "isCustomDenial": false,
+    "persistentLink": "https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/servlet/opac?punumber=9183",
+    "isNow": false,
+    "isSAE": false,
+    "isOUP": false,
+    "isSMPTE": false,
+    "openAccessFlag": "F",
+    "insertDate": "19 July 2004",
+    "ephemeraFlag": "false",
+    "title": "Space-time video completion",
+    "confLoc": "Washington, DC, USA",
+    "html_flag": "true",
+    "ml_html_flag": "true",
+    "sourcePdf": "01315022.pdf",
+    "mlTime": "PT0.070461S",
+    "xplore-pub-id": "9183",
+    "sponsors": [
+        {
+            "name": "IEEE Comput. Soc",
+            "url": ""
+        }
+    ],
+    "isNumber": "29133",
+    "rightsLinkFlag": "1",
+    "contentType": "conferences",
+    "publicationNumber": "9183",
+    "citationCount": "173",
+    "xplore-issue": "29133",
+    "articleId": "1315022",
+    "contentTypeDisplay": "Conferences",
+    "subType": "IEEE Conference",
+    "_value": "IEEE",
+    "lastupdate": "2023-10-07",
+    "mediaPath": "/mediastore_new/IEEE/content/media/9183/29133/1315022"
+}

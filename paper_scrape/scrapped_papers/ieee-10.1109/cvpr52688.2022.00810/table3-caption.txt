@@ -1,0 +1,1 @@
+Table 3. Average results for the eight scenes in the nerf realistic synthetic dataset. Each scene consists of 100 training images, and 200 test images, with masks and known camera poses. Results from nerf are taken from Table 4 of the nerf paper [39]. Physg and mip-nerf were retrained using public source code.

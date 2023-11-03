@@ -1,0 +1,1 @@
+Figure 9: Result from VRN without alignment (second columns), and a frontalised output from VRN - Guided (third columns).

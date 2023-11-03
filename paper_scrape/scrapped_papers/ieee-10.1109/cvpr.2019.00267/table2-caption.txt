@@ -1,0 +1,2 @@
+Table 2: 
+Evaluation on pose propagation on JHMDB [26]. We report the PCK in different thresholds.

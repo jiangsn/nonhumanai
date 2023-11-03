@@ -1,0 +1,1 @@
+Fig. 4. Experiments on the CIFAR-10 dataset. CIFAR-10 IS over generator iterations (left), over wall-clock time (middle), and the graph of selected mutations in the E-GAN training process (right).

@@ -1,0 +1,2 @@
+Figure 12. 
+We also synthesize labels for machine learning. Above are additional label types beyond those shown in Figure 1.

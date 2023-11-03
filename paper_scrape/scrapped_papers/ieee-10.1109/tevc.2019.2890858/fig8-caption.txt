@@ -1,0 +1,1 @@
+Fig. 8. Number of successful attacks (vertical axis) for a specific class acting as the original (black) and target (gray) class. The horizontal axis indicates the index of each class which is the same as Fig. 7.

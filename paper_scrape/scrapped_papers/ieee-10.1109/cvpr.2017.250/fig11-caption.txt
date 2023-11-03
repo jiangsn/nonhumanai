@@ -1,0 +1,1 @@
+Figure 11: Comparison of our method with PCA-based model fitting [5], visio-lization [34], and the ground truth.

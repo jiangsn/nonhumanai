@@ -1,0 +1,1 @@
+Comparing Visual Quality between our generated frames and those of HP-VAE-GAN  [25] and SinGAN-GIF [5] (please zoom in on the frames). Note that our generated frames are sharper and also exhibit more coherent and plausible arrangements of the scene. For details see Sect. 4. See supplementary for full videos and more comparisons.

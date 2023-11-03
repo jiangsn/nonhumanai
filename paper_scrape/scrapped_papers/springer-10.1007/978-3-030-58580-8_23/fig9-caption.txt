@@ -1,0 +1,1 @@
+Two-shot image translation results on the Mammals dataset.

@@ -1,0 +1,1 @@
+Figure 2: The input image is encoded by the VGG network (pixel colors show a 3D PCA embedding of the high-dimensiontal feature space). Related image content is mapped to semi-distributed, approximately spatially coherent feature constellations of increasing invariance [29]. Input image credited to flickr user emery way.

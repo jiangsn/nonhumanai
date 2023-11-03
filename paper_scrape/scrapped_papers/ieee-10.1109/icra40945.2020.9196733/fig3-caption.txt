@@ -1,0 +1,2 @@
+Fig. 3. 
+An example of ordered assembly for the deodorant kit. At timestep t = 1, locations A and B are valid placing positions, while C and D are examples of invalid locations. Our placing module implicitly learns this ordering contraint from its training data (i.e., time-reversed disassembly sequences) – its output prediction P (visualized as a heatmap) shows higher placing confidence values at A and B compared to C and D.

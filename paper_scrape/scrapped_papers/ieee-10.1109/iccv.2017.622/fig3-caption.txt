@@ -1,0 +1,1 @@
+Figure 3: Top: video lengths (in seconds). Bottom: frequencies of occurrence of 15 most common objects

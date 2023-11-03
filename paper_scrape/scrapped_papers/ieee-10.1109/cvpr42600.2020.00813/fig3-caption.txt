@@ -1,0 +1,1 @@
+Figure 3. Replacing normalization with demodulation removes the characteristic artifacts from images and activations.

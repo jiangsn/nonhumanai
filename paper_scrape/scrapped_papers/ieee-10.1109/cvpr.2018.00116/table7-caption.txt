@@ -1,0 +1,1 @@
+Table 7. AP comparison on multi-class on NIST16 dataset using the RGB-N network. Mean denotes the mean AP for splicing, removal and copy-move

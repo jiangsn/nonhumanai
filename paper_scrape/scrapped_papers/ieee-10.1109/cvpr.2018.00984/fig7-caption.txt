@@ -1,0 +1,1 @@
+Figure 7: Comparison with two recent inpainting approaches. Top – comparison with shepard networks [27] on text inpainting example. Bottom – comparison with convolutional sparse coding [25] on inpainting 50% of missing pixels. In both cases, our approach performs better on the images used in the respective papers.

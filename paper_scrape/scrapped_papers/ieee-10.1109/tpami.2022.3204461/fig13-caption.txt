@@ -1,0 +1,2 @@
+Fig. 13. 
+Synthetic 1024×1024 faces, sampled from an unconditional 64×64 model, followed by two 4× SR3 models.

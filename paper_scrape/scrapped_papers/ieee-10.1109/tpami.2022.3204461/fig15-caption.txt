@@ -1,0 +1,2 @@
+Fig. 15. 
+Class-conditional 256×256 ImageNet samples. Each row represents samples from a specific ImageNet class, from top to bottom: Goldfish, Red Fox, Balloon, Monarch Butterfly, Church, Fire Truck. For a given label, we sample a 64×64 image from a class-conditional diffusion model, and then apply a 4× SR3 model.

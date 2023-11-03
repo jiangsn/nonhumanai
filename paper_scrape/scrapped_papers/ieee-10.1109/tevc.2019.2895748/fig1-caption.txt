@@ -1,0 +1,7 @@
+Fig. 1. (a) Original GAN framework. A generator G
+ and a discriminator D
+ play a two-player adversarial game. The updating gradients of the generator G
+ are received from the adaptive objective, which depends on discriminator D
+. (b) Proposed E-GAN framework. A population of generators {Gθ}
+ evolves in a dynamic environment, the discriminator D
+. Each evolutionary step consists of three substages: variation, evaluation, and selection. The best offspring are kept.

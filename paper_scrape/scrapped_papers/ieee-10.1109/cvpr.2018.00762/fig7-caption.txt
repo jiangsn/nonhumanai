@@ -1,0 +1,1 @@
+Figure 7: Cross-cascading architecture: The roialign output in fig. 6 feeds into the densepose network and auxiliary networks for other tasks (masks, keypoints). Once first-stage predictions are obtained from all tasks, they are combined and fed into a second-stage refinement unit.

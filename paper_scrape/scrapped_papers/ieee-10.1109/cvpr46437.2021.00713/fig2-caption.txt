@@ -1,0 +1,2 @@
+Figure 2: 
+Example in-the-wild photographs from the Phototourism dataset [13] used to train NeRF-W. Due to variable illumination and post-processing (top), the same object’s color may vary from image to image. In-the-wild photos may also contain transient occluding subjects (bottom). Photos by Flickr users paradasos, itia4u, jblesa, joshheumann, ojotes, chyauchentravelworld /\color{Magenta}{\text{CC BY}}CC BY.

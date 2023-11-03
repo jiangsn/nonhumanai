@@ -1,0 +1,1 @@
+Fig. 8: The agents were getting stuck in the gap between these objects (left) which was causing the physics engine to eventually throw them upwards into the sky. A trajectory leaving the exploration boundary (right) was recorded by our system and allowed us to fix the problem by closing up the gap.

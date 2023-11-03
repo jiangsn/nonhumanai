@@ -1,0 +1,5 @@
+Fig. 12. Supersampling effectively reduces the approximation error. The relative errors
+ are visualized as color temperature images, with red corresponding to a relative error of 10 percent, and blue 0
+ percent. The supersampling rates used for fur/scene geometry are shown under each figure. From left to right, the
+ quantitative RMS errors are 3.38, 2.68, 1.53 and 1.12 percent, respectively. And the rendering time is 87.8, 124.9,
+ 207.3 and 425.1 s, respectively.

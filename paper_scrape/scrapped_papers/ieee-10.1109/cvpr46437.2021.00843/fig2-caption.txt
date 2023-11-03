@@ -1,0 +1,2 @@
+Figure 2: 
+NeX overview: we construct each pixel in our MPI by sampling a pixel coordinate (x, y) at plane depth d and feed it to a multilayer perceptron (MLP) to output alpha transparency and view-dependent basis coefficients (k1, k2,…,kn). These coefficients, together with an explicit k0, are multiplied with basis functions predicted from another MLP, to produce the RGB value. The output image is the product of the composite operation over all planes (Eq. 1). We train the two MLPs and optimize for the explicit k0 by comparing the rendered image to the ground truth.

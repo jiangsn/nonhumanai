@@ -1,0 +1,2 @@
+Table 3. 
+FID score comparison for face image synthesis. CelebA-HQ results reproduced from [1], [47], [67], [22], FFHQ from [58], [28].

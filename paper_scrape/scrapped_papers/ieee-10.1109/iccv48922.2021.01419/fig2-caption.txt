@@ -1,0 +1,2 @@
+Figure 2. 
+Overview. We first render an input image to a new camera view using the disparity. We then refine the image, synthesizing and super-resolving missing content. As we output both RGB and geometry, this process can be repeated for perpetual view generation.

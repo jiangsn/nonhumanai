@@ -1,0 +1,288 @@
+{
+    "userInfo": {
+        "customerNameRaw": "The Ohio State University",
+        "institutionName": "The Ohio State University",
+        "institute": true,
+        "member": false,
+        "individual": false,
+        "guest": false,
+        "subscribedContent": false,
+        "fileCabinetContent": false,
+        "fileCabinetUser": false,
+        "institutionalFileCabinetUser": false,
+        "products": "IEL|EBOOKS:1974:2014|JRNLARCH:1884:1994|CONFARCH:1951:1999|IBM:1872:2020|VDE|NOKIA BELL LABS|",
+        "instType": "Academic",
+        "userIds": [
+            7827
+        ],
+        "showPatentCitations": true,
+        "showGet802Link": true,
+        "openUrlImgLoc": "http://library-osu-edu.proxy.lib.ohio-state.edu/resources/serialssolutions/buttons/button75x25edit.jpg",
+        "openUrlLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu",
+        "instLogoFile": "7827_OSULHoriz.png",
+        "openUrlTxt": "Find It!",
+        "showOpenUrlLink": true,
+        "marketingInfoCaptured": false,
+        "tracked": false,
+        "ringGoldId": "2647",
+        "delegatedAdmin": false,
+        "desktop": false,
+        "isInstitutionDashboardEnabled": false,
+        "isInstitutionProfileEnabled": false,
+        "isRoamingEnabled": true,
+        "isDelegatedAdmin": false,
+        "isMdl": false,
+        "isCwg": false,
+        "isIel": true,
+        "isAcademic": true
+    },
+    "authors": [
+        {
+            "name": "Wenbo Bao",
+            "affiliation": [
+                "Institute of Image Communication and Network Engineering, Shanghai Jiao Tong University"
+            ],
+            "firstName": "Wenbo",
+            "lastName": "Bao",
+            "id": "37086009512"
+        },
+        {
+            "name": "Wei-Sheng Lai",
+            "affiliation": [
+                "University of California, Merced"
+            ],
+            "firstName": "Wei-Sheng",
+            "lastName": "Lai",
+            "id": "37086097471"
+        },
+        {
+            "name": "Chao Ma",
+            "affiliation": [
+                "MoE Key Lab of Artificial Intelligence, AI Institute, Shanghai Jiao Tong University"
+            ],
+            "firstName": "Chao",
+            "lastName": "Ma",
+            "id": "37076012000"
+        },
+        {
+            "name": "Xiaoyun Zhang",
+            "affiliation": [
+                "Institute of Image Communication and Network Engineering, Shanghai Jiao Tong University"
+            ],
+            "firstName": "Xiaoyun",
+            "lastName": "Zhang",
+            "id": "37279337600"
+        },
+        {
+            "name": "Zhiyong Gao",
+            "affiliation": [
+                "Institute of Image Communication and Network Engineering, Shanghai Jiao Tong University"
+            ],
+            "firstName": "Zhiyong",
+            "lastName": "Gao",
+            "id": "38238788800"
+        },
+        {
+            "name": "Ming-Hsuan Yang",
+            "affiliation": [
+                "University of California, Merced",
+                "Google"
+            ],
+            "firstName": "Ming-Hsuan",
+            "lastName": "Yang",
+            "id": "37277304600"
+        }
+    ],
+    "isbn": [
+        {
+            "format": "Electronic ISBN",
+            "value": "978-1-7281-3293-8",
+            "isbnType": ""
+        },
+        {
+            "format": "Print on Demand(PoD) ISBN",
+            "value": "978-1-7281-3294-5",
+            "isbnType": ""
+        }
+    ],
+    "issn": [
+        {
+            "format": "Electronic ISSN",
+            "value": "2575-7075"
+        },
+        {
+            "format": "Print on Demand(PoD) ISSN",
+            "value": "1063-6919"
+        }
+    ],
+    "articleNumber": "8954114",
+    "dbTime": "1 ms",
+    "metrics": {
+        "citationCountPaper": 244,
+        "citationCountPatent": 1,
+        "totalDownloads": 750
+    },
+    "purchaseOptions": {
+        "showOtherFormatPricingTab": false,
+        "showPdfFormatPricingTab": true,
+        "pdfPricingInfoAvailable": true,
+        "otherPricingInfoAvailable": false,
+        "mandatoryBundle": false,
+        "optionalBundle": false,
+        "displayTextWhenOtherFormatPricingNotAvailable": "The purchase and pricing options for this item are unavailable. Select items are only available as part of a subscription package. You may try again later or <a href='https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/xpl/contact' target='_blank'>contact us</a> for more information.",
+        "pdfPricingInfo": [
+            {
+                "memberPrice": "$14.95",
+                "nonMemberPrice": "$33.00",
+                "partNumber": "8954114",
+                "type": "PDF/HTML"
+            }
+        ],
+        "openUrlFullLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu?url_ver=Z39.88-2004&rfr_id=info:sid/IEEE.org:XPLORE&rft_id=info:doi/10.1109/CVPR.2019.00382&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&rft.atitle=Depth-Aware Video Frame Interpolation&rft.jtitle=2019 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)&rft.date=2019&rft.spage=3698&rft.epage=3707&rft.eissn=2575-7075&rft.au=Wenbo Bao&rft.aulast=Wenbo Bao&rft.isbn=978-1-7281-3293-8"
+    },
+    "getProgramTermsAccepted": false,
+    "sections": {
+        "abstract": "true",
+        "authors": "true",
+        "figures": "true",
+        "multimedia": "false",
+        "references": "true",
+        "citedby": "true",
+        "keywords": "true",
+        "definitions": "false",
+        "algorithm": "false",
+        "dataset": "false",
+        "cadmore": "false",
+        "footnotes": "false",
+        "disclaimer": "false",
+        "relatedContent": "false",
+        "metrics": "true"
+    },
+    "abstract": "Video frame interpolation aims to synthesize nonexistent frames in-between the original frames. While significant advances have been made from the recent deep convolutional neural networks, the quality of interpolation is often reduced due to large object motion or occlusion. In this work, we propose a video frame interpolation method which explicitly detects the occlusion by exploring the depth information. Specifically, we develop a depth-aware flow projection layer to synthesize intermediate flows that preferably sample closer objects than farther ones. In addition, we learn hierarchical features to gather contextual information from neighboring pixels. The proposed model then warps the input frames, depth maps, and contextual features based on the optical flow and local interpolation kernels for synthesizing the output frame. Our model is compact, efficient, and fully differentiable. Quantitative and qualitative results demonstrate that the proposed model performs favorably against state-of-the-art frame interpolation methods on a wide variety of datasets. The source code and pre-trained model are available at https://github.com/baowenbo/DAIN.",
+    "publicationYear": "2019",
+    "pdfPath": "/iel7/8938205/8953184/08954114.pdf",
+    "publicationDate": "June 2019",
+    "doi": "10.1109/CVPR.2019.00382",
+    "formulaStrippedArticleTitle": "Depth-Aware Video Frame Interpolation",
+    "displayPublicationTitle": "2019 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+    "authorNames": "Wenbo Bao;Wei-Sheng Lai;Chao Ma;Xiaoyun Zhang;Zhiyong Gao;Ming-Hsuan Yang",
+    "publicationTitle": "2019 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+    "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=proceedings&title=Depth-Aware+Video+Frame+Interpolation&isbn=978-1-7281-3293-8&publicationDate=June+2019&author=Wenbo+Bao&ContentID=10.1109/CVPR.2019.00382&orderBeanReset=true&startPage=3698&endPage=3707&proceedingName=2019+IEEE%2FCVF+Conference+on+Computer+Vision+and+Pattern+Recognition+%28CVPR%29",
+    "dateOfInsertion": "09 January 2020",
+    "startPage": "3698",
+    "endPage": "3707",
+    "pdfUrl": "/stamp/stamp.jsp?tp=&arnumber=8954114",
+    "keywords": [
+        {
+            "type": "IEEE Keywords",
+            "kwd": [
+                "Interpolation",
+                "Computer vision",
+                "Codes",
+                "Computational modeling",
+                "Pattern recognition",
+                "Convolutional neural networks",
+                "Kernel"
+            ]
+        },
+        {
+            "type": "INSPEC: Controlled Indexing",
+            "kwd": [
+                "convolutional neural nets",
+                "image motion analysis",
+                "image sequences",
+                "interpolation",
+                "learning (artificial intelligence)",
+                "video signal processing"
+            ]
+        },
+        {
+            "type": "INSPEC: Non-Controlled Indexing",
+            "kwd": [
+                "depth-aware video frame interpolation",
+                "deep convolutional neural networks",
+                "object motion",
+                "occlusion",
+                "video frame interpolation method",
+                "depth information",
+                "depth-aware flow projection layer",
+                "contextual information",
+                "depth maps",
+                "contextual features",
+                "optical flow",
+                "local interpolation kernels",
+                "frame interpolation methods"
+            ]
+        },
+        {
+            "type": "Author Keywords ",
+            "kwd": [
+                "Image and Video Synthesis",
+                "Low-level Vision",
+                "Motion and Tracking",
+                "Scene Analysis and Understanding"
+            ]
+        }
+    ],
+    "doiLink": "https://doi-org.proxy.lib.ohio-state.edu/10.1109/CVPR.2019.00382",
+    "displayPublicationDate": "15-20 June 2019",
+    "articleCopyRight": "2019 IEEE",
+    "issueLink": "/xpl/tocresult.jsp?isnumber=8953184&punumber=8938205",
+    "pubLink": "/xpl/conhome/8938205/proceeding",
+    "allowComments": false,
+    "isGetAddressInfoCaptured": false,
+    "isMarketingOptIn": false,
+    "pubTopics": [
+        {
+            "name": "Computing and Processing"
+        }
+    ],
+    "publisher": "IEEE",
+    "displayDocTitle": "Depth-Aware Video Frame Interpolation",
+    "isStandard": false,
+    "isConference": true,
+    "isBookWithoutChapters": false,
+    "isChapter": false,
+    "isProduct": false,
+    "isEarlyAccess": false,
+    "isOpenAccess": false,
+    "isEphemera": false,
+    "xploreDocumentType": "Conference Publication",
+    "isBook": false,
+    "isJournal": false,
+    "isSpringer": false,
+    "accessionNumber": "19263478",
+    "isFreeDocument": false,
+    "isPromo": false,
+    "isDynamicHtml": true,
+    "htmlLink": "/document/8954114/",
+    "htmlAbstractLink": "/document/8954114/",
+    "isCustomDenial": false,
+    "persistentLink": "https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/servlet/opac?punumber=8938205",
+    "isNow": false,
+    "isSAE": false,
+    "isOUP": false,
+    "isSMPTE": false,
+    "openAccessFlag": "F",
+    "insertDate": "09 January 2020",
+    "ephemeraFlag": "false",
+    "title": "Depth-Aware Video Frame Interpolation",
+    "confLoc": "Long Beach, CA, USA",
+    "html_flag": "false",
+    "ml_html_flag": "true",
+    "sourcePdf": "329300d698.pdf",
+    "mlTime": "PT0.071925S",
+    "xplore-pub-id": "8938205",
+    "isNumber": "8953184",
+    "rightsLinkFlag": "1",
+    "contentType": "conferences",
+    "publicationNumber": "8938205",
+    "citationCount": "244",
+    "xplore-issue": "8953184",
+    "articleId": "8954114",
+    "contentTypeDisplay": "Conferences",
+    "subType": "IEEE Conference",
+    "_value": "IEEE",
+    "lastupdate": "2023-10-14",
+    "mediaPath": "/mediastore_new/IEEE/content/media/8938205/8953184/8954114"
+}

@@ -1,0 +1,2 @@
+Fig. 5. 
+Three samples from SR3 applied to ImageNet test images (16×16 \rightarrow 256×256), demonstrating SR3 diversity.

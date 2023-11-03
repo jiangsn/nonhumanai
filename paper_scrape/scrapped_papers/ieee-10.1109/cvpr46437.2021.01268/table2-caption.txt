@@ -1,0 +1,2 @@
+Table 2. 
+FID score comparison for semantic image synthesis (256 × 256 pixels). (*): Recalculated with our evaluation protocol based on [43] on the validation splits of each dataset.

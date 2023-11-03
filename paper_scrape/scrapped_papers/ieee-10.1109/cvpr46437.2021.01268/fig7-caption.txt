@@ -1,0 +1,2 @@
+Figure 7. 
+Evaluating the importance of effective codebook for HQ-Faces (CelebA-HQ and FFHQ) for a fixed sequence length |s| = 16•16 = 256. Globally consistent structures can only be modeled with a context-rich vocabulary (right). All samples are generated with temperature t = 1.0 and top-k sampling with k = 100. Last row reports the speedup over the f1 baseline which operates directly on pixels and takes 7258 seconds to produce a sample on a NVIDIA GeForce GTX Titan X.

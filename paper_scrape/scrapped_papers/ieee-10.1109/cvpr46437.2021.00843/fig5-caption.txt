@@ -1,0 +1,2 @@
+Figure 5: 
+PSNR scores vs. the number of basis coefficients for ours (learned basis functions), FS (Fourier’s series), JH (Jacobi spherical harmonics), HSH (hemispherical harmonics), SH (spherical harmonics), and TS (Taylor’s series).

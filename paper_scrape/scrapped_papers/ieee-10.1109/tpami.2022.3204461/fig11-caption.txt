@@ -1,0 +1,2 @@
+Fig. 11. 
+Test cases with lowest and highest Fool rates for PULSE and SR3 in Task-1 (which compares models outputs to reference images, in the presence of low-resolution inputs). For privacy reasons, reference images are not shown.

@@ -1,0 +1,1 @@
+Figure 7: Comparison of the proposed RGB reenactment to the RGB-D reenactment of thies et al. [29].

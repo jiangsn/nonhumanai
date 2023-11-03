@@ -1,0 +1,2 @@
+Figure 9: 
+Multi-image Watermark removal. Since the 3 images share the same watermark, the layer ambiguity is resolved.

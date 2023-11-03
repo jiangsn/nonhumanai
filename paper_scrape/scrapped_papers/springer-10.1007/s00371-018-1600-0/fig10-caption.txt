@@ -1,0 +1,1 @@
+3D Model refinement and alignment: The first column represents the user-defined contour, the second the input 3D CAD model from proxy, the third the refined model, and the fourth the 3D/2D alignment. (The Eiffel tower overlay shows a decimated mesh for better visualization.)

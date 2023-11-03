@@ -1,0 +1,2 @@
+Figure 8. 
+Failure cases. Moving, non-human objects such as cars and shadows can cause bad estimates (left and middle, boxed); fine structures such as limbs may be blurred for distant people in challenging poses (right, boxed).

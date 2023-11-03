@@ -1,0 +1,1 @@
+Figure 3: Texture analysis. The hollow arrows indicate a processing through a deep convolutional neural network.

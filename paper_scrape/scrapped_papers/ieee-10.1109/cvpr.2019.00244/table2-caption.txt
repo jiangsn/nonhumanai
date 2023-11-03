@@ -1,0 +1,2 @@
+Table 2: 
+User preference study. The numbers indicate the percentage of users who favor the results of the proposed method over the competing method.

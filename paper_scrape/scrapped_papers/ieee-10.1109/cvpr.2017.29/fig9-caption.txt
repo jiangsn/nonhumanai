@@ -1,0 +1,1 @@
+Figure 9. Surface correspondences on 3D meshes. The first column shows the input mesh and query points (red and blue). The other columns show the respective correspondences found in other meshes of the same object category (top and middle row) and across different object categories (bottom row).

@@ -1,0 +1,1 @@
+Table 3. Gangealing ablations for lsun cats. We evaluate on spair-71k cats using αbbox = 0.1. Ssl refers to using a self-supervised vgg-16 as the perceptual loss ℓ. N refers to the number of w space pca coefficients learned when optimizing c. Note that the lsun cats stylegan2 generator has 14 layers.

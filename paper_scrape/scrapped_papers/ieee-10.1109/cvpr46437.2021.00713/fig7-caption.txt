@@ -1,0 +1,2 @@
+Figure 7: 
+Qualitative results from experiments on the Phototourism dataset. NeRF-W is simultaneously able to model appearance variation (top), remove transient occluders (flag, middle), and reconstruct fine details in the scene (bottom). Further datasets are shown in Figure 14 (supplementary). Photos by Flickr users firewave, clintonjeff, leoglenn_g /\color{Magenta}{\text{CC BY}}.

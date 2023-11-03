@@ -1,0 +1,2 @@
+Figure 4. 
+Processing video for ACID. We run structure from motion on coastline drone footage collected from YouTube to create the Aerial Coastline Imagery Dataset (ACID). See Section 4.

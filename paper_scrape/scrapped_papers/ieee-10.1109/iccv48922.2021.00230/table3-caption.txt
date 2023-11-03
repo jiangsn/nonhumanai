@@ -1,0 +1,2 @@
+Table 3: 
+Using different flow smoothing methods in our framework. Our method improves three metrics on the Selfie dataset [68] when integrating with different flow smoothing methods.

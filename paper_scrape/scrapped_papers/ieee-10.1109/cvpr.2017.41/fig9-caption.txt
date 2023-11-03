@@ -1,0 +1,1 @@
+Figure 9. Example results from our real image dataset.

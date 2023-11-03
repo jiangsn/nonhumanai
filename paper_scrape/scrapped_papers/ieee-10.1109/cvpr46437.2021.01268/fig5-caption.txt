@@ -1,0 +1,2 @@
+Figure 5. 
+Samples generated from semantic layouts on S-FLCKR. Sizes from top-to-bottom: 1280 × 832, 1024 × 416 and 1280 × 240 pixels. Best viewed zoomed in. A larger visualization can be found in the appendix, see Fig 17.

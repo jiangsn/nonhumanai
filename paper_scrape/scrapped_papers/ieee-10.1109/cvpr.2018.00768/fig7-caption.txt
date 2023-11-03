@@ -1,0 +1,1 @@
+Figure 7: Common failure examples. First row: Images captured by a web camera (shown as a visual reference). Second row: Pose estimation by our model using RF signals only and without any visual input. Third row: Pose estimation using openpose based on images from the first row.

@@ -1,0 +1,302 @@
+{
+    "userInfo": {
+        "customerNameRaw": "The Ohio State University",
+        "institutionName": "The Ohio State University",
+        "institute": true,
+        "member": false,
+        "individual": false,
+        "guest": false,
+        "subscribedContent": false,
+        "fileCabinetContent": false,
+        "fileCabinetUser": false,
+        "institutionalFileCabinetUser": false,
+        "products": "IEL|EBOOKS:1974:2014|JRNLARCH:1884:1994|CONFARCH:1951:1999|IBM:1872:2020|VDE|NOKIA BELL LABS|",
+        "instType": "Academic",
+        "userIds": [
+            7827
+        ],
+        "showPatentCitations": true,
+        "showGet802Link": true,
+        "openUrlImgLoc": "http://library-osu-edu.proxy.lib.ohio-state.edu/resources/serialssolutions/buttons/button75x25edit.jpg",
+        "openUrlLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu",
+        "instLogoFile": "7827_OSULHoriz.png",
+        "openUrlTxt": "Find It!",
+        "showOpenUrlLink": true,
+        "marketingInfoCaptured": false,
+        "tracked": false,
+        "ringGoldId": "2647",
+        "delegatedAdmin": false,
+        "desktop": false,
+        "isInstitutionDashboardEnabled": false,
+        "isInstitutionProfileEnabled": false,
+        "isRoamingEnabled": true,
+        "isDelegatedAdmin": false,
+        "isMdl": false,
+        "isCwg": false,
+        "isIel": true,
+        "isAcademic": true
+    },
+    "authors": [
+        {
+            "name": "Raghav Goyal",
+            "affiliation": [
+                "Interfaculty Department of Remote Sensing and GIS, University of Tabriz, Tabriz, Iran"
+            ],
+            "firstName": "Raghav",
+            "lastName": "Goyal",
+            "id": "37088456286"
+        },
+        {
+            "name": "Samira Ebrahimi Kahou",
+            "firstName": "Samira Ebrahimi",
+            "lastName": "Kahou",
+            "id": "37547689800"
+        },
+        {
+            "name": "Vincent Michalski",
+            "firstName": "Vincent",
+            "lastName": "Michalski",
+            "id": "37086154678"
+        },
+        {
+            "name": "Joanna Materzynska",
+            "firstName": "Joanna",
+            "lastName": "Materzynska",
+            "id": "37086184324"
+        },
+        {
+            "name": "Susanne Westphal",
+            "firstName": "Susanne",
+            "lastName": "Westphal",
+            "id": "37088730315"
+        },
+        {
+            "name": "Heuna Kim",
+            "firstName": "Heuna",
+            "lastName": "Kim",
+            "id": "37088741984"
+        },
+        {
+            "name": "Valentin Haenel",
+            "firstName": "Valentin",
+            "lastName": "Haenel",
+            "id": "37088746307"
+        },
+        {
+            "name": "Ingo Fruend",
+            "firstName": "Ingo",
+            "lastName": "Fruend",
+            "id": "37088745618"
+        },
+        {
+            "name": "Peter Yianilos",
+            "firstName": "Peter",
+            "lastName": "Yianilos",
+            "id": "37351839800"
+        },
+        {
+            "name": "Moritz Mueller-Freitag",
+            "firstName": "Moritz",
+            "lastName": "Mueller-Freitag",
+            "id": "37088745363"
+        },
+        {
+            "name": "Florian Hoppe",
+            "firstName": "Florian",
+            "lastName": "Hoppe",
+            "id": "37861625100"
+        },
+        {
+            "name": "Christian Thurau",
+            "firstName": "Christian",
+            "lastName": "Thurau",
+            "id": "37671378400"
+        },
+        {
+            "name": "Ingo Bax",
+            "firstName": "Ingo",
+            "lastName": "Bax",
+            "id": "37087793297"
+        },
+        {
+            "name": "Roland Memisevic",
+            "firstName": "Roland",
+            "lastName": "Memisevic",
+            "id": "37426334900"
+        }
+    ],
+    "isbn": [
+        {
+            "format": "Electronic ISBN",
+            "value": "978-1-5386-1032-9",
+            "isbnType": ""
+        },
+        {
+            "format": "Print on Demand(PoD) ISBN",
+            "value": "978-1-5386-1033-6",
+            "isbnType": ""
+        }
+    ],
+    "issn": [
+        {
+            "format": "Electronic ISSN",
+            "value": "2380-7504"
+        }
+    ],
+    "articleNumber": "8237884",
+    "dbTime": "1 ms",
+    "metrics": {
+        "citationCountPaper": 489,
+        "citationCountPatent": 0,
+        "totalDownloads": 495
+    },
+    "purchaseOptions": {
+        "showOtherFormatPricingTab": false,
+        "showPdfFormatPricingTab": true,
+        "pdfPricingInfoAvailable": false,
+        "otherPricingInfoAvailable": false,
+        "mandatoryBundle": false,
+        "optionalBundle": false,
+        "displayTextWhenPdfPricingNotAvailable": "The purchase and pricing options for this item are unavailable. Select items are only available as part of a subscription package. You may try again later or <a href='https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/xpl/contact' target='_blank'>contact us</a> for more information.",
+        "displayTextWhenOtherFormatPricingNotAvailable": "The purchase and pricing options for this item are unavailable. Select items are only available as part of a subscription package. You may try again later or <a href='https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/xpl/contact' target='_blank'>contact us</a> for more information.",
+        "openUrlFullLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu?url_ver=Z39.88-2004&rfr_id=info:sid/IEEE.org:XPLORE&rft_id=info:doi/10.1109/ICCV.2017.622&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&rft.atitle=The \u201cSomething Something\u201d Video Database for Learning and Evaluating Visual Common Sense&rft.jtitle=2017 IEEE International Conference on Computer Vision (ICCV)&rft.date=2017&rft.spage=5843&rft.epage=5851&rft.eissn=2380-7504&rft.au=Raghav Goyal&rft.aulast=Raghav Goyal&rft.isbn=978-1-5386-1032-9"
+    },
+    "getProgramTermsAccepted": false,
+    "sections": {
+        "abstract": "true",
+        "authors": "true",
+        "figures": "true",
+        "multimedia": "false",
+        "references": "true",
+        "citedby": "true",
+        "keywords": "true",
+        "definitions": "false",
+        "algorithm": "false",
+        "dataset": "false",
+        "cadmore": "false",
+        "footnotes": "true",
+        "disclaimer": "false",
+        "relatedContent": "false",
+        "metrics": "true"
+    },
+    "abstract": "Neural networks trained on datasets such as ImageNet have led to major advances in visual object classification. One obstacle that prevents networks from reasoning more deeply about complex scenes and situations, and from integrating visual knowledge with natural language, like humans do, is their lack of common sense knowledge about the physical world. Videos, unlike still images, contain a wealth of detailed information about the physical world. However, most labelled video datasets represent high-level concepts rather than detailed physical aspects about actions and scenes. In this work, we describe our ongoing collection of the \u201csomething-something\u201d database of video prediction tasks whose solutions require a common sense understanding of the depicted situation. The database currently contains more than 100,000 videos across 174 classes, which are defined as caption-templates. We also describe the challenges in crowd-sourcing this data at scale.",
+    "publicationYear": "2017",
+    "pdfPath": "/iel7/8234942/8237262/08237884.pdf",
+    "publicationDate": "October 2017",
+    "doi": "10.1109/ICCV.2017.622",
+    "formulaStrippedArticleTitle": "The \u201cSomething Something\u201d Video Database for Learning and Evaluating Visual Common Sense",
+    "displayPublicationTitle": "2017 IEEE International Conference on Computer Vision (ICCV)",
+    "authorNames": "Raghav Goyal;Samira Ebrahimi Kahou;Vincent Michalski;Joanna Materzynska;Susanne Westphal;Heuna Kim;Valentin Haenel;Ingo Fruend;Peter Yianilos;Moritz Mueller-Freitag;Florian Hoppe;Christian Thurau;Ingo Bax;Roland Memisevic",
+    "publicationTitle": "2017 IEEE International Conference on Computer Vision (ICCV)",
+    "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=proceedings&title=The+%E2%80%9CSomething+Something%E2%80%9D+Video+Database+for+Learning+and+Evaluating+Visual+Common+Sense&isbn=978-1-5386-1032-9&publicationDate=October+2017&author=Raghav+Goyal&ContentID=10.1109/ICCV.2017.622&orderBeanReset=true&startPage=5843&endPage=5851&proceedingName=2017+IEEE+International+Conference+on+Computer+Vision+%28ICCV%29",
+    "dateOfInsertion": "25 December 2017",
+    "startPage": "5843",
+    "endPage": "5851",
+    "pdfUrl": "/stamp/stamp.jsp?tp=&arnumber=8237884",
+    "keywords": [
+        {
+            "type": "IEEE Keywords",
+            "kwd": [
+                "Visualization",
+                "Physics",
+                "Natural languages",
+                "Neural networks",
+                "Databases",
+                "Poles and towers"
+            ]
+        },
+        {
+            "type": "INSPEC: Controlled Indexing",
+            "kwd": [
+                "crowdsourcing",
+                "image classification",
+                "learning (artificial intelligence)",
+                "neural nets",
+                "video databases",
+                "video signal processing"
+            ]
+        },
+        {
+            "type": "INSPEC: Non-Controlled Indexing",
+            "kwd": [
+                "visual common sense learning",
+                "video prediction tasks",
+                "crowdsourcing",
+                "something something video database",
+                "common sense understanding",
+                "high-level concepts",
+                "labelled video datasets",
+                "detailed information",
+                "physical world",
+                "common sense knowledge",
+                "natural language",
+                "visual knowledge",
+                "complex scenes",
+                "visual object classification",
+                "ImageNet",
+                "neural networks"
+            ]
+        }
+    ],
+    "doiLink": "https://doi-org.proxy.lib.ohio-state.edu/10.1109/ICCV.2017.622",
+    "displayPublicationDate": "22-29 October 2017",
+    "articleCopyRight": "2017 IEEE",
+    "issueLink": "/xpl/tocresult.jsp?isnumber=8237262&punumber=8234942",
+    "pubLink": "/xpl/conhome/8234942/proceeding",
+    "allowComments": false,
+    "isGetAddressInfoCaptured": false,
+    "isMarketingOptIn": false,
+    "pubTopics": [
+        {
+            "name": "Computing and Processing"
+        }
+    ],
+    "publisher": "IEEE",
+    "displayDocTitle": "The \u201cSomething Something\u201d Video Database for Learning and Evaluating Visual Common Sense",
+    "isStandard": false,
+    "isConference": true,
+    "isBookWithoutChapters": false,
+    "isChapter": false,
+    "isProduct": false,
+    "isEarlyAccess": false,
+    "isOpenAccess": false,
+    "isEphemera": false,
+    "xploreDocumentType": "Conference Publication",
+    "isBook": false,
+    "isJournal": false,
+    "isSpringer": false,
+    "accessionNumber": "17453071",
+    "isFreeDocument": false,
+    "isPromo": false,
+    "isDynamicHtml": true,
+    "htmlLink": "/document/8237884/",
+    "htmlAbstractLink": "/document/8237884/",
+    "isCustomDenial": false,
+    "persistentLink": "https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/servlet/opac?punumber=8234942",
+    "isNow": false,
+    "isSAE": false,
+    "isOUP": false,
+    "isSMPTE": false,
+    "openAccessFlag": "F",
+    "insertDate": "25 December 2017",
+    "ephemeraFlag": "false",
+    "title": "The \u201cSomething Something\u201d Video Database for Learning and Evaluating Visual Common Sense",
+    "confLoc": "Venice, Italy",
+    "html_flag": "false",
+    "ml_html_flag": "true",
+    "sourcePdf": "1032f843.pdf",
+    "mlTime": "PT0.062451S",
+    "xplore-pub-id": "8234942",
+    "isNumber": "8237262",
+    "rightsLinkFlag": "1",
+    "contentType": "conferences",
+    "publicationNumber": "8234942",
+    "citationCount": "489",
+    "xplore-issue": "8237262",
+    "articleId": "8237884",
+    "contentTypeDisplay": "Conferences",
+    "subType": "IEEE Conference",
+    "_value": "IEEE",
+    "lastupdate": "2023-10-19",
+    "mediaPath": "/mediastore_new/IEEE/content/media/8234942/8237262/8237884"
+}

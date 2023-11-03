@@ -1,0 +1,2 @@
+Fig. 3. 
+Our approach is built around an image enhancement network that transforms a rendered image. In addition to the image, the network ingests G-buffer feature tensors at multiple scales. The tensors represent rendering information from a conventional graphics pipeline, encoded by a G-buffer encoder network. We train both networks jointly via an LPIPS loss (to retain the structure of the rendered image) and a perceptual discriminator (to maximize the realism of the enhanced image).

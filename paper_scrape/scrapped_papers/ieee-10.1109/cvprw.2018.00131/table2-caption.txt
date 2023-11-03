@@ -1,0 +1,1 @@
+Table 2: Gain of simultaneous training and curriculum learning w.r.t. Single-scale training on all datasets. The average is computed accounting the number of images in the datasets. Curriculum learning improves the training for all scales while simultaneous training hampers the training of the lowest scale.

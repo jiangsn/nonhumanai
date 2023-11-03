@@ -1,0 +1,2 @@
+
+System overview. Left to right: Given a single image, we use a CNN-based method to predict 2D joint locations (hot colors denote high confidence). We then fit a 3D body model to this, to estimate 3D body shape and pose. Here we show a fit on HumanEva [41], projected into the image and shown from different viewpoints. (Color figure online)

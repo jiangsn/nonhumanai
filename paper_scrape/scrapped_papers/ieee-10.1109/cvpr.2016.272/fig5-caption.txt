@@ -1,0 +1,1 @@
+Figure 5: Effect of MRFs prior in neural based synthesis. We do not show the example patches here because they are visually identical to the synthesized patches cropped from our results (top). In contrast, patches cropped from [7]'s synthesis results have severe distortion and smear (bottom).

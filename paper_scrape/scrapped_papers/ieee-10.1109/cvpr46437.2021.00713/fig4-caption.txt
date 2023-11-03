@@ -1,0 +1,2 @@
+Figure 4: 
+NeRF-W separately renders the static (a) and transient (b) elements of the scene, and then composites them (c). Training minimizes the difference between the composite and the true image (d) weighted by uncertainty (e), which is simultaneously optimized to identify and discount anomalous image regions. Photo by Flickr user vasnic64 /\color{Magenta}{\text{CC BY}}CC BY.

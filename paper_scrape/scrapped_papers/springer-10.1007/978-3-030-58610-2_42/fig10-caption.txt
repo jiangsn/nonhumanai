@@ -1,0 +1,1 @@
+Failure cases. Left, middle: hallucinated content in large missing regions (i.e., not filled by propagation) is sometimes not plausible. Right: fast motion might lead to poorly estimated flow, which results in a poor color completion.

@@ -1,0 +1,1 @@
+Fig. 5. Experiments of architecture robustness. Different GAN architectures, which correspond to different training challenges, trained with six different GAN methods (or settings). The proposed E-GAN achieved promising performance under all architecture settings.

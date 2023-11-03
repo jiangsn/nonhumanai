@@ -1,0 +1,1 @@
+Figure 6. When rendering scenes based on multiple Block-NeRFs, we use appearance matching to obtain a consistent appearance across the scene. Given a fixed target appearance for one of the Block-NeRFs (left image), we optimize the appearances of the adjacent Block-NeRFs to match. In this example, appearance matching produces a consistent night appearance across Block-NeRFs.

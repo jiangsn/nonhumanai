@@ -1,0 +1,2 @@
+Fig. 5. 
+Qualitative comparisons of ours and ours w/o self-correction on the Human3.6M dataset. The input image, estimated 2D pose, ours w/o self-correction, ours and ground truth are listed from left to right, respectively. With the ground truth as reference, one can easily observe that the inaccurately predicted human 3D joints in ours w/o self-correction are effectively corrected in ours. Best viewed in color. Red and green indicate left and right, respectively.

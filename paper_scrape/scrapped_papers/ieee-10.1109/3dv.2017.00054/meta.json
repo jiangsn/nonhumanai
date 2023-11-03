@@ -1,0 +1,253 @@
+{
+    "userInfo": {
+        "customerNameRaw": "The Ohio State University",
+        "institutionName": "The Ohio State University",
+        "institute": true,
+        "member": false,
+        "individual": false,
+        "guest": false,
+        "subscribedContent": false,
+        "fileCabinetContent": false,
+        "fileCabinetUser": false,
+        "institutionalFileCabinetUser": false,
+        "products": "IEL|EBOOKS:1974:2014|JRNLARCH:1884:1994|CONFARCH:1951:1999|IBM:1872:2020|VDE|NOKIA BELL LABS|",
+        "instType": "Academic",
+        "userIds": [
+            7827
+        ],
+        "showPatentCitations": true,
+        "showGet802Link": true,
+        "openUrlImgLoc": "http://library-osu-edu.proxy.lib.ohio-state.edu/resources/serialssolutions/buttons/button75x25edit.jpg",
+        "openUrlLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu",
+        "instLogoFile": "7827_OSULHoriz.png",
+        "openUrlTxt": "Find It!",
+        "showOpenUrlLink": true,
+        "marketingInfoCaptured": false,
+        "tracked": false,
+        "ringGoldId": "2647",
+        "delegatedAdmin": false,
+        "desktop": false,
+        "isInstitutionDashboardEnabled": false,
+        "isInstitutionProfileEnabled": false,
+        "isRoamingEnabled": true,
+        "isDelegatedAdmin": false,
+        "isMdl": false,
+        "isCwg": false,
+        "isIel": true,
+        "isAcademic": true
+    },
+    "authors": [
+        {
+            "name": "Christian H\u00e4ne",
+            "affiliation": [
+                "University of California, Berkeley"
+            ],
+            "firstName": "Christian",
+            "lastName": "H\u00e4ne",
+            "id": "38230588400"
+        },
+        {
+            "name": "Shubham Tulsiani",
+            "affiliation": [
+                "University of California, Berkeley"
+            ],
+            "firstName": "Shubham",
+            "lastName": "Tulsiani",
+            "id": "37085649010"
+        },
+        {
+            "name": "Jitendra Malik",
+            "affiliation": [
+                "University of California, Berkeley"
+            ],
+            "firstName": "Jitendra",
+            "lastName": "Malik",
+            "id": "37282929000"
+        }
+    ],
+    "isbn": [
+        {
+            "format": "Electronic ISBN",
+            "value": "978-1-5386-2610-8",
+            "isbnType": ""
+        },
+        {
+            "format": "Print on Demand(PoD) ISBN",
+            "value": "978-1-5386-2611-5",
+            "isbnType": ""
+        }
+    ],
+    "issn": [
+        {
+            "format": "Electronic ISSN",
+            "value": "2475-7888"
+        }
+    ],
+    "articleNumber": "8374595",
+    "dbTime": "1 ms",
+    "metrics": {
+        "citationCountPaper": 110,
+        "citationCountPatent": 0,
+        "totalDownloads": 1003
+    },
+    "purchaseOptions": {
+        "showOtherFormatPricingTab": false,
+        "showPdfFormatPricingTab": true,
+        "pdfPricingInfoAvailable": true,
+        "otherPricingInfoAvailable": false,
+        "mandatoryBundle": false,
+        "optionalBundle": false,
+        "displayTextWhenOtherFormatPricingNotAvailable": "The purchase and pricing options for this item are unavailable. Select items are only available as part of a subscription package. You may try again later or <a href='https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/xpl/contact' target='_blank'>contact us</a> for more information.",
+        "pdfPricingInfo": [
+            {
+                "memberPrice": "$14.95",
+                "nonMemberPrice": "$33.00",
+                "partNumber": "8374595",
+                "type": "PDF/HTML"
+            }
+        ],
+        "openUrlFullLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu?url_ver=Z39.88-2004&rfr_id=info:sid/IEEE.org:XPLORE&rft_id=info:doi/10.1109/3DV.2017.00054&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&rft.atitle=Hierarchical Surface Prediction for 3D Object Reconstruction&rft.jtitle=2017 International Conference on 3D Vision (3DV)&rft.date=2017&rft.spage=412&rft.epage=420&rft.eissn=2475-7888&rft.au=Christian H\u00e4ne&rft.aulast=Christian H\u00e4ne&rft.isbn=978-1-5386-2610-8"
+    },
+    "getProgramTermsAccepted": false,
+    "sections": {
+        "abstract": "true",
+        "authors": "true",
+        "figures": "true",
+        "multimedia": "false",
+        "references": "true",
+        "citedby": "true",
+        "keywords": "true",
+        "definitions": "false",
+        "algorithm": "false",
+        "dataset": "false",
+        "cadmore": "false",
+        "footnotes": "true",
+        "disclaimer": "false",
+        "relatedContent": "false",
+        "metrics": "true"
+    },
+    "abstract": "Recently, Convolutional Neural Networks have shown promising results for 3D geometry prediction. They can make predictions from very little input data such as a single color image. A major limitation of such approaches is that they only predict a coarse resolution voxel grid, which does not capture the surface of the objects well. We propose a general framework, called hierarchical surface prediction (HSP), which facilitates prediction of high resolution voxel grids. The main insight is that it is sufficient to predict high resolution voxels around the predicted surfaces. The exterior and interior of the objects can be represented with coarse resolution voxels. Our approach is not dependent on a specific input type. We show results for geometry prediction from color images, depth images and shape completion from partial voxel grids. Our analysis shows that our high resolution predictions are more accurate than low resolution predictions.",
+    "publicationYear": "2017",
+    "pdfPath": "/iel7/8327552/8367729/08374595.pdf",
+    "publicationDate": "October 2017",
+    "doi": "10.1109/3DV.2017.00054",
+    "formulaStrippedArticleTitle": "Hierarchical Surface Prediction for 3D Object Reconstruction",
+    "displayPublicationTitle": "2017 International Conference on 3D Vision (3DV)",
+    "authorNames": "Christian H\u00e4ne;Shubham Tulsiani;Jitendra Malik",
+    "publicationTitle": "2017 International Conference on 3D Vision (3DV)",
+    "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=proceedings&title=Hierarchical+Surface+Prediction+for+3D+Object+Reconstruction&isbn=978-1-5386-2610-8&publicationDate=October+2017&author=Christian+H%C3%A4ne&ContentID=10.1109/3DV.2017.00054&orderBeanReset=true&startPage=412&endPage=420&proceedingName=2017+International+Conference+on+3D+Vision+%283DV%29",
+    "dateOfInsertion": "07 June 2018",
+    "startPage": "412",
+    "endPage": "420",
+    "pdfUrl": "/stamp/stamp.jsp?tp=&arnumber=8374595",
+    "keywords": [
+        {
+            "type": "IEEE Keywords",
+            "kwd": [
+                "Octrees",
+                "Three-dimensional displays",
+                "Geometry",
+                "Image resolution",
+                "Color",
+                "Shape",
+                "Image reconstruction"
+            ]
+        },
+        {
+            "type": "INSPEC: Controlled Indexing",
+            "kwd": [
+                "feedforward neural nets",
+                "image colour analysis",
+                "image reconstruction",
+                "image representation",
+                "image segmentation"
+            ]
+        },
+        {
+            "type": "INSPEC: Non-Controlled Indexing",
+            "kwd": [
+                "3D object reconstruction",
+                "coarse resolution voxel grid",
+                "high resolution voxel grids",
+                "color images",
+                "partial voxel grids",
+                "high resolution predictions",
+                "low resolution predictions",
+                "convolutional neural networks",
+                "hierarchical surface prediction",
+                "3D geometry prediction",
+                "HSP",
+                "shape completion"
+            ]
+        },
+        {
+            "type": "Author Keywords ",
+            "kwd": [
+                "3D-Reconstruction",
+                "Single-View",
+                "High-Resolution-Voxel-Prediction"
+            ]
+        }
+    ],
+    "doiLink": "https://doi-org.proxy.lib.ohio-state.edu/10.1109/3DV.2017.00054",
+    "displayPublicationDate": "10-12 October 2017",
+    "articleCopyRight": "2017 IEEE",
+    "issueLink": "/xpl/tocresult.jsp?isnumber=8367729&punumber=8327552",
+    "pubLink": "/xpl/conhome/8327552/proceeding",
+    "allowComments": false,
+    "isGetAddressInfoCaptured": false,
+    "isMarketingOptIn": false,
+    "pubTopics": [
+        {
+            "name": "Computing and Processing"
+        }
+    ],
+    "publisher": "IEEE",
+    "displayDocTitle": "Hierarchical Surface Prediction for 3D Object Reconstruction",
+    "isStandard": false,
+    "isConference": true,
+    "isBookWithoutChapters": false,
+    "isChapter": false,
+    "isProduct": false,
+    "isEarlyAccess": false,
+    "isOpenAccess": false,
+    "isEphemera": false,
+    "xploreDocumentType": "Conference Publication",
+    "isBook": false,
+    "isJournal": false,
+    "isSpringer": false,
+    "accessionNumber": "17822502",
+    "isFreeDocument": false,
+    "isPromo": false,
+    "isDynamicHtml": true,
+    "htmlLink": "/document/8374595/",
+    "htmlAbstractLink": "/document/8374595/",
+    "isCustomDenial": false,
+    "persistentLink": "https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/servlet/opac?punumber=8327552",
+    "isNow": false,
+    "isSAE": false,
+    "isOUP": false,
+    "isSMPTE": false,
+    "openAccessFlag": "F",
+    "insertDate": "07 June 2018",
+    "ephemeraFlag": "false",
+    "title": "Hierarchical Surface Prediction for 3D Object Reconstruction",
+    "confLoc": "Qingdao, China",
+    "html_flag": "false",
+    "ml_html_flag": "true",
+    "sourcePdf": "261001a412.pdf",
+    "mlTime": "PT0.05187S",
+    "xplore-pub-id": "8327552",
+    "isNumber": "8367729",
+    "rightsLinkFlag": "1",
+    "contentType": "conferences",
+    "publicationNumber": "8327552",
+    "citationCount": "110",
+    "xplore-issue": "8367729",
+    "articleId": "8374595",
+    "contentTypeDisplay": "Conferences",
+    "subType": "IEEE Conference",
+    "_value": "IEEE",
+    "lastupdate": "2023-10-07",
+    "mediaPath": "/mediastore_new/IEEE/content/media/8327552/8367729/8374595"
+}

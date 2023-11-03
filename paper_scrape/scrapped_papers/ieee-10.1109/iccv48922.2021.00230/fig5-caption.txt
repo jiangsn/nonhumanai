@@ -1,0 +1,2 @@
+Figure 5: 
+Visual comparison to state-of-the-art methods. Our proposed fusion approach does not suffer from aggressive cropping of frame borders and renders stabilized frames with significantly fewer artifacts than DIFRINT [10]. We refer the readers to our supplementary material for extensive video comparisons with prior representative methods.

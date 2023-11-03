@@ -1,0 +1,2 @@
+Figure 5. 
+Direct omnimatte-based removal. For each input frame (a) we show the result of removing a foreground object by excluding its omnimatte from the reconstruction (c), compared to FGVC [10] (b).

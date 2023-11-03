@@ -1,0 +1,2 @@
+Fig. 1: 
+Overview of the alignment learning: autoregressive models use sequential attention mechanism to generate alignments between text and mels. Parallel models encode text and mel using 1D convolutions and use pairwise L2 distance to compute alignments. Alignments represent the distribution P (st|xt) used in alignment objective (Eq. 1).

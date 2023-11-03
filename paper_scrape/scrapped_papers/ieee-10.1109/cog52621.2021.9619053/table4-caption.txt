@@ -1,0 +1,1 @@
+Table IV: Results on generator creating environments in the driver game with with variable auxiliary input. Second column shows success ratio for solver with different auxiliary input. Third, fourth and fifth columns show average change in angle, length and height, respectively.

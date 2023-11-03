@@ -1,0 +1,1 @@
+Comparison of different video generation methods on the Cityscapes dataset. Note that for our results, the textures of the cars, roads, and signboards are stable over time, while they change gradually in vid2vid and other methods. Click on an image to play the video (see Supplementary material). Please view with Acrobat Reader.

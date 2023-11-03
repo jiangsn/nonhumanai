@@ -1,0 +1,2 @@
+TABLE VI 
+Cost of Conducting One-Pixel Attack on Four Different Types of Networks. AvgEvaluation is the Average Number of Evaluations to Produce Adversarial Images. AvgDistortion is the Required Average Distortion in One-Channel of a Single Pixel to Produce Adversarial Images

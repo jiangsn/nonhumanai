@@ -1,0 +1,2 @@
+Fig. 7. 
+SR3 and state-of-the-art methods on 4\times super-resolution (64×64 \rightarrow 256×256) applied to ImageNet test images. The outputs of EnhanceNet and ESRGAN are sharp, but include artifacts especially when inspecting enlarged patches. We found that ESRGAN trained on ImageNet-1 M produced similar artifacts. SR3 outputs seem to resemble the original images the most, but one can still find patches in the original images that contain more interesting texture than in SR3 outputs.

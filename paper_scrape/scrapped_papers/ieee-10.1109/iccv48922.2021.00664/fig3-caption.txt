@@ -1,0 +1,2 @@
+Figure 3. 
+Our simplified encoder architecture. All k input style vectors of the generator are extracted from the encoder’s final 16× 16 feature map which is passed through k map2style blocks [35].

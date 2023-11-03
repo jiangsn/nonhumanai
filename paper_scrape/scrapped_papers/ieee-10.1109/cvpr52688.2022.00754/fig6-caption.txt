@@ -1,0 +1,1 @@
+Figure 6. Illustration of progressive fine-tuning. (a) DualStyleGAN is tasked with style transfers with growing difficulties. (b) The performance of DualStyleGAN after each stage.

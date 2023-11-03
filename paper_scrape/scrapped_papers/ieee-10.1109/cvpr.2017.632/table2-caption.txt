@@ -1,0 +1,1 @@
+Table 2: FCN-scores for different receptive field sizes of the discriminator, evaluated on cityscapes labels→photos. Note that input images are 256×256 pixels and larger receptive fields are padded with zeros.

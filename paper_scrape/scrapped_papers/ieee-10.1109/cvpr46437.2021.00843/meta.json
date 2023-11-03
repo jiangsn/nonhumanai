@@ -1,0 +1,263 @@
+{
+    "userInfo": {
+        "customerNameRaw": "The Ohio State University",
+        "institutionName": "The Ohio State University",
+        "institute": true,
+        "member": false,
+        "individual": false,
+        "guest": false,
+        "subscribedContent": false,
+        "fileCabinetContent": false,
+        "fileCabinetUser": false,
+        "institutionalFileCabinetUser": false,
+        "products": "IEL|EBOOKS:1974:2014|JRNLARCH:1884:1994|CONFARCH:1951:1999|IBM:1872:2020|VDE|NOKIA BELL LABS|",
+        "instType": "Academic",
+        "userIds": [
+            7827
+        ],
+        "showPatentCitations": true,
+        "showGet802Link": true,
+        "openUrlImgLoc": "http://library-osu-edu.proxy.lib.ohio-state.edu/resources/serialssolutions/buttons/button75x25edit.jpg",
+        "openUrlLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu",
+        "instLogoFile": "7827_OSULHoriz.png",
+        "openUrlTxt": "Find It!",
+        "showOpenUrlLink": true,
+        "marketingInfoCaptured": false,
+        "tracked": false,
+        "ringGoldId": "2647",
+        "delegatedAdmin": false,
+        "desktop": false,
+        "isInstitutionDashboardEnabled": false,
+        "isInstitutionProfileEnabled": false,
+        "isRoamingEnabled": true,
+        "isDelegatedAdmin": false,
+        "isMdl": false,
+        "isCwg": false,
+        "isIel": true,
+        "isAcademic": true
+    },
+    "authors": [
+        {
+            "name": "Suttisak Wizadwongsa",
+            "affiliation": [
+                "VISTEC, Thailand"
+            ],
+            "firstName": "Suttisak",
+            "lastName": "Wizadwongsa",
+            "id": "37089011934"
+        },
+        {
+            "name": "Pakkapon Phongthawee",
+            "affiliation": [
+                "VISTEC, Thailand"
+            ],
+            "firstName": "Pakkapon",
+            "lastName": "Phongthawee",
+            "id": "37089014831"
+        },
+        {
+            "name": "Jiraphon Yenphraphai",
+            "affiliation": [
+                "VISTEC, Thailand"
+            ],
+            "firstName": "Jiraphon",
+            "lastName": "Yenphraphai",
+            "id": "37089013103"
+        },
+        {
+            "name": "Supasorn Suwajanakorn",
+            "affiliation": [
+                "VISTEC, Thailand"
+            ],
+            "firstName": "Supasorn",
+            "lastName": "Suwajanakorn",
+            "id": "37085549398"
+        }
+    ],
+    "isbn": [
+        {
+            "format": "Electronic ISBN",
+            "value": "978-1-6654-4509-2",
+            "isbnType": ""
+        },
+        {
+            "format": "Print on Demand(PoD) ISBN",
+            "value": "978-1-6654-4510-8",
+            "isbnType": ""
+        }
+    ],
+    "issn": [
+        {
+            "format": "Electronic ISSN",
+            "value": "2575-7075"
+        },
+        {
+            "format": "Print on Demand(PoD) ISSN",
+            "value": "1063-6919"
+        }
+    ],
+    "articleNumber": "9577465",
+    "dbTime": "1 ms",
+    "metrics": {
+        "citationCountPaper": 62,
+        "citationCountPatent": 0,
+        "totalDownloads": 146
+    },
+    "purchaseOptions": {
+        "showOtherFormatPricingTab": false,
+        "showPdfFormatPricingTab": true,
+        "pdfPricingInfoAvailable": true,
+        "otherPricingInfoAvailable": false,
+        "mandatoryBundle": false,
+        "optionalBundle": false,
+        "displayTextWhenOtherFormatPricingNotAvailable": "The purchase and pricing options for this item are unavailable. Select items are only available as part of a subscription package. You may try again later or <a href='https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/xpl/contact' target='_blank'>contact us</a> for more information.",
+        "pdfPricingInfo": [
+            {
+                "memberPrice": "$14.95",
+                "nonMemberPrice": "$33.00",
+                "partNumber": "9577465",
+                "type": "PDF/HTML"
+            }
+        ],
+        "openUrlFullLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu?url_ver=Z39.88-2004&rfr_id=info:sid/IEEE.org:XPLORE&rft_id=info:doi/10.1109/CVPR46437.2021.00843&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&rft.atitle=NeX: Real-time View Synthesis with Neural Basis Expansion&rft.jtitle=2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)&rft.date=2021&rft.spage=8530&rft.epage=8539&rft.eissn=2575-7075&rft.au=Suttisak Wizadwongsa&rft.aulast=Suttisak Wizadwongsa&rft.isbn=978-1-6654-4509-2"
+    },
+    "getProgramTermsAccepted": false,
+    "sections": {
+        "abstract": "true",
+        "authors": "true",
+        "figures": "true",
+        "multimedia": "true",
+        "references": "true",
+        "citedby": "true",
+        "keywords": "true",
+        "definitions": "false",
+        "algorithm": "false",
+        "dataset": "false",
+        "cadmore": "false",
+        "footnotes": "true",
+        "disclaimer": "false",
+        "relatedContent": "false",
+        "metrics": "true"
+    },
+    "abstract": "We present NeX, a new approach to novel view synthesis based on enhancements of multiplane image (MPI) that can reproduce next-level view-dependent effects\u2014in real time. Unlike traditional MPI that uses a set of simple RGB\u03b1 planes, our technique models view-dependent effects by instead parameterizing each pixel as a linear combination of basis functions learned from a neural network. Moreover, we propose a hybrid implicit-explicit modeling strategy that improves upon fine detail and produces state-of-the-art results. Our method is evaluated on benchmark forwardfacing datasets as well as our newly-introduced dataset designed to test the limit of view-dependent modeling with significantly more challenging effects such as the rainbow reflections on a CD. Our method achieves the best overall scores across all major metrics on these datasets with more than 1000\u00d7 faster rendering time than the state of the art. For real-time demos, visit https://nex-mpi.github.io/",
+    "publicationYear": "2021",
+    "pdfPath": "/iel7/9577055/9577056/09577465.pdf",
+    "publicationDate": "June 2021",
+    "doi": "10.1109/CVPR46437.2021.00843",
+    "formulaStrippedArticleTitle": "NeX: Real-time View Synthesis with Neural Basis Expansion",
+    "displayPublicationTitle": "2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+    "authorNames": "Suttisak Wizadwongsa;Pakkapon Phongthawee;Jiraphon Yenphraphai;Supasorn Suwajanakorn",
+    "publicationTitle": "2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+    "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=proceedings&title=NeX%3A+Real-time+View+Synthesis+with+Neural+Basis+Expansion&isbn=978-1-6654-4509-2&publicationDate=June+2021&author=Suttisak+Wizadwongsa&ContentID=10.1109/CVPR46437.2021.00843&orderBeanReset=true&startPage=8530&endPage=8539&proceedingName=2021+IEEE%2FCVF+Conference+on+Computer+Vision+and+Pattern+Recognition+%28CVPR%29",
+    "dateOfInsertion": "02 November 2021",
+    "startPage": "8530",
+    "endPage": "8539",
+    "pdfUrl": "/stamp/stamp.jsp?tp=&arnumber=9577465",
+    "keywords": [
+        {
+            "type": "IEEE Keywords",
+            "kwd": [
+                "Reflectivity",
+                "Measurement",
+                "Neural networks",
+                "Rendering (computer graphics)",
+                "Real-time systems",
+                "Reflection",
+                "Light fields"
+            ]
+        },
+        {
+            "type": "INSPEC: Controlled Indexing",
+            "kwd": [
+                "data visualisation",
+                "image processing",
+                "learning (artificial intelligence)",
+                "neural nets",
+                "rendering (computer graphics)"
+            ]
+        },
+        {
+            "type": "INSPEC: Non-Controlled Indexing",
+            "kwd": [
+                "real-time view synthesis",
+                "neural basis expansion",
+                "multiplane image",
+                "traditional MPI",
+                "simple RGB\u03b1 planes",
+                "technique models view-dependent effects",
+                "linear combination",
+                "neural network",
+                "implicit-explicit modeling strategy",
+                "benchmark forwardfacing datasets",
+                "view-dependent modeling",
+                "challenging effects",
+                "faster rendering time",
+                "real-time demos",
+                "next-level view-dependent effects",
+                "CD",
+                "NeX"
+            ]
+        }
+    ],
+    "doiLink": "https://doi-org.proxy.lib.ohio-state.edu/10.1109/CVPR46437.2021.00843",
+    "displayPublicationDate": "20-25 June 2021",
+    "articleCopyRight": "2021 IEEE",
+    "issueLink": "/xpl/tocresult.jsp?isnumber=9577056&punumber=9577055",
+    "pubLink": "/xpl/conhome/9577055/proceeding",
+    "allowComments": false,
+    "isGetAddressInfoCaptured": false,
+    "isMarketingOptIn": false,
+    "pubTopics": [
+        {
+            "name": "Computing and Processing"
+        }
+    ],
+    "publisher": "IEEE",
+    "displayDocTitle": "NeX: Real-time View Synthesis with Neural Basis Expansion",
+    "isStandard": false,
+    "isConference": true,
+    "isBookWithoutChapters": false,
+    "isChapter": false,
+    "isProduct": false,
+    "isEarlyAccess": false,
+    "isOpenAccess": false,
+    "isEphemera": false,
+    "xploreDocumentType": "Conference Publication",
+    "isBook": false,
+    "isJournal": false,
+    "isSpringer": false,
+    "accessionNumber": "21413153",
+    "isFreeDocument": false,
+    "isPromo": false,
+    "isDynamicHtml": true,
+    "htmlLink": "/document/9577465/",
+    "htmlAbstractLink": "/document/9577465/",
+    "isCustomDenial": false,
+    "persistentLink": "https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/servlet/opac?punumber=9577055",
+    "isNow": false,
+    "isSAE": false,
+    "isOUP": false,
+    "isSMPTE": false,
+    "openAccessFlag": "F",
+    "insertDate": "02 November 2021",
+    "ephemeraFlag": "false",
+    "title": "NeX: Real-time View Synthesis with Neural Basis Expansion",
+    "confLoc": "Nashville, TN, USA",
+    "html_flag": "false",
+    "ml_html_flag": "true",
+    "sourcePdf": "450900i530.pdf",
+    "mlTime": "PT0.091541S",
+    "xplore-pub-id": "9577055",
+    "isNumber": "9577056",
+    "rightsLinkFlag": "1",
+    "contentType": "conferences",
+    "publicationNumber": "9577055",
+    "citationCount": "62",
+    "xplore-issue": "9577056",
+    "articleId": "9577465",
+    "contentTypeDisplay": "Conferences",
+    "subType": "IEEE Conference",
+    "_value": "IEEE",
+    "lastupdate": "2023-10-08",
+    "mediaPath": "/mediastore_new/IEEE/content/media/9577055/9577056/9577465"
+}

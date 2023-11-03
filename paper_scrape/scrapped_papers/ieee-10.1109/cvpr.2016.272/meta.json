@@ -1,0 +1,241 @@
+{
+    "userInfo": {
+        "customerNameRaw": "The Ohio State University",
+        "institutionName": "The Ohio State University",
+        "institute": true,
+        "member": false,
+        "individual": false,
+        "guest": false,
+        "subscribedContent": false,
+        "fileCabinetContent": false,
+        "fileCabinetUser": false,
+        "institutionalFileCabinetUser": false,
+        "products": "IEL|EBOOKS:1974:2014|JRNLARCH:1884:1994|CONFARCH:1951:1999|IBM:1872:2020|VDE|NOKIA BELL LABS|",
+        "instType": "Academic",
+        "userIds": [
+            7827
+        ],
+        "showPatentCitations": true,
+        "showGet802Link": true,
+        "openUrlImgLoc": "http://library-osu-edu.proxy.lib.ohio-state.edu/resources/serialssolutions/buttons/button75x25edit.jpg",
+        "openUrlLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu",
+        "instLogoFile": "7827_OSULHoriz.png",
+        "openUrlTxt": "Find It!",
+        "showOpenUrlLink": true,
+        "marketingInfoCaptured": false,
+        "tracked": false,
+        "ringGoldId": "2647",
+        "delegatedAdmin": false,
+        "desktop": false,
+        "isInstitutionDashboardEnabled": false,
+        "isInstitutionProfileEnabled": false,
+        "isRoamingEnabled": true,
+        "isDelegatedAdmin": false,
+        "isMdl": false,
+        "isCwg": false,
+        "isIel": true,
+        "isAcademic": true
+    },
+    "authors": [
+        {
+            "name": "Chuan Li",
+            "affiliation": [
+                "Mainz University, Germany"
+            ],
+            "firstName": "Chuan",
+            "lastName": "Li",
+            "id": "37085655141"
+        },
+        {
+            "name": "Michael Wand",
+            "affiliation": [
+                "Mainz University, Germany"
+            ],
+            "firstName": "Michael",
+            "lastName": "Wand",
+            "id": "37088900230"
+        }
+    ],
+    "isbn": [
+        {
+            "format": "Electronic ISBN",
+            "value": "978-1-4673-8851-1",
+            "isbnType": ""
+        },
+        {
+            "format": "Print on Demand(PoD) ISBN",
+            "value": "978-1-4673-8852-8",
+            "isbnType": ""
+        }
+    ],
+    "issn": [
+        {
+            "format": "Electronic ISSN",
+            "value": "1063-6919"
+        }
+    ],
+    "articleNumber": "7780641",
+    "dbTime": "1 ms",
+    "metrics": {
+        "citationCountPaper": 414,
+        "citationCountPatent": 12,
+        "totalDownloads": 1222
+    },
+    "purchaseOptions": {
+        "showOtherFormatPricingTab": false,
+        "showPdfFormatPricingTab": true,
+        "pdfPricingInfoAvailable": true,
+        "otherPricingInfoAvailable": false,
+        "mandatoryBundle": false,
+        "optionalBundle": false,
+        "displayTextWhenOtherFormatPricingNotAvailable": "The purchase and pricing options for this item are unavailable. Select items are only available as part of a subscription package. You may try again later or <a href='https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/xpl/contact' target='_blank'>contact us</a> for more information.",
+        "pdfPricingInfo": [
+            {
+                "memberPrice": "$14.95",
+                "nonMemberPrice": "$33.00",
+                "partNumber": "7780641",
+                "type": "PDF/HTML"
+            }
+        ],
+        "openUrlFullLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu?url_ver=Z39.88-2004&rfr_id=info:sid/IEEE.org:XPLORE&rft_id=info:doi/10.1109/CVPR.2016.272&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&rft.atitle=Combining Markov Random Fields and Convolutional Neural Networks for Image Synthesis&rft.jtitle=2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)&rft.date=2016&rft.spage=2479&rft.epage=2486&rft.eissn=1063-6919&rft.au=Chuan Li&rft.aulast=Chuan Li&rft.isbn=978-1-4673-8851-1"
+    },
+    "getProgramTermsAccepted": false,
+    "sections": {
+        "abstract": "true",
+        "authors": "true",
+        "figures": "true",
+        "multimedia": "false",
+        "references": "true",
+        "citedby": "true",
+        "keywords": "true",
+        "definitions": "false",
+        "algorithm": "false",
+        "dataset": "false",
+        "cadmore": "false",
+        "footnotes": "true",
+        "disclaimer": "false",
+        "relatedContent": "false",
+        "metrics": "true"
+    },
+    "abstract": "This paper studies a combination of generative Markov random field (MRF) models and discriminatively trained deep convolutional neural networks (dCNNs) for synthesizing 2D images. The generative MRF acts on higher-levels of a dCNN feature pyramid, controlling the image layout at an abstract level. We apply the method to both photographic and non-photo-realistic (artwork) synthesis tasks. The MRF regularizer prevents over-excitation artifacts and reduces implausible feature mixtures common to previous dCNN inversion approaches, permitting synthesizing photographic content with increased visual plausibility. Unlike standard MRF-based texture synthesis, the combined system can both match and adapt local features with considerable variability, yielding results far out of reach of classic generative MRF methods.",
+    "publicationYear": "2016",
+    "pdfPath": "/iel7/7776647/7780329/07780641.pdf",
+    "publicationDate": "June 2016",
+    "doi": "10.1109/CVPR.2016.272",
+    "formulaStrippedArticleTitle": "Combining Markov Random Fields and Convolutional Neural Networks for Image Synthesis",
+    "displayPublicationTitle": "2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)",
+    "authorNames": "Chuan Li;Michael Wand",
+    "publicationTitle": "2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)",
+    "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=proceedings&title=Combining+Markov+Random+Fields+and+Convolutional+Neural+Networks+for+Image+Synthesis&isbn=978-1-4673-8851-1&publicationDate=June+2016&author=Chuan+Li&ContentID=10.1109/CVPR.2016.272&orderBeanReset=true&startPage=2479&endPage=2486&proceedingName=2016+IEEE+Conference+on+Computer+Vision+and+Pattern+Recognition+%28CVPR%29",
+    "dateOfInsertion": "12 December 2016",
+    "startPage": "2479",
+    "endPage": "2486",
+    "pdfUrl": "/stamp/stamp.jsp?tp=&arnumber=7780641",
+    "keywords": [
+        {
+            "type": "IEEE Keywords",
+            "kwd": [
+                "Layout",
+                "Image generation",
+                "Image coding",
+                "Neural networks",
+                "Encoding",
+                "Image reconstruction"
+            ]
+        },
+        {
+            "type": "INSPEC: Controlled Indexing",
+            "kwd": [
+                "feature extraction",
+                "image processing",
+                "Markov processes",
+                "neural nets",
+                "random processes",
+                "realistic images"
+            ]
+        },
+        {
+            "type": "INSPEC: Non-Controlled Indexing",
+            "kwd": [
+                "2D image synthesis",
+                "convolutional neural networks",
+                "generative Markov random field models",
+                "discriminatively trained deep-convolutional neural networks",
+                "generative MRF model",
+                "dCNN",
+                "image layout",
+                "abstract level",
+                "photographic synthesis task",
+                "nonphoto-realistic synthesis task",
+                "artwork synthesis tasks",
+                "MRF regularizer",
+                "over-excitation artifact prevention",
+                "implausible feature mixture reduction",
+                "visual plausibility",
+                "local feature matching",
+                "local feature adaptation"
+            ]
+        }
+    ],
+    "doiLink": "https://doi-org.proxy.lib.ohio-state.edu/10.1109/CVPR.2016.272",
+    "displayPublicationDate": "27-30 June 2016",
+    "articleCopyRight": "2016 IEEE",
+    "issueLink": "/xpl/tocresult.jsp?isnumber=7780329&punumber=7776647",
+    "pubLink": "/xpl/conhome/7776647/proceeding",
+    "allowComments": false,
+    "isGetAddressInfoCaptured": false,
+    "isMarketingOptIn": false,
+    "pubTopics": [
+        {
+            "name": "Computing and Processing"
+        }
+    ],
+    "publisher": "IEEE",
+    "displayDocTitle": "Combining Markov Random Fields and Convolutional Neural Networks for Image Synthesis",
+    "isStandard": false,
+    "isConference": true,
+    "isBookWithoutChapters": false,
+    "isChapter": false,
+    "isProduct": false,
+    "isEarlyAccess": false,
+    "isOpenAccess": false,
+    "isEphemera": false,
+    "xploreDocumentType": "Conference Publication",
+    "isBook": false,
+    "isJournal": false,
+    "isSpringer": false,
+    "accessionNumber": "16526876",
+    "isFreeDocument": false,
+    "isPromo": false,
+    "isDynamicHtml": true,
+    "htmlLink": "/document/7780641/",
+    "htmlAbstractLink": "/document/7780641/",
+    "isCustomDenial": false,
+    "persistentLink": "https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/servlet/opac?punumber=7776647",
+    "isNow": false,
+    "isSAE": false,
+    "isOUP": false,
+    "isSMPTE": false,
+    "openAccessFlag": "F",
+    "insertDate": "12 December 2016",
+    "ephemeraFlag": "false",
+    "title": "Combining Markov Random Fields and Convolutional Neural Networks for Image Synthesis",
+    "confLoc": "Las Vegas, NV, USA",
+    "html_flag": "true",
+    "ml_html_flag": "true",
+    "sourcePdf": "8851c479.pdf",
+    "mlTime": "PT0.052758S",
+    "xplore-pub-id": "7776647",
+    "isNumber": "7780329",
+    "rightsLinkFlag": "1",
+    "contentType": "conferences",
+    "publicationNumber": "7776647",
+    "citationCount": "414",
+    "xplore-issue": "7780329",
+    "articleId": "7780641",
+    "contentTypeDisplay": "Conferences",
+    "subType": "IEEE Conference",
+    "_value": "IEEE",
+    "lastupdate": "2023-10-07",
+    "mediaPath": "/mediastore_new/IEEE/content/media/7776647/7780329/7780641"
+}

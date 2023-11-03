@@ -1,0 +1,1 @@
+Figure 7. An image from the sony x300 set. (a) Low-light input processed by the traditional image processing pipeline and linear scaling. (b) Same, followed by bm3D denoising. (c) Our result.

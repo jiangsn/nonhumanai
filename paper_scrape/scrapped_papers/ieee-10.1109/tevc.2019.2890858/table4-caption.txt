@@ -1,0 +1,2 @@
+TABLE IV 
+Results of Conducting One-Pixel Attack on Four Different Types of Networks: AllConv, NiN, VGG16, and BVLC AlexNet. The OriginalAcc is the Accuracy on the Natural Test Datasets. Targeted/Nontargeted Indicate the Accuracy of Conducting Targeted/Nontargeted Attacks. Confidence is the Average Probability of Target Classes

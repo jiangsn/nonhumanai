@@ -1,0 +1,1 @@
+Figure 5: Visual comparison of background-reflection separation on natural sequences. More results can be found in the supplementary material. *results are in lower resolution.

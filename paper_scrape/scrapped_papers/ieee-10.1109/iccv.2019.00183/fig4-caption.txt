@@ -1,0 +1,1 @@
+Figure 4. Our results with the U-net structure (Left) and the coarse-refined network structure (Right) when the eye region is removed.

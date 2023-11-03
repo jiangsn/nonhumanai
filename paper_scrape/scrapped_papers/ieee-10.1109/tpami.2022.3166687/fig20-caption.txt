@@ -1,0 +1,2 @@
+Fig. 20. 
+More results of enhancing GTA images with Mapillary Vistas as the target dataset. Our method rebuilds roads and makes car paint more glossy (rows 1 & 2). It further increases saturation to match the vibrant colors of Vistas (row 3), reduces haze (row 4), and adjusts the intensity of Fresnel reflections (row 5). Insets magnify marked regions.

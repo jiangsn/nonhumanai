@@ -1,0 +1,2 @@
+Table 2: 
+Quantitative evaluations with the state-of-the-art methods on the NUS dataset [35], the selfie dataset [68], and the DeepStab dataset [61]. We evaluate the following metrics: Cropping Ratio (C), Distortion Value (D), Stability Score (S), and Accumulated Optical Flow (A). \color{Red}{\text{Red}} text indicates the best and \color{Blue}{\text{blue}} text indicates the second-best performing method.

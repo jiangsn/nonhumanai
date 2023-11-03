@@ -1,0 +1,4 @@
+Fig. 11. A dynamic scene with an animated furry character, rendered in 340.6 seconds at
+ the resolution of 1,080 \times× 720 with DOF and reflection
+ effects (a). The SRT algorithm takes 1,329.3 seconds to render an image (b) of comparable quality. The difference
+ between the two images is visualized as color temperature (c). The RMS error is 3.38 percent.

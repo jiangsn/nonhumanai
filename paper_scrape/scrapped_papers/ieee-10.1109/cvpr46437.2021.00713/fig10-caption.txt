@@ -1,0 +1,2 @@
+Figure 10: 
+Limitations of NeRF-W on the Phototourism dataset. Rarely-seen parts of the scene (ground, left) and incorrect camera poses (lamp post, right) can result in blur.

@@ -1,0 +1,2 @@
+Figure 1. 
+Our approach enables transformers to synthesize high-resolution images like this one, which contains 1280x460 pixels.

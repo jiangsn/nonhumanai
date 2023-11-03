@@ -1,0 +1,2 @@
+Figure 6: 
+Examples from IMAGENET-A demonstrating classifier failure modes. Adjacent to each natural image is its heatmap [45]. Classifiers may use erroneous background cues for prediction. These failure modes are described in Section 3.2.

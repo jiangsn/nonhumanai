@@ -1,0 +1,2 @@
+Fig. 5. 
+For a rendered image (left), G-buffers represent information on geometry (e.g., normal, depth), materials (e.g., albedo, glossiness), and lighting (e.g., atmosphere). A semantic segmentation, which can be derived from the G-buffers [27], [87], provides further high-level information on the scene.

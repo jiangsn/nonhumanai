@@ -1,0 +1,1 @@
+Figure 7. 6D pose estimation in the amazon picking challenge by aligning object models (a) To scanning data (b). (c) Is a top-down view of the scanned shelf highlighting the noisy, partial nature of depth data from the RGB-D sensor.

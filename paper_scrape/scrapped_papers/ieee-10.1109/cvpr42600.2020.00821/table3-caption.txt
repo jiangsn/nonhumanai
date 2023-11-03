@@ -1,0 +1,1 @@
+Table 3. Quantitative comparison on reference-guided synthesis. We sample ten reference images to synthesize diverse images.

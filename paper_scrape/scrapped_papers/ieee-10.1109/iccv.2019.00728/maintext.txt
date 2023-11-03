@@ -1,0 +1,250 @@
+SECTION 1. Introduction: Face swapping is the task of transferring a face from source to target image, so that it seamlessly replaces a face appearing in the target and produces a realistic result (
+Fig. 1 left). Face reenactment (aka face transfer or puppeteering) uses the facial movements and expression deformations of a control face in one video to guide the motions and deformations of a face appearing in a video or image (
+Fig. 1 right). Both tasks are attracting significant research attention due to their applications in entertainment 
+[1, 
+20, 
+48], privacy 
+[6, 
+25, 
+32], and training data generation.
+Figure 1: 
+
+Face swapping and reenactment. Left: Source face swapped onto target. Right: Target video used to control the expressions of the face appearing in the source image. In both cases, our results appears in the middle. For more information please visit our website: https: //nirkin.com/fsgan. 
+
+Previous work proposed either methods for swapping or for reenactment but rarely both. Earlier methods relied on underlying 3D face representations 
+[46] to transfer or control facial appearances. Face shapes were either estimated from the input image 
+[44], 
+[42], 
+[35] or were fixed 
+[35]. The 3D shape was then aligned with the input images 
+[9] and used as a proxy when transferring intensities (swapping) or controlling facial expression and viewpoints (reenactment). Recently, deep network-based methods were proposed for face manipulation tasks. Generative adversarial networks (GANs) 
+[12], for example, were shown to successfully generate realistic images of fake faces. Conditional GANs (cGANs) 
+[31], 
+[16], 
+[47] were used to transform an image depicting real data from one domain to another and inspired multiple face reenactment schemes 
+[37], 
+[50], 
+[40]. Finally, the DeepFakes project 
+[11] leveraged cGANs for face swapping in videos, making swapping widely accessible to non-experts and receiving significant public attention. Those methods are capable of generating realistic face images by replacing the classic graphics pipeline. They all, however, still implicitly use 3D face representations. Some methods relied on latent feature space domain separation 
+[45], 
+[34], 
+[33]. These methods decompose the identity component of the face from the remaining traits, and encode identity as the manifestation of latent feature vectors, resulting in significant information loss and limiting the quality of the synthesized images. Subject specific methods 
+[42], 
+[11], 
+[50], 
+[21] must be trained for each subject or pair of subjects and so require expensive subject specific data– typically thousands of face images–to achieve reasonable results, limiting their potential usage. Finally, a major concern shared by previous face synthesis schemes, particularly the 3D based methods, is that they all require special care when handling partially occluded faces. We propose a deep learning-based approach to face swapping and reenactment in images and videos. Unlike previous work, our approach is subject agnostic: it can be applied to faces of different subjects without requiring subject specific training. Our Face Swapping GAN (FSGAN) is end-to-end trainable and produces photo realistic, temporally coherent results. We make the following contributions:
+Subject agnostic swapping and reenactment. To the best of our knowledge, our method is the first to simultaneously manipulate pose, expression, and identity without requiring person-specific or pair-specific training, while producing high quality and temporally coherent results. Multiple view interpolation. We offer a novel scheme for interpolating between multiple views of the same face in a continuous manner based on reenactment, Delaunay Triangulation and barycentric coordinates. New loss functions. We propose two new losses: A stepwise consistency loss, for training face reenactment progressively in small steps, and a Poisson blending loss, to train the face blending network to seamlessly integrate the source face into its new context. 
+We test our method extensively, reporting qualitative and quantitative ablation results and comparisons with state of the art. The quality of our results surpasses existing work even without training on subject specific images. 
+
+SECTION 2. Related Work: Methods for manipulating the appearances of face images, particularly for face swapping and reenactment, have a long history, going back nearly two decades. These methods were originally proposed due to privacy concerns 
+[6], 
+[25], 
+[32] though they are increasingly used for recreation 
+[20] or entertainment (e.g., 
+[1], 
+[48]). 
+3D based methods. The earliest swapping methods required manual involvement 
+[6]. An automatic method was proposed a few years later 
+[4]. More recently, Face2Face transferred expressions from source to target face 
+[44]. Transfer is performed by fitting a 3D morphable face model (3DMM) 
+[5], 
+[7], 
+[10] to both faces and then applying the expression components of one face onto the other with care given to interior mouth regions. The reenactement method of Suwajanakorn et al. 
+[42] synthesized the mouth part of the face using a reconstructed 3D model of (former president) Obama, guided by face landmarks, and using a similar strategy for filling the face interior as in Face2Face. The expression of frontal faces was manipulated by AverbuchElor et al. 
+[3] by transferring the mouth interior from source to target image using 2D wraps and face landmarks. Finally, Nirkin et al. 
+[35] proposed a face swapping method, showing that 3D face shape estimation is unnecessary for realistic face swaps. Instead, they used a fixed 3D face shape as the proxy 
+[13], 
+[28], 
+[29]. Like us, they proposed a face segmentation method, though their work was not end-to-end trainable and required special attention to occlusions. We show our results to be superior than theirs. 
+GAN-based methods. GANs 
+[12] were shown to generate fake images with the same distribution as a target domain. Although successful in generating realistic appearances, training GANs can be unstable and restricts their application to low-resolution images. Subsequent methods, however, improved the stability of the training process 
+[27], 
+[2]. Karras et al. 
+[19] train GANs using a progressive multiscale scheme, from a low to high image resolutions. CycleGAN 
+[52] proposed a cycle consistency loss, allowing training of unsupervised generic transformations between different domains. A cGAN with L1
+loss was applied by Isola et al. 
+[16] to derive the pix2pix method, and was shown to produce appealing synthesis results for applications such as transforming edges to faces. 
+Facial manipulation using GANs. Pix2pixHD 
+[47] used GANs for high resolution image-to-image translation by applying a multi-scale cGAN architecture and adding a perceptual loss 
+[17]. GANimation 
+[37] proposed a dual generator cGAN conditioned on emotion action units, that generates an attention map. This map was used to interpolate between the reenacted and original images, to preserve the background. GANnotation 
+[40] proposed deep facial reenactment driven by face landmarks. It generates images progressively using a triple consistency loss: it first frontalizes an image using landmarks then processes the frontal face. Kim et al. 
+[21] recently proposed a hybrid 3D/deep method. They render a reconstructed 3DMM of a specific subject using a classic graphic pipeline. The rendered image is then processed by a generator network, trained to map synthetic views of each subject to photo-realistic images. Finally, feature disentanglement was proposed as a means for face manipulation. RSGAN 
+[34] disentangles the latent representations of face and hair whereas FSNet 
+[33] proposed a latent space which separates identity and geometric components, such as facial pose and expression.
+Figure 2: 
+Overview of the proposed FSGAN approach. (a) The recurrent reenactment generator Gr and the segmentation generator G_{s}. G_{r}Gs.Gr estimates the reenacted face Fr and its segmentation Sr, while Gs estimates the face and hair segmentation mask St of the target image It. (b) The inpainting generator Gc inpaints the missing parts of \tilde{F}_{r}F~r based on St to estimate the complete reenacted face Fc. (c) The blending generator Gb blends Fc and Ft, using the segmentation mask St. 
+
+
+
+SECTION 3. Face Swapping Gan: In this work we introduce the Face Swapping GAN (FSGAN), illustrated in 
+Fig. 2. Let Is be the source and It the target images of faces F_{s} \in I_{s}Fs∈Is and F_{t} \in I_{t}Ft∈It, respectively. We aim to create a new image based on It, where Ft is replaced by Fs while retaining the same pose and expression. FSGAN consists of three main components. The first, detailed in Sec. 3.2 (
+Fig. 2(a)), consists of a reenactment generator Gr and a segmentation CNN G_{s}. G_{r}Gs.Gr is given a heatmaps encoding the facial landmarks of Ft, and generates the reenacted image Ir, such that Fr depicts Fs at the same pose and expression of Ft. It also computes Sr: the segmentation mask of Fr. Component Gs computes the face and hair segmentations of Ft. The reenacted image, Ir, may contain missing face parts, as illustrated in 
+Fig. 2 and 
+Fig. 2(b). We therefore apply the face inpainting network, Gc, detailed in Sec. 3.4 using the segmentation St, to estimate the missing pixels. The final part of the FSGAN, shown in 
+Fig. 2(c) and Sec. 3.5, is the blending of the completed face Fc into the target image It to derive the final face swapping result. The architecture of our face segmentation network, Gs, is based on U-Net 
+[38], with bilinear interpolation for upsampling. All our other generators–Gr, Gc, and G_{b}-Gb− are based on those used by pix2pixHD 
+[47], with coarse-to-fine generators and multi-scale discriminators. Unlike pix2pixHD, our global generator uses a U-Net architecture with bottleneck blocks 
+[14] instead of simple convolutions and summation instead of concatenation. As with the segmentation network, we use bilinear interpolation for upsampling in both global generator and enhancers. The actual number of layers differs between generators. Following others 
+[50], training subject agnostic face reenactment is non-trivial and might fail when applied to unseen face images related by large poses. To address this challenge, we propose to break large pose changes into small manageable steps and interpolate between the closest available source images corresponding to a target’s pose. These steps are explained in the following sections. 3.1. Training losses: 
+Domain specific perceptual loss. To capture fine facial details we adopt the perceptual loss 
+[17], widely used in recent work for face synthesis 
+[40], outdoor scenes 
+[47], and super resolution 
+[24]. Perceptual loss uses the feature maps of a pretrained VGG network, comparing high frequency details using a Euclidean distance. We found it hard to fully capture details inherent to face images, using a network pretrained on a generic dataset such as ImageNet. Instead, our network is trained on the target domain: We therefore train multiple VGG-19 networks 
+[41] for face recognition and face attribute classification. Let F_{i} \in \mathbb{R}^{C_{i}\times H_{i}\times W_{i}}Fi∈RCi×Hi×Wi be the feature map of the i-th layer of our network, the perceptual loss is given by
+
+\begin{equation*} \mathcal{L}_{perc}(x,\ y)=\sum_{i=1}^{n}\frac{1}{C_{i}H_{i}W_{i}}\Vert F_{i}(x)-F_{i}(y)\Vert_{1}. \tag{1}\end{equation*}View Source
+\begin{equation*} \mathcal{L}_{perc}(x,\ y)=\sum_{i=1}^{n}\frac{1}{C_{i}H_{i}W_{i}}\Vert F_{i}(x)-F_{i}(y)\Vert_{1}. \tag{1}\end{equation*}
+
+Reconstruction loss. While the perceptual loss of 
+Eq. (1) captures fine details well, generators trained using only that loss, often produce images with inaccurate colors, corresponding to reconstruction of low frequency image content. We hence also applied a pixelwise L1 loss to the generators:
+
+\begin{equation*}\mathcal{L}_{pixel}(x,\ y)=\ \Vert x-y\Vert_{1}. \tag{2}\end{equation*}View Source
+\begin{equation*}\mathcal{L}_{pixel}(x,\ y)=\ \Vert x-y\Vert_{1}. \tag{2}\end{equation*}
+The overall loss is then given by
+
+\begin{equation*}\mathcal{L}_{rec}(x,\ y)=\lambda_{perc}\mathcal{L}_{perc}(x,\ y)+\lambda_{pixel}\mathcal{L}_{pixel}(x,\ y). \tag{3}\end{equation*}View Source
+\begin{equation*}\mathcal{L}_{rec}(x,\ y)=\lambda_{perc}\mathcal{L}_{perc}(x,\ y)+\lambda_{pixel}\mathcal{L}_{pixel}(x,\ y). \tag{3}\end{equation*}
+The loss in 
+Eq. (3) was used with all our generators. 
+Adversarial loss. To further improve the realism of our generated images we use an adversarial objective 
+[47]. We utilized a multi-scale discriminator consisting of multiple discriminators, D_{1}, D_{2}, D_{n}, each one operating on a different image resolution. For a generator G and a multi-scale discriminator D, our adversarial loss is defined by:
+
+\begin{equation*} \mathcal{L}_{adv}(G,\ D)=\min_{c}D\max_{1}D_{n}\sum_{i=1}^{n}\mathcal{L}_{GAN}(G,\ D_{i}), \tag{4}\end{equation*}View Source
+\begin{equation*} \mathcal{L}_{adv}(G,\ D)=\min_{c}D\max_{1}D_{n}\sum_{i=1}^{n}\mathcal{L}_{GAN}(G,\ D_{i}), \tag{4}\end{equation*}
+where \mathcal{L}_{GAN}(G,\ D) is defined as:
+
+\begin{align*}&\mathcal{L}_{GAN}(G,\ D)=\mathrm{E}_{(x,y)}[\log D(x,\ y)]\\
+&+\mathrm{E}_{x}[\log(1-D(x,\ G(x)))]. \tag{5}\end{align*}View Source
+\begin{align*}&\mathcal{L}_{GAN}(G,\ D)=\mathrm{E}_{(x,y)}[\log D(x,\ y)]\\
+&+\mathrm{E}_{x}[\log(1-D(x,\ G(x)))]. \tag{5}\end{align*}
+3.2. Face reenactment and segmentation: Given an image I\in \mathbb{R}^{3\times H\times W} and a heatmap representation H(p) \in \mathbb{R}^{70\times H\times W} of facial landmarks, p\in \mathbb{R}^{70\times 2}, we define the face reenactment generator, Gr, as the mapping Gr: \{\mathbb{R}^{3\times H\times W},\ \mathbb{R}^{70\times H\times W}\}\rightarrow \mathbb{R}^{3\times H\times W}. Let v_{s}, v_{t} \in \mathbb{R}^{70\times 3} and e_{s}, e_{t} \in \mathbb{R}^{3}, be the 3D landmarks and Euler angles corresponding to Fs and Ft. We generate intermediate 2D landmark positions pj by interpolating between es and et, and the centroids of vs and vt, using intermediate points for which we project vs back to Is. We define the reenactment output recursively for each iteration 1 \leq j\leq n as
+
+\begin{align*}&I_{r_{j}}, S_{r_{j}} =G_{r} (I_{r_{j-1}};H(pj)), \\
+&I_{r_{0}}\ =I_{s}. \tag{6}\end{align*}View Source
+\begin{align*}&I_{r_{j}}, S_{r_{j}} =G_{r} (I_{r_{j-1}};H(pj)), \\
+&I_{r_{0}}\ =I_{s}. \tag{6}\end{align*}
+Similar to others 
+[37], the last layer of the global generator and each of the enhancers in Gr is split into two heads: the first produces the reenacted image and the second the segmentation mask. In contrast to binary masks used bu others 
+[37], we consider the face and hair regions separately. The binary mask implicitly learned by the reenactment network captures most of the head including the hair, which we segment separately. Moreover, the additional hair segmentation also improves the accuracy of the face segmentation. The face segmentation generator Gs is defined as Gr: \mathbb{R}^{3\times H\times W} \rightarrow \mathbb{R}^{3\times H\times W}, where given an RGB image it output a 3-channels segmentation mask encoding the background, face, and hair. 
+Training. Inspired by the triple consistency loss 
+[40], we propose a stepwise consistency loss. Given an image pair (I_{s},\ I_{t}) of the same subject from a video sequence, let I_{r_{n}} be the reenactment result after n iterations, and \overline{I_{t}}, \overline{I_{r_{n}}} be the same images with their background removed using the segmentation masks St and S_{r_{j}}, respectively. The stepwise consistency loss is defined as: \mathcal{L}_{rec}(\overline{I_{r_{n}}},\overline{I_{t}}). The final objective for the Gr:
+
+\begin{align*}\mathcal{L}\left(G_{r}\right)=\lambda_{s t e p w i s e} \mathcal{L}_{r e c}\left(\widetilde{I}_{r_{n}}, \widetilde{I}_{t}\right)+\lambda_{r e c} \mathcal{L}_{r e c}\left(\widetilde{I}_{r}, \widetilde{I}_{t}\right)\\
++\lambda_{a d v} \mathcal{L}_{a d v}+\lambda_{s e g} \mathcal{L}_{p i x e l}\left(S_{r}, S_{t}\right). \tag{7}\end{align*}View Source
+\begin{align*}\mathcal{L}\left(G_{r}\right)=\lambda_{s t e p w i s e} \mathcal{L}_{r e c}\left(\widetilde{I}_{r_{n}}, \widetilde{I}_{t}\right)+\lambda_{r e c} \mathcal{L}_{r e c}\left(\widetilde{I}_{r}, \widetilde{I}_{t}\right)\\
++\lambda_{a d v} \mathcal{L}_{a d v}+\lambda_{s e g} \mathcal{L}_{p i x e l}\left(S_{r}, S_{t}\right). \tag{7}\end{align*}
+For the objective of Gs we use the standard cross-entropy loss, Lce, with additional guidance from Gr:
+
+\begin{equation*}\mathcal{L}(G_{s})=L_{ce}+\lambda_{reenactment}\mathcal{L}_{pixel}(S_{t},\ S_{r}^{t}), \tag{8}\end{equation*}View Source
+\begin{equation*}\mathcal{L}(G_{s})=L_{ce}+\lambda_{reenactment}\mathcal{L}_{pixel}(S_{t},\ S_{r}^{t}), \tag{8}\end{equation*}
+where S_{r}^{t} is the segmentation mask result of G_{r}(I_{t};H(pt)) and pt is the 2D landmarks corresponding to It. We train both Gr and Gs together, in an interleaved fashion. We start with training Gs for one epoch followed by the training of Gr for an additional epoch, increasing \lambda_{reenactment} as the training progresses. We have found that training Gr and Gs together helps filtering noise learned from coarse face and hair segmentation labels. 3.3. Face view interpolation: Standard computer graphics pipelines project textured mesh polygons onto a plane for seamless rendering 
+[15]. We propose a novel, alternative scheme for continuous interpolation between face views. This step is an essential phase of our method, as it allows using the entire source video sequence, without training our model on a particular video frame, making it subject agnostic. Given a set of source subject images, \{\mathbf{I}_{s_{1}}, \ldots \,\ \mathbf{I}_{s_{n}}\}, and Euler angles, \{\mathrm{e}_{1}, \ldots \,\ \mathrm{e}_{n}\}, of the corresponding faces \{\mathbf{F}_{s_{1}}, \ldots \,\mathbf{F}_{s_{n}}\}, we construct the appearance map of the source subject, illustrated in 
+Fig. 3(a). This appearance map embeds head poses in a triangulated plane, allowing head poses to follow continuous paths. We start by projecting the Euler angles \{\mathrm{e}_{1}, \ldots \,\ \mathrm{e}_{n}\} onto a plane by dropping the roll angle. Using a k-d tree data structure 
+[15], we remove points in the angular domain that are too close to each other, prioritizing the points for which the corresponding Euler angles have a roll angle closer to zero. We further remove motion blurred images. Using the remaining points, \{x_{1}, \ldots \,\ x_{m}\}, and the four boundary points, y_{i} \in [{-75, 75}] \times [{-75, 75}], we build a mesh, M, in the angular domain by Delaunay Triangulation.
+Figure 3: 
+
+Face view interpolation. (a) Shows an example of an appearance map of the source subject (Donald Trump). The green dots represent different views of the source subject, the blue lines represent the Delaunay Triangulation of those views, and the red X marks the location of the current target’s pose. (b) The interpolated views associated with the vertices of the selected triangle (represented by the yellow dots). (c) The reenactment result and the current target image. 
+
+For a query Euler angle, et, of a face, Ft, and its corresponding projected point, xt, we find the triangle T \in M that contains xt. Let x_{i_{1}}, x_{i_{2}}, x_{i_{3}} be the vertices of T and I_{s_{i_{1}}}, I_{s_{i_{2}}}, I_{s_{i_{3}}} be the corresponding face views. We calculate the barycentric coordinates, \lambda_{1}, \lambda_{2}, \lambda_{3} of xt, with respect to x_{i_{1}}, x_{i_{2}}, x_{i_{3}}. The interpolation result Ir is then
+
+\begin{equation*}I_{r}= \sum_{k=1}^{3}\lambda_{k}G_{r}(I_{s_{i_{k}}};H(\mathrm{p}_{t})), \tag{9}\end{equation*}View Source
+\begin{equation*}I_{r}= \sum_{k=1}^{3}\lambda_{k}G_{r}(I_{s_{i_{k}}};H(\mathrm{p}_{t})), \tag{9}\end{equation*}
+where pt are the 2D landmarks of Ft. If any vertices of the triangle are boundary points, we exclude them from the interpolation and normalize the weights, \lambda_{i}, to sum to one. A face view query is illustrated in 
+Fig. 3(b,c). To improve interpolation accuracy, we use a horizontal flip to fill in views when the appearance map is one-sided with respect to the yaw dimension, and generate artificial views using Gr when the appearance map is too sparse. 3.4. Face inpainting: Occluded regions in the source face Fs cannot be rendered on the target face, Ft. Nirkin et al. 
+[35] used the segmentations of Fs and Ft to remove occluded regions, rendering (swapping) only regions visible in both source and target faces. Large occlusions and different facial textures can cause noticeable artifacts in the resulting images. To mitigate such problems, we apply a face inpainting generator, Gc (
+Fig. 2(b)). Gc renders face image Fs such that the resulting face rendering \tilde{I}_{r} covers entire segmentation mask St (of Ft), thereby resolving such occlusion. Given the reenactment result, Ir, its corresponding segmentation, Sr, and the target image with its background removed, \tilde{I}_{t}, all drawn from the same identity, we first augment Sr by simulating common face occlusions due to hair, by randomly removing ellipse-shaped parts, in various sizes and aspect ratios from the border of Sr. Let \tilde{I}_{r} be Ir with its background removed using the augmented version of S_{r}, and Icthe completed result from applying Gc on \tilde{I}_{r}. We define our inpainting generator loss as
+
+\begin{equation*}\mathcal{L}(G_{c})=\lambda_{rec}\mathcal{L}_{rec}(I_{c},\tilde{I}_{t})+\lambda_{adv}\mathcal{L}_{adv}, \tag{10}\end{equation*}View Source
+\begin{equation*}\mathcal{L}(G_{c})=\lambda_{rec}\mathcal{L}_{rec}(I_{c},\tilde{I}_{t})+\lambda_{adv}\mathcal{L}_{adv}, \tag{10}\end{equation*}
+where \mathcal{L}_{rec} and \mathcal{L}_{adv} are the reconstruction and adversarial losses of Sec. 3.1. 3.5. Face blending: The last step of the proposed face swapping scheme is blending of the completed face Fc with its target face Ft (
+Fig. 2(c)). Any blending must account for, among others, different skin tones and lighting conditions. Inspired by previous uses of Poisson blending for inpainting 
+[51] and blending 
+[49], we propose a novel Poisson blending loss. Let It be the target image, I_{r}^{t} the image of the reenacted face transferred onto the target image, and St the segmentation mask marking the transferred pixels. Following 
+[36], we define the Poisson blending optimization as
+
+\begin{align*}P(I_{t};I_{r}^{t};S_{t}))=\arg\min_{f}\Vert\nabla f-\nabla I_{r}^{t}\Vert_{2}^{2}\\
+{\mathrm {s.t}}. f(i,\ j)=I_{t}(i,\ j), \forall S_{t}(i,\ j)=0, \tag{11}\end{align*}View Source
+\begin{align*}P(I_{t};I_{r}^{t};S_{t}))=\arg\min_{f}\Vert\nabla f-\nabla I_{r}^{t}\Vert_{2}^{2}\\
+{\mathrm {s.t}}. f(i,\ j)=I_{t}(i,\ j), \forall S_{t}(i,\ j)=0, \tag{11}\end{align*}
+where \nabla is the gradient operator. We combine the Poisson optimization in 
+Eq. (11) with the perceptual loss. The Poisson blending loss is then \mathcal{L}(G_{b})
+
+\begin{equation*}\mathcal{L}(G_{b})=\lambda_{rec}\mathcal{L}_{rec}(G_{b}(I_{t};I_{r}^{t};S_{t}),\ P(I_{t};I_{r}^{t};S_{t}))+\lambda_{adv}\mathcal{L}_{adv}.\end{equation*}View Source
+\begin{equation*}\mathcal{L}(G_{b})=\lambda_{rec}\mathcal{L}_{rec}(G_{b}(I_{t};I_{r}^{t};S_{t}),\ P(I_{t};I_{r}^{t};S_{t}))+\lambda_{adv}\mathcal{L}_{adv}.\end{equation*}
+
+
+SECTION 4. Datasets and Training: 4.1. Datasets and processing: We use the video sequences of the IJB-C dataset 
+[30] to train our generator, Gr, for which we automatically extracted the frames depicting particular subjects. IJB-C contains \sim11k face videos, of which we used 5,500 which were in high definition. Similar to the frame pruning approach of Sec. 3.3, we prune the face views that are too close together as well as motion-blurred frames. We apply the segmentation CNN, Gs, to the frames, and prune the frames for which less than 15% of the pixels in the face bounding box were classified as face pixels. We used dlib’s face verification1 to group frames according to the subject identity, and limit the number of frames per subject to 100, by choosing frames with the maximal variance in 2D landmarks. In each training iteration, we choose the frames Is and It from two randomly chosen subjects.
+
+We trained VGG-19 CNNs for the perceptual loss on the VGGFace2 dataset 
+[8] for face recognition and the CelebA 
+[26] dataset for face attribute classification. The VGGFace2 dataset contains 3. 3M images depicting 9,131 identities, whereas CelebA contains 202,599 images, annotated with 40 binary attributes. We trained the segmentation CNN, Gs, on data used by others 
+[35], consisting of \sim 10k face images labeled with face segmentations. We also used the LFW Parts Labels set 
+[18] with \sim 3k images labeled for face and hair segmentations, removing the neck regions using facial landmarks. We used additional 1k images and corresponding hair segmentations from the Figaro dataset 
+[43]. Finally, Face-Forensics++ 
+[39] provides 1000 videos, from which they generated 1000 synthetic videos on random pairs using DeepFakes 
+[11] and Face2Face 
+[44]. 4.2. Training details: We train the proposed generators from scratch, where the weights were initialized randomly using a normal distribution. We use Adam optimization [23] (\beta_{1} = 0.5, \beta_{2} = 0.999) and a learning rate of 0.0002. We reduce this rate by half every ten epochs. The following parameters were used for all the generators: \lambda_{perc} = 1, \lambda_{pixel} = 0.1, \lambda_{adv} = 0.001, \lambda_{seg} = 0.1, \lambda_{rec} = 1, \lambda_{stepwise} = 1, where \lambda_{reenactment} is linearly increased from 0 to 1 during training. All of our networks were trained on eight NVIDIA Tesla V100 GPUs and an Intel Xeon CPU. Training of Gs required six hours to converge, while the rest of the networks converged in two days. All our networks, except for Gs, were trained using a progressive multi scale approach, starting with a resolution of 128\times 128 and ending at 256\times 256. Inference rate is \sim 30fps for reenactment and \sim 10fps for swapping on one NVIDIA Tesla V100 GPU. 
+
+SECTION 5. Experimental Results: We performed extensive qualitative and quantitative experiments to verify the proposed scheme. We compare our method to two previous face swapping methods: DeepFakes 
+[11] and Nirkin et al. 
+[35], and the Face2Face reenactment scheme 
+[44]. We conduct all our experiments on videos from FaceForensics++ 
+[39], by running our method on the same pairs they used. We further report ablation studies showing the importance of each component in our pipeline.
+Figure 4: 
+
+Qualitative face reenactment results. Row 1: The source face for reenactment. Row 2: Our reenactment results (without background removal). Row 3: The target face from which to transfer the pose and expression. 
+
+5.1. Qualitative face reenactment results: 
+Fig. 4 shows our raw face reenactment results, without background removal. We chose examples of varying ethnicity, pose, and expression. A specifically interesting example can be seen in the rightmost column, showing our method’s ability to cope with extreme expressions. To show the importance of iterative reenactment, 
+Fig 5 provides reenactments of the same subject for both small and large angle differences. As evident from the last column, for large angle differences, the identity and texture are better preserved using multiple iterations. 5.2. Qualitative face swapping results: 
+Fig. 6 offers face swapping examples taken from Face-Forensics++ videos, without training our model on these videos. We chose examples that represent different poses and expression, face shapes, and hair occlusions. Because Nirkin et al. 
+[35] is an image-to-image face swapping method, to be fair in our comparison, for each frame in the target video we select the source frame with the most similar pose. To compare FSGAN in a video-to-video scenario, we use our face view interpolation described in Sec. 3.3. 5.3. Comparison to Face2Face: We compare our method to Face2Face 
+[44] on the expression only reenactment problem. Given a pair of faces F_{s} \in I_{s} and F_{t} \in I_{t} the goal is to transfer the expression from Is to It. To this end, we modify the corresponding 2D landmarks of Ft by swapping in the mouth points of the 2D landmarks of Fs, similarly to how we generate the intermediate landmarks in Sec. 3.2. The reenactment result is then given by G_{r}(I_{t};H(\hat{p}_{t})), where \hat{p}_{t} are the modified landmarks. The examples are shown in 
+Fig. 7.
+Figure 5: 
+
+Reenactment limitations. Top left image transformed onto each of the images in Row 1 (using the same subject for clarity). Row 2: Reenactment with one iteration. Row 3: Three iterations. 
+
+Figure 6: 
+
+Qualitative face swapping results on [39]. Results for source photo swapped onto target provided for Nirkin et al. 
+[35], DeepFakes 
+[11] and our method on images of faces of subjects it was not trained on. 
+
+5.4. Quantitative results: We report quantitative results, conforming to how we defined the face swapping problem: we validate how well methods preserve the source subject identity, while retaining the same pose and expression of the target subject. To this end, we first compare the face swapping result, Fb, of each frame to its nearest neighbor in pose from the subject face views. We use the dlib 
+[22] face verification method to compare identities and the structural similarity index method (SSIM) to compare their quality. To measure pose accuracy, we calculate the Euclidean distance between the Euler angles of Fb to the original target image, It. Similarly, the accuracy of the expression is measured as the Euclidean distance between the 2D landmarks. Pose error is measured in degrees and the expression error is measured in pixels. We computes the mean and variance of those measurements on the first 100 frames of the first 500 videos in FaceForensics ++, averaging them across the videos. As baselines, we use Nirkin et al. 
+[35] and DeepFakes 
+[11].
+Figure 7: 
+
+Comparison to Face2Face 
+[44] on FaceForensics++ 
+[39]. As demonstrated, our method exhibits far less artifacts than Face2Face. 
+
+Evident from the first two columns of 
+Table 1, our approach preserves identity and image quality similarly to previous methods. The two rightmost metrics in 
+Table 1 show that our method retains pose and expression much better than its baselines. Note that the human eye is very sensitive to artifacts on faces. This should be reflected in the quality score but those artifacts usually capture only a small part of the image and so the SSIM score does not reflect them well.
+Figure 8: 
+
+Ablation study. From columns 3 and 5, without the completion network, G_{\mathrm{c}}, the transferred face does not cover the entire target face, leaving obvious artifacts. Columns 3 and 4 show that without the blending network, Gb, the skin color and lighting conditions of the transferred face are inconsistent with its new context. 
+
+Table 1 
+Quantitative Swapping Results. On Faceforensics++ Videos 
+[39].
+
+5.5. Ablation study: We performed ablation tests with four configurations of our method: Gr only, G_{r} +G_{\mathrm{c}}, G_{r} +G_{b}, and our full pipeline. The segmentation network, Gs, is used in all configurations. Qualitative results are provided in 
+Fig. 8. Quantitative ablation results are reported in 
+Table 2. Verification scores show that source identities are preserved across all pipeline networks. From Euler and landmarks scores we see that target poses and expressions are best retained with the full pipeline. Error differences are not extreme, suggesting that the inpainting and blending generators, G_{\mathrm{c}} and Gb, respectively, preserve pose and expression similarly well. There is a slight drop in the SSIM, due to the additional networks and processing added to the pipeline. 
+
+SECTION 6. Conclusion: Limitations. 
+Fig. 5 shows our reenactment results for different facial yaw angles. Evidently, the larger the angular differences, the more identity and texture quality degrade. Moreover, too many iterations of the face reenactment generator blur the texture. Unlike 3DMM based methods, e.g., Face2Face 
+[44], which warp textures directly from the image, our method is limited to the resolution of the training data. Another limitation arises from using a sparse landmark tracking method that does not fully capture the complexity of facial expressions.
+Table 2 
+Quantitative Ablation Results. On Faceforensics++ Videos 
+[39].
+
+
+Discussion. Our method eliminates laborious, subject-specific, data collection and model training, making face swapping and reenactment accessible to non-experts. We feel strongly that it is of paramount importance to publish such technologies, in order to drive the development of technical counter-measures for detecting such forgeries, as well as compel law makers to set clear policies for addressing their implications. Suppressing the publication of such methods would not stop their development, but rather make them available to select few and potentially blindside policy makers if it is misused.

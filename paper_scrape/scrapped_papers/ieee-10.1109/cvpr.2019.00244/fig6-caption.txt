@@ -1,0 +1,2 @@
+Figure 6: 
+Visual comparison of semantic image synthesis results on the ADE20K outdoor and Cityscapes datasets. Our method produces realistic images while respecting the spatial semantic layout at the same time.

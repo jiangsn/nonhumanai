@@ -1,0 +1,7 @@
+Fig. 9. Comparison between adaptive sampling and our method. Timings given below each
+ column are for tracing view rays (cones). (a) using 3\times×3
+ supersampling in the coarse phase and 8\times×8 in the refining
+ phase produces noisy results. Some pixels, marked in red in the insets in the top row, are missed in the coarse phase
+ and ignored in the refining phase. (b) this problem can only be alleviated with a 17\times×
+17 coarse phase supersampling rate and such an adaptive sampling scheme hardly brings any
+ performance gain. (c) our rendering result.

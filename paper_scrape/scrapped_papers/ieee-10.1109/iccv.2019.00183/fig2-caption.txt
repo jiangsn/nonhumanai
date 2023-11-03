@@ -1,0 +1,1 @@
+Figure 2. Sketch and color domain dataset and batch inputs. We extract sketches using the HED edge detector [16]. The color maps are generated from the median color of each area segmented using GFC [9]. The inputs to the network consist of the incomplete image, the mask, and the corresponding sketch, color and noise data.

@@ -1,0 +1,2 @@
+Fig. 2: 
+MCD-DTW convergence rate improvements in TTS models with the alignment learning framework.

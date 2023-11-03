@@ -1,0 +1,1 @@
+Fig. 10: Visualizing the connectivity between a small subset of collected points. Bidirectional edges are represented in white while red edges point towards the target node. This connectivity graph broadly behaves like a classical navigation mesh and represents the exploration space that the players are able to traverse.

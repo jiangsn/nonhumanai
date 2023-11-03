@@ -1,0 +1,2 @@
+Figure 2: 
+Various ImageNet classifiers of different architectures fail to generalize well to IMAGENET-A and IMAGENET-O. Higher Accuracy and higher AUPR is better. See Section 4 for a description of the AUPR out-of-distribution detection measure. These specific models were not used in the creation of IMAGENET-A and IMAGENET-O, so our adversarially filtered image transfer across models.

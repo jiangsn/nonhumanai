@@ -1,0 +1,1 @@
+Figure 10: User study: results of pairwise comparisons. In every subfigure, the first three bars show the result of the pairwise experiments, while the last bar shows the distribution of the aggregated scores.

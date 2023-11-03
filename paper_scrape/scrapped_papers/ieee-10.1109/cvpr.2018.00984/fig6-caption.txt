@@ -1,0 +1,1 @@
+Figure 6: Region inpainting. In many cases, deep image prior is sufficient to successfully inpaint large regions. Despite using no learning, the results may be comparable to [15] which does. The choice of hyper-parameters is important (for example (d) demonstrates sensitivity to the learning rate), but a good setting works well for most images we tried.

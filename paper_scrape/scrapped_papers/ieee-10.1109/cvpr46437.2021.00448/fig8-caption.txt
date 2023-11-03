@@ -1,0 +1,2 @@
+Figure 8. 
+Comparison with background subtraction. We used selected videos from the CDW-2014 change detection dataset [34] (examples input frames in (a)), with ground truth, manually segmented objects and shadows (b, white pixels = moving objects, dark gray pixels = shadows, light gray pixels = ‘unknown’, typically at boundaries). (c) Result by a top-performing (on this dataset) background subtraction method [38]. (d) Our result (alpha mattes of estimated omnimattes). Numerical experiments are summarized in Table 1. More results can be found in the SM.

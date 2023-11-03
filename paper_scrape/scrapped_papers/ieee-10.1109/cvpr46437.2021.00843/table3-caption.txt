@@ -1,0 +1,2 @@
+Table 3: 
+Average scores on Spaces dataset (12 input views).

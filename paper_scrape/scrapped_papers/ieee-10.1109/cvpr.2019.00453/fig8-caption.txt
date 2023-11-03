@@ -1,0 +1,2 @@
+Figure 8. 
+The effect of truncation trick as a function of style scale ψ. When we fade ψ → 0, all faces converge to the "mean" face of FFHQ. This face is similar for all trained networks, and the interpolation towards it never seems to cause artifacts. By applying negative scaling to styles, we get the corresponding opposite or "anti-face". It is interesting that various high-level attributes often flip between the opposites, including viewpoint, glasses, age, coloring, hair length, and often gender.

@@ -1,0 +1,2 @@
+Figure 3. 
+The architecture of our text-guided mapper (using the text prompt "grey hair", in this example). The source image (left) is inverted into a latent code w. Three separate mapping functions are trained to generate residuals (in blue) that are added to w to yield the target code, from which a pretrained StyleGAN (in green) generates an image (right), assessed by the CLIP and identity losses.

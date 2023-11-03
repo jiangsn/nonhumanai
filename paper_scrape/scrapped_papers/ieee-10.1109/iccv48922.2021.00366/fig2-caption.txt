@@ -1,0 +1,2 @@
+Figure 2. 
+We procedurally construct synthetic faces that are realistic and expressive. Starting with our template face, we randomize the identity, choose a random expression, apply a random texture, attach random hair and clothing, and render the face in a random environment.

@@ -1,0 +1,270 @@
+{
+    "userInfo": {
+        "customerNameRaw": "The Ohio State University",
+        "institutionName": "The Ohio State University",
+        "institute": true,
+        "member": false,
+        "individual": false,
+        "guest": false,
+        "subscribedContent": false,
+        "fileCabinetContent": false,
+        "fileCabinetUser": false,
+        "institutionalFileCabinetUser": false,
+        "products": "IEL|EBOOKS:1974:2014|JRNLARCH:1884:1994|CONFARCH:1951:1999|IBM:1872:2020|VDE|NOKIA BELL LABS|",
+        "instType": "Academic",
+        "userIds": [
+            7827
+        ],
+        "showPatentCitations": true,
+        "showGet802Link": true,
+        "openUrlImgLoc": "http://library-osu-edu.proxy.lib.ohio-state.edu/resources/serialssolutions/buttons/button75x25edit.jpg",
+        "openUrlLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu",
+        "instLogoFile": "7827_OSULHoriz.png",
+        "openUrlTxt": "Find It!",
+        "showOpenUrlLink": true,
+        "marketingInfoCaptured": false,
+        "tracked": false,
+        "ringGoldId": "2647",
+        "delegatedAdmin": false,
+        "desktop": false,
+        "isInstitutionDashboardEnabled": false,
+        "isInstitutionProfileEnabled": false,
+        "isRoamingEnabled": true,
+        "isDelegatedAdmin": false,
+        "isMdl": false,
+        "isCwg": false,
+        "isIel": true,
+        "isAcademic": true
+    },
+    "authors": [
+        {
+            "name": "Ting-Chun Wang",
+            "affiliation": [
+                "NVIDIA Corporation"
+            ],
+            "firstName": "Ting-Chun",
+            "lastName": "Wang",
+            "id": "37086568973"
+        },
+        {
+            "name": "Ming-Yu Liu",
+            "affiliation": [
+                "NVIDIA Corporation"
+            ],
+            "firstName": "Ming-Yu",
+            "lastName": "Liu",
+            "id": "37086564383"
+        },
+        {
+            "name": "Jun-Yan Zhu",
+            "affiliation": [
+                "UC Berkeley"
+            ],
+            "firstName": "Jun-Yan",
+            "lastName": "Zhu",
+            "id": "37085631277"
+        },
+        {
+            "name": "Andrew Tao",
+            "affiliation": [
+                "NVIDIA Corporation"
+            ],
+            "firstName": "Andrew",
+            "lastName": "Tao",
+            "id": "37086566553"
+        },
+        {
+            "name": "Jan Kautz",
+            "affiliation": [
+                "NVIDIA Corporation"
+            ],
+            "firstName": "Jan",
+            "lastName": "Kautz",
+            "id": "37889927400"
+        },
+        {
+            "name": "Bryan Catanzaro",
+            "affiliation": [
+                "NVIDIA Corporation"
+            ],
+            "firstName": "Bryan",
+            "lastName": "Catanzaro",
+            "id": "37377652300"
+        }
+    ],
+    "isbn": [
+        {
+            "format": "Electronic ISBN",
+            "value": "978-1-5386-6420-9",
+            "isbnType": ""
+        },
+        {
+            "format": "Print on Demand(PoD) ISBN",
+            "value": "978-1-5386-6421-6",
+            "isbnType": ""
+        }
+    ],
+    "issn": [
+        {
+            "format": "Electronic ISSN",
+            "value": "2575-7075"
+        },
+        {
+            "format": "Print on Demand(PoD) ISSN",
+            "value": "1063-6919"
+        }
+    ],
+    "articleNumber": "8579015",
+    "dbTime": "1 ms",
+    "metrics": {
+        "citationCountPaper": 1894,
+        "citationCountPatent": 7,
+        "totalDownloads": 2937
+    },
+    "purchaseOptions": {
+        "showOtherFormatPricingTab": false,
+        "showPdfFormatPricingTab": true,
+        "pdfPricingInfoAvailable": true,
+        "otherPricingInfoAvailable": false,
+        "mandatoryBundle": false,
+        "optionalBundle": false,
+        "displayTextWhenOtherFormatPricingNotAvailable": "The purchase and pricing options for this item are unavailable. Select items are only available as part of a subscription package. You may try again later or <a href='https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/xpl/contact' target='_blank'>contact us</a> for more information.",
+        "pdfPricingInfo": [
+            {
+                "memberPrice": "$14.95",
+                "nonMemberPrice": "$33.00",
+                "partNumber": "8579015",
+                "type": "PDF/HTML"
+            }
+        ],
+        "openUrlFullLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu?url_ver=Z39.88-2004&rfr_id=info:sid/IEEE.org:XPLORE&rft_id=info:doi/10.1109/CVPR.2018.00917&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&rft.atitle=High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs&rft.jtitle=2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition&rft.date=2018&rft.spage=8798&rft.epage=8807&rft.eissn=2575-7075&rft.au=Ting-Chun Wang&rft.aulast=Ting-Chun Wang&rft.isbn=978-1-5386-6420-9"
+    },
+    "getProgramTermsAccepted": false,
+    "sections": {
+        "abstract": "true",
+        "authors": "true",
+        "figures": "true",
+        "multimedia": "false",
+        "references": "true",
+        "citedby": "true",
+        "keywords": "true",
+        "definitions": "false",
+        "algorithm": "false",
+        "dataset": "false",
+        "cadmore": "false",
+        "footnotes": "true",
+        "disclaimer": "false",
+        "relatedContent": "false",
+        "metrics": "true"
+    },
+    "abstract": "We present a new method for synthesizing high-resolution photo-realistic images from semantic label maps using conditional generative adversarial networks (conditional GANs). Conditional GANs have enabled a variety of applications, but the results are often limited to low-resolution and still far from realistic. In this work, we generate 2048 \u00d7 1024 visually appealing results with a novel adversarial loss, as well as new multi-scale generator and discriminator architectures. Furthermore, we extend our framework to interactive visual manipulation with two additional features. First, we incorporate object instance segmentation information, which enables object manipulations such as removing/adding objects and changing the object category. Second, we propose a method to generate diverse results given the same input, allowing users to edit the object appearance interactively. Human opinion studies demonstrate that our method significantly outperforms existing methods, advancing both the quality and the resolution of deep image synthesis and editing.",
+    "publicationYear": "2018",
+    "pdfPath": "/iel7/8576498/8578098/08579015.pdf",
+    "publicationDate": "June 2018",
+    "doi": "10.1109/CVPR.2018.00917",
+    "formulaStrippedArticleTitle": "High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs",
+    "displayPublicationTitle": "2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+    "authorNames": "Ting-Chun Wang;Ming-Yu Liu;Jun-Yan Zhu;Andrew Tao;Jan Kautz;Bryan Catanzaro",
+    "publicationTitle": "2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+    "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=proceedings&title=High-Resolution+Image+Synthesis+and+Semantic+Manipulation+with+Conditional+GANs&isbn=978-1-5386-6420-9&publicationDate=June+2018&author=Ting-Chun+Wang&ContentID=10.1109/CVPR.2018.00917&orderBeanReset=true&startPage=8798&endPage=8807&proceedingName=2018+IEEE%2FCVF+Conference+on+Computer+Vision+and+Pattern+Recognition",
+    "dateOfInsertion": "16 December 2018",
+    "startPage": "8798",
+    "endPage": "8807",
+    "pdfUrl": "/stamp/stamp.jsp?tp=&arnumber=8579015",
+    "keywords": [
+        {
+            "type": "IEEE Keywords",
+            "kwd": [
+                "Generators",
+                "Image resolution",
+                "Semantics",
+                "Gallium nitride",
+                "Training",
+                "Image generation",
+                "Task analysis"
+            ]
+        },
+        {
+            "type": "INSPEC: Controlled Indexing",
+            "kwd": [
+                "data visualisation",
+                "image resolution",
+                "image segmentation",
+                "unsupervised learning"
+            ]
+        },
+        {
+            "type": "INSPEC: Non-Controlled Indexing",
+            "kwd": [
+                "deep image synthesis",
+                "high-resolution photo-realistic images",
+                "semantic label maps",
+                "conditional generative adversarial networks",
+                "interactive visual manipulation",
+                "object instance segmentation information",
+                "object manipulations"
+            ]
+        }
+    ],
+    "doiLink": "https://doi-org.proxy.lib.ohio-state.edu/10.1109/CVPR.2018.00917",
+    "displayPublicationDate": "18-23 June 2018",
+    "articleCopyRight": "2018 IEEE",
+    "issueLink": "/xpl/tocresult.jsp?isnumber=8578098&punumber=8576498",
+    "pubLink": "/xpl/conhome/8576498/proceeding",
+    "allowComments": false,
+    "isGetAddressInfoCaptured": false,
+    "isMarketingOptIn": false,
+    "pubTopics": [
+        {
+            "name": "Computing and Processing"
+        }
+    ],
+    "publisher": "IEEE",
+    "displayDocTitle": "High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs",
+    "isStandard": false,
+    "isConference": true,
+    "isBookWithoutChapters": false,
+    "isChapter": false,
+    "isProduct": false,
+    "isEarlyAccess": false,
+    "isOpenAccess": false,
+    "isEphemera": false,
+    "xploreDocumentType": "Conference Publication",
+    "isBook": false,
+    "isJournal": false,
+    "isSpringer": false,
+    "accessionNumber": "18347680",
+    "isFreeDocument": false,
+    "isPromo": false,
+    "isDynamicHtml": true,
+    "htmlLink": "/document/8579015/",
+    "htmlAbstractLink": "/document/8579015/",
+    "isCustomDenial": false,
+    "persistentLink": "https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/servlet/opac?punumber=8576498",
+    "isNow": false,
+    "isSAE": false,
+    "isOUP": false,
+    "isSMPTE": false,
+    "openAccessFlag": "F",
+    "insertDate": "16 December 2018",
+    "ephemeraFlag": "false",
+    "title": "High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs",
+    "confLoc": "Salt Lake City, UT, USA",
+    "html_flag": "false",
+    "ml_html_flag": "true",
+    "sourcePdf": "642000i798.pdf",
+    "mlTime": "PT0.073364S",
+    "xplore-pub-id": "8576498",
+    "isNumber": "8578098",
+    "rightsLinkFlag": "1",
+    "contentType": "conferences",
+    "publicationNumber": "8576498",
+    "citationCount": "1894",
+    "xplore-issue": "8578098",
+    "articleId": "8579015",
+    "contentTypeDisplay": "Conferences",
+    "subType": "IEEE Conference",
+    "_value": "IEEE",
+    "lastupdate": "2023-10-19",
+    "mediaPath": "/mediastore_new/IEEE/content/media/8576498/8578098/8579015"
+}

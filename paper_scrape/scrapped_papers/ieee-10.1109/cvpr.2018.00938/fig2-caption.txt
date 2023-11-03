@@ -1,0 +1,1 @@
+Figure 2: Samples of flow interpolation results, where t=0.5. The entire scene is moving toward the left (due to camera translation) and the motorcyclist is independently moving left. The last row shows that the refinement from our flow interpolation CNN is mainly around the motion boundaries (the whiter a pixel, the bigger the refinement).

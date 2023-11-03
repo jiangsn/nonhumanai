@@ -1,0 +1,158 @@
+{
+    "mainEntity": {
+        "headline": "A glacier\u2013ocean interaction model for tsunami genesis due to iceberg calving",
+        "description": "Glaciers calving icebergs into the ocean significantly contribute to sea-level rise and can trigger tsunamis, posing severe hazards for coastal regions. Computational modeling of such multiphase processes is a great challenge involving complex solid\u2013fluid interactions. Here, a new continuum damage Material Point Method has been developed to model dynamic glacier fracture under the combined effects of gravity and buoyancy, as well as the subsequent propagation of tsunami-like waves induced by released icebergs. We reproduce the main features of tsunamis obtained in laboratory experiments as well as calving characteristics, the iceberg size, tsunami amplitude and wave speed measured at Eqip Sermia, an ocean-terminating outlet glacier of the Greenland ice sheet. Our hybrid approach constitutes important progress towards the modeling of solid\u2013fluid interactions, and has the potential to contribute to refining empirical calving laws used in large-scale earth-system models as well as to improve hazard assessments and mitigation measures in coastal regions, which is essential in the context of climate change. Dynamic glacier fracture and the subsequent generation and propagation of iceberg-induced tsunamis are reproduced using a unified numerical glacier\u2013ocean model, in line with observations at the Eqip Sermia glacier in Greenland, as well as laboratory experiments.",
+        "datePublished": "2021-06-21",
+        "dateModified": "2021-06-21",
+        "pageStart": "1",
+        "pageEnd": "10",
+        "license": "http://creativecommons.org/licenses/by/4.0/",
+        "sameAs": "https://doi-org.proxy.lib.ohio-state.edu/10.1038/s43247-021-00179-7",
+        "keywords": "Cryospheric science,Geophysics,Natural hazards,Environment,general,Earth Sciences",
+        "image": "https://static-content.springer.com/image/art%3A10.1038%2Fs43247-021-00179-7/MediaObjects/43247_2021_179_Fig1_HTML.png",
+        "isPartOf": {
+            "name": "Communications Earth & Environment",
+            "issn": [
+                "2662-4435"
+            ],
+            "volumeNumber": "2",
+            "@type": [
+                "Periodical",
+                "PublicationVolume"
+            ]
+        },
+        "publisher": {
+            "name": "Nature Publishing Group UK",
+            "logo": {
+                "url": "https://www-springernature-com.proxy.lib.ohio-state.edu/app-sn/public/images/logo-springernature.png",
+                "@type": "ImageObject"
+            },
+            "@type": "Organization"
+        },
+        "author": [
+            {
+                "name": "Joshuah Wolper",
+                "url": "http://orcid.org/0000-0001-5226-8330",
+                "affiliation": [
+                    {
+                        "name": "University of Pennsylvania",
+                        "address": {
+                            "name": "University of Pennsylvania, Philadelphia, USA",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    }
+                ],
+                "@type": "Person"
+            },
+            {
+                "name": "Ming Gao",
+                "affiliation": [
+                    {
+                        "name": "University of Pennsylvania",
+                        "address": {
+                            "name": "University of Pennsylvania, Philadelphia, USA",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    },
+                    {
+                        "name": "Tencent Game AI Research Center",
+                        "address": {
+                            "name": "Tencent Game AI Research Center, Los Angeles, USA",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    }
+                ],
+                "@type": "Person"
+            },
+            {
+                "name": "Martin P. L\u00fcthi",
+                "affiliation": [
+                    {
+                        "name": "University of Z\u00fcrich",
+                        "address": {
+                            "name": "Department of Geography, University of Z\u00fcrich, Z\u00fcrich, Switzerland",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    }
+                ],
+                "@type": "Person"
+            },
+            {
+                "name": "Valentin Heller",
+                "url": "http://orcid.org/0000-0001-7086-0098",
+                "affiliation": [
+                    {
+                        "name": "University of Nottingham",
+                        "address": {
+                            "name": "Environmental Fluid Mechanics and Geoprocesses Research Group, University of Nottingham, Nottingham, UK",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    }
+                ],
+                "@type": "Person"
+            },
+            {
+                "name": "Andreas Vieli",
+                "url": "http://orcid.org/0000-0002-2870-5921",
+                "affiliation": [
+                    {
+                        "name": "University of Z\u00fcrich",
+                        "address": {
+                            "name": "Department of Geography, University of Z\u00fcrich, Z\u00fcrich, Switzerland",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    }
+                ],
+                "@type": "Person"
+            },
+            {
+                "name": "Chenfanfu Jiang",
+                "affiliation": [
+                    {
+                        "name": "University of Pennsylvania",
+                        "address": {
+                            "name": "University of Pennsylvania, Philadelphia, USA",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    }
+                ],
+                "@type": "Person"
+            },
+            {
+                "name": "Johan Gaume",
+                "url": "http://orcid.org/0000-0001-8931-752X",
+                "affiliation": [
+                    {
+                        "name": "SLAB Snow and Avalanche Simulation Laboratory, EPFL Swiss Federal Institute of Technology",
+                        "address": {
+                            "name": "SLAB Snow and Avalanche Simulation Laboratory, EPFL Swiss Federal Institute of Technology, Lausanne, Switzerland",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    },
+                    {
+                        "name": "WSL Institute for Snow and Avalanche Research SLF",
+                        "address": {
+                            "name": "WSL Institute for Snow and Avalanche Research SLF, Davos Dorf, Switzerland",
+                            "@type": "PostalAddress"
+                        },
+                        "@type": "Organization"
+                    }
+                ],
+                "email": "johan.gaume@epfl.ch",
+                "@type": "Person"
+            }
+        ],
+        "isAccessibleForFree": true,
+        "@type": "ScholarlyArticle"
+    },
+    "@context": "https://schema.org",
+    "@type": "WebPage"
+}

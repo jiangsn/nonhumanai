@@ -1,0 +1,2 @@
+Figure 13. 
+We train a face parsing network (using synthetic data only) followed by a label adaptation network to address systematic differences between synthetic and human-annotated labels.

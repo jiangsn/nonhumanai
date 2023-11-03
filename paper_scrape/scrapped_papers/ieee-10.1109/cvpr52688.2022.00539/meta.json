@@ -1,0 +1,276 @@
+{
+    "userInfo": {
+        "customerNameRaw": "The Ohio State University",
+        "institutionName": "The Ohio State University",
+        "institute": true,
+        "member": false,
+        "individual": false,
+        "guest": false,
+        "subscribedContent": false,
+        "fileCabinetContent": false,
+        "fileCabinetUser": false,
+        "institutionalFileCabinetUser": false,
+        "products": "IEL|EBOOKS:1974:2014|JRNLARCH:1884:1994|CONFARCH:1951:1999|IBM:1872:2020|VDE|NOKIA BELL LABS|",
+        "instType": "Academic",
+        "userIds": [
+            7827
+        ],
+        "showPatentCitations": true,
+        "showGet802Link": true,
+        "openUrlImgLoc": "http://library-osu-edu.proxy.lib.ohio-state.edu/resources/serialssolutions/buttons/button75x25edit.jpg",
+        "openUrlLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu",
+        "instLogoFile": "7827_OSULHoriz.png",
+        "openUrlTxt": "Find It!",
+        "showOpenUrlLink": true,
+        "marketingInfoCaptured": false,
+        "tracked": false,
+        "ringGoldId": "2647",
+        "delegatedAdmin": false,
+        "desktop": false,
+        "isInstitutionDashboardEnabled": false,
+        "isInstitutionProfileEnabled": false,
+        "isRoamingEnabled": true,
+        "isDelegatedAdmin": false,
+        "isMdl": false,
+        "isCwg": false,
+        "isIel": true,
+        "isAcademic": true
+    },
+    "authors": [
+        {
+            "name": "Jonathan T. Barron",
+            "affiliation": [
+                "Google"
+            ],
+            "firstName": "Jonathan T.",
+            "lastName": "Barron",
+            "id": "37953015500"
+        },
+        {
+            "name": "Ben Mildenhall",
+            "affiliation": [
+                "Google"
+            ],
+            "firstName": "Ben",
+            "lastName": "Mildenhall",
+            "id": "37086568629"
+        },
+        {
+            "name": "Dor Verbin",
+            "affiliation": [
+                "Google",
+                "Harvard University"
+            ],
+            "firstName": "Dor",
+            "lastName": "Verbin",
+            "id": "37088458476"
+        },
+        {
+            "name": "Pratul P. Srinivasan",
+            "affiliation": [
+                "Google"
+            ],
+            "firstName": "Pratul P.",
+            "lastName": "Srinivasan",
+            "id": "37085691695"
+        },
+        {
+            "name": "Peter Hedman",
+            "affiliation": [
+                "Google"
+            ],
+            "firstName": "Peter",
+            "lastName": "Hedman",
+            "id": "38513541300"
+        }
+    ],
+    "isbn": [
+        {
+            "format": "Electronic ISBN",
+            "value": "978-1-6654-6946-3",
+            "isbnType": ""
+        },
+        {
+            "format": "Print on Demand(PoD) ISBN",
+            "value": "978-1-6654-6947-0",
+            "isbnType": ""
+        }
+    ],
+    "issn": [
+        {
+            "format": "Electronic ISSN",
+            "value": "2575-7075"
+        },
+        {
+            "format": "Print on Demand(PoD) ISSN",
+            "value": "1063-6919"
+        }
+    ],
+    "articleNumber": "9878829",
+    "dbTime": "1 ms",
+    "metrics": {
+        "citationCountPaper": 102,
+        "citationCountPatent": 0,
+        "totalDownloads": 301
+    },
+    "purchaseOptions": {
+        "showOtherFormatPricingTab": false,
+        "showPdfFormatPricingTab": true,
+        "pdfPricingInfoAvailable": true,
+        "otherPricingInfoAvailable": false,
+        "mandatoryBundle": false,
+        "optionalBundle": false,
+        "displayTextWhenOtherFormatPricingNotAvailable": "The purchase and pricing options for this item are unavailable. Select items are only available as part of a subscription package. You may try again later or <a href='https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/xpl/contact' target='_blank'>contact us</a> for more information.",
+        "pdfPricingInfo": [
+            {
+                "memberPrice": "$14.95",
+                "nonMemberPrice": "$33.00",
+                "partNumber": "9878829",
+                "type": "PDF/HTML"
+            }
+        ],
+        "openUrlFullLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu?url_ver=Z39.88-2004&rfr_id=info:sid/IEEE.org:XPLORE&rft_id=info:doi/10.1109/CVPR52688.2022.00539&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&rft.atitle=Mip-NeRF 360: Unbounded Anti-Aliased Neural Radiance Fields&rft.jtitle=2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)&rft.date=2022&rft.spage=5460&rft.epage=5469&rft.eissn=2575-7075&rft.au=Jonathan T. Barron&rft.aulast=Jonathan T. Barron&rft.isbn=978-1-6654-6946-3"
+    },
+    "getProgramTermsAccepted": false,
+    "sections": {
+        "abstract": "true",
+        "authors": "true",
+        "figures": "true",
+        "multimedia": "true",
+        "references": "true",
+        "citedby": "true",
+        "keywords": "true",
+        "definitions": "false",
+        "algorithm": "false",
+        "dataset": "false",
+        "cadmore": "false",
+        "footnotes": "false",
+        "disclaimer": "false",
+        "relatedContent": "false",
+        "metrics": "true"
+    },
+    "abstract": "Though neural radiance fields (NeRF) have demon-strated impressive view synthesis results on objects and small bounded regions of space, they struggle on \u201cun-bounded\u201d scenes, where the camera may point in any di-rection and content may exist at any distance. In this set-ting, existing NeRF-like models often produce blurry or low-resolution renderings (due to the unbalanced detail and scale of nearby and distant objects), are slow to train, and may exhibit artifacts due to the inherent ambiguity of the task of reconstructing a large scene from a small set of images. We present an extension of mip-NeRF (a NeRF variant that addresses sampling and aliasing) that uses a non-linear scene parameterization, online distillation, and a novel distortion-based regularizer to overcome the chal-lenges presented by unbounded scenes. Our model, which we dub \u201cmip-NeRF 360\u201d as we target scenes in which the camera rotates 360 degrees around a point, reduces mean-squared error by 57% compared to mip-NeRF, and is able to produce realistic synthesized views and detailed depth maps for highly intricate, unbounded real-world scenes.",
+    "publicationYear": "2022",
+    "pdfPath": "/iel7/9878378/9878366/09878829.pdf",
+    "publicationDate": "June 2022",
+    "doi": "10.1109/CVPR52688.2022.00539",
+    "formulaStrippedArticleTitle": "Mip-NeRF 360: Unbounded Anti-Aliased Neural Radiance Fields",
+    "displayPublicationTitle": "2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+    "authorNames": "Jonathan T. Barron;Ben Mildenhall;Dor Verbin;Pratul P. Srinivasan;Peter Hedman",
+    "publicationTitle": "2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+    "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=proceedings&title=Mip-NeRF+360%3A+Unbounded+Anti-Aliased+Neural+Radiance+Fields&isbn=978-1-6654-6946-3&publicationDate=June+2022&author=Jonathan+T.+Barron&ContentID=10.1109/CVPR52688.2022.00539&orderBeanReset=true&startPage=5460&endPage=5469&proceedingName=2022+IEEE%2FCVF+Conference+on+Computer+Vision+and+Pattern+Recognition+%28CVPR%29",
+    "dateOfInsertion": "27 September 2022",
+    "startPage": "5460",
+    "endPage": "5469",
+    "pdfUrl": "/stamp/stamp.jsp?tp=&arnumber=9878829",
+    "keywords": [
+        {
+            "type": "IEEE Keywords",
+            "kwd": [
+                "Computer vision",
+                "Three-dimensional displays",
+                "Nonlinear distortion",
+                "Machine learning",
+                "Cameras",
+                "Rendering (computer graphics)",
+                "Sensors"
+            ]
+        },
+        {
+            "type": "INSPEC: Controlled Indexing",
+            "kwd": [
+                "cameras",
+                "image reconstruction",
+                "mean square error methods",
+                "rendering (computer graphics)"
+            ]
+        },
+        {
+            "type": "INSPEC: Non-Controlled Indexing",
+            "kwd": [
+                "mip-NeRF",
+                "unbounded anti-aliased",
+                "neural radiance fields",
+                "demon-strated impressive view synthesis results",
+                "di-rection",
+                "set-ting",
+                "NeRF-like models",
+                "low-resolution renderings",
+                "nearby objects",
+                "distant objects",
+                "NeRF variant",
+                "aliasing",
+                "nonlinear scene parameterization",
+                "unbounded scenes",
+                "real-world scenes"
+            ]
+        },
+        {
+            "type": "Author Keywords ",
+            "kwd": [
+                "3D from multi-view and sensors; Machine learning"
+            ]
+        }
+    ],
+    "doiLink": "https://doi-org.proxy.lib.ohio-state.edu/10.1109/CVPR52688.2022.00539",
+    "displayPublicationDate": "18-24 June 2022",
+    "articleCopyRight": "2022 IEEE",
+    "issueLink": "/xpl/tocresult.jsp?isnumber=9878366&punumber=9878378",
+    "pubLink": "/xpl/conhome/9878378/proceeding",
+    "allowComments": false,
+    "isGetAddressInfoCaptured": false,
+    "isMarketingOptIn": false,
+    "pubTopics": [
+        {
+            "name": "Computing and Processing"
+        }
+    ],
+    "publisher": "IEEE",
+    "displayDocTitle": "Mip-NeRF 360: Unbounded Anti-Aliased Neural Radiance Fields",
+    "isStandard": false,
+    "isConference": true,
+    "isBookWithoutChapters": false,
+    "isChapter": false,
+    "isProduct": false,
+    "isEarlyAccess": false,
+    "isOpenAccess": false,
+    "isEphemera": false,
+    "xploreDocumentType": "Conference Publication",
+    "isBook": false,
+    "isJournal": false,
+    "isSpringer": false,
+    "accessionNumber": "22093438",
+    "isFreeDocument": false,
+    "isPromo": false,
+    "isDynamicHtml": true,
+    "htmlLink": "/document/9878829/",
+    "htmlAbstractLink": "/document/9878829/",
+    "isCustomDenial": false,
+    "persistentLink": "https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/servlet/opac?punumber=9878378",
+    "isNow": false,
+    "isSAE": false,
+    "isOUP": false,
+    "isSMPTE": false,
+    "openAccessFlag": "F",
+    "insertDate": "27 September 2022",
+    "ephemeraFlag": "false",
+    "title": "Mip-NeRF 360: Unbounded Anti-Aliased Neural Radiance Fields",
+    "confLoc": "New Orleans, LA, USA",
+    "html_flag": "false",
+    "ml_html_flag": "true",
+    "sourcePdf": "694600f460.pdf",
+    "mlTime": "PT0.065485S",
+    "xplore-pub-id": "9878378",
+    "isNumber": "9878366",
+    "rightsLinkFlag": "1",
+    "contentType": "conferences",
+    "publicationNumber": "9878378",
+    "citationCount": "102",
+    "xplore-issue": "9878366",
+    "articleId": "9878829",
+    "contentTypeDisplay": "Conferences",
+    "subType": "IEEE Conference",
+    "_value": "IEEE",
+    "lastupdate": "2023-10-08",
+    "mediaPath": "/mediastore_new/IEEE/content/media/9878378/9878366/9878829"
+}

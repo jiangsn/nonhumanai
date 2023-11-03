@@ -1,0 +1,1 @@
+Figure 6: Color distribution matching property of the cGAN, tested on cityscapes. (c.f. figure 1 of the original GAN paper [22]). Note that the histogram intersection scores are dominated by differences in the high probability region, which are imperceptible in the plots, which show log probability and therefore emphasize differences in the low probability regions.

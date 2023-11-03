@@ -1,0 +1,1 @@
+Figure 5. (a) Distribution of PPL scores of individual images generated using baseline StyleGAN (config a) with LSUN cat (fid = 8.53, ppl = 924). The percentile ranges corresponding to Figure 4 are highlighted in orange. (b) StyleGAN2 (config f) improves the PPL distribution considerably (showing a snapshot with the same FID = 8.53, PPL = 387).

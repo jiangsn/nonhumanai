@@ -1,0 +1,1 @@
+Figure 3. Visual comparison of generated images using each configuration in Table 1. Note that given a source image, the configurations (\mathrm{A})-(\mathrm{C}) provide a single output, while (\mathrm{D})-(\mathrm{F}) generate multiple output images.

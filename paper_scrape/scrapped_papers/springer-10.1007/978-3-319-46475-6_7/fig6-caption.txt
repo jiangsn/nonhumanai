@@ -1,0 +1,1 @@
+Distribution of the number of frames in which an MTS combination occurs. 26.5% of the MTS combinations only occur in a single image each and most of the MTS combinations are only seen in 4 images or less.

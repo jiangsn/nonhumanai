@@ -1,0 +1,1 @@
+Table 7. Comparison of inpainting performance on 30k crops of size 512\times 512 from test images of Places [104]. The column 40-50% reports metrics computed over hard examples where 40-50% of the image region have to be inpainted. †recomputed on our test set, since the original test set used in [8] was not available.

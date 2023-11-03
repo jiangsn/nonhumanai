@@ -1,0 +1,1 @@
+Figure 10: Single-person performance for different kinds of supervision signals used for training: DensePose leads to substantially more accurate results than surrogate datasets. DensePose* uses a figure-ground oracle at both training and test time.

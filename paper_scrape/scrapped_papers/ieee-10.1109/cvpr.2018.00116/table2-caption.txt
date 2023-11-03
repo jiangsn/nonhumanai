@@ -1,0 +1,1 @@
+Table 2. Training and testing split (number of images) for four standard datasets. Columbia is only used for testing the model trained on our synthetic dataset

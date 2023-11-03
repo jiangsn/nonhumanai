@@ -1,0 +1,1 @@
+Figure 3. Visual comparison of few-shot image-to-image translation performance. From left to right, the columns are input content images x, the two input target class images y1y2, translation results from the unfair ScarGiaN baseline, translation results from the fair SCarGiaN baseline, and results from our framework.

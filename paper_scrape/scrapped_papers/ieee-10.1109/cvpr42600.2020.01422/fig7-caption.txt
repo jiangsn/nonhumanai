@@ -1,0 +1,1 @@
+Figure 7: Effect of online optimization and pre-training. Both steps are crucial to achieving high-quality results.

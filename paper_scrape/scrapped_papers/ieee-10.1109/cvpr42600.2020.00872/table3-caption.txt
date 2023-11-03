@@ -1,0 +1,1 @@
+Table 3: Out-of-the box evaluation on recently released stylegan2 [21] model. We used our blur+jpeg (0.1) model and tested on stylegan2. We observed that our model generalizes to detecting stylegan2 images. Numbers for progan and stylegan are included for comparison.

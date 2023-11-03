@@ -1,0 +1,2 @@
+Figure 5: 
+Video synthesis. We use the source and driving keypoints to estimate K flows, wk’s. These flows are used to warp the source feature fs. The results are combined and fed to the motion field estimation network M to produce a flow composition mask m. A linear combination of m and wk’s then produces the composited flow field w, which is used to warp the 3D source feature. Finally, the generator G converts the warped feature to the output image y.

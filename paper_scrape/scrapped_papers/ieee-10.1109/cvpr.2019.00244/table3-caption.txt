@@ -1,0 +1,2 @@
+Table 3: 
+mIoU scores are boosted when SPADE layers are used, for both the decoder architecture (Figure 4) and encoder-decoder architecture of pix2pixHD++ (our improved baseline over pix2pixHD [45]). On the other hand, simply concatenating semantic input at every layer fails to do so. Moreover, our compact model with smaller depth at all layers outperforms all baselines.

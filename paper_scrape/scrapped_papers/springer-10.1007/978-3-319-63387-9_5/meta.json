@@ -1,0 +1,122 @@
+[
+    {
+        "GA Key": "UA-26408784-1",
+        "DOI": "10.1007/978-3-319-63387-9_5",
+        "Page": "chapter",
+        "page": {
+            "attributes": {
+                "environment": "live"
+            }
+        },
+        "Country": "US",
+        "japan": false,
+        "doi": "10.1007-978-3-319-63387-9_5",
+        "Keywords": "Deep Neural Networks (DNNs), Satisfiability Modulo Theories (SMT), Rectified Linear Unit (ReLU), Airborne Collision Avoidance System, ReLU Function",
+        "kwrd": [
+            "Deep_Neural_Networks_(DNNs)",
+            "Satisfiability_Modulo_Theories_(SMT)",
+            "Rectified_Linear_Unit_(ReLU)",
+            "Airborne_Collision_Avoidance_System",
+            "ReLU_Function"
+        ],
+        "Labs": "Y",
+        "ksg": "Krux.segments",
+        "kuid": "Krux.uid",
+        "Has Body": "Y",
+        "Features": [
+            "doNotAutoAssociate",
+            "cobranding",
+            "doNotAutoAssociate",
+            "cobranding"
+        ],
+        "Open Access": "N",
+        "hasAccess": "Y",
+        "bypassPaywall": "N",
+        "user": {
+            "license": {
+                "businessPartnerID": [
+                    "3000266689",
+                    "8200724141"
+                ],
+                "businessPartnerIDString": "3000266689|8200724141"
+            }
+        },
+        "Access Type": "permanently-free",
+        "Bpids": "3000266689, 8200724141",
+        "Bpnames": "OhioLINK Consortium, Ohio State University Libraries",
+        "BPID": [
+            "3000266689",
+            "8200724141"
+        ],
+        "VG Wort Identifier": "pw-vgzm.415900-10.1007-978-3-319-63387-9",
+        "Full HTML": "Y",
+        "session": {
+            "authentication": {
+                "loginStatus": "N"
+            },
+            "attributes": {
+                "edition": "academic"
+            }
+        },
+        "content": {
+            "serial": {
+                "eissn": "1611-3349",
+                "pissn": "0302-9743"
+            },
+            "book": {
+                "doi": "10.1007/978-3-319-63387-9",
+                "title": "Computer Aided Verification",
+                "pisbn": "978-3-319-63386-2",
+                "eisbn": "978-3-319-63387-9",
+                "bookProductType": "Proceedings",
+                "seriesTitle": "Lecture Notes in Computer Science",
+                "seriesId": "558"
+            },
+            "chapter": {
+                "doi": "10.1007/978-3-319-63387-9_5"
+            },
+            "type": "ConferencePaper",
+            "category": {
+                "pmc": {
+                    "primarySubject": "Computer Science",
+                    "primarySubjectCode": "SCI",
+                    "secondarySubjects": {
+                        "1": "Logics and Meanings of Programs",
+                        "2": "Software Engineering",
+                        "3": "Simulation and Modeling",
+                        "4": "The Computing Profession",
+                        "5": "System Performance and Evaluation",
+                        "6": "Artificial Intelligence"
+                    },
+                    "secondarySubjectCodes": {
+                        "1": "SCI1603X",
+                        "2": "SCI14029",
+                        "3": "SCI19000",
+                        "4": "SCI24075",
+                        "5": "SCI13049",
+                        "6": "SCI21000"
+                    }
+                },
+                "sucode": "SUCO11645"
+            },
+            "attributes": {
+                "deliveryPlatform": "oscar"
+            },
+            "country": "US",
+            "Has Preview": "N",
+            "subjectCodes": "SCI,SCI1603X,SCI14029,SCI19000,SCI24075,SCI13049,SCI21000",
+            "PMC": [
+                "SCI",
+                "SCI1603X",
+                "SCI14029",
+                "SCI19000",
+                "SCI24075",
+                "SCI13049",
+                "SCI21000"
+            ]
+        },
+        "Event Category": "Conference Paper",
+        "ConferenceSeriesId": "cav, cav",
+        "productId": "9783319633879"
+    }
+]

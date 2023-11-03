@@ -1,0 +1,1 @@
+Figure 5. Example showing how static and dynamic elements are disentangled in VizDoom and Pacman games with GameGAN. Static components usually include environmental objects such as walls. Dynamic elements typically are objects that can change as the game progresses such as food and other non-player characters.

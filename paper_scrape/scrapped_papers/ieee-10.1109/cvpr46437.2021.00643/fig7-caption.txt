@@ -1,0 +1,2 @@
+Figure 7: 
+Novel time synthesis. Rendering images by interpolating the time index (top) yields blending artifacts compared to our scene flow based rendering (bottom).

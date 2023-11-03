@@ -1,0 +1,2 @@
+Table 1. 
+We compare our method to the two top-performing methods on CDW-2014 [34]. We report the Jaccard index ({\mathcal{J}}) and Boundary measure ({\mathcal{F}}) on a subset of the data that includes objects and their shadows. Our method performs at par or better than the two background subtraction methods.

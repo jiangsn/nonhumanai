@@ -1,0 +1,1 @@
+Mutual Information transmitted between the Senders and the Receiver. Across all five triads of BrainNet participants, the mutual information transmitted between the Receiver and the “Good” Sender is significantly higher than that between the Receiver and the “Bad” Sender.

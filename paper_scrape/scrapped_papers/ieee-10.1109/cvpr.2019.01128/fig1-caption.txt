@@ -1,0 +1,2 @@
+Figure 1: 
+A unified framework for image decomposition. An image can be viewed as a mixture of "simpler" layers. Decomposing an image into such layers provides a unified framework for many seemingly unrelated vision tasks (e.g., segmentation, dehazing, transparency separation). Such a decomposition can be achieved using "Double-DIP".

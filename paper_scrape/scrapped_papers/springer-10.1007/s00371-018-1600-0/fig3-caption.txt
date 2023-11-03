@@ -1,0 +1,1 @@
+FEM volume, boundary conditions, and mapping: The volumetric mesh \( V \) is built upon the surface model \( S \) following several representations: a a grid tetrahedron volume model and b an grid hexahedron volume model. The red spheres represent the boundary constraints

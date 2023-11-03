@@ -1,0 +1,2 @@
+Table 2. 
+Results on TUM RGBD datasets. Different si-RMSE metrics as well as standard RMSE and relative error (Rel) are reported. We evaluate our models (light gray background) under different input configurations, as described in Table 1. w/o d. cleaning indicates the model is trained using raw MVS depth predictions as supervision, without our depth cleaning method. Dataset ‘-’ indicates the method is not learning based. Lower is better for all error metrics.

@@ -1,0 +1,1 @@
+Figure 3: Sliding window without 3D-aware context information, shown in (b), fails to learn plausible 3D geometry.

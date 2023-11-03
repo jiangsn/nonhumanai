@@ -1,0 +1,2 @@
+Table 2. 
+                  HumanEva-I ablation study. 3D joint errors in mm. The first row drops the interpenetration term and replaces the pose prior with a uni-modal prior. The second row keeps the uni-modal pose prior but adds the interpenetration penalty. The third row shows the proposed SMPLify model.

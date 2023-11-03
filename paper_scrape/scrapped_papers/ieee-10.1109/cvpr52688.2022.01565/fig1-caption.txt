@@ -1,0 +1,1 @@
+Figure 1. Our 3d gan enables synthesis of scenes, producing high-quality, multi-view-consistent renderings and detailed geometry. Our approach trains from a collection of 2d images without target-specific shape priors, ground truth 3d scans, or multi-view supervision. Please see the accompanying video for more results.

@@ -1,0 +1,1 @@
+Text2LIVE generates an edit layer, which is composited over the input. The text prompts expressing the target layer and the final composite are shown above each image. Our layered editing facilitates various effects including changing objects’ texture or augmenting the scene with complex semi-transparent effects.

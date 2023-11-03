@@ -1,0 +1,2 @@
+Figure 8. 
+Our hair library contains a diverse range of scalp hair, eyebrows, and beards. When assembling a 3D face, we choose hair style and appearance at random.

@@ -1,0 +1,2 @@
+Fig. 18. 
+Which discriminator? Our perceptual discriminator (right) is more effective than a PatchGAN discriminator (middle). Note the stronger enhancements such as lights and reflections on the car on the right.

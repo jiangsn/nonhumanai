@@ -1,0 +1,1 @@
+Figure 7: Binary precision values of our baselines when trained on all four manipulation methods simulatenously. See Table 1 for the average accuracy values. Aside from the Full Image XceptionNet, we use the proposed preextraction of the face region as input to the approaches.

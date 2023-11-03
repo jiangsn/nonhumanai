@@ -1,0 +1,278 @@
+{
+    "userInfo": {
+        "customerNameRaw": "The Ohio State University",
+        "institutionName": "The Ohio State University",
+        "institute": true,
+        "member": false,
+        "individual": false,
+        "guest": false,
+        "subscribedContent": false,
+        "fileCabinetContent": false,
+        "fileCabinetUser": false,
+        "institutionalFileCabinetUser": false,
+        "products": "IEL|EBOOKS:1974:2014|JRNLARCH:1884:1994|CONFARCH:1951:1999|IBM:1872:2020|VDE|NOKIA BELL LABS|",
+        "instType": "Academic",
+        "userIds": [
+            7827
+        ],
+        "showPatentCitations": true,
+        "showGet802Link": true,
+        "openUrlImgLoc": "http://library-osu-edu.proxy.lib.ohio-state.edu/resources/serialssolutions/buttons/button75x25edit.jpg",
+        "openUrlLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu",
+        "instLogoFile": "7827_OSULHoriz.png",
+        "openUrlTxt": "Find It!",
+        "showOpenUrlLink": true,
+        "marketingInfoCaptured": false,
+        "tracked": false,
+        "ringGoldId": "2647",
+        "delegatedAdmin": false,
+        "desktop": false,
+        "isInstitutionDashboardEnabled": false,
+        "isInstitutionProfileEnabled": false,
+        "isRoamingEnabled": true,
+        "isDelegatedAdmin": false,
+        "isMdl": false,
+        "isCwg": false,
+        "isIel": true,
+        "isAcademic": true
+    },
+    "authors": [
+        {
+            "name": "Ming-Yu Liu",
+            "affiliation": [
+                "NVIDIA"
+            ],
+            "firstName": "Ming-Yu",
+            "lastName": "Liu",
+            "id": "37086564383"
+        },
+        {
+            "name": "Xun Huang",
+            "affiliation": [
+                "NVIDIA",
+                "Cornell University"
+            ],
+            "firstName": "Xun",
+            "lastName": "Huang",
+            "id": "37086230109"
+        },
+        {
+            "name": "Arun Mallya",
+            "affiliation": [
+                "NVIDIA"
+            ],
+            "firstName": "Arun",
+            "lastName": "Mallya",
+            "id": "37085718254"
+        },
+        {
+            "name": "Tero Karras",
+            "affiliation": [
+                "NVIDIA"
+            ],
+            "firstName": "Tero",
+            "lastName": "Karras",
+            "id": "37588594800"
+        },
+        {
+            "name": "Timo Aila",
+            "affiliation": [
+                "NVIDIA"
+            ],
+            "firstName": "Timo",
+            "lastName": "Aila",
+            "id": "37086150518"
+        },
+        {
+            "name": "Jaakko Lehtinen",
+            "affiliation": [
+                "NVIDIA",
+                "Aalto University"
+            ],
+            "firstName": "Jaakko",
+            "lastName": "Lehtinen",
+            "id": "37086107183"
+        },
+        {
+            "name": "Jan Kautz",
+            "affiliation": [
+                "NVIDIA"
+            ],
+            "firstName": "Jan",
+            "lastName": "Kautz",
+            "id": "37889927400"
+        }
+    ],
+    "isbn": [
+        {
+            "format": "Electronic ISBN",
+            "value": "978-1-7281-4803-8",
+            "isbnType": ""
+        },
+        {
+            "format": "Print on Demand(PoD) ISBN",
+            "value": "978-1-7281-4804-5",
+            "isbnType": ""
+        }
+    ],
+    "issn": [
+        {
+            "format": "Electronic ISSN",
+            "value": "2380-7504"
+        },
+        {
+            "format": "Print on Demand(PoD) ISSN",
+            "value": "1550-5499"
+        }
+    ],
+    "articleNumber": "9010865",
+    "dbTime": "1 ms",
+    "metrics": {
+        "citationCountPaper": 247,
+        "citationCountPatent": 0,
+        "totalDownloads": 460
+    },
+    "purchaseOptions": {
+        "showOtherFormatPricingTab": false,
+        "showPdfFormatPricingTab": true,
+        "pdfPricingInfoAvailable": true,
+        "otherPricingInfoAvailable": false,
+        "mandatoryBundle": false,
+        "optionalBundle": false,
+        "displayTextWhenOtherFormatPricingNotAvailable": "The purchase and pricing options for this item are unavailable. Select items are only available as part of a subscription package. You may try again later or <a href='https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/xpl/contact' target='_blank'>contact us</a> for more information.",
+        "pdfPricingInfo": [
+            {
+                "memberPrice": "$14.95",
+                "nonMemberPrice": "$33.00",
+                "partNumber": "9010865",
+                "type": "PDF/HTML"
+            }
+        ],
+        "openUrlFullLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu?url_ver=Z39.88-2004&rfr_id=info:sid/IEEE.org:XPLORE&rft_id=info:doi/10.1109/ICCV.2019.01065&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&rft.atitle=Few-Shot Unsupervised Image-to-Image Translation&rft.jtitle=2019 IEEE/CVF International Conference on Computer Vision (ICCV)&rft.date=2019&rft.spage=10550&rft.epage=10559&rft.eissn=2380-7504&rft.au=Ming-Yu Liu&rft.aulast=Ming-Yu Liu&rft.isbn=978-1-7281-4803-8"
+    },
+    "getProgramTermsAccepted": false,
+    "sections": {
+        "abstract": "true",
+        "authors": "true",
+        "figures": "true",
+        "multimedia": "false",
+        "references": "true",
+        "citedby": "true",
+        "keywords": "true",
+        "definitions": "false",
+        "algorithm": "false",
+        "dataset": "false",
+        "cadmore": "false",
+        "footnotes": "false",
+        "disclaimer": "false",
+        "relatedContent": "false",
+        "metrics": "true"
+    },
+    "abstract": "Unsupervised image-to-image translation methods learn to map images in a given class to an analogous image in a different class, drawing on unstructured (non-registered) datasets of images. While remarkably successful, current methods require access to many images in both source and destination classes at training time. We argue this greatly limits their use. Drawing inspiration from the human capability of picking up the essence of a novel object from a small number of examples and generalizing from there, we seek a few-shot, unsupervised image-to-image translation algorithm that works on previously unseen target classes that are specified, at test time, only by a few example images. Our model achieves this few-shot generation capability by coupling an adversarial training scheme with a novel network design. Through extensive experimental validation and comparisons to several baseline methods on benchmark datasets, we verify the effectiveness of the proposed framework. Our implementation and datasets are available at https://github.com/NVlabs/FUNIT.",
+    "publicationYear": "2019",
+    "pdfPath": "/iel7/8972782/9008105/09010865.pdf",
+    "publicationDate": "October 2019",
+    "doi": "10.1109/ICCV.2019.01065",
+    "formulaStrippedArticleTitle": "Few-Shot Unsupervised Image-to-Image Translation",
+    "displayPublicationTitle": "2019 IEEE/CVF International Conference on Computer Vision (ICCV)",
+    "authorNames": "Ming-Yu Liu;Xun Huang;Arun Mallya;Tero Karras;Timo Aila;Jaakko Lehtinen;Jan Kautz",
+    "publicationTitle": "2019 IEEE/CVF International Conference on Computer Vision (ICCV)",
+    "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=proceedings&title=Few-Shot+Unsupervised+Image-to-Image+Translation&isbn=978-1-7281-4803-8&publicationDate=October+2019&author=Ming-Yu+Liu&ContentID=10.1109/ICCV.2019.01065&orderBeanReset=true&startPage=10550&endPage=10559&proceedingName=2019+IEEE%2FCVF+International+Conference+on+Computer+Vision+%28ICCV%29",
+    "dateOfInsertion": "27 February 2020",
+    "startPage": "10550",
+    "endPage": "10559",
+    "pdfUrl": "/stamp/stamp.jsp?tp=&arnumber=9010865",
+    "keywords": [
+        {
+            "type": "IEEE Keywords",
+            "kwd": [
+                "Training",
+                "Task analysis",
+                "Animals",
+                "Gallium nitride",
+                "Generators",
+                "Decoding",
+                "Convolutional codes"
+            ]
+        },
+        {
+            "type": "INSPEC: Controlled Indexing",
+            "kwd": [
+                "image registration",
+                "unsupervised learning"
+            ]
+        },
+        {
+            "type": "INSPEC: Non-Controlled Indexing",
+            "kwd": [
+                "few-shot unsupervised image-to-image translation methods",
+                "few-shot generation capability",
+                "unseen target classes",
+                "destination classes",
+                "analogous image",
+                "map images"
+            ]
+        }
+    ],
+    "doiLink": "https://doi-org.proxy.lib.ohio-state.edu/10.1109/ICCV.2019.01065",
+    "displayPublicationDate": "27 October 2019 - 02 November 2019",
+    "articleCopyRight": "2019 IEEE",
+    "issueLink": "/xpl/tocresult.jsp?isnumber=9008105&punumber=8972782",
+    "pubLink": "/xpl/conhome/8972782/proceeding",
+    "allowComments": false,
+    "isGetAddressInfoCaptured": false,
+    "isMarketingOptIn": false,
+    "pubTopics": [
+        {
+            "name": "Computing and Processing"
+        }
+    ],
+    "publisher": "IEEE",
+    "displayDocTitle": "Few-Shot Unsupervised Image-to-Image Translation",
+    "isStandard": false,
+    "isConference": true,
+    "isBookWithoutChapters": false,
+    "isChapter": false,
+    "isProduct": false,
+    "isEarlyAccess": false,
+    "isOpenAccess": false,
+    "isEphemera": false,
+    "xploreDocumentType": "Conference Publication",
+    "isBook": false,
+    "isJournal": false,
+    "isSpringer": false,
+    "accessionNumber": "19398237",
+    "isFreeDocument": false,
+    "isPromo": false,
+    "isDynamicHtml": true,
+    "htmlLink": "/document/9010865/",
+    "htmlAbstractLink": "/document/9010865/",
+    "isCustomDenial": false,
+    "persistentLink": "https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/servlet/opac?punumber=8972782",
+    "isNow": false,
+    "isSAE": false,
+    "isOUP": false,
+    "isSMPTE": false,
+    "openAccessFlag": "F",
+    "insertDate": "27 February 2020",
+    "ephemeraFlag": "false",
+    "title": "Few-Shot Unsupervised Image-to-Image Translation",
+    "confLoc": "Seoul, Korea (South)",
+    "html_flag": "false",
+    "ml_html_flag": "true",
+    "sourcePdf": "480300k0550.pdf",
+    "mlTime": "PT0.061619S",
+    "xplore-pub-id": "8972782",
+    "isNumber": "9008105",
+    "rightsLinkFlag": "1",
+    "contentType": "conferences",
+    "publicationNumber": "8972782",
+    "citationCount": "247",
+    "xplore-issue": "9008105",
+    "articleId": "9010865",
+    "contentTypeDisplay": "Conferences",
+    "subType": "IEEE Conference",
+    "_value": "IEEE",
+    "lastupdate": "2023-10-17",
+    "mediaPath": "/mediastore_new/IEEE/content/media/8972782/9008105/9010865"
+}

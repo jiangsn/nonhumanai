@@ -1,0 +1,2 @@
+Table 2: 
+Automated image quality metrics. We compare baselines against GANcraft on all 5 block worlds. SPADE sets the lower bound on FID and KID as it is a strong photorealistic image generator, although it is not view-consistent. Our view-consistent method achieves values close to SPADE, beating MUNIT and NSVF-W.

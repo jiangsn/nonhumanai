@@ -1,0 +1,2 @@
+TABLE I 
+Architectures of the Generative and Discriminative Networks

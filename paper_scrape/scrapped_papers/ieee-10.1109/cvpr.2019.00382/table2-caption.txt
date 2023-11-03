@@ -1,0 +1,2 @@
+Table 2 
+Analysis on contextual features. We compare the contextual features from different sources: the pre-trained conv1 features (PCF), learned conv1 features (LCF), learned hierarchical features (LHF), and the depth maps (D).

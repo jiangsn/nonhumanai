@@ -1,0 +1,6 @@
+Fig. 13. Quantitative comparison between the restoration performance vs. runtime. The vertical coordinate of each
+ point in the scatter plots corresponds to the average PSNR (a,c,e) and SSIM (b,d,f) of each method, measured on the
+ test images of Set5 and Set14. The horizontal coordinate corresponds to the average runtime (the average size of the
+ upscaled images is about  0.63\times 10^6
+ pixels). The size of each point reflects the standard error of the PSNR/SSIM. Detailed quantitative results can be
+ found in the supplementary material, https://goo.gl/D0ETxG.

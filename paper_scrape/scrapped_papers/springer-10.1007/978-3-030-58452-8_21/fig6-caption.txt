@@ -1,0 +1,4 @@
+Inverting a single semantic rule within a model. At the top row, a Progressive GAN 
+[38] trained on LSUN kitchens 
+[77] links windows to reflections: when windows are added by manipulating intermediate features identified by GAN Dissection 
+[7], reflections appear on the table. In the bottom row, one rule has been changed within the model to invert the relationship between windows and reflections. Now adding windows decreases reflections and vice-versa.

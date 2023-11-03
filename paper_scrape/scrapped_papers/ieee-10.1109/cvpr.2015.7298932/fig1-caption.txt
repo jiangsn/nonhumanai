@@ -1,0 +1,1 @@
+Figure 1. Motivation/concept figure: our model treats language as a rich label space and generates descriptions of image regions.

@@ -1,0 +1,1 @@
+Fig. 4. Illustration of tiny vgg model used in cnn explainer: this model uses the same, but fewer, convolutional layers as the original vggnet model [49]. we trained it to classify 10 classes of images.

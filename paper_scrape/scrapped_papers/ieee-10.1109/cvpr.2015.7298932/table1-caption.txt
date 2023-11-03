@@ -1,0 +1,1 @@
+Table 1. Image-sentence ranking experiment results. R@k is recall @k (high is good). Med r is the median rank (low is good). In the results for our models, we take the top 5 validation set models, evaluate each independently on the test set and then report the average performance. The standard deviations on the recall values range from approximately 0.5 to 1.0.

@@ -1,0 +1,2 @@
+Figure 5. 
+We manually "clean" raw high-resolution 3D head scans to remove noise and hair. We use the resulting clean scans to build our generative geometry model and texture library.

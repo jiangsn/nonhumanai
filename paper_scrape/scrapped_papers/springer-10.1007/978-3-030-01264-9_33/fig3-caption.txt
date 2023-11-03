@@ -1,0 +1,1 @@
+The architecture of PRN. The Green rectangles represent the residual blocks, and the blue ones represent the transposed convolutional layers. (Color figure online)

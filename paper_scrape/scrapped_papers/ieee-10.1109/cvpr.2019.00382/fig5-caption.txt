@@ -1,0 +1,2 @@
+Figure 5. 
+Effect of the depth-aware flow projection. The DA-Scra model cannot learn any meaningful depth information. The DA-Pret model initializes the depth estimation network from a pre-trained model and generates clear motion boundaries for frame interpolation. The DA-Opti model further optimizes the depth maps and generates sharper edges and shapes.

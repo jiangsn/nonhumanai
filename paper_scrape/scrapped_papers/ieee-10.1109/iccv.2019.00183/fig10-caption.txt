@@ -1,0 +1,1 @@
+Figure 10. Our results regarding total restoration. These results shown that SC-FEGAN can function as an image translator: it can generate face images from only sketch and color input.

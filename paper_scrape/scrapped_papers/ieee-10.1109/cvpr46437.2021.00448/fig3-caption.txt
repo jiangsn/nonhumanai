@@ -1,0 +1,2 @@
+Figure 3. 
+Results on natural videos. For each example, we show: (a) input frame; (b) input mask(s) computed by Mask R-CNN [12]; (c) our resulting omnimatte (left: alpha matte, right: RGBA); (d) our estimated background layer. The bottom example (Bus Station) shows a failure case: while the shadows are correctly associated with the people, the reflection cast on the window by the person in the top-right corner (marked by the red rectangle) is mistakenly grouped with the person in the bottom-left corner.

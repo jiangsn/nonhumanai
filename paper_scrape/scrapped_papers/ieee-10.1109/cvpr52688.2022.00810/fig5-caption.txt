@@ -1,0 +1,1 @@
+Figure 5. We represent 3d models as a triangular mesh and a set of spatially varying materials following a standard pbr model.

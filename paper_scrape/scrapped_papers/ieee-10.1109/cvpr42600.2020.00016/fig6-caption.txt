@@ -1,0 +1,1 @@
+Figure 6: We qualitatively compare our method with state-of-the-art methods, including (c) Tex2shape [3], (d) PIFu [35], and (e) DeepHuman [51], on the people snapshot dataset [2]. By fully leveraging high-resolution image inputs, (b) our method can reconstruct higher resolution geometry compared to the existing methods.

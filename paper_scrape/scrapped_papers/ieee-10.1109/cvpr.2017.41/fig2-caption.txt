@@ -1,0 +1,1 @@
+Figure 2. Dataset creation. (a) An input image with a simple background is matted manually. The (b) Computed alpha matte and (c) Computed foreground colors are used as ground truth to composite the object onto (d-f) Various background images.

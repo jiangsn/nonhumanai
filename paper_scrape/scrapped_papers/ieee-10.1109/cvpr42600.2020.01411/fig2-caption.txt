@@ -1,0 +1,1 @@
+Figure 2: Stylealae architecture. The stylealae encoder has instance normalization (in) layers to extract multiscale style information that is combined into a latent code w via a learnable multilinear map.

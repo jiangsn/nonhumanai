@@ -1,0 +1,1 @@
+Comparison of test results on Places2 images. (a) Input. (b) PM. (c) GL. (d) GntIpt. (e) PConv. (f) GT.

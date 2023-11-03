@@ -1,0 +1,1 @@
+Figure 6. Curated examples at 5122, synthesized by models trained with ffhq [28] and afhqv2 cats [7]

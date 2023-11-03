@@ -1,0 +1,1 @@
+Table 2. We perform an ablation study on a synthetically rendered raw dataset with 120 training images, simulating shot and read noise for 8 different shutter speeds. Here we report psnr values in ldr srgb space.

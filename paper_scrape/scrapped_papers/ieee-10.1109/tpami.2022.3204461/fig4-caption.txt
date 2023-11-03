@@ -1,0 +1,2 @@
+Fig. 4. 
+Super-resolution results (64×64 \rightarrow 256×256) for SR3 and Regression on ImageNet test images. Both models use the same architecture and training data. We display the full image and an enlarged patch to show fine-grained details.

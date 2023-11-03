@@ -1,0 +1,1 @@
+Fig. 5. Applying the four spatially varying pre-learned filters on a LR image.

@@ -1,0 +1,1 @@
+Encoder-decoder network for style transfer based on style-aware content loss.

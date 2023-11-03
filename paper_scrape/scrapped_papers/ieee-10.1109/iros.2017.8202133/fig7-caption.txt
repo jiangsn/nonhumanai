@@ -1,0 +1,1 @@
+Fig. 7. Sensitivity to amount of texture randomization. In each case, the detector was trained using 10, 000 random object positions and combinations of distractors, but only the given number of unique texturizations and lighting conditions were used.

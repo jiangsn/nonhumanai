@@ -1,0 +1,4 @@
+TABLE II 
+MMD (
+\times10^{-2}
+) With Mixed Gaussian Distributions on Our Toy Datasets. We Ran Each Method for Ten Times, and Report Their Average and Best Results. The Method With Lower MMD Value Implies the Generated Distribution is Closer to the Target One

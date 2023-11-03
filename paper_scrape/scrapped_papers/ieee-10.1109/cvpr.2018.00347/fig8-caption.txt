@@ -1,0 +1,1 @@
+Figure 8. Comparison of network architectures on an image patch from the fuji x300 test set. (a) Using the CAN structure, the color is not recovered correctly. (b) Using the U-net. Zoom in for detail.

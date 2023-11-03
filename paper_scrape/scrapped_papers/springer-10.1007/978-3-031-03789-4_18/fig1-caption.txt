@@ -1,0 +1,1 @@
+Our proposed painting synthesization places transparent triangles using evolution strategy (ES). Each concept represented as a text prompt is accompanied by its corresponding synthesized image. Here, the fitness is defined as the cosine distance between rendered canvas and text, both embedded by CLIP [37], and we optimize the position and the color of triangles using ES.

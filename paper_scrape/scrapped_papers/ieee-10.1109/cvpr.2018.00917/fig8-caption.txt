@@ -1,0 +1,1 @@
+Figure 8: Comparison on the NYU dataset [39] (label maps shown at the leftmost column). Our method generates more realistic and colorful images than the other methods.

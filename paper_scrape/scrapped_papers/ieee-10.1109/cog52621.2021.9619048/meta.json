@@ -1,0 +1,265 @@
+{
+    "userInfo": {
+        "customerNameRaw": "The Ohio State University",
+        "institutionName": "The Ohio State University",
+        "institute": true,
+        "member": false,
+        "individual": false,
+        "guest": false,
+        "subscribedContent": false,
+        "fileCabinetContent": false,
+        "fileCabinetUser": false,
+        "institutionalFileCabinetUser": false,
+        "products": "IEL|EBOOKS:1974:2014|JRNLARCH:1884:1994|CONFARCH:1951:1999|IBM:1872:2020|VDE|NOKIA BELL LABS|",
+        "instType": "Academic",
+        "userIds": [
+            7827
+        ],
+        "showPatentCitations": true,
+        "showGet802Link": true,
+        "openUrlImgLoc": "http://library-osu-edu.proxy.lib.ohio-state.edu/resources/serialssolutions/buttons/button75x25edit.jpg",
+        "openUrlLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu",
+        "instLogoFile": "7827_OSULHoriz.png",
+        "openUrlTxt": "Find It!",
+        "showOpenUrlLink": true,
+        "marketingInfoCaptured": false,
+        "tracked": false,
+        "ringGoldId": "2647",
+        "delegatedAdmin": false,
+        "desktop": false,
+        "isInstitutionDashboardEnabled": false,
+        "isInstitutionProfileEnabled": false,
+        "isRoamingEnabled": true,
+        "isDelegatedAdmin": false,
+        "isMdl": false,
+        "isCwg": false,
+        "isIel": true,
+        "isAcademic": true
+    },
+    "authors": [
+        {
+            "name": "Camilo Gordillo",
+            "affiliation": [
+                "SEED - Electronic Arts (EA), Stockholm, Sweden"
+            ],
+            "firstName": "Camilo",
+            "lastName": "Gordillo",
+            "id": "38247021100"
+        },
+        {
+            "name": "Joakim Bergdahl",
+            "affiliation": [
+                "SEED - Electronic Arts (EA), Stockholm, Sweden"
+            ],
+            "firstName": "Joakim",
+            "lastName": "Bergdahl",
+            "id": "37086479454"
+        },
+        {
+            "name": "Konrad Tollmar",
+            "affiliation": [
+                "SEED - Electronic Arts (EA), Stockholm, Sweden"
+            ],
+            "firstName": "Konrad",
+            "lastName": "Tollmar",
+            "id": "37282909500"
+        },
+        {
+            "name": "Linus Gissl\u00e9n",
+            "affiliation": [
+                "SEED - Electronic Arts (EA), Stockholm, Sweden"
+            ],
+            "firstName": "Linus",
+            "lastName": "Gissl\u00e9n",
+            "id": "37085689642"
+        }
+    ],
+    "isbn": [
+        {
+            "format": "Electronic ISBN",
+            "value": "978-1-6654-3886-5",
+            "isbnType": ""
+        },
+        {
+            "format": "Print on Demand(PoD) ISBN",
+            "value": "978-1-6654-4608-2",
+            "isbnType": ""
+        }
+    ],
+    "issn": [
+        {
+            "format": "Electronic ISSN",
+            "value": "2325-4289"
+        },
+        {
+            "format": "Print on Demand(PoD) ISSN",
+            "value": "2325-4270"
+        }
+    ],
+    "articleNumber": "9619048",
+    "dbTime": "1 ms",
+    "metrics": {
+        "citationCountPaper": 8,
+        "citationCountPatent": 0,
+        "totalDownloads": 251
+    },
+    "purchaseOptions": {
+        "showOtherFormatPricingTab": false,
+        "showPdfFormatPricingTab": true,
+        "pdfPricingInfoAvailable": true,
+        "otherPricingInfoAvailable": false,
+        "mandatoryBundle": false,
+        "optionalBundle": false,
+        "displayTextWhenOtherFormatPricingNotAvailable": "The purchase and pricing options for this item are unavailable. Select items are only available as part of a subscription package. You may try again later or <a href='https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/xpl/contact' target='_blank'>contact us</a> for more information.",
+        "pdfPricingInfo": [
+            {
+                "memberPrice": "$14.95",
+                "nonMemberPrice": "$33.00",
+                "partNumber": "9619048",
+                "type": "PDF/HTML"
+            }
+        ],
+        "openUrlFullLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu?url_ver=Z39.88-2004&rfr_id=info:sid/IEEE.org:XPLORE&rft_id=info:doi/10.1109/CoG52621.2021.9619048&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&rft.atitle=Improving Playtesting Coverage via Curiosity Driven Reinforcement Learning Agents&rft.jtitle=2021 IEEE Conference on Games (CoG)&rft.date=2021&rft.spage=1&rft.epage=8&rft.eissn=2325-4289&rft.au=Camilo Gordillo&rft.aulast=Camilo Gordillo&rft.isbn=978-1-6654-3886-5"
+    },
+    "getProgramTermsAccepted": false,
+    "sections": {
+        "abstract": "true",
+        "authors": "true",
+        "figures": "true",
+        "multimedia": "false",
+        "references": "true",
+        "citedby": "true",
+        "keywords": "true",
+        "definitions": "false",
+        "algorithm": "false",
+        "dataset": "false",
+        "cadmore": "false",
+        "footnotes": "true",
+        "disclaimer": "false",
+        "relatedContent": "false",
+        "metrics": "true"
+    },
+    "abstract": "As modern games continue growing both in size and complexity, it has become more challenging to ensure that all the relevant content is tested and that any potential issues are properly identified and fixed. Attempting to maximize testing coverage using only human participants, however, results in a tedious and hard to orchestrate process which normally slows down the development cycle. Complementing playtesting via autonomous agents has shown great promise accelerating and simplifying this process. This paper addresses the problem of automatically exploring and testing a given scenario using reinforcement learning agents trained to maximize game state coverage. Each of these agents is rewarded based on the novelty of its actions, thus encouraging a curious and exploratory behaviour on a complex 3D scenario where previously proposed exploration techniques perform poorly. The curious agents are able to learn the complex navigation mechanics required to reach the different areas around the map, thus providing the necessary data to identify potential issues. Moreover, the paper also investigates different visualization strategies and evaluates how to make better use of the collected data to drive design decisions and to recognize possible problems and oversights.",
+    "publicationYear": "2021",
+    "pdfPath": "/iel7/9618888/9618891/09619048.pdf",
+    "publicationDate": "17 August 2021",
+    "doi": "10.1109/CoG52621.2021.9619048",
+    "formulaStrippedArticleTitle": "Improving Playtesting Coverage via Curiosity Driven Reinforcement Learning Agents",
+    "displayPublicationTitle": "2021 IEEE Conference on Games (CoG)",
+    "authorNames": "Camilo Gordillo;Joakim Bergdahl;Konrad Tollmar;Linus Gissl\u00e9n",
+    "publicationTitle": "2021 IEEE Conference on Games (CoG)",
+    "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=proceedings&title=Improving+Playtesting+Coverage+via+Curiosity+Driven+Reinforcement+Learning+Agents&isbn=978-1-6654-3886-5&publicationDate=17+August+2021&author=Camilo+Gordillo&ContentID=10.1109/CoG52621.2021.9619048&orderBeanReset=true&startPage=1&endPage=8&proceedingName=2021+IEEE+Conference+on+Games+%28CoG%29",
+    "dateOfInsertion": "07 December 2021",
+    "startPage": "1",
+    "endPage": "8",
+    "pdfUrl": "/stamp/stamp.jsp?tp=&arnumber=9619048",
+    "keywords": [
+        {
+            "type": "IEEE Keywords",
+            "kwd": [
+                "Three-dimensional displays",
+                "Navigation",
+                "Conferences",
+                "Accelerated aging",
+                "Data visualization",
+                "Games",
+                "Reinforcement learning"
+            ]
+        },
+        {
+            "type": "INSPEC: Controlled Indexing",
+            "kwd": [
+                "computer games",
+                "data visualisation",
+                "learning (artificial intelligence)",
+                "multi-agent systems"
+            ]
+        },
+        {
+            "type": "INSPEC: Non-Controlled Indexing",
+            "kwd": [
+                "playtesting coverage",
+                "curiosity driven reinforcement learning agents",
+                "modern games",
+                "testing coverage",
+                "autonomous agents",
+                "game state coverage",
+                "curious behaviour",
+                "exploratory behaviour",
+                "complex 3D scenario",
+                "complex navigation mechanics",
+                "visualization strategies"
+            ]
+        },
+        {
+            "type": "Author Keywords ",
+            "kwd": [
+                "automated game testing",
+                "computer games",
+                "reinforcement learning",
+                "curiosity"
+            ]
+        }
+    ],
+    "doiLink": "https://doi-org.proxy.lib.ohio-state.edu/10.1109/CoG52621.2021.9619048",
+    "displayPublicationDate": "17-20 August 2021",
+    "articleCopyRight": "2021 IEEE",
+    "issueLink": "/xpl/tocresult.jsp?isnumber=9618891&punumber=9618888",
+    "pubLink": "/xpl/conhome/9618888/proceeding",
+    "allowComments": false,
+    "isGetAddressInfoCaptured": false,
+    "isMarketingOptIn": false,
+    "pubTopics": [
+        {
+            "name": "Computing and Processing"
+        }
+    ],
+    "publisher": "IEEE",
+    "displayDocTitle": "Improving Playtesting Coverage via Curiosity Driven Reinforcement Learning Agents",
+    "isStandard": false,
+    "isConference": true,
+    "isBookWithoutChapters": false,
+    "isChapter": false,
+    "isProduct": false,
+    "isEarlyAccess": false,
+    "isOpenAccess": false,
+    "isEphemera": false,
+    "xploreDocumentType": "Conference Publication",
+    "isBook": false,
+    "isJournal": false,
+    "isSpringer": false,
+    "accessionNumber": "21482654",
+    "isFreeDocument": false,
+    "isPromo": false,
+    "isDynamicHtml": true,
+    "htmlLink": "/document/9619048/",
+    "htmlAbstractLink": "/document/9619048/",
+    "isCustomDenial": false,
+    "persistentLink": "https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/servlet/opac?punumber=9618888",
+    "isNow": false,
+    "isSAE": false,
+    "isOUP": false,
+    "isSMPTE": false,
+    "openAccessFlag": "F",
+    "insertDate": "07 December 2021",
+    "ephemeraFlag": "false",
+    "title": "Improving Playtesting Coverage via Curiosity Driven Reinforcement Learning Agents",
+    "confLoc": "Copenhagen, Denmark",
+    "html_flag": "false",
+    "ml_html_flag": "true",
+    "sourcePdf": "paper_007.pdf",
+    "mlTime": "PT0.038255S",
+    "xplore-pub-id": "9618888",
+    "isNumber": "9618891",
+    "rightsLinkFlag": "1",
+    "contentType": "conferences",
+    "publicationNumber": "9618888",
+    "citationCount": "8",
+    "xplore-issue": "9618891",
+    "articleId": "9619048",
+    "contentTypeDisplay": "Conferences",
+    "subType": "IEEE Conference",
+    "_value": "IEEE",
+    "lastupdate": "2023-10-08",
+    "mediaPath": "/mediastore_new/IEEE/content/media/9618888/9618891/9619048"
+}

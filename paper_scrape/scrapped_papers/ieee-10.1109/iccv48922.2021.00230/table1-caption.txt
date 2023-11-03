@@ -1,0 +1,2 @@
+Table 1: 
+Quantitative evaluation of fusion functions and fusion spaces on the test set of [54]. We highlight {\text{the best}} and {\text{the second best}} in each column.

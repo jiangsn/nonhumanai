@@ -1,0 +1,2 @@
+Figure 8: 
+Increasing model size and other architecture changes can greatly improve performance. Note Res2Net and ResNet+SE have a ResNet backbone. Normal model sizes are ResNet-50 and ResNeXt-50 (32 × 4d), Large model sizes are ResNet-101 and ResNeXt-101 (32 × 4d), and XLarge Model sizes are ResNet-152 and (32 × 8d).

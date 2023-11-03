@@ -1,0 +1,1 @@
+Table 3. Comparison of evaluated MOS for griffin-lim vs. Wavenet as a vocoder, and using 1,025-dimensional linear spectrograms vs. 80-dimensional mel spectrograms as conditioning inputs to wavenet

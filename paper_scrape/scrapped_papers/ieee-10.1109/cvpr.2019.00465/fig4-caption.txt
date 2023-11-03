@@ -1,0 +1,2 @@
+Figure 4. 
+Qualitative results on MC test set. From top to bottom: reference images and their corresponding MVS depth (pseudo ground truth); our depth predictions using: our single view model (third row) and our two-frame model (forth row). The additional network inputs give improved performance in both human and non-human regions.

@@ -1,0 +1,1 @@
+Fig. 4: Two of the navigation challenges spread across the map and the solution found by our training rl agents. The red cubes represent the points in our buffer of visited states. The blue trajectories showcase the paths that a player would have to follow to fully explore these areas.

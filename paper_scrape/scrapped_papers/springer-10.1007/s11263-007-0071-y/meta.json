@@ -1,0 +1,114 @@
+[
+    {
+        "GA Key": "UA-26408784-1",
+        "DOI": "10.1007/s11263-007-0071-y",
+        "Page": "article",
+        "springerJournal": true,
+        "page": {
+            "attributes": {
+                "environment": "live"
+            }
+        },
+        "Country": "US",
+        "japan": false,
+        "doi": "10.1007-s11263-007-0071-y",
+        "Journal Title": "International Journal of Computer Vision",
+        "Journal Id": 11263,
+        "Keywords": "Monocular vision, Learning depth, 3D reconstruction, Dense reconstruction, Markov random field, Depth estimation, Monocular depth, Stereo vision, Hand-held camera, Visual modeling",
+        "kwrd": [
+            "Monocular_vision",
+            "Learning_depth",
+            "3D_reconstruction",
+            "Dense_reconstruction",
+            "Markov_random_field",
+            "Depth_estimation",
+            "Monocular_depth",
+            "Stereo_vision",
+            "Hand-held_camera",
+            "Visual_modeling"
+        ],
+        "Labs": "Y",
+        "ksg": "Krux.segments",
+        "kuid": "Krux.uid",
+        "Has Body": "N",
+        "Features": [
+            "doNotAutoAssociate",
+            "cobranding",
+            "doNotAutoAssociate",
+            "cobranding"
+        ],
+        "Open Access": "Y",
+        "hasAccess": "Y",
+        "bypassPaywall": "N",
+        "user": {
+            "license": {
+                "businessPartnerID": [
+                    "3000266689",
+                    "8200724141"
+                ],
+                "businessPartnerIDString": "3000266689|8200724141"
+            }
+        },
+        "Access Type": "open",
+        "Bpids": "3000266689, 8200724141",
+        "Bpnames": "OhioLINK Consortium, Ohio State University Libraries",
+        "BPID": [
+            "3000266689",
+            "8200724141"
+        ],
+        "VG Wort Identifier": "vgzm.415900-10.1007-s11263-007-0071-y",
+        "Full HTML": "N",
+        "Subject Codes": [
+            "SCI",
+            "SCI22005",
+            "SCI21000",
+            "SCI22021",
+            "SCI2203X"
+        ],
+        "pmc": [
+            "I",
+            "I22005",
+            "I21000",
+            "I22021",
+            "I2203X"
+        ],
+        "session": {
+            "authentication": {
+                "loginStatus": "N"
+            },
+            "attributes": {
+                "edition": "academic"
+            }
+        },
+        "content": {
+            "serial": {
+                "eissn": "1573-1405",
+                "pissn": "0920-5691"
+            },
+            "type": "Article",
+            "category": {
+                "pmc": {
+                    "primarySubject": "Computer Science",
+                    "primarySubjectCode": "I",
+                    "secondarySubjects": {
+                        "1": "Computer Imaging, Vision, Pattern Recognition and Graphics",
+                        "2": "Artificial Intelligence",
+                        "3": "Image Processing and Computer Vision",
+                        "4": "Pattern Recognition"
+                    },
+                    "secondarySubjectCodes": {
+                        "1": "I22005",
+                        "2": "I21000",
+                        "3": "I22021",
+                        "4": "I2203X"
+                    }
+                },
+                "sucode": "SC6"
+            },
+            "attributes": {
+                "deliveryPlatform": "oscar"
+            }
+        },
+        "Event Category": "Article"
+    }
+]

@@ -1,0 +1,3 @@
+Figure 1: 
+
+Face swapping and reenactment. Left: Source face swapped onto target. Right: Target video used to control the expressions of the face appearing in the source image. In both cases, our results appears in the middle. For more information please visit our website: https: //nirkin.com/fsgan.

@@ -1,0 +1,1 @@
+Fig. 5 Task length: evaluation of the object sorting in simulation. The axes represent mean success rate (y)(y) with 100 evaluations each and the number of objects in unseen task instances (x)(x). NTP generalizes to increasingly longer tasks while baselines do not.

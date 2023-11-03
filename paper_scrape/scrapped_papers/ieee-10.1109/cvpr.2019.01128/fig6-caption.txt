@@ -1,0 +1,2 @@
+Figure 6: 
+Video Layer Separation via Double-DIP. Double-DIP exploits the fact that all frames of a single dynamic video layer share the same patches. This promotes: (a) video transparency separation, and (b) Fg/Bg video segmentation. (See full videos in theprojectwebsite).

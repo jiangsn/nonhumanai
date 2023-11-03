@@ -1,0 +1,1 @@
+Figure 7. Three generator (above the dashed line) and discriminator architectures. Up and down denote bilinear up and downsampling, respectively. In residual networks these also include 1×1 convolutions to adjust the number of feature maps. Trgb and frgb convert between RGB and high-dimensional per-pixel data. Architectures used in configs E and F are shown in green.

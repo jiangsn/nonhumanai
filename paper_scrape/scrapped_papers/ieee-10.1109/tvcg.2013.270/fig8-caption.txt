@@ -1,0 +1,8 @@
+Fig. 8. A squirrel rendered with DOF and reflection effects. Our algorithm is able to
+ achieve a high-quality result (a) comparable to that of stochastic ray tracing at a 31
+\times×31 supersampling rate (d) with significantly less rendering time. Stochastic ray
+ tracing with 4\times×4 supersampling takes similar rendering
+ time but suffers from severe noise artifacts (b), which are visible until the supersampling rate is increased to 21
+\times×21 (c). A similar supersampling rate is required for the
+ recent micropolygon ray tracing method [14] (e) to achieve a result of
+ comparable quality. This furry object consists of 129K fibers, diced into 931K line segments.

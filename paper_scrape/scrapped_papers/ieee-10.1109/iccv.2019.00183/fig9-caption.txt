@@ -1,0 +1,1 @@
+Figure 9. Comparison with DeepFillvl [18] regarding totally erased input.

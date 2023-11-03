@@ -1,0 +1,1 @@
+Figure 8: Different numbers of mid-layers affects the level of detail of our inference.

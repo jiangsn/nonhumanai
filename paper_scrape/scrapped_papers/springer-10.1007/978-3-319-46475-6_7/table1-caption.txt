@@ -1,0 +1,1 @@
+Table 1. Comparison of densely labeled semantic segmentation datasets for outdoor scenes. We achieve a three order of magnitude speed-up in annotation time, enabling us to densely label tens of thousands of high-resolution images.

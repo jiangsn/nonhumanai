@@ -1,0 +1,1 @@
+Neural Voice Puppetry enables applications like facial animation for digital assistants or audio-driven facial reenactment.

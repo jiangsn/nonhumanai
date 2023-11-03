@@ -1,0 +1,301 @@
+{
+    "userInfo": {
+        "customerNameRaw": "The Ohio State University",
+        "institutionName": "The Ohio State University",
+        "institute": true,
+        "member": false,
+        "individual": false,
+        "guest": false,
+        "subscribedContent": false,
+        "fileCabinetContent": false,
+        "fileCabinetUser": false,
+        "institutionalFileCabinetUser": false,
+        "products": "IEL|EBOOKS:1974:2014|JRNLARCH:1884:1994|CONFARCH:1951:1999|IBM:1872:2020|VDE|NOKIA BELL LABS|",
+        "instType": "Academic",
+        "userIds": [
+            7827
+        ],
+        "showPatentCitations": true,
+        "showGet802Link": true,
+        "openUrlImgLoc": "http://library-osu-edu.proxy.lib.ohio-state.edu/resources/serialssolutions/buttons/button75x25edit.jpg",
+        "openUrlLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu",
+        "instLogoFile": "7827_OSULHoriz.png",
+        "openUrlTxt": "Find It!",
+        "showOpenUrlLink": true,
+        "marketingInfoCaptured": false,
+        "tracked": false,
+        "ringGoldId": "2647",
+        "delegatedAdmin": false,
+        "desktop": false,
+        "isInstitutionDashboardEnabled": false,
+        "isInstitutionProfileEnabled": false,
+        "isRoamingEnabled": true,
+        "isDelegatedAdmin": false,
+        "isMdl": false,
+        "isCwg": false,
+        "isIel": true,
+        "isAcademic": true
+    },
+    "authors": [
+        {
+            "name": "Ivan Anokhin",
+            "affiliation": [
+                "Samsung AI Center, Moscow, Russia"
+            ],
+            "firstName": "Ivan",
+            "lastName": "Anokhin",
+            "id": "37088454891"
+        },
+        {
+            "name": "Pavel Solovev",
+            "affiliation": [
+                "Samsung AI Center, Moscow, Russia"
+            ],
+            "firstName": "Pavel",
+            "lastName": "Solovev",
+            "id": "37088454654"
+        },
+        {
+            "name": "Denis Korzhenkov",
+            "affiliation": [
+                "Samsung AI Center, Moscow, Russia"
+            ],
+            "firstName": "Denis",
+            "lastName": "Korzhenkov",
+            "id": "37088454793"
+        },
+        {
+            "name": "Alexey Kharlamov",
+            "affiliation": [
+                "Samsung AI Center, Moscow, Russia"
+            ],
+            "firstName": "Alexey",
+            "lastName": "Kharlamov",
+            "id": "37088455487"
+        },
+        {
+            "name": "Taras Khakhulin",
+            "affiliation": [
+                "Samsung AI Center, Moscow, Russia"
+            ],
+            "firstName": "Taras",
+            "lastName": "Khakhulin",
+            "id": "37086805457"
+        },
+        {
+            "name": "Aleksei Silvestrov",
+            "affiliation": [
+                "Samsung AI Center, Moscow, Russia"
+            ],
+            "firstName": "Aleksei",
+            "lastName": "Silvestrov",
+            "id": "37088459025"
+        },
+        {
+            "name": "Sergey Nikolenko",
+            "affiliation": [
+                "Skolkovo Institute of Science and Technology, Moscow, Russia"
+            ],
+            "firstName": "Sergey",
+            "lastName": "Nikolenko",
+            "id": "38553867600"
+        },
+        {
+            "name": "Victor Lempitsky",
+            "affiliation": [
+                "Samsung AI Center, Moscow, Russia"
+            ],
+            "firstName": "Victor",
+            "lastName": "Lempitsky",
+            "id": "37332794000"
+        },
+        {
+            "name": "Gleb Sterkin",
+            "affiliation": [
+                "Samsung AI Center, Moscow, Russia"
+            ],
+            "firstName": "Gleb",
+            "lastName": "Sterkin",
+            "id": "37088453774"
+        }
+    ],
+    "isbn": [
+        {
+            "format": "Electronic ISBN",
+            "value": "978-1-7281-7168-5",
+            "isbnType": ""
+        },
+        {
+            "format": "Print on Demand(PoD) ISBN",
+            "value": "978-1-7281-7169-2",
+            "isbnType": ""
+        }
+    ],
+    "issn": [
+        {
+            "format": "Electronic ISSN",
+            "value": "2575-7075"
+        },
+        {
+            "format": "Print on Demand(PoD) ISSN",
+            "value": "1063-6919"
+        }
+    ],
+    "articleNumber": "9157708",
+    "dbTime": "1 ms",
+    "metrics": {
+        "citationCountPaper": 31,
+        "citationCountPatent": 0,
+        "totalDownloads": 199
+    },
+    "purchaseOptions": {
+        "showOtherFormatPricingTab": false,
+        "showPdfFormatPricingTab": true,
+        "pdfPricingInfoAvailable": true,
+        "otherPricingInfoAvailable": false,
+        "mandatoryBundle": false,
+        "optionalBundle": false,
+        "displayTextWhenOtherFormatPricingNotAvailable": "The purchase and pricing options for this item are unavailable. Select items are only available as part of a subscription package. You may try again later or <a href='https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/xpl/contact' target='_blank'>contact us</a> for more information.",
+        "pdfPricingInfo": [
+            {
+                "memberPrice": "$14.95",
+                "nonMemberPrice": "$33.00",
+                "partNumber": "9157708",
+                "type": "PDF/HTML"
+            }
+        ],
+        "openUrlFullLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu?url_ver=Z39.88-2004&rfr_id=info:sid/IEEE.org:XPLORE&rft_id=info:doi/10.1109/CVPR42600.2020.00751&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&rft.atitle=High-Resolution Daytime Translation Without Domain Labels&rft.jtitle=2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)&rft.date=2020&rft.spage=7485&rft.epage=7494&rft.eissn=2575-7075&rft.au=Ivan Anokhin&rft.aulast=Ivan Anokhin&rft.isbn=978-1-7281-7168-5"
+    },
+    "getProgramTermsAccepted": false,
+    "sections": {
+        "abstract": "true",
+        "authors": "true",
+        "figures": "true",
+        "multimedia": "false",
+        "references": "true",
+        "citedby": "true",
+        "keywords": "true",
+        "definitions": "false",
+        "algorithm": "false",
+        "dataset": "false",
+        "cadmore": "false",
+        "footnotes": "true",
+        "disclaimer": "false",
+        "relatedContent": "false",
+        "metrics": "true"
+    },
+    "abstract": "Modeling daytime changes in high resolution photographs, e.g., re-rendering the same scene under different illuminations typical for day, night, or dawn, is a challenging image manipulation task. We present the high-resolution daytime translation (HiDT) model for this task. HiDT combines a generative image-to-image model and a new upsampling scheme that allows to apply image translation at high resolution. The model demonstrates competitive results in terms of both commonly used GAN metrics and human evaluation. Importantly, this good performance comes as a result of training on a dataset of still landscape images with no daytime labels available.",
+    "publicationYear": "2020",
+    "pdfPath": "/iel7/9142308/9156271/09157708.pdf",
+    "publicationDate": "June 2020",
+    "doi": "10.1109/CVPR42600.2020.00751",
+    "formulaStrippedArticleTitle": "High-Resolution Daytime Translation Without Domain Labels",
+    "displayPublicationTitle": "2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+    "authorNames": "Ivan Anokhin;Pavel Solovev;Denis Korzhenkov;Alexey Kharlamov;Taras Khakhulin;Aleksei Silvestrov;Sergey Nikolenko;Victor Lempitsky;Gleb Sterkin",
+    "publicationTitle": "2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+    "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=proceedings&title=High-Resolution+Daytime+Translation+Without+Domain+Labels&isbn=978-1-7281-7168-5&publicationDate=June+2020&author=Ivan+Anokhin&ContentID=10.1109/CVPR42600.2020.00751&orderBeanReset=true&startPage=7485&endPage=7494&proceedingName=2020+IEEE%2FCVF+Conference+on+Computer+Vision+and+Pattern+Recognition+%28CVPR%29",
+    "dateOfInsertion": "05 August 2020",
+    "startPage": "7485",
+    "endPage": "7494",
+    "pdfUrl": "/stamp/stamp.jsp?tp=&arnumber=9157708",
+    "keywords": [
+        {
+            "type": "IEEE Keywords",
+            "kwd": [
+                "Image resolution",
+                "Image segmentation",
+                "Image reconstruction",
+                "Task analysis",
+                "Training",
+                "Videos",
+                "Generators"
+            ]
+        },
+        {
+            "type": "INSPEC: Controlled Indexing",
+            "kwd": [
+                "image resolution",
+                "image sampling",
+                "neural nets"
+            ]
+        },
+        {
+            "type": "INSPEC: Non-Controlled Indexing",
+            "kwd": [
+                "domain labels",
+                "high resolution photographs",
+                "illuminations",
+                "image manipulation",
+                "HiDT",
+                "generative image-to-image model",
+                "image translation",
+                "landscape images",
+                "daytime labels",
+                "high-resolution daytime translation",
+                "upsampling scheme",
+                "GAN metrics"
+            ]
+        }
+    ],
+    "doiLink": "https://doi-org.proxy.lib.ohio-state.edu/10.1109/CVPR42600.2020.00751",
+    "displayPublicationDate": "13-19 June 2020",
+    "articleCopyRight": "2020 IEEE",
+    "issueLink": "/xpl/tocresult.jsp?isnumber=9156271&punumber=9142308",
+    "pubLink": "/xpl/conhome/9142308/proceeding",
+    "allowComments": false,
+    "isGetAddressInfoCaptured": false,
+    "isMarketingOptIn": false,
+    "pubTopics": [
+        {
+            "name": "Computing and Processing"
+        }
+    ],
+    "publisher": "IEEE",
+    "displayDocTitle": "High-Resolution Daytime Translation Without Domain Labels",
+    "isStandard": false,
+    "isConference": true,
+    "isBookWithoutChapters": false,
+    "isChapter": false,
+    "isProduct": false,
+    "isEarlyAccess": false,
+    "isOpenAccess": false,
+    "isEphemera": false,
+    "xploreDocumentType": "Conference Publication",
+    "isBook": false,
+    "isJournal": false,
+    "isSpringer": false,
+    "accessionNumber": "19874283",
+    "isFreeDocument": false,
+    "isPromo": false,
+    "isDynamicHtml": true,
+    "htmlLink": "/document/9157708/",
+    "htmlAbstractLink": "/document/9157708/",
+    "isCustomDenial": false,
+    "persistentLink": "https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/servlet/opac?punumber=9142308",
+    "isNow": false,
+    "isSAE": false,
+    "isOUP": false,
+    "isSMPTE": false,
+    "openAccessFlag": "F",
+    "insertDate": "05 August 2020",
+    "ephemeraFlag": "false",
+    "title": "High-Resolution Daytime Translation Without Domain Labels",
+    "confLoc": "Seattle, WA, USA",
+    "html_flag": "false",
+    "ml_html_flag": "true",
+    "sourcePdf": "716800h485.pdf",
+    "mlTime": "PT0.056041S",
+    "xplore-pub-id": "9142308",
+    "isNumber": "9156271",
+    "rightsLinkFlag": "1",
+    "contentType": "conferences",
+    "publicationNumber": "9142308",
+    "citationCount": "31",
+    "xplore-issue": "9156271",
+    "articleId": "9157708",
+    "contentTypeDisplay": "Conferences",
+    "subType": "IEEE Conference",
+    "_value": "IEEE",
+    "lastupdate": "2023-10-08",
+    "mediaPath": "/mediastore_new/IEEE/content/media/9142308/9156271/9157708"
+}

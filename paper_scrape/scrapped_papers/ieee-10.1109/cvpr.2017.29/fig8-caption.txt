@@ -1,0 +1,1 @@
+Figure 8. Predicted object poses on the shelf & tote benchmark using 3DMatch + RANSAC. Predicted object poses are shown on the images of the scans with 3D bounding boxes of the transformed object models. 3DMatch + RANSAC works well for many cases; however, it may fail when there is insufficient depth information due to occlusion or clutter (bottom).

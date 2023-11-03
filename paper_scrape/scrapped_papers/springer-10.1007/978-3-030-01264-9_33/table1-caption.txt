@@ -1,0 +1,1 @@
+Table 1. Performance comparison on AFLW2000-3D (68 landmarks) and AFLW-LFPA (34 visible landmarks). The NME (%) for faces with different yaw angles are reported. The first best result in each category is highlighted in bold, the lower is the better.

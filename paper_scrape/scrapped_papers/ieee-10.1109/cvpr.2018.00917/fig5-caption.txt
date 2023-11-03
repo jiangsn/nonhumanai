@@ -1,0 +1,1 @@
+Figure 5: We apply instance-wise pooling to get features uniform within each object. These features are then concatenated with the labels, and both E and G are trained end-to-end to reconstruct the original image. This makes the features capture high-level object information, like the color of a car, which is missing in the label map.

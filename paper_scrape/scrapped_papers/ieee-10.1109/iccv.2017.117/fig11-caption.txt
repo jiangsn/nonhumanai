@@ -1,0 +1,1 @@
+Figure 11: The effect of facial expression on reconstruction accuracy in terms of NME on the BU-4DFE dataset. The VRN - Guided network was used.

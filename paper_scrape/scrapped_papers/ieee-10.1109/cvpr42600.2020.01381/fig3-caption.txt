@@ -1,0 +1,1 @@
+Figure 3. Lip2wav model for lip to speech synthesis. The spatiotemporal encoder is a stack of 3D convolutions to extract the sequence of lip movements. This is followed by a decoder adapted from [30] for high-quality speech generation. The decoder is conditioned on the face image features from the encoder and generates the melspectrogram in an auto-regressive fashion.

@@ -1,0 +1,1 @@
+Figure 6: Limited time comparison results. Each line shows the percentage when one method is preferred over the other.

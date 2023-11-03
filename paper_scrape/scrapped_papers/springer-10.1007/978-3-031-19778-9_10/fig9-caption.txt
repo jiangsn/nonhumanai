@@ -1,0 +1,1 @@
+We compare our real-time landmark CNN (MobileNet V2) with MediaPipe Attention Mesh [28], a publicly available method for dense landmark prediction. Our approach is more robust to challenging expressions and illumination.

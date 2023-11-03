@@ -1,0 +1,1 @@
+Table 1. Ablations of different Block-NeRF components on a single intersection in the alamo square dataset. We show the performance of mip-NeRF as a baseline, as well as the effect of removing individual components from our method

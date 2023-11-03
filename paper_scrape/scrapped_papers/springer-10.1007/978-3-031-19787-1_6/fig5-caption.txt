@@ -1,0 +1,1 @@
+Comparison between the standard projection discriminator and our proposed multiscale multimodal projection discriminator.

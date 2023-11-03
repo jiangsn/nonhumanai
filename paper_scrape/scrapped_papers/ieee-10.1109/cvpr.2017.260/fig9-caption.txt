@@ -1,0 +1,1 @@
+Figure 9 Failure cases: Inaccurate chair pose (a); Mis-detection of a chair (a) And table (b); Non-cubic room shape (c).

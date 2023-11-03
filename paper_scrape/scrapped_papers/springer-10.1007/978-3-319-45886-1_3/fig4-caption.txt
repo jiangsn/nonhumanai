@@ -1,0 +1,1 @@
+The multi-pass algorithm applied to a scene from Miss Marple. With the default method, the image becomes notably brighter and loses contrast, while the multi-pass algorithm yields a more consistent image quality over time. Corresponding video is linked in Sect. 8.1.

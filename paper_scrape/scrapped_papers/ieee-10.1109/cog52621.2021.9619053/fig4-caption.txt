@@ -1,0 +1,1 @@
+Fig. 4: Examples of generated environments. (a) Here the generator had to create a path to a goal far above (20 m) the starting point. (b) Here the generator had to create a path (between 4 waypoints) avoiding fixed obstacles in the environment.

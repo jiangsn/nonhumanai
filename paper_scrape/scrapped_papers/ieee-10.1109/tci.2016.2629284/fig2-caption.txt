@@ -1,0 +1,2 @@
+Fig. 2. Bilinear upscaling by a factor of 2 in each axis. There are four types of pixels, denoted by P1-P4,
+ corresponding to the four kernels that are applied during the bilinear interpolation.

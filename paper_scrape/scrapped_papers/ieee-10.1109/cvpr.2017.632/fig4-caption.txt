@@ -1,0 +1,1 @@
+Figure 4: Adding skip connections to an encoder-decoder to create a “U-Net” results in much higher quality results.

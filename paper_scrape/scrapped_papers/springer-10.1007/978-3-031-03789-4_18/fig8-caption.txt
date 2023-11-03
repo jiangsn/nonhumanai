@@ -1,0 +1,1 @@
+Qualitative results from ES and CLIP fitting several text prompt with 10,25,50, and 200 triangles, each running for 2,000 steps. We show exemplary prompts for 3 kinds of text, ranging from a single word (“Self” and “Human”), to phrases (“A picture of Tokyo”), to long sentences.

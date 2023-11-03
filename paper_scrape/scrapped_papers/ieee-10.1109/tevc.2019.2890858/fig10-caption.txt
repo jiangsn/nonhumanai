@@ -1,0 +1,1 @@
+Fig. 10. Change of fitness values during 100 generations of evolution of images (nontargeted) attacked by the proposed method among different network structures. The average values are highlighted by red dotted lines.

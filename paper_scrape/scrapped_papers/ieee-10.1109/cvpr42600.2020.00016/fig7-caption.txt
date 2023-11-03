@@ -1,0 +1,1 @@
+Figure 7: Qualitative results on internet photos. These results demonstrate that our model trained by synthetically generated data can successfully reconstruct high-fidelity 3D from the humans in real world data.

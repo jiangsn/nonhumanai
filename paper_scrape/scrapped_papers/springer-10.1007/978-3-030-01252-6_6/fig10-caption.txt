@@ -1,0 +1,1 @@
+Inpainting results with various dilation of the hole region from left to right: 0, 5, 15, 35, 55, and 95 pixels dilation respectively. Top row: input; bottom row: corresponding inpainted results.

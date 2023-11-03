@@ -1,0 +1,1 @@
+Comparison to state-of-the-art audio-driven model-based video avatars using the same input audio stream. Our approach is applicable to multiple targets, especially, where only \(2-3\)min of training data are available.

@@ -1,0 +1,2 @@
+Fig. 13. 
+Semantically corresponding patches sampled for calculating our sKVD metrics.

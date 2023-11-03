@@ -1,0 +1,2 @@
+Figure 7. 
+Similar to Figure 6, with the difference that here all images are normalized with respect to each other. As shown, the magnitude of change decreases with each step.

@@ -1,0 +1,1 @@
+Table 4: 3D scene free space prediction (voxel IoU) and object localization (mAP) results on SUN RGB-D [42] and 3DGP [8] datasets (higher is better).

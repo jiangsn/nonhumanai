@@ -1,0 +1,2 @@
+Figure 5: 
+Visual comparison of semantic image synthesis results on the COCO-Stuff dataset. Our method successfully synthesizes realistic details from semantic labels.

@@ -1,0 +1,1 @@
+Left: CED curves on Florence dataset with different yaw angles. Right: the qualitative comparison with VRN-Guided. The first column is the input images from Florence dataset and the Internet, the second column is the reconstructed face from our method, the third column is the results from VRN.

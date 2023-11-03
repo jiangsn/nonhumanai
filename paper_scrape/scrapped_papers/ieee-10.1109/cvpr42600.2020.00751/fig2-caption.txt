@@ -1,0 +1,1 @@
+Figure 2: Diagram of the adaptive U-net architecture: an encoder-decoder network with dense skip-connections and content-style decomposition (c, s).

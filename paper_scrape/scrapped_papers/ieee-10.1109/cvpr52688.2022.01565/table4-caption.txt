@@ -1,0 +1,1 @@
+Table 4. Dual-discrimination (dd) improves multi-view expression consistency but hurts the model's ability to capture pose-correlated attributes for image quality. Adding generator pose conditioning (gpc) allows the model to improve upon both aspects. Reported at 5122, with ffhq.

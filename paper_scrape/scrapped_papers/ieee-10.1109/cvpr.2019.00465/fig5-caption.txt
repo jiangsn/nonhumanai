@@ -1,0 +1,2 @@
+Figure 5. 
+Qualitative comparisons on TUM RGBD dataset. (a) Reference images, (b) source images (used to compute our initial depth input), (c) ground truth sensor depth, (d) single view depth prediction method DORN [7], (e) two-frame motion stereo DeMoN [39], (f-g) depth predictions from our single view and two-frame models, respectively.

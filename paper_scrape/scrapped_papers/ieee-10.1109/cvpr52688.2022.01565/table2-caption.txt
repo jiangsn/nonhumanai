@@ -1,0 +1,1 @@
+Table 2. Quantitative evaluation using fid, identity consistency (id), depth accuracy, and pose accuracy for ffhq and afhq cats. Labelled is the image resolution of training and evaluation. † trained with adaptive data augmentation [26].

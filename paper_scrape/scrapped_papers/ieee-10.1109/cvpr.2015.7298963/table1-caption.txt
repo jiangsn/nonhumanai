@@ -1,0 +1,1 @@
+Table 1. Layout pixelwise prediction error for different methods. Average number of branch&bound evaluations and average inference time is also given. By using the aspect ratio constraint, our model runs an order of magnitude faster than and results in better prediction.

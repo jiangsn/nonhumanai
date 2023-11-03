@@ -1,0 +1,2 @@
+Table 1: 
+Quantitative evaluation on validation captures against baselines and ablations of our system, we color code each row as best, second best, and third best.

@@ -1,0 +1,2 @@
+Figure 7: 
+Semantic image synthesis results on the Flickr Landscapes dataset. The images were generated from semantic layout of photographs on Flickr.

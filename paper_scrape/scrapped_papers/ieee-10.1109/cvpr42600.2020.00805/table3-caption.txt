@@ -1,0 +1,1 @@
+Table 3. Using color inpainting model gives better perceptual quality. Our dilation heuristic further boosts the performance. Blue: results in disocculded regions.

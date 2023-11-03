@@ -1,0 +1,1 @@
+Figure 1. Self Attention Networks. [35] ⊗ means Matrix multiplication.

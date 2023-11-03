@@ -1,0 +1,1 @@
+Table 2. Evaluation of text-conditional image synthesis on the MS-COCO [50] dataset: our model outperforms autoregressive [17], [64] and GAN-based [105] methods by a significant margin when using 250 DDIM [81] steps. †: numbers taken from [105]. *: classifier-free guidance [31], scale 1.5.

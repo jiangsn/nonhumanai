@@ -1,0 +1,2 @@
+Figure 12. 
+For each input, we show the inverted image obtained after a single step of our ReStylepSp FFHQ encoder followed by the iterative outputs of our ReStylepSp toonify encoder.

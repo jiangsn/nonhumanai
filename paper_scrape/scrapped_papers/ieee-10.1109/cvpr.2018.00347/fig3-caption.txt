@@ -1,0 +1,1 @@
+Figure 3. The structure of different image processing pipelines. (a) From top to bottom: a traditional image processing pipeline, the l3 pipeline [18], and a burst imaging pipeline [14]. (b) Our pipeline.

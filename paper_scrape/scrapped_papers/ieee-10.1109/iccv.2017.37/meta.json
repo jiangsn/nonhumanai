@@ -1,0 +1,236 @@
+{
+    "userInfo": {
+        "customerNameRaw": "The Ohio State University",
+        "institutionName": "The Ohio State University",
+        "institute": true,
+        "member": false,
+        "individual": false,
+        "guest": false,
+        "subscribedContent": false,
+        "fileCabinetContent": false,
+        "fileCabinetUser": false,
+        "institutionalFileCabinetUser": false,
+        "products": "IEL|EBOOKS:1974:2014|JRNLARCH:1884:1994|CONFARCH:1951:1999|IBM:1872:2020|VDE|NOKIA BELL LABS|",
+        "instType": "Academic",
+        "userIds": [
+            7827
+        ],
+        "showPatentCitations": true,
+        "showGet802Link": true,
+        "openUrlImgLoc": "http://library-osu-edu.proxy.lib.ohio-state.edu/resources/serialssolutions/buttons/button75x25edit.jpg",
+        "openUrlLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu",
+        "instLogoFile": "7827_OSULHoriz.png",
+        "openUrlTxt": "Find It!",
+        "showOpenUrlLink": true,
+        "marketingInfoCaptured": false,
+        "tracked": false,
+        "ringGoldId": "2647",
+        "delegatedAdmin": false,
+        "desktop": false,
+        "isInstitutionDashboardEnabled": false,
+        "isInstitutionProfileEnabled": false,
+        "isRoamingEnabled": true,
+        "isDelegatedAdmin": false,
+        "isMdl": false,
+        "isCwg": false,
+        "isIel": true,
+        "isAcademic": true
+    },
+    "authors": [
+        {
+            "name": "Simon Niklaus",
+            "affiliation": [
+                "Portland State University"
+            ],
+            "firstName": "Simon",
+            "lastName": "Niklaus",
+            "id": "37086238515"
+        },
+        {
+            "name": "Long Mai",
+            "affiliation": [
+                "Portland State University"
+            ],
+            "firstName": "Long",
+            "lastName": "Mai",
+            "id": "38241296400"
+        },
+        {
+            "name": "Feng Liu",
+            "affiliation": [
+                "Portland State University"
+            ],
+            "firstName": "Feng",
+            "lastName": "Liu",
+            "id": "38237849400"
+        }
+    ],
+    "isbn": [
+        {
+            "format": "Electronic ISBN",
+            "value": "978-1-5386-1032-9",
+            "isbnType": ""
+        },
+        {
+            "format": "Print on Demand(PoD) ISBN",
+            "value": "978-1-5386-1033-6",
+            "isbnType": ""
+        }
+    ],
+    "issn": [
+        {
+            "format": "Electronic ISSN",
+            "value": "2380-7504"
+        }
+    ],
+    "articleNumber": "8237299",
+    "dbTime": "1 ms",
+    "metrics": {
+        "citationCountPaper": 376,
+        "citationCountPatent": 0,
+        "totalDownloads": 929
+    },
+    "purchaseOptions": {
+        "showOtherFormatPricingTab": false,
+        "showPdfFormatPricingTab": true,
+        "pdfPricingInfoAvailable": false,
+        "otherPricingInfoAvailable": false,
+        "mandatoryBundle": false,
+        "optionalBundle": false,
+        "displayTextWhenPdfPricingNotAvailable": "The purchase and pricing options for this item are unavailable. Select items are only available as part of a subscription package. You may try again later or <a href='https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/xpl/contact' target='_blank'>contact us</a> for more information.",
+        "displayTextWhenOtherFormatPricingNotAvailable": "The purchase and pricing options for this item are unavailable. Select items are only available as part of a subscription package. You may try again later or <a href='https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/xpl/contact' target='_blank'>contact us</a> for more information.",
+        "openUrlFullLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu?url_ver=Z39.88-2004&rfr_id=info:sid/IEEE.org:XPLORE&rft_id=info:doi/10.1109/ICCV.2017.37&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&rft.atitle=Video Frame Interpolation via Adaptive Separable Convolution&rft.jtitle=2017 IEEE International Conference on Computer Vision (ICCV)&rft.date=2017&rft.spage=261&rft.epage=270&rft.eissn=2380-7504&rft.au=Simon Niklaus&rft.aulast=Simon Niklaus&rft.isbn=978-1-5386-1032-9"
+    },
+    "getProgramTermsAccepted": false,
+    "sections": {
+        "abstract": "true",
+        "authors": "true",
+        "figures": "true",
+        "multimedia": "false",
+        "references": "true",
+        "citedby": "true",
+        "keywords": "true",
+        "definitions": "false",
+        "algorithm": "false",
+        "dataset": "false",
+        "cadmore": "false",
+        "footnotes": "false",
+        "disclaimer": "false",
+        "relatedContent": "false",
+        "metrics": "true"
+    },
+    "abstract": "Standard video frame interpolation methods first estimate optical flow between input frames and then synthesize an intermediate frame guided by motion. Recent approaches merge these two steps into a single convolution process by convolving input frames with spatially adaptive kernels that account for motion and re-sampling simultaneously. These methods require large kernels to handle large motion, which limits the number of pixels whose kernels can be estimated at once due to the large memory demand. To address this problem, this paper formulates frame interpolation as local separable convolution over input frames using pairs of 1D kernels. Compared to regular 2D kernels, the 1D kernels require significantly fewer parameters to be estimated. Our method develops a deep fully convolutional neural network that takes two input frames and estimates pairs of 1D kernels for all pixels simultaneously. Since our method is able to estimate kernels and synthesizes the whole video frame at once, it allows for the incorporation of perceptual loss to train the neural network to produce visually pleasing frames. This deep neural network is trained end-to-end using widely available video data without any human annotation. Both qualitative and quantitative experiments show that our method provides a practical solution to high-quality video frame interpolation.",
+    "publicationYear": "2017",
+    "pdfPath": "/iel7/8234942/8237262/08237299.pdf",
+    "publicationDate": "October 2017",
+    "doi": "10.1109/ICCV.2017.37",
+    "formulaStrippedArticleTitle": "Video Frame Interpolation via Adaptive Separable Convolution",
+    "displayPublicationTitle": "2017 IEEE International Conference on Computer Vision (ICCV)",
+    "authorNames": "Simon Niklaus;Long Mai;Feng Liu",
+    "publicationTitle": "2017 IEEE International Conference on Computer Vision (ICCV)",
+    "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=proceedings&title=Video+Frame+Interpolation+via+Adaptive+Separable+Convolution&isbn=978-1-5386-1032-9&publicationDate=October+2017&author=Simon+Niklaus&ContentID=10.1109/ICCV.2017.37&orderBeanReset=true&startPage=261&endPage=270&proceedingName=2017+IEEE+International+Conference+on+Computer+Vision+%28ICCV%29",
+    "dateOfInsertion": "25 December 2017",
+    "startPage": "261",
+    "endPage": "270",
+    "pdfUrl": "/stamp/stamp.jsp?tp=&arnumber=8237299",
+    "keywords": [
+        {
+            "type": "IEEE Keywords",
+            "kwd": [
+                "Kernel",
+                "Interpolation",
+                "Convolution",
+                "Neural networks",
+                "Optical imaging",
+                "Two dimensional displays",
+                "Estimation"
+            ]
+        },
+        {
+            "type": "INSPEC: Controlled Indexing",
+            "kwd": [
+                "convolution",
+                "image motion analysis",
+                "image sampling",
+                "image sequences",
+                "interpolation",
+                "neural nets",
+                "video signal processing"
+            ]
+        },
+        {
+            "type": "INSPEC: Non-Controlled Indexing",
+            "kwd": [
+                "high-quality video frame interpolation",
+                "deep fully convolutional neural network",
+                "local separable convolution",
+                "spatially adaptive kernels",
+                "single convolution process",
+                "estimate optical flow",
+                "standard video frame interpolation methods",
+                "adaptive separable convolution"
+            ]
+        }
+    ],
+    "doiLink": "https://doi-org.proxy.lib.ohio-state.edu/10.1109/ICCV.2017.37",
+    "displayPublicationDate": "22-29 October 2017",
+    "articleCopyRight": "2017 IEEE",
+    "issueLink": "/xpl/tocresult.jsp?isnumber=8237262&punumber=8234942",
+    "pubLink": "/xpl/conhome/8234942/proceeding",
+    "allowComments": false,
+    "isGetAddressInfoCaptured": false,
+    "isMarketingOptIn": false,
+    "pubTopics": [
+        {
+            "name": "Computing and Processing"
+        }
+    ],
+    "publisher": "IEEE",
+    "displayDocTitle": "Video Frame Interpolation via Adaptive Separable Convolution",
+    "isStandard": false,
+    "isConference": true,
+    "isBookWithoutChapters": false,
+    "isChapter": false,
+    "isProduct": false,
+    "isEarlyAccess": false,
+    "isOpenAccess": false,
+    "isEphemera": false,
+    "xploreDocumentType": "Conference Publication",
+    "isBook": false,
+    "isJournal": false,
+    "isSpringer": false,
+    "accessionNumber": "17453138",
+    "isFreeDocument": false,
+    "isPromo": false,
+    "isDynamicHtml": true,
+    "htmlLink": "/document/8237299/",
+    "htmlAbstractLink": "/document/8237299/",
+    "isCustomDenial": false,
+    "persistentLink": "https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/servlet/opac?punumber=8234942",
+    "isNow": false,
+    "isSAE": false,
+    "isOUP": false,
+    "isSMPTE": false,
+    "openAccessFlag": "F",
+    "insertDate": "25 December 2017",
+    "ephemeraFlag": "false",
+    "title": "Video Frame Interpolation via Adaptive Separable Convolution",
+    "confLoc": "Venice, Italy",
+    "html_flag": "false",
+    "ml_html_flag": "true",
+    "sourcePdf": "1032a261.pdf",
+    "mlTime": "PT0.092008S",
+    "xplore-pub-id": "8234942",
+    "isNumber": "8237262",
+    "rightsLinkFlag": "1",
+    "contentType": "conferences",
+    "publicationNumber": "8234942",
+    "citationCount": "376",
+    "xplore-issue": "8237262",
+    "articleId": "8237299",
+    "contentTypeDisplay": "Conferences",
+    "subType": "IEEE Conference",
+    "_value": "IEEE",
+    "lastupdate": "2023-10-07",
+    "mediaPath": "/mediastore_new/IEEE/content/media/8234942/8237262/8237299"
+}

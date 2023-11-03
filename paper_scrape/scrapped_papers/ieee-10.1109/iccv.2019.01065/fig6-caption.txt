@@ -1,0 +1,1 @@
+Table 1 Performance Comparison with the Fair and Unfair Baselines. ↑ Means Larger Numbers Are Better, ↓ Means Smaller Numbers Are Better.

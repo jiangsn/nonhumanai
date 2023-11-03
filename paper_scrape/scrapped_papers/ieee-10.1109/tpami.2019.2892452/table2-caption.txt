@@ -1,0 +1,2 @@
+TABLE 2 
+Quantitative Comparisons on the Human3.6M Dataset Using 3D Pose Errors (in millimeters)

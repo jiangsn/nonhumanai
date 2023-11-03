@@ -1,0 +1,2 @@
+Figure 6. 
+Applying the sliding attention window approach (Fig. 3) to various conditional image synthesis tasks. Top: Depth-to-image on RIN, 2nd row: Stochastic superresolution on IN, 3rd and 4th row: Semantic synthesis on S-FLCKR, bottom: Edge-guided synthesis on IN. The resulting images vary between 368 × 496 and 1024 × 576, hence they are best viewed zoomed in.

@@ -1,0 +1,1 @@
+Sample inputs and generated outputs on Cityscapes. Note how the guidance image is initially black, and becomes denser as more frames are synthesized. Click on any image to play video (see Supplementary material). Please view with Acrobat Reader.

@@ -1,0 +1,2 @@
+Figure 6: 
+Examples of the input images (top), alongside their corresponding synthesized motion fields (bottom). Full resolution images, along with their corresponding animated videos, can be found in the supplementary video.

@@ -1,0 +1,1 @@
+Figure 5. Dual discrimination ensures that the raw neural rendering IRGB and super-resolved output I+RGB maintain consistency, enabling high-resolution and multi-view-consistent rendering.

@@ -1,0 +1,1 @@
+Figure 3. HoloGAN supports changes in both azimuth (range: 100°) and elevation (range: 35°). However, the available range depends on the dataset. For CelebA, for example, few photos in the dataset were taken from above or below.

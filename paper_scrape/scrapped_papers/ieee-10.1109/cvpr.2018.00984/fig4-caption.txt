@@ -1,0 +1,1 @@
+Figure 4: Blind image denoising. The deep image prior is successful at recovering both man-made and natural patterns. For reference, the result of a state-of-the-art non-learned denoising approach [6] is shown.

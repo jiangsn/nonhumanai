@@ -1,0 +1,2 @@
+Figure 10: 
+Comparisons of baselines and our method. PSNR / LPIPS metrics on bottom right with best colored {\color{red}{\text{red}}}.

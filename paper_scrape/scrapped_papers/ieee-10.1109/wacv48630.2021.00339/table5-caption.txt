@@ -1,0 +1,2 @@
+Table 5. 
+Comparison of white-box and robust white-box attacks at the same magnitude of L∞ norm of the adversarial perturbation. Acc-C denotes the accuracy of the detector on compressed adversarial videos.

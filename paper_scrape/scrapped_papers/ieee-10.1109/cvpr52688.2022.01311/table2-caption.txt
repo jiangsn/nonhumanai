@@ -1,0 +1,1 @@
+Table 2. Pck-transfer@ 0.1 on cub. Numbers for the 3d methods are reported from [46]. We sample 10,000 random pairs from the cub validation split as in [46].

@@ -1,0 +1,2 @@
+Figure 11: 
+Our method fails in the presence of topological changes. Although the rendered color views look good from some viewpoints, the recovered geometry is incorrect.

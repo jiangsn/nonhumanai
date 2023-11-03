@@ -1,0 +1,2 @@
+Figure 3: 
+NeRF-W model architecture. Given a 3D position, viewing direction, and learned appearance and transient embeddings, NeRF-W produces static and transient colors and densities as well as a measure of uncertainty. Note that the static opacity is generated before the model is conditioned on the appearance embedding, ensuring that static geometry is shared across all images.

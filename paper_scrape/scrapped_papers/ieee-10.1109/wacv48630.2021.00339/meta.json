@@ -1,0 +1,265 @@
+{
+    "userInfo": {
+        "customerNameRaw": "The Ohio State University",
+        "institutionName": "The Ohio State University",
+        "institute": true,
+        "member": false,
+        "individual": false,
+        "guest": false,
+        "subscribedContent": false,
+        "fileCabinetContent": false,
+        "fileCabinetUser": false,
+        "institutionalFileCabinetUser": false,
+        "products": "IEL|EBOOKS:1974:2014|JRNLARCH:1884:1994|CONFARCH:1951:1999|IBM:1872:2020|VDE|NOKIA BELL LABS|",
+        "instType": "Academic",
+        "userIds": [
+            7827
+        ],
+        "showPatentCitations": true,
+        "showGet802Link": true,
+        "openUrlImgLoc": "http://library-osu-edu.proxy.lib.ohio-state.edu/resources/serialssolutions/buttons/button75x25edit.jpg",
+        "openUrlLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu",
+        "instLogoFile": "7827_OSULHoriz.png",
+        "openUrlTxt": "Find It!",
+        "showOpenUrlLink": true,
+        "marketingInfoCaptured": false,
+        "tracked": false,
+        "ringGoldId": "2647",
+        "delegatedAdmin": false,
+        "desktop": false,
+        "isInstitutionDashboardEnabled": false,
+        "isInstitutionProfileEnabled": false,
+        "isRoamingEnabled": true,
+        "isDelegatedAdmin": false,
+        "isMdl": false,
+        "isCwg": false,
+        "isIel": true,
+        "isAcademic": true
+    },
+    "authors": [
+        {
+            "name": "Shehzeen Hussain",
+            "affiliation": [
+                "University of California, San Diego"
+            ],
+            "firstName": "Shehzeen",
+            "lastName": "Hussain",
+            "id": "37085385624"
+        },
+        {
+            "name": "Paarth Neekhara",
+            "affiliation": [
+                "University of California, San Diego"
+            ],
+            "firstName": "Paarth",
+            "lastName": "Neekhara",
+            "id": "37087137144"
+        },
+        {
+            "name": "Malhar Jere",
+            "affiliation": [
+                "University of California, San Diego"
+            ],
+            "firstName": "Malhar",
+            "lastName": "Jere",
+            "id": "37086443838"
+        },
+        {
+            "name": "Farinaz Koushanfar",
+            "affiliation": [
+                "University of California, San Diego"
+            ],
+            "firstName": "Farinaz",
+            "lastName": "Koushanfar",
+            "id": "37284705800"
+        },
+        {
+            "name": "Julian McAuley",
+            "affiliation": [
+                "University of California, San Diego"
+            ],
+            "firstName": "Julian",
+            "lastName": "McAuley",
+            "id": "37547804400"
+        }
+    ],
+    "isbn": [
+        {
+            "format": "Electronic ISBN",
+            "value": "978-1-6654-0477-8",
+            "isbnType": ""
+        },
+        {
+            "format": "Print on Demand(PoD) ISBN",
+            "value": "978-1-6654-4640-2",
+            "isbnType": ""
+        }
+    ],
+    "issn": [
+        {
+            "format": "Electronic ISSN",
+            "value": "2642-9381"
+        },
+        {
+            "format": "Print on Demand(PoD) ISSN",
+            "value": "2472-6737"
+        }
+    ],
+    "articleNumber": "9423202",
+    "dbTime": "1 ms",
+    "metrics": {
+        "citationCountPaper": 44,
+        "citationCountPatent": 0,
+        "totalDownloads": 376
+    },
+    "purchaseOptions": {
+        "showOtherFormatPricingTab": false,
+        "showPdfFormatPricingTab": true,
+        "pdfPricingInfoAvailable": true,
+        "otherPricingInfoAvailable": false,
+        "mandatoryBundle": false,
+        "optionalBundle": false,
+        "displayTextWhenOtherFormatPricingNotAvailable": "The purchase and pricing options for this item are unavailable. Select items are only available as part of a subscription package. You may try again later or <a href='https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/xpl/contact' target='_blank'>contact us</a> for more information.",
+        "pdfPricingInfo": [
+            {
+                "memberPrice": "$14.95",
+                "nonMemberPrice": "$33.00",
+                "partNumber": "9423202",
+                "type": "PDF/HTML"
+            }
+        ],
+        "openUrlFullLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu?url_ver=Z39.88-2004&rfr_id=info:sid/IEEE.org:XPLORE&rft_id=info:doi/10.1109/WACV48630.2021.00339&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&rft.atitle=Adversarial Deepfakes: Evaluating Vulnerability of Deepfake Detectors to Adversarial Examples&rft.jtitle=2021 IEEE Winter Conference on Applications of Computer Vision (WACV)&rft.date=2021&rft.spage=3347&rft.epage=3356&rft.eissn=2642-9381&rft.au=Shehzeen Hussain&rft.aulast=Shehzeen Hussain&rft.isbn=978-1-6654-0477-8"
+    },
+    "getProgramTermsAccepted": false,
+    "sections": {
+        "abstract": "true",
+        "authors": "true",
+        "figures": "true",
+        "multimedia": "false",
+        "references": "true",
+        "citedby": "true",
+        "keywords": "true",
+        "definitions": "false",
+        "algorithm": "false",
+        "dataset": "false",
+        "cadmore": "false",
+        "footnotes": "true",
+        "disclaimer": "false",
+        "relatedContent": "false",
+        "metrics": "true"
+    },
+    "abstract": "Recent advances in video manipulation techniques have made the generation of fake videos more accessible than ever before. Manipulated videos can fuel disinformation and reduce trust in media. Therefore detection of fake videos has garnered immense interest in academia and industry. Recently developed Deepfake detection methods rely on Deep Neural Networks (DNNs) to distinguish AI-generated fake videos from real videos. In this work, we demonstrate that it is possible to bypass such detectors by adversarially modifying fake videos synthesized using existing Deepfake generation methods. We further demonstrate that our adversarial perturbations are robust to image and video compression codecs, making them a real-world threat. We present pipelines in both white-box and black-box attack scenarios that can fool DNN based Deepfake detectors into classifying fake videos as real.",
+    "publicationYear": "2021",
+    "pdfPath": "/iel7/9423008/9423028/09423202.pdf",
+    "publicationDate": "January 2021",
+    "doi": "10.1109/WACV48630.2021.00339",
+    "formulaStrippedArticleTitle": "Adversarial Deepfakes: Evaluating Vulnerability of Deepfake Detectors to Adversarial Examples",
+    "displayPublicationTitle": "2021 IEEE Winter Conference on Applications of Computer Vision (WACV)",
+    "authorNames": "Shehzeen Hussain;Paarth Neekhara;Malhar Jere;Farinaz Koushanfar;Julian McAuley",
+    "publicationTitle": "2021 IEEE Winter Conference on Applications of Computer Vision (WACV)",
+    "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=proceedings&title=Adversarial+Deepfakes%3A+Evaluating+Vulnerability+of+Deepfake+Detectors+to+Adversarial+Examples&isbn=978-1-6654-0477-8&publicationDate=January+2021&author=Shehzeen+Hussain&ContentID=10.1109/WACV48630.2021.00339&orderBeanReset=true&startPage=3347&endPage=3356&proceedingName=2021+IEEE+Winter+Conference+on+Applications+of+Computer+Vision+%28WACV%29",
+    "dateOfInsertion": "14 June 2021",
+    "startPage": "3347",
+    "endPage": "3356",
+    "pdfUrl": "/stamp/stamp.jsp?tp=&arnumber=9423202",
+    "keywords": [
+        {
+            "type": "IEEE Keywords",
+            "kwd": [
+                "Industries",
+                "Perturbation methods",
+                "Pipelines",
+                "Neural networks",
+                "Detectors",
+                "Media",
+                "Video compression"
+            ]
+        },
+        {
+            "type": "INSPEC: Controlled Indexing",
+            "kwd": [
+                "computer crime",
+                "data compression",
+                "deep learning (artificial intelligence)",
+                "security of data",
+                "video coding"
+            ]
+        },
+        {
+            "type": "INSPEC: Non-Controlled Indexing",
+            "kwd": [
+                "AI-generated fake videos",
+                "video compression codecs",
+                "adversarial deepfakes",
+                "video manipulation techniques",
+                "Deepfake detection methods",
+                "Deepfake generation methods",
+                "white-box attack scenarios",
+                "black-box attack scenarios",
+                "DNN based Deepfake detectors",
+                "deep neural networks"
+            ]
+        }
+    ],
+    "doiLink": "https://doi-org.proxy.lib.ohio-state.edu/10.1109/WACV48630.2021.00339",
+    "displayPublicationDate": "03-08 January 2021",
+    "articleCopyRight": "2021 IEEE",
+    "issueLink": "/xpl/tocresult.jsp?isnumber=9423028&punumber=9423008",
+    "pubLink": "/xpl/conhome/9423008/proceeding",
+    "allowComments": false,
+    "isGetAddressInfoCaptured": false,
+    "isMarketingOptIn": false,
+    "pubTopics": [
+        {
+            "name": "Computing and Processing"
+        }
+    ],
+    "publisher": "IEEE",
+    "displayDocTitle": "Adversarial Deepfakes: Evaluating Vulnerability of Deepfake Detectors to Adversarial Examples",
+    "isStandard": false,
+    "isConference": true,
+    "isBookWithoutChapters": false,
+    "isChapter": false,
+    "isProduct": false,
+    "isEarlyAccess": false,
+    "isOpenAccess": false,
+    "isEphemera": false,
+    "xploreDocumentType": "Conference Publication",
+    "isBook": false,
+    "isJournal": false,
+    "isSpringer": false,
+    "accessionNumber": "20842377",
+    "isFreeDocument": false,
+    "isPromo": false,
+    "isDynamicHtml": true,
+    "htmlLink": "/document/9423202/",
+    "htmlAbstractLink": "/document/9423202/",
+    "isCustomDenial": false,
+    "persistentLink": "https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/servlet/opac?punumber=9423008",
+    "isNow": false,
+    "isSAE": false,
+    "isOUP": false,
+    "isSMPTE": false,
+    "openAccessFlag": "F",
+    "insertDate": "14 June 2021",
+    "ephemeraFlag": "false",
+    "title": "Adversarial Deepfakes: Evaluating Vulnerability of Deepfake Detectors to Adversarial Examples",
+    "confLoc": "Waikoloa, HI, USA",
+    "html_flag": "false",
+    "ml_html_flag": "true",
+    "sourcePdf": "047700d347.pdf",
+    "mlTime": "PT0.084303S",
+    "xplore-pub-id": "9423008",
+    "isNumber": "9423028",
+    "rightsLinkFlag": "1",
+    "contentType": "conferences",
+    "publicationNumber": "9423008",
+    "citationCount": "44",
+    "xplore-issue": "9423028",
+    "articleId": "9423202",
+    "contentTypeDisplay": "Conferences",
+    "subType": "IEEE Conference",
+    "_value": "IEEE",
+    "lastupdate": "2023-10-14",
+    "mediaPath": "/mediastore_new/IEEE/content/media/9423008/9423028/9423202"
+}

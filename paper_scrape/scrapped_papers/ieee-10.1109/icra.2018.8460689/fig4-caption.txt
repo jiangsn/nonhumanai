@@ -1,0 +1,1 @@
+Fig. 4 The variability of a task structure consists of changing success conditions (task semantics), variable subtask permutations (task topology), and larger task sizes (task length). We evaluate the ability of our proposed model in generalizing towards these three types of variations.

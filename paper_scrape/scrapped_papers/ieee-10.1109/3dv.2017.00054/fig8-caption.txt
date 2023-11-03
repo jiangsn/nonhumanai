@@ -1,0 +1,1 @@
+Figure 8 Results for the category chairs. Each block from left to right, input image, our proposed HSP, LR soft, LR hard.

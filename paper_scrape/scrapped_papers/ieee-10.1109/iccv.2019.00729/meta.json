@@ -1,0 +1,262 @@
+{
+    "userInfo": {
+        "customerNameRaw": "The Ohio State University",
+        "institutionName": "The Ohio State University",
+        "institute": true,
+        "member": false,
+        "individual": false,
+        "guest": false,
+        "subscribedContent": false,
+        "fileCabinetContent": false,
+        "fileCabinetUser": false,
+        "institutionalFileCabinetUser": false,
+        "products": "IEL|EBOOKS:1974:2014|JRNLARCH:1884:1994|CONFARCH:1951:1999|IBM:1872:2020|VDE|NOKIA BELL LABS|",
+        "instType": "Academic",
+        "userIds": [
+            7827
+        ],
+        "showPatentCitations": true,
+        "showGet802Link": true,
+        "openUrlImgLoc": "http://library-osu-edu.proxy.lib.ohio-state.edu/resources/serialssolutions/buttons/button75x25edit.jpg",
+        "openUrlLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu",
+        "instLogoFile": "7827_OSULHoriz.png",
+        "openUrlTxt": "Find It!",
+        "showOpenUrlLink": true,
+        "marketingInfoCaptured": false,
+        "tracked": false,
+        "ringGoldId": "2647",
+        "delegatedAdmin": false,
+        "desktop": false,
+        "isInstitutionDashboardEnabled": false,
+        "isInstitutionProfileEnabled": false,
+        "isRoamingEnabled": true,
+        "isDelegatedAdmin": false,
+        "isMdl": false,
+        "isCwg": false,
+        "isIel": true,
+        "isAcademic": true
+    },
+    "authors": [
+        {
+            "name": "Hao Zhou",
+            "affiliation": [
+                "University of Maryland, College Park, MD, USA"
+            ],
+            "firstName": "Hao",
+            "lastName": "Zhou",
+            "id": "37086564975"
+        },
+        {
+            "name": "Sunil Hadap",
+            "affiliation": [
+                "Amazon"
+            ],
+            "firstName": "Sunil",
+            "lastName": "Hadap",
+            "id": "37442663900"
+        },
+        {
+            "name": "Kalyan Sunkavalli",
+            "affiliation": [
+                "Adobe Research"
+            ],
+            "firstName": "Kalyan",
+            "lastName": "Sunkavalli",
+            "id": "37300404900"
+        },
+        {
+            "name": "David Jacobs",
+            "affiliation": [
+                "University of Maryland, College Park, MD, USA"
+            ],
+            "firstName": "David",
+            "lastName": "Jacobs",
+            "id": "37317549000"
+        }
+    ],
+    "isbn": [
+        {
+            "format": "Electronic ISBN",
+            "value": "978-1-7281-4803-8",
+            "isbnType": ""
+        },
+        {
+            "format": "Print on Demand(PoD) ISBN",
+            "value": "978-1-7281-4804-5",
+            "isbnType": ""
+        }
+    ],
+    "issn": [
+        {
+            "format": "Electronic ISSN",
+            "value": "2380-7504"
+        },
+        {
+            "format": "Print on Demand(PoD) ISSN",
+            "value": "1550-5499"
+        }
+    ],
+    "articleNumber": "9010718",
+    "dbTime": "1 ms",
+    "metrics": {
+        "citationCountPaper": 96,
+        "citationCountPatent": 0,
+        "totalDownloads": 581
+    },
+    "purchaseOptions": {
+        "showOtherFormatPricingTab": false,
+        "showPdfFormatPricingTab": true,
+        "pdfPricingInfoAvailable": true,
+        "otherPricingInfoAvailable": false,
+        "mandatoryBundle": false,
+        "optionalBundle": false,
+        "displayTextWhenOtherFormatPricingNotAvailable": "The purchase and pricing options for this item are unavailable. Select items are only available as part of a subscription package. You may try again later or <a href='https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/xpl/contact' target='_blank'>contact us</a> for more information.",
+        "pdfPricingInfo": [
+            {
+                "memberPrice": "$14.95",
+                "nonMemberPrice": "$33.00",
+                "partNumber": "9010718",
+                "type": "PDF/HTML"
+            }
+        ],
+        "openUrlFullLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu?url_ver=Z39.88-2004&rfr_id=info:sid/IEEE.org:XPLORE&rft_id=info:doi/10.1109/ICCV.2019.00729&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&rft.atitle=Deep Single-Image Portrait Relighting&rft.jtitle=2019 IEEE/CVF International Conference on Computer Vision (ICCV)&rft.date=2019&rft.spage=7193&rft.epage=7201&rft.eissn=2380-7504&rft.au=Hao Zhou&rft.aulast=Hao Zhou&rft.isbn=978-1-7281-4803-8"
+    },
+    "getProgramTermsAccepted": false,
+    "sections": {
+        "abstract": "true",
+        "authors": "true",
+        "figures": "true",
+        "multimedia": "false",
+        "references": "true",
+        "citedby": "true",
+        "keywords": "true",
+        "definitions": "false",
+        "algorithm": "false",
+        "dataset": "false",
+        "cadmore": "false",
+        "footnotes": "true",
+        "disclaimer": "false",
+        "relatedContent": "false",
+        "metrics": "true"
+    },
+    "abstract": "Conventional physically-based methods for relighting portrait images need to solve an inverse rendering problem, estimating face geometry, reflectance and lighting. However, the inaccurate estimation of face components can cause strong artifacts in relighting, leading to unsatisfactory results. In this work, we apply a physically-based portrait relighting method to generate a large scale, high quality, \u201cin the wild\u201d portrait relighting dataset (DPR). A deep Convolutional Neural Network (CNN) is then trained using this dataset to generate a relit portrait image by using a source image and a target lighting as input. The training procedure regularizes the generated results, removing the artifacts caused by physically-based relighting methods. A GAN loss is further applied to improve the quality of the relit portrait image. Our trained network can relight portrait images with resolutions as high as 1024 \u00d7 1024. We evaluate the proposed method on the proposed DPR datset, Flickr portrait dataset and Multi-PIE dataset both qualitatively and quantitatively. Our experiments demonstrate that the proposed method achieves state-of-the-art results. Please refer to https://zhhoper.github.io/dpr.html for dataset and code.",
+    "publicationYear": "2019",
+    "pdfPath": "/iel7/8972782/9008105/09010718.pdf",
+    "publicationDate": "October 2019",
+    "doi": "10.1109/ICCV.2019.00729",
+    "formulaStrippedArticleTitle": "Deep Single-Image Portrait Relighting",
+    "displayPublicationTitle": "2019 IEEE/CVF International Conference on Computer Vision (ICCV)",
+    "authorNames": "Hao Zhou;Sunil Hadap;Kalyan Sunkavalli;David Jacobs",
+    "publicationTitle": "2019 IEEE/CVF International Conference on Computer Vision (ICCV)",
+    "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=proceedings&title=Deep+Single-Image+Portrait+Relighting&isbn=978-1-7281-4803-8&publicationDate=October+2019&author=Hao+Zhou&ContentID=10.1109/ICCV.2019.00729&orderBeanReset=true&startPage=7193&endPage=7201&proceedingName=2019+IEEE%2FCVF+International+Conference+on+Computer+Vision+%28ICCV%29",
+    "dateOfInsertion": "27 February 2020",
+    "startPage": "7193",
+    "endPage": "7201",
+    "pdfUrl": "/stamp/stamp.jsp?tp=&arnumber=9010718",
+    "keywords": [
+        {
+            "type": "IEEE Keywords",
+            "kwd": [
+                "Lighting",
+                "Face",
+                "Image resolution",
+                "Geometry",
+                "Ear",
+                "Neck",
+                "Feature extraction"
+            ]
+        },
+        {
+            "type": "INSPEC: Controlled Indexing",
+            "kwd": [
+                "convolutional neural nets",
+                "face recognition",
+                "image enhancement",
+                "image resolution",
+                "lighting",
+                "rendering (computer graphics)"
+            ]
+        },
+        {
+            "type": "INSPEC: Non-Controlled Indexing",
+            "kwd": [
+                "source image",
+                "physically-based relighting methods",
+                "Flickr portrait dataset",
+                "MultiPIE dataset",
+                "deep single-image portrait relighting",
+                "relighting portrait images",
+                "inverse rendering problem",
+                "face geometry",
+                "face components",
+                "portrait relighting method",
+                "deep Convolutional Neural Network",
+                "CNN",
+                "GAN loss",
+                "DPR",
+                "in the wild portrait relighting dataset"
+            ]
+        }
+    ],
+    "doiLink": "https://doi-org.proxy.lib.ohio-state.edu/10.1109/ICCV.2019.00729",
+    "displayPublicationDate": "27 October 2019 - 02 November 2019",
+    "articleCopyRight": "2019 IEEE",
+    "issueLink": "/xpl/tocresult.jsp?isnumber=9008105&punumber=8972782",
+    "pubLink": "/xpl/conhome/8972782/proceeding",
+    "allowComments": false,
+    "isGetAddressInfoCaptured": false,
+    "isMarketingOptIn": false,
+    "pubTopics": [
+        {
+            "name": "Computing and Processing"
+        }
+    ],
+    "publisher": "IEEE",
+    "displayDocTitle": "Deep Single-Image Portrait Relighting",
+    "isStandard": false,
+    "isConference": true,
+    "isBookWithoutChapters": false,
+    "isChapter": false,
+    "isProduct": false,
+    "isEarlyAccess": false,
+    "isOpenAccess": false,
+    "isEphemera": false,
+    "xploreDocumentType": "Conference Publication",
+    "isBook": false,
+    "isJournal": false,
+    "isSpringer": false,
+    "accessionNumber": "19398860",
+    "isFreeDocument": false,
+    "isPromo": false,
+    "isDynamicHtml": true,
+    "htmlLink": "/document/9010718/",
+    "htmlAbstractLink": "/document/9010718/",
+    "isCustomDenial": false,
+    "persistentLink": "https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/servlet/opac?punumber=8972782",
+    "isNow": false,
+    "isSAE": false,
+    "isOUP": false,
+    "isSMPTE": false,
+    "openAccessFlag": "F",
+    "insertDate": "27 February 2020",
+    "ephemeraFlag": "false",
+    "title": "Deep Single-Image Portrait Relighting",
+    "confLoc": "Seoul, Korea (South)",
+    "html_flag": "false",
+    "ml_html_flag": "true",
+    "sourcePdf": "480300h193.pdf",
+    "mlTime": "PT0.062632S",
+    "xplore-pub-id": "8972782",
+    "isNumber": "9008105",
+    "rightsLinkFlag": "1",
+    "contentType": "conferences",
+    "publicationNumber": "8972782",
+    "citationCount": "96",
+    "xplore-issue": "9008105",
+    "articleId": "9010718",
+    "contentTypeDisplay": "Conferences",
+    "subType": "IEEE Conference",
+    "_value": "IEEE",
+    "lastupdate": "2023-10-11",
+    "mediaPath": "/mediastore_new/IEEE/content/media/8972782/9008105/9010718"
+}

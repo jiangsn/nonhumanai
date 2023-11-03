@@ -1,0 +1,2 @@
+Fig. 4. 
+Qualitative comparisons on the Human3.6M dataset. The 3D poses are visualized from the side view, and the cameras are depicted. The results from Zhou et al. [14], Pavlakos et al. [19], Lin et al. [21], Zhou et al. [23], Tome et al. [20], our model and the ground truth are illustrated from left to right. Our model achieves considerably more accurate estimations than all the compared methods. Best viewed in color. Red and green indicate left and right, respectively.

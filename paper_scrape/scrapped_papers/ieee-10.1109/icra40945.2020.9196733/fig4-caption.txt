@@ -1,0 +1,2 @@
+Fig. 4. 
+Self-supervised time reversal generates ground-truth pick and place correspondences from disassembly data. Concretely, at every timestep, disassembly trajectories are executed by querying the suction network (i.e., red) and randomly generating placing poses (i.e., green). By capturing the state of the environment before and after the trajectory, the recorded information can be reversed to produce assembly data (e.g. the place pose becomes a suction pose and the suction pose becomes a place pose).

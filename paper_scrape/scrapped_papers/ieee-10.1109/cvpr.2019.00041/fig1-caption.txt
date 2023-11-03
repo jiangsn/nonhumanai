@@ -1,0 +1,2 @@
+Figure 1: 
+Binaural audio creates a 3D soundscape for listeners, but such recordings remain rare. The proposed approach infers 2.5D visual sound by injecting the spatial information contained in the video frames accompanying a typical monaural audio stream.

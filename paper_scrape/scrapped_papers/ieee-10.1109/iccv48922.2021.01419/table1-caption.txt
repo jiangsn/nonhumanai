@@ -1,0 +1,2 @@
+Table 1. 
+Quantitative evaluation. We compute LPIPS and MSE against ten frames of ground truth, and FID-50 over 50 frames generated from an input test image. See Section 6.1.

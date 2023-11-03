@@ -1,0 +1,1 @@
+Figure 11. Color inpainting leads to better visual quality.

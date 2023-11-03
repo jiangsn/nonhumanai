@@ -1,0 +1,324 @@
+{
+    "userInfo": {
+        "customerNameRaw": "The Ohio State University",
+        "institutionName": "The Ohio State University",
+        "institute": true,
+        "member": false,
+        "individual": false,
+        "guest": false,
+        "subscribedContent": false,
+        "fileCabinetContent": false,
+        "fileCabinetUser": false,
+        "institutionalFileCabinetUser": false,
+        "products": "IEL|EBOOKS:1974:2014|JRNLARCH:1884:1994|CONFARCH:1951:1999|IBM:1872:2020|VDE|NOKIA BELL LABS|",
+        "instType": "Academic",
+        "userIds": [
+            7827
+        ],
+        "showPatentCitations": true,
+        "showGet802Link": true,
+        "openUrlImgLoc": "http://library-osu-edu.proxy.lib.ohio-state.edu/resources/serialssolutions/buttons/button75x25edit.jpg",
+        "openUrlLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu",
+        "instLogoFile": "7827_OSULHoriz.png",
+        "openUrlTxt": "Find It!",
+        "showOpenUrlLink": true,
+        "marketingInfoCaptured": false,
+        "tracked": false,
+        "ringGoldId": "2647",
+        "delegatedAdmin": false,
+        "desktop": false,
+        "isInstitutionDashboardEnabled": false,
+        "isInstitutionProfileEnabled": false,
+        "isRoamingEnabled": true,
+        "isDelegatedAdmin": false,
+        "isMdl": false,
+        "isCwg": false,
+        "isIel": true,
+        "isAcademic": true
+    },
+    "authors": [
+        {
+            "name": "Chitwan Saharia",
+            "affiliation": [
+                "Google Research, Brain Team, Toronto, ON, Canada"
+            ],
+            "bio": {
+                "graphic": "/mediastore_new/IEEE/content/freeimages/34/10061515/9887996/sahar-3204461-small.gif",
+                "p": [
+                    "Chitwan Saharia received the bachelor's degree in computer science from IIT Bombay, in 2019. He is a software engineer with Google Research. His research interests include deep generative models, and natural language understanding."
+                ]
+            },
+            "firstName": "Chitwan",
+            "lastName": "Saharia",
+            "id": "37088228703"
+        },
+        {
+            "name": "Jonathan Ho",
+            "affiliation": [
+                "Google Research, Brain Team, Toronto, ON, Canada"
+            ],
+            "bio": {
+                "graphic": "/mediastore_new/IEEE/content/freeimages/34/10061515/9887996/ho-3204461-small.gif",
+                "p": [
+                    "Jonathan Ho received the PhD degree in computer science from UC Berkeley, in 2020. He is a research scientist with Google Research. His research interests include deep generative models, data compression, unsupervised learning, and reinforcement learning."
+                ]
+            },
+            "firstName": "Jonathan",
+            "lastName": "Ho",
+            "id": "37089750661"
+        },
+        {
+            "name": "William Chan",
+            "affiliation": [
+                "Google Research, Brain Team, Toronto, ON, Canada"
+            ],
+            "bio": {
+                "graphic": "/mediastore_new/IEEE/content/freeimages/34/10061515/9887996/chan-3204461-small.gif",
+                "p": [
+                    "William Chan received the BASc degree in computer engineering from the University of Waterloo, in 2011, and the PhD degree in electrical and computer engineering from Carnegie Mellon University, in 2016. He is currently a research scientist with Google Brain Toronto. His current research crosses the fields of machine learning, deep learning, sequence understanding/generation with applications to natural language processing, speech recognition, speech synthesis and computer vision."
+                ]
+            },
+            "firstName": "William",
+            "lastName": "Chan",
+            "orcid": "0000-0001-6205-255X",
+            "id": "37085544863"
+        },
+        {
+            "name": "Tim Salimans",
+            "affiliation": [
+                "Google Research, Brain Team, Toronto, ON, Canada"
+            ],
+            "bio": {
+                "graphic": "/mediastore_new/IEEE/content/freeimages/34/10061515/9887996/salim-3204461-small.gif",
+                "p": [
+                    "Tim Salimans is a senior research scientist on the Google Brain team in Amsterdam. He works on generative modeling, semi-supervised and unsupervised deep learning, and reinforcement learning. He is most well known for work on GANs, showing how they can be used for semi-supervised learning and how they can be evaluated using the Inception score, and for his work on VAEs and other applications of variational inference using reparameterization."
+                ]
+            },
+            "firstName": "Tim",
+            "lastName": "Salimans",
+            "id": "37089750727"
+        },
+        {
+            "name": "David J. Fleet",
+            "affiliation": [
+                "Google Research, Brain Team, Toronto, ON, Canada",
+                "University of Toronto, Toronto, ON, Canada"
+            ],
+            "bio": {
+                "graphic": "/mediastore_new/IEEE/content/freeimages/34/10061515/9887996/fleet-3204461-small.gif",
+                "p": [
+                    "David J. Fleet received the PhD degree from the University of Toronto, in 1991. He is professor of computer science with the University of Toronto, faculty member of the Vector Institute, and a research scientist with the Brain Team of Google Research. His research interests include computer vision, image processing, machine learning and visual neuroscience. He was awarded an Alfred P. Sloan Research Fellowship, in 1996, and has won paper awards with ICCV 1999, CVPR 2001, UIST 2003, and BMVC 2009. In 2010 he was awarded the Koenderink Prize for his work with Michael Black and Hedvig Sidenbladh on human pose tracking. He has served as area chair for numerous vision and machine learning conference, and as program co-chair for CVPR 2003 and ECCV 2014. He currently serves on the TPAMI Advisory Board."
+                ]
+            },
+            "firstName": "David J.",
+            "lastName": "Fleet",
+            "orcid": "0000-0003-0734-7114",
+            "id": "37359419900"
+        },
+        {
+            "name": "Mohammad Norouzi",
+            "affiliation": [
+                "Google Research, Brain Team, Toronto, ON, Canada"
+            ],
+            "bio": {
+                "graphic": "/mediastore_new/IEEE/content/freeimages/34/10061515/9887996/norou-3204461-small.gif",
+                "p": [
+                    "Mohammad Norouzi received the PhD degree in computer science from the University of Toronto, in 2015. He is a staff research scientist with the Google Research Brain Team in Toronto. His research interests include deep generative models, sequence models, self-supervised learning, and reinforcement learning."
+                ]
+            },
+            "firstName": "Mohammad",
+            "lastName": "Norouzi",
+            "id": "37089500063"
+        }
+    ],
+    "issn": [
+        {
+            "format": "Print ISSN",
+            "value": "0162-8828"
+        },
+        {
+            "format": "CD",
+            "value": "2160-9292"
+        },
+        {
+            "format": "Electronic ISSN",
+            "value": "1939-3539"
+        }
+    ],
+    "articleNumber": "9887996",
+    "dbTime": "1 ms",
+    "metrics": {
+        "citationCountPaper": 86,
+        "citationCountPatent": 0,
+        "totalDownloads": 17055
+    },
+    "purchaseOptions": {
+        "showOtherFormatPricingTab": false,
+        "showPdfFormatPricingTab": true,
+        "pdfPricingInfoAvailable": false,
+        "otherPricingInfoAvailable": false,
+        "mandatoryBundle": false,
+        "optionalBundle": false,
+        "displayTextWhenPdfPricingNotAvailable": "The purchase and pricing options for this item are unavailable. Select items are only available as part of a subscription package. You may try again later or <a href='https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/xpl/contact' target='_blank'>contact us</a> for more information.",
+        "displayTextWhenOtherFormatPricingNotAvailable": "The purchase and pricing options for this item are unavailable. Select items are only available as part of a subscription package. You may try again later or <a href='https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/xpl/contact' target='_blank'>contact us</a> for more information.",
+        "openUrlFullLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu?url_ver=Z39.88-2004&rfr_id=info:sid/IEEE.org:XPLORE&rft_id=info:doi/10.1109/TPAMI.2022.3204461&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&rft.atitle=Image Super-Resolution via Iterative Refinement&rft.jtitle=IEEE Transactions on Pattern Analysis and Machine Intelligence&rft.date=2023&rft.volume=45&rft.issue=4&rft.spage=4713&rft.epage=4726&rft.issn=0162-8828&rft.eissn=1939-3539&rft.au=Chitwan Saharia&rft.aulast=Chitwan Saharia"
+    },
+    "getProgramTermsAccepted": false,
+    "sections": {
+        "abstract": "true",
+        "authors": "true",
+        "figures": "true",
+        "multimedia": "false",
+        "references": "true",
+        "citedby": "true",
+        "keywords": "true",
+        "definitions": "false",
+        "algorithm": "false",
+        "dataset": "false",
+        "cadmore": "false",
+        "footnotes": "true",
+        "disclaimer": "false",
+        "relatedContent": "false",
+        "metrics": "true"
+    },
+    "abstract": "We present SR3, an approach to image Super-Resolution via Repeated Refinement. SR3 adapts denoising diffusion probabilistic models (Ho et al. 2020), (Sohl-Dickstein et al. 2015) to image-to-image translation, and performs super-resolution through a stochastic iterative denoising process. Output images are initialized with pure Gaussian noise and iteratively refined using a U-Net architecture that is trained on denoising at various noise levels, conditioned on a low-resolution input image. SR3 exhibits strong performance on super-resolution tasks at different magnification factors, on faces and natural images. We conduct human evaluation on a standard 8\u00d7 face super-resolution task on CelebA-HQ for which SR3 achieves a fool rate close to 50%, suggesting photo-realistic outputs, while GAN baselines do not exceed a fool rate of 34%. We evaluate SR3 on a 4\u00d7 super-resolution task on ImageNet, where SR3 outperforms baselines in human evaluation and classification accuracy of a ResNet-50 classifier trained on high-resolution images. We further show the effectiveness of SR3 in cascaded image generation, where a generative model is chained with super-resolution models to synthesize high-resolution images with competitive FID scores on the class-conditional 256\u00d7256 ImageNet generation challenge.",
+    "publicationYear": "2023",
+    "pdfPath": "/iel7/34/10061515/09887996.pdf",
+    "publicationDate": "01 April 2023",
+    "doi": "10.1109/TPAMI.2022.3204461",
+    "formulaStrippedArticleTitle": "Image Super-Resolution via Iterative Refinement",
+    "displayPublicationTitle": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+    "authorNames": "Chitwan Saharia;Jonathan Ho;William Chan;Tim Salimans;David J. Fleet;Mohammad Norouzi",
+    "publicationTitle": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+    "dateOfInsertion": "12 September 2022",
+    "startPage": "4713",
+    "endPage": "4726",
+    "pdfUrl": "/stamp/stamp.jsp?tp=&arnumber=9887996",
+    "keywords": [
+        {
+            "type": "IEEE Keywords",
+            "kwd": [
+                "Noise reduction",
+                "Superresolution",
+                "Task analysis",
+                "Iterative methods",
+                "Data models",
+                "Faces",
+                "Diffusion processes"
+            ]
+        },
+        {
+            "type": "INSPEC: Controlled Indexing",
+            "kwd": [
+                "convolutional neural nets",
+                "face recognition",
+                "Gaussian noise",
+                "image classification",
+                "image denoising",
+                "image resolution",
+                "iterative methods",
+                "stochastic processes"
+            ]
+        },
+        {
+            "type": "INSPEC: Non-Controlled Indexing",
+            "kwd": [
+                "cascaded image generation",
+                "CelebA-HQ",
+                "denoising diffusion probabilistic models",
+                "face super-resolution task",
+                "GAN baselines",
+                "Gaussian noise",
+                "high-resolution images",
+                "image super-resolution via iterative refinement",
+                "image super-resolution via repeated refinement",
+                "image-to-image translation",
+                "ImageNet generation challenge",
+                "low-resolution input image",
+                "natural images",
+                "photo-realistic outputs",
+                "ResNet-50 classifier",
+                "SR3",
+                "stochastic iterative denoising process"
+            ]
+        },
+        {
+            "type": "Author Keywords ",
+            "kwd": [
+                "Image super-resolution",
+                "diffusion models",
+                "deep generative models"
+            ]
+        }
+    ],
+    "doiLink": "https://doi-org.proxy.lib.ohio-state.edu/10.1109/TPAMI.2022.3204461",
+    "displayPublicationDate": "12 September 2022",
+    "issueLink": "/xpl/tocresult.jsp?isnumber=10061515&punumber=34",
+    "pubLink": "/xpl/RecentIssue.jsp?punumber=34",
+    "allowComments": false,
+    "isGetAddressInfoCaptured": false,
+    "isMarketingOptIn": false,
+    "pubTopics": [
+        {
+            "name": "Computing and Processing"
+        },
+        {
+            "name": "Bioengineering"
+        }
+    ],
+    "publisher": "IEEE",
+    "displayDocTitle": "Image Super-Resolution via Iterative Refinement",
+    "isStandard": false,
+    "isConference": false,
+    "volume": "45",
+    "issue": "4",
+    "isBookWithoutChapters": false,
+    "isChapter": false,
+    "isProduct": false,
+    "isEarlyAccess": false,
+    "isOpenAccess": true,
+    "isEphemera": false,
+    "xploreDocumentType": "Journals & Magazine",
+    "isBook": false,
+    "isJournal": true,
+    "isSpringer": false,
+    "accessionNumber": "22725464",
+    "pubMedId": "36094974",
+    "isFreeDocument": true,
+    "isPromo": false,
+    "isDynamicHtml": true,
+    "htmlLink": "/document/9887996/",
+    "htmlAbstractLink": "/document/9887996/",
+    "isCustomDenial": false,
+    "persistentLink": "https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/servlet/opac?punumber=34",
+    "isNow": false,
+    "isSAE": false,
+    "isOUP": false,
+    "isSMPTE": false,
+    "openAccessFlag": "T",
+    "insertDate": "12 September 2022",
+    "ephemeraFlag": "false",
+    "title": "Image Super-Resolution via Iterative Refinement",
+    "html_flag": "false",
+    "ml_html_flag": "true",
+    "sourcePdf": "tpami-fleet-3204461-x.pdf",
+    "mlTime": "PT0.119036S",
+    "xplore-pub-id": "34",
+    "sponsors": [
+        {
+            "name": "IEEE Computer Society",
+            "url": "http://computer.org.proxy.lib.ohio-state.edu/"
+        }
+    ],
+    "isNumber": "10061515",
+    "contentType": "periodicals",
+    "publicationNumber": "34",
+    "citationCount": "86",
+    "xplore-issue": "10061515",
+    "articleId": "9887996",
+    "contentTypeDisplay": "Journals",
+    "subType": "IEEE Transaction",
+    "_value": "CCBY",
+    "lastupdate": "2023-10-14",
+    "mediaPath": "/mediastore_new/IEEE/content/media/34/10061515/9887996"
+}

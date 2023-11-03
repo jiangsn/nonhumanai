@@ -1,0 +1,2 @@
+Figure 4: 
+Mix-and-Separate [52], [31], [10]-inspired framework for audio-visual source separation. During training, we mix the binaural audio tracks for a pair of videos to generate a mixed audio input. The network learns to separate the sound for each video conditioned on their visual frames.

@@ -1,0 +1,115 @@
+[
+    {
+        "GA Key": "UA-26408784-1",
+        "DOI": "10.1007/978-3-319-46454-1_34",
+        "Page": "chapter",
+        "page": {
+            "attributes": {
+                "environment": "live"
+            }
+        },
+        "Country": "US",
+        "japan": false,
+        "doi": "10.1007-978-3-319-46454-1_34",
+        "Keywords": "3D body shape, Human pose, 2D to 3D, CNN",
+        "kwrd": [
+            "3D_body_shape",
+            "Human_pose",
+            "2D_to_3D",
+            "CNN"
+        ],
+        "Labs": "Y",
+        "ksg": "Krux.segments",
+        "kuid": "Krux.uid",
+        "Has Body": "Y",
+        "Features": [
+            "doNotAutoAssociate",
+            "cobranding",
+            "doNotAutoAssociate",
+            "cobranding"
+        ],
+        "Open Access": "N",
+        "hasAccess": "Y",
+        "bypassPaywall": "N",
+        "user": {
+            "license": {
+                "businessPartnerID": [
+                    "3000266689",
+                    "8200724141"
+                ],
+                "businessPartnerIDString": "3000266689|8200724141"
+            }
+        },
+        "Access Type": "permanently-free",
+        "Bpids": "3000266689, 8200724141",
+        "Bpnames": "OhioLINK Consortium, Ohio State University Libraries",
+        "BPID": [
+            "3000266689",
+            "8200724141"
+        ],
+        "VG Wort Identifier": "pw-vgzm.415900-10.1007-978-3-319-46454-1",
+        "Full HTML": "Y",
+        "session": {
+            "authentication": {
+                "loginStatus": "N"
+            },
+            "attributes": {
+                "edition": "academic"
+            }
+        },
+        "content": {
+            "serial": {
+                "eissn": "1611-3349",
+                "pissn": "0302-9743"
+            },
+            "book": {
+                "doi": "10.1007/978-3-319-46454-1",
+                "title": "Computer Vision \u2013 ECCV 2016",
+                "pisbn": "978-3-319-46453-4",
+                "eisbn": "978-3-319-46454-1",
+                "bookProductType": "Proceedings",
+                "seriesTitle": "Lecture Notes in Computer Science",
+                "seriesId": "558"
+            },
+            "chapter": {
+                "doi": "10.1007/978-3-319-46454-1_34"
+            },
+            "type": "ConferencePaper",
+            "category": {
+                "pmc": {
+                    "primarySubject": "Computer Science",
+                    "primarySubjectCode": "SCI",
+                    "secondarySubjects": {
+                        "1": "Image Processing and Computer Vision",
+                        "2": "Pattern Recognition",
+                        "3": "Artificial Intelligence",
+                        "4": "Computer Graphics"
+                    },
+                    "secondarySubjectCodes": {
+                        "1": "SCI22021",
+                        "2": "SCI2203X",
+                        "3": "SCI21000",
+                        "4": "SCI22013"
+                    }
+                },
+                "sucode": "SUCO11645"
+            },
+            "attributes": {
+                "deliveryPlatform": "oscar"
+            },
+            "country": "US",
+            "Has Preview": "N",
+            "subjectCodes": "SCI,SCI22021,SCI2203X,SCI21000,SCI22013",
+            "PMC": [
+                "SCI",
+                "SCI22021",
+                "SCI2203X",
+                "SCI21000",
+                "SCI22013"
+            ]
+        },
+        "Event Category": "Conference Paper",
+        "ConferenceSeriesId": "eccv, eccv",
+        "productId": "9783319464541"
+    }
+]

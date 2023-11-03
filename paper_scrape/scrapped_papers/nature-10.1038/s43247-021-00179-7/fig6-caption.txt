@@ -1,0 +1,1 @@
+Red points represent the p−q state of a given particle before and after return mapping in each case (see Supplementary Note 1).

@@ -1,0 +1,1 @@
+Figure 4. Context/synthesis regions. Context regions (blue) and synthesis regions (red) for three example connected depth edges (black) from Figure 2(f).

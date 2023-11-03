@@ -1,0 +1,3 @@
+Figure 8: 
+
+Ablation study. From columns 3 and 5, without the completion network, G_{\mathrm{c}}, the transferred face does not cover the entire target face, leaving obvious artifacts. Columns 3 and 4 show that without the blending network, Gb, the skin color and lighting conditions of the transferred face are inconsistent with its new context.

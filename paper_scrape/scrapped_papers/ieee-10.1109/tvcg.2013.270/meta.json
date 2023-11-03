@@ -1,0 +1,359 @@
+{
+    "userInfo": {
+        "customerNameRaw": "The Ohio State University",
+        "institutionName": "The Ohio State University",
+        "institute": true,
+        "member": false,
+        "individual": false,
+        "guest": false,
+        "subscribedContent": false,
+        "fileCabinetContent": false,
+        "fileCabinetUser": false,
+        "institutionalFileCabinetUser": false,
+        "products": "IEL|EBOOKS:1974:2014|JRNLARCH:1884:1994|CONFARCH:1951:1999|IBM:1872:2020|VDE|NOKIA BELL LABS|",
+        "instType": "Academic",
+        "userIds": [
+            7827
+        ],
+        "showPatentCitations": true,
+        "showGet802Link": true,
+        "openUrlImgLoc": "http://library-osu-edu.proxy.lib.ohio-state.edu/resources/serialssolutions/buttons/button75x25edit.jpg",
+        "openUrlLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu",
+        "instLogoFile": "7827_OSULHoriz.png",
+        "openUrlTxt": "Find It!",
+        "showOpenUrlLink": true,
+        "marketingInfoCaptured": false,
+        "tracked": false,
+        "ringGoldId": "2647",
+        "delegatedAdmin": false,
+        "desktop": false,
+        "isInstitutionDashboardEnabled": false,
+        "isInstitutionProfileEnabled": false,
+        "isRoamingEnabled": true,
+        "isDelegatedAdmin": false,
+        "isMdl": false,
+        "isCwg": false,
+        "isIel": true,
+        "isAcademic": true
+    },
+    "authors": [
+        {
+            "name": "Hao Qin",
+            "affiliation": [
+                "Zhejiang University, Hangzhou, Zhejiang, CN"
+            ],
+            "bio": {
+                "graphic": "/mediastore_new/IEEE/content/freeimages/2945/6847253/6684531/qin-small.gif",
+                "p": [
+                    "Hao Qin\n received the bachelor\u2019s degree in computer science from Zhejiang University in 2010. After receiving the\n bachelor\u2019s degree, he joined the Graphics and Parallel Systems Lab. He is currently working toward the PhD\n degree in computer graphics at Zhejiang University. His research interest includes photo-realistic rendering."
+                ]
+            },
+            "firstName": "Hao",
+            "lastName": "Qin",
+            "id": "37088328858"
+        },
+        {
+            "name": "Menglei Chai",
+            "affiliation": [
+                "Zhejiang University, Hangzhou, Zhejiang, CN"
+            ],
+            "bio": {
+                "graphic": "/mediastore_new/IEEE/content/freeimages/2945/6847253/6684531/chai-small.gif",
+                "p": [
+                    "Menglei Chai\n received the bachelor\u2019s degree in computer science from Zhejiang University in 2011. He is currently working\n toward the PhD degree in the Graphics and Parallel Systems Lab of Zhejiang University. His research interests include\n image-based modeling and interactive image manipulation."
+                ]
+            },
+            "firstName": "Menglei",
+            "lastName": "Chai",
+            "id": "37086122499"
+        },
+        {
+            "name": "Qiming Hou",
+            "affiliation": [
+                "Zhejiang University, Hangzhou, Zhejiang, CN"
+            ],
+            "bio": {
+                "graphic": "/mediastore_new/IEEE/content/freeimages/2945/6847253/6684531/hou-small.gif",
+                "p": [
+                    "Qiming Hou received the BS degree in Academic Talent\n Program and the PhD degree in computer science, both from Tsinghua University. He is an associate professor in the\n Graphics and Parallel Systems Lab, Zhejiang University. As a part of his PhD program, he spent four years in Microsoft\n Research Asia as an intern researcher. His current research interest includes GPGPU programming languages and tools,\n rendering systems, and GPGPU applications."
+                ]
+            },
+            "firstName": "Qiming",
+            "lastName": "Hou",
+            "id": "37398080600"
+        },
+        {
+            "name": "Zhong Ren",
+            "affiliation": [
+                "Zhejiang University, Hangzhou, Zhejiang, CN"
+            ],
+            "bio": {
+                "graphic": "/mediastore_new/IEEE/content/freeimages/2945/6847253/6684531/ren-small.gif",
+                "p": [
+                    "Zhong Ren\n received the bachelor\u2019s degree in information engineering, the master\u2019s degree in\u00a0mechanical\n engineering, and the PhD degree in computer science in 2007 all from Zhejiang University. He is currently an associate\n professor at Zhejiang University, and a member of the State Key Lab of CAD&CG. Before returning to Zhejiang\n University in 2010, he was at Microsoft Research Asia for three years, where he was an associate researcher in the\n Internet Graphics Group. His research interests include real-time rendering of soft shadows and participating media,\n spherical harmonics for real-time rendering, and GPU-based photorealistic rendering."
+                ]
+            },
+            "firstName": "Zhong",
+            "lastName": "Ren",
+            "id": "37401361800"
+        },
+        {
+            "name": "Kun Zhou",
+            "affiliation": [
+                "Zhejiang University, Hangzhou, Zhejiang, CN"
+            ],
+            "bio": {
+                "graphic": "/mediastore_new/IEEE/content/freeimages/2945/6847253/6684531/zhou-small.gif",
+                "p": [
+                    "Kun Zhou\n received the BS and PhD degrees in computer science from Zhejiang University, in 1997 and 2002, respectively. He is\n currently a Cheung Kong distinguished professor in the Computer Science Department of Zhejiang University, and a\n member of the State Key Lab of CAD&CG. Before joining Zhejiang University, he was a lead researcher of the\n Graphics Group at Microsoft Research Asia. His research interests include shape modelling/editing, texture\n mapping/synthesis, animation, rendering, and GPU parallel computing. He is a senior member of the IEEE."
+                ]
+            },
+            "firstName": "Kun",
+            "lastName": "Zhou",
+            "id": "37287677400"
+        }
+    ],
+    "issn": [
+        {
+            "format": "Print ISSN",
+            "value": "1077-2626"
+        },
+        {
+            "format": "Electronic ISSN",
+            "value": "1941-0506"
+        },
+        {
+            "format": "CD",
+            "value": "2160-9306"
+        }
+    ],
+    "articleNumber": "6684531",
+    "dbTime": "1 ms",
+    "metrics": {
+        "citationCountPaper": 11,
+        "citationCountPatent": 0,
+        "totalDownloads": 392
+    },
+    "purchaseOptions": {
+        "showOtherFormatPricingTab": false,
+        "showPdfFormatPricingTab": true,
+        "pdfPricingInfoAvailable": true,
+        "otherPricingInfoAvailable": false,
+        "mandatoryBundle": false,
+        "optionalBundle": false,
+        "displayTextWhenOtherFormatPricingNotAvailable": "The purchase and pricing options for this item are unavailable. Select items are only available as part of a subscription package. You may try again later or <a href='https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/xpl/contact' target='_blank'>contact us</a> for more information.",
+        "pdfPricingInfo": [
+            {
+                "memberPrice": "$14.95",
+                "nonMemberPrice": "$33.00",
+                "partNumber": "6684531",
+                "type": "PDF/HTML"
+            }
+        ],
+        "openUrlFullLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu?url_ver=Z39.88-2004&rfr_id=info:sid/IEEE.org:XPLORE&rft_id=info:doi/10.1109/TVCG.2013.270&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&rft.atitle=Cone Tracing for Furry Object Rendering&rft.jtitle=IEEE Transactions on Visualization and Computer Graphics&rft.date=2014&rft.volume=20&rft.issue=8&rft.spage=1178&rft.epage=1188&rft.issn=1077-2626&rft.eissn=1941-0506&rft.au=Hao Qin&rft.aulast=Hao Qin"
+    },
+    "getProgramTermsAccepted": false,
+    "sections": {
+        "abstract": "true",
+        "authors": "true",
+        "figures": "true",
+        "multimedia": "true",
+        "references": "true",
+        "citedby": "true",
+        "keywords": "true",
+        "definitions": "false",
+        "algorithm": "false",
+        "dataset": "false",
+        "cadmore": "false",
+        "footnotes": "true",
+        "disclaimer": "false",
+        "relatedContent": "false",
+        "metrics": "true"
+    },
+    "graphicalAbstract": {
+        "type": "graphic",
+        "fileSize": "35KB",
+        "file": "/ielx7/2945/6847253/6684531/graphical_abstract/tvcg-gagraphic-270.jpg",
+        "coverImage": "/ielx7/2945/6847253/6684531/graphical_abstract/tvcg-gagraphic-270.jpg"
+    },
+    "abstract": "We present a cone-based ray tracing algorithm for high-quality rendering of furry objects with reflection, refraction and defocus effects. By aggregating many sampling rays in a pixel as a single cone, we significantly reduce the high supersampling rate required by the thin geometry of fur fibers. To reduce the cost of intersecting fur fibers with cones, we construct a bounding volume hierarchy for the fiber geometry to find the fibers potentially intersecting with cones, and use a set of connected ribbons to approximate the projections of these fibers on the image plane. The computational cost of compositing and filtering transparent samples within each cone is effectively reduced by approximating away in-cone variations of shading, opacity and occlusion. The result is a highly efficient ray tracing algorithm for furry objects which is able to render images of quality comparable to those generated by alternative methods, while significantly reducing the rendering time. We demonstrate the rendering quality and performance of our algorithm using several examples and a user study.",
+    "publicationYear": "2014",
+    "pdfPath": "/iel7/2945/6847253/06684531.pdf",
+    "publicationDate": "01 August 2014",
+    "doi": "10.1109/TVCG.2013.270",
+    "formulaStrippedArticleTitle": "Cone Tracing for Furry Object Rendering",
+    "displayPublicationTitle": "IEEE Transactions on Visualization and Computer Graphics",
+    "authorNames": "Hao Qin;Menglei Chai;Qiming Hou;Zhong Ren;Kun Zhou",
+    "publicationTitle": "IEEE Transactions on Visualization and Computer Graphics",
+    "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=2945&title=Cone+Tracing+for+Furry+Object+Rendering&isbn=&publicationDate=01+August+2014&author=Hao+Qin&ContentID=10.1109/TVCG.2013.270&orderBeanReset=true&startPage=1178&endPage=1188&volumeNum=20&issueNum=8",
+    "dateOfInsertion": "16 December 2013",
+    "startPage": "1178",
+    "endPage": "1188",
+    "pdfUrl": "/stamp/stamp.jsp?tp=&arnumber=6684531",
+    "keywords": [
+        {
+            "type": "IEEE Keywords",
+            "kwd": [
+                "Ray tracing",
+                "Rendering (computer graphics)",
+                "Geometry",
+                "Hair",
+                "Image segmentation",
+                "Graphics processing units",
+                "Lighting"
+            ]
+        },
+        {
+            "type": "INSPEC: Controlled Indexing",
+            "kwd": [
+                "approximation theory",
+                "computational geometry",
+                "cost reduction",
+                "image sampling",
+                "ray tracing",
+                "rendering (computer graphics)"
+            ]
+        },
+        {
+            "type": "INSPEC: Non-Controlled Indexing",
+            "kwd": [
+                "cone-based ray tracing algorithm",
+                "furry object rendering",
+                "reflection effect",
+                "refraction effect",
+                "defocus effect",
+                "ray sampling",
+                "high supersampling rate reduction",
+                "cost reduction",
+                "bounding volume hierarchy",
+                "fiber geometry",
+                "transparent sample composition",
+                "transparent sample filtering",
+                "shading",
+                "opacity",
+                "occlusion",
+                "rendering time reduction"
+            ]
+        },
+        {
+            "type": "Author Keywords ",
+            "kwd": [
+                "Raytracing",
+                "Antialiasing"
+            ]
+        },
+        {
+            "type": "MeSH Terms",
+            "kwd": [
+                "Algorithms",
+                "Animals",
+                "Computer Graphics",
+                "Hair",
+                "Sciuridae"
+            ]
+        },
+        {
+            "kwd": [
+                "Ray tracing",
+                "fur rendering",
+                "depth of field",
+                "antialiasing",
+                "reflection",
+                "refraction",
+                "shadows",
+                "cone tracing"
+            ]
+        }
+    ],
+    "doiLink": "https://doi-org.proxy.lib.ohio-state.edu/10.1109/TVCG.2013.270",
+    "displayPublicationDate": "16 December 2013",
+    "articleCopyRight": "2014 IEEE",
+    "issueLink": "/xpl/tocresult.jsp?isnumber=6847253&punumber=2945",
+    "pubLink": "/xpl/RecentIssue.jsp?punumber=2945",
+    "allowComments": false,
+    "isGetAddressInfoCaptured": false,
+    "isMarketingOptIn": false,
+    "pubTopics": [
+        {
+            "name": "Computing and Processing"
+        },
+        {
+            "name": "Bioengineering"
+        },
+        {
+            "name": "Signal Processing and Analysis"
+        }
+    ],
+    "publisher": "IEEE",
+    "displayDocTitle": "Cone Tracing for Furry Object Rendering",
+    "isStandard": false,
+    "isConference": false,
+    "volume": "20",
+    "issue": "8",
+    "isBookWithoutChapters": false,
+    "isChapter": false,
+    "isProduct": false,
+    "isEarlyAccess": false,
+    "isOpenAccess": false,
+    "isEphemera": false,
+    "xploreDocumentType": "Journals & Magazine",
+    "isBook": false,
+    "isJournal": true,
+    "isSpringer": false,
+    "accessionNumber": "14429313",
+    "pubMedId": "26357369",
+    "isFreeDocument": false,
+    "isPromo": false,
+    "isDynamicHtml": true,
+    "htmlLink": "/document/6684531/",
+    "htmlAbstractLink": "/document/6684531/",
+    "isCustomDenial": false,
+    "persistentLink": "https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/servlet/opac?punumber=2945",
+    "isNow": false,
+    "isSAE": false,
+    "isOUP": false,
+    "isSMPTE": false,
+    "fundingAgencies": {
+        "fundingAgency": [
+            {
+                "fundingName": "National High-tech R&D Program",
+                "grantNumber": "2012AA011503"
+            },
+            {
+                "fundingName": "National Science Foundation",
+                "grantNumber": "61103102, 61272305, 61379070"
+            }
+        ]
+    },
+    "openAccessFlag": "F",
+    "insertDate": "16 December 2013",
+    "ephemeraFlag": "false",
+    "title": "Cone Tracing for Furry Object Rendering",
+    "html_flag": "false",
+    "ml_html_flag": "true",
+    "sourcePdf": "tvcg-Zhou-270-x.pdf",
+    "mlTime": "PT0.057609S",
+    "xplore-pub-id": "2945",
+    "sponsors": [
+        {
+            "name": "IEEE Comput. Soc. Tech. Committee on Comput. Graphics",
+            "url": ""
+        },
+        {
+            "name": "IEEE Computer Society",
+            "url": "http://computer.org.proxy.lib.ohio-state.edu/"
+        }
+    ],
+    "isNumber": "6847253",
+    "rightsLinkFlag": "1",
+    "contentType": "periodicals",
+    "publicationNumber": "2945",
+    "citationCount": "11",
+    "xplore-issue": "6847253",
+    "articleId": "6684531",
+    "contentTypeDisplay": "Journals",
+    "subType": "IEEE Transaction",
+    "_value": "IEEE",
+    "lastupdate": "2023-10-07",
+    "mediaPath": "/mediastore_new/IEEE/content/media/2945/6847253/6684531"
+}

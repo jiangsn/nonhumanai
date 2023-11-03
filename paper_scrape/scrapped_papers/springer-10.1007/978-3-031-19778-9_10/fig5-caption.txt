@@ -1,0 +1,1 @@
+When parts of the face are occluded by e.g. hair or clothing, the corresponding landmarks are predicted with high uncertainty (red), compared to those visible (green). (Color figure online)

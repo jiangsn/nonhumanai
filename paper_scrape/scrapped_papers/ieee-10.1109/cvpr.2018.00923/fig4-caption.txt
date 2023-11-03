@@ -1,0 +1,1 @@
+Figure 4. Generating images based only the stickman as input (GT image is held back). We compare our approach with pix2pix [12] on Deepfashion and Market-1501 datasets. On the right: Sampling from our latent appearance distribution.

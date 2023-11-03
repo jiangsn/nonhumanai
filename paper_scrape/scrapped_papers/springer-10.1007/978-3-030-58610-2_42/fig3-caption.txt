@@ -1,0 +1,5 @@
+Flow completion. (a) Optical flow estimated on the input video. Missing regions tend to have zero value (white). (b) Extracted and
+
+
+
+flow edges. (c) Piecewise-smooth completed flow, using the edges as guidance.

@@ -1,0 +1,1 @@
+Figure 3. Our network consists of two stages, an encoder-decoder stage (sec. 4.1) and a refinement stage (sec. 4.2)

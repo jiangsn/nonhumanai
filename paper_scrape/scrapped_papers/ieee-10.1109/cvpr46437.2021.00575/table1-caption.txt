@@ -1,0 +1,2 @@
+Table 1: 
+Quantitative evaluation, video synthesis: We evaluate the quality of future frame predictions by comparing 60 synthesized frames with corresponding frames in the ground truth video. We compare our method to four alternatives, described in Section 7.1. All variant use our proposed motion estimation network.

@@ -1,0 +1,327 @@
+{
+    "userInfo": {
+        "customerNameRaw": "The Ohio State University",
+        "institutionName": "The Ohio State University",
+        "institute": true,
+        "member": false,
+        "individual": false,
+        "guest": false,
+        "subscribedContent": false,
+        "fileCabinetContent": false,
+        "fileCabinetUser": false,
+        "institutionalFileCabinetUser": false,
+        "products": "IEL|EBOOKS:1974:2014|JRNLARCH:1884:1994|CONFARCH:1951:1999|IBM:1872:2020|VDE|NOKIA BELL LABS|",
+        "instType": "Academic",
+        "userIds": [
+            7827
+        ],
+        "showPatentCitations": true,
+        "showGet802Link": true,
+        "openUrlImgLoc": "http://library-osu-edu.proxy.lib.ohio-state.edu/resources/serialssolutions/buttons/button75x25edit.jpg",
+        "openUrlLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu",
+        "instLogoFile": "7827_OSULHoriz.png",
+        "openUrlTxt": "Find It!",
+        "showOpenUrlLink": true,
+        "marketingInfoCaptured": false,
+        "tracked": false,
+        "ringGoldId": "2647",
+        "delegatedAdmin": false,
+        "desktop": false,
+        "isInstitutionDashboardEnabled": false,
+        "isInstitutionProfileEnabled": false,
+        "isRoamingEnabled": true,
+        "isDelegatedAdmin": false,
+        "isMdl": false,
+        "isCwg": false,
+        "isIel": true,
+        "isAcademic": true
+    },
+    "authors": [
+        {
+            "name": "Zijie J. Wang",
+            "affiliation": [
+                "Georgia Tech."
+            ],
+            "firstName": "Zijie J.",
+            "lastName": "Wang",
+            "id": "37088660889"
+        },
+        {
+            "name": "Robert Turko",
+            "affiliation": [
+                "Georgia Tech."
+            ],
+            "firstName": "Robert",
+            "lastName": "Turko",
+            "id": "37088662053"
+        },
+        {
+            "name": "Omar Shaikh",
+            "affiliation": [
+                "Georgia Tech."
+            ],
+            "firstName": "Omar",
+            "lastName": "Shaikh",
+            "id": "37298032800"
+        },
+        {
+            "name": "Haekyu Park",
+            "affiliation": [
+                "Georgia Tech."
+            ],
+            "firstName": "Haekyu",
+            "lastName": "Park",
+            "id": "37087106137"
+        },
+        {
+            "name": "Nilaksh Das",
+            "affiliation": [
+                "Georgia Tech."
+            ],
+            "firstName": "Nilaksh",
+            "lastName": "Das",
+            "id": "37088662090"
+        },
+        {
+            "name": "Fred Hohman",
+            "affiliation": [
+                "Georgia Tech."
+            ],
+            "firstName": "Fred",
+            "lastName": "Hohman",
+            "id": "37086235240"
+        },
+        {
+            "name": "Minsuk Kahng",
+            "affiliation": [
+                "Oregon State University"
+            ],
+            "firstName": "Minsuk",
+            "lastName": "Kahng",
+            "id": "37085451248"
+        },
+        {
+            "name": "Duen Horng Polo Chau",
+            "affiliation": [
+                "Georgia Tech."
+            ],
+            "firstName": "Duen Horng",
+            "lastName": "Polo Chau",
+            "id": "37087104658"
+        }
+    ],
+    "issn": [
+        {
+            "format": "Print ISSN",
+            "value": "1077-2626"
+        },
+        {
+            "format": "Electronic ISSN",
+            "value": "1941-0506"
+        },
+        {
+            "format": "CD",
+            "value": "2160-9306"
+        }
+    ],
+    "articleNumber": "9222325",
+    "dbTime": "1 ms",
+    "metrics": {
+        "citationCountPaper": 85,
+        "citationCountPatent": 0,
+        "totalDownloads": 4044
+    },
+    "purchaseOptions": {
+        "showOtherFormatPricingTab": false,
+        "showPdfFormatPricingTab": true,
+        "pdfPricingInfoAvailable": true,
+        "otherPricingInfoAvailable": false,
+        "mandatoryBundle": false,
+        "optionalBundle": false,
+        "displayTextWhenOtherFormatPricingNotAvailable": "The purchase and pricing options for this item are unavailable. Select items are only available as part of a subscription package. You may try again later or <a href='https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/xpl/contact' target='_blank'>contact us</a> for more information.",
+        "pdfPricingInfo": [
+            {
+                "memberPrice": "$14.95",
+                "nonMemberPrice": "$33.00",
+                "partNumber": "9222325",
+                "type": "PDF/HTML"
+            }
+        ],
+        "openUrlFullLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu?url_ver=Z39.88-2004&rfr_id=info:sid/IEEE.org:XPLORE&rft_id=info:doi/10.1109/TVCG.2020.3030418&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&rft.atitle=CNN Explainer: Learning Convolutional Neural Networks with Interactive Visualization&rft.jtitle=IEEE Transactions on Visualization and Computer Graphics&rft.date=2021&rft.volume=27&rft.issue=2&rft.spage=1396&rft.epage=1406&rft.issn=1077-2626&rft.eissn=1941-0506&rft.au=Zijie J. Wang&rft.aulast=Zijie J. Wang"
+    },
+    "getProgramTermsAccepted": false,
+    "sections": {
+        "abstract": "true",
+        "authors": "true",
+        "figures": "true",
+        "multimedia": "true",
+        "references": "true",
+        "citedby": "true",
+        "keywords": "true",
+        "definitions": "false",
+        "algorithm": "false",
+        "dataset": "false",
+        "cadmore": "false",
+        "footnotes": "true",
+        "disclaimer": "false",
+        "relatedContent": "false",
+        "metrics": "true"
+    },
+    "abstract": "Deep learning's great success motivates many practitioners and students to learn about this exciting technology. However, it is often challenging for beginners to take their first step due to the complexity of understanding and applying deep learning. We present CNN E\n<sc xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">xplainer,</small>\n an interactive visualization tool designed for non-experts to learn and examine convolutional neural networks (CNNs), a foundational deep learning model architecture. Our tool addresses key challenges that novices face while learning about CNNs, which we identify from interviews with instructors and a survey with past students. CNN E\n<sc xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">xplainer</small>\n tightly integrates a model overview that summarizes a CNN's structure, and on-demand, dynamic visual explanation views that help users understand the underlying components of CNNs. Through smooth transitions across levels of abstraction, our tool enables users to inspect the interplay between low-level mathematical operations and high-level model structures. A qualitative user study shows that CNN E\n<sc xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">xplainer</small>\n helps users more easily understand the inner workings of CNNs, and is engaging and enjoyable to use. We also derive design lessons from our study. Developed using modern web technologies, CNN E\n<sc xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">xplainer</small>\n runs locally in users' web browsers without the need for installation or specialized hardware, broadening the public's education access to modern deep learning techniques.",
+    "publicationYear": "2021",
+    "pdfPath": "/iel7/2945/9340023/09222325.pdf",
+    "publicationDate": "February 2021",
+    "doi": "10.1109/TVCG.2020.3030418",
+    "formulaStrippedArticleTitle": "CNN Explainer: Learning Convolutional Neural Networks with Interactive Visualization",
+    "displayPublicationTitle": "IEEE Transactions on Visualization and Computer Graphics",
+    "authorNames": "Zijie J. Wang;Robert Turko;Omar Shaikh;Haekyu Park;Nilaksh Das;Fred Hohman;Minsuk Kahng;Duen Horng Polo Chau",
+    "publicationTitle": "IEEE Transactions on Visualization and Computer Graphics",
+    "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=2945&title=CNN+Explainer%3A+Learning+Convolutional+Neural+Networks+with+Interactive+Visualization&isbn=&publicationDate=February+2021&author=Zijie+J.+Wang&ContentID=10.1109/TVCG.2020.3030418&orderBeanReset=true&startPage=1396&endPage=1406&volumeNum=27&issueNum=2",
+    "dateOfInsertion": "13 October 2020",
+    "startPage": "1396",
+    "endPage": "1406",
+    "pdfUrl": "/stamp/stamp.jsp?tp=&arnumber=9222325",
+    "keywords": [
+        {
+            "type": "IEEE Keywords",
+            "kwd": [
+                "Deep learning",
+                "Tools",
+                "Visualization",
+                "Mathematical model",
+                "Neurons",
+                "Convolutional neural networks"
+            ]
+        },
+        {
+            "type": "INSPEC: Controlled Indexing",
+            "kwd": [
+                "computer aided instruction",
+                "convolutional neural nets",
+                "data visualisation",
+                "interactive systems",
+                "Internet",
+                "online front-ends"
+            ]
+        },
+        {
+            "type": "INSPEC: Non-Controlled Indexing",
+            "kwd": [
+                "convolutional neural networks",
+                "foundational deep learning model architecture",
+                "CNN Explainer",
+                "dynamic visual explanation views",
+                "high-level model structures",
+                "interactive visualization tool"
+            ]
+        },
+        {
+            "type": "Author Keywords ",
+            "kwd": [
+                "Deep learning",
+                "machine learning",
+                "convolutional neural networks",
+                "visual analytics"
+            ]
+        },
+        {
+            "type": "MeSH Terms",
+            "kwd": [
+                "Computer Graphics",
+                "Humans",
+                "Neural Networks, Computer"
+            ]
+        }
+    ],
+    "doiLink": "https://doi-org.proxy.lib.ohio-state.edu/10.1109/TVCG.2020.3030418",
+    "displayPublicationDate": "13 October 2020",
+    "articleCopyRight": "2020 IEEE",
+    "issueLink": "/xpl/tocresult.jsp?isnumber=9340023&punumber=2945",
+    "pubLink": "/xpl/RecentIssue.jsp?punumber=2945",
+    "allowComments": false,
+    "isGetAddressInfoCaptured": false,
+    "isMarketingOptIn": false,
+    "pubTopics": [
+        {
+            "name": "Computing and Processing"
+        },
+        {
+            "name": "Bioengineering"
+        },
+        {
+            "name": "Signal Processing and Analysis"
+        }
+    ],
+    "publisher": "IEEE",
+    "displayDocTitle": "CNN Explainer: Learning Convolutional Neural Networks with Interactive Visualization",
+    "isStandard": false,
+    "isConference": false,
+    "volume": "27",
+    "issue": "2",
+    "isBookWithoutChapters": false,
+    "isChapter": false,
+    "isProduct": false,
+    "isEarlyAccess": false,
+    "isOpenAccess": false,
+    "isEphemera": false,
+    "xploreDocumentType": "Journals & Magazine",
+    "isBook": false,
+    "isJournal": true,
+    "isSpringer": false,
+    "accessionNumber": "20383307",
+    "pubMedId": "33048723",
+    "isFreeDocument": false,
+    "isPromo": false,
+    "isDynamicHtml": true,
+    "htmlLink": "/document/9222325/",
+    "htmlAbstractLink": "/document/9222325/",
+    "isCustomDenial": false,
+    "persistentLink": "https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/servlet/opac?punumber=2945",
+    "isNow": false,
+    "isSAE": false,
+    "isOUP": false,
+    "isSMPTE": false,
+    "fundingAgencies": {
+        "fundingAgency": [
+            {
+                "fundingName": "NSF",
+                "grantNumber": "IIS-1563816 and CNS-1704701"
+            },
+            {
+                "fundingName": "NASA NSTRF, DARPA GARD, gifts from Intel, NVIDIA, Google, Amazon",
+                "grantNumber": "HR00112030001"
+            }
+        ]
+    },
+    "openAccessFlag": "F",
+    "insertDate": "13 October 2020",
+    "ephemeraFlag": "false",
+    "title": "CNN Explainer: Learning Convolutional Neural Networks with Interactive Visualization",
+    "html_flag": "false",
+    "ml_html_flag": "true",
+    "sourcePdf": "27tvcg02-wang-3030418-x.pdf",
+    "mlTime": "PT0.087383S",
+    "xplore-pub-id": "2945",
+    "sponsors": [
+        {
+            "name": "IEEE Comput. Soc. Tech. Committee on Comput. Graphics",
+            "url": ""
+        },
+        {
+            "name": "IEEE Computer Society",
+            "url": "http://computer.org.proxy.lib.ohio-state.edu/"
+        }
+    ],
+    "isNumber": "9340023",
+    "rightsLinkFlag": "1",
+    "contentType": "periodicals",
+    "publicationNumber": "2945",
+    "citationCount": "85",
+    "xplore-issue": "9340023",
+    "articleId": "9222325",
+    "contentTypeDisplay": "Journals",
+    "subType": "IEEE Transaction",
+    "_value": "IEEE",
+    "lastupdate": "2023-10-18",
+    "mediaPath": "/mediastore_new/IEEE/content/media/2945/9340023/9222325"
+}

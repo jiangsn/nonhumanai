@@ -1,0 +1,1 @@
+Figure 6. The alpha matte predictions of the test images “troll” with trimap “user” and “doll” with trimap “small”. The first column shows the test images. For each test image, the 1st ranked result to the 5th ranked result under the SAD metric are displayed from column two to column six in decreasing orders. In both examples, our method achieves the best results.

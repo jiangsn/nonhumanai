@@ -1,0 +1,2 @@
+Figure 8: 
+Layer ambiguity is resolved when two different mixtures of the same layers are available.

@@ -1,0 +1,1 @@
+Figure 3. Illustration of the differentiable image warping process. For each point pt in the target view, we first project it onto the source view based on the predicted depth and camera pose, and then use bilinear interpolation to obtain the value of the warped image I^s at location pt.

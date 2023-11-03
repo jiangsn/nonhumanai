@@ -1,0 +1,1 @@
+Figure 5: Colorization of sketches: We compare generalization ability of pix2pix [12] and our model trained on real images. The task is to generate plausible appearances for human-drawn sketches of shoes and handbags [9].

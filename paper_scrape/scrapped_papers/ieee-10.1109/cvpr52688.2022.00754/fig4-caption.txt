@@ -1,0 +1,1 @@
+Figure 4. Network details of DualStyleGAN. For simplicity, the learned weights, biases and noises of StyleGAN are omitted.

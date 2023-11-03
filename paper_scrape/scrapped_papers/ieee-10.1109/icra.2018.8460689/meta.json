@@ -1,0 +1,285 @@
+{
+    "userInfo": {
+        "customerNameRaw": "The Ohio State University",
+        "institutionName": "The Ohio State University",
+        "institute": true,
+        "member": false,
+        "individual": false,
+        "guest": false,
+        "subscribedContent": false,
+        "fileCabinetContent": false,
+        "fileCabinetUser": false,
+        "institutionalFileCabinetUser": false,
+        "products": "IEL|EBOOKS:1974:2014|JRNLARCH:1884:1994|CONFARCH:1951:1999|IBM:1872:2020|VDE|NOKIA BELL LABS|",
+        "instType": "Academic",
+        "userIds": [
+            7827
+        ],
+        "showPatentCitations": true,
+        "showGet802Link": true,
+        "openUrlImgLoc": "http://library-osu-edu.proxy.lib.ohio-state.edu/resources/serialssolutions/buttons/button75x25edit.jpg",
+        "openUrlLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu",
+        "instLogoFile": "7827_OSULHoriz.png",
+        "openUrlTxt": "Find It!",
+        "showOpenUrlLink": true,
+        "marketingInfoCaptured": false,
+        "tracked": false,
+        "ringGoldId": "2647",
+        "delegatedAdmin": false,
+        "desktop": false,
+        "isInstitutionDashboardEnabled": false,
+        "isInstitutionProfileEnabled": false,
+        "isRoamingEnabled": true,
+        "isDelegatedAdmin": false,
+        "isMdl": false,
+        "isCwg": false,
+        "isIel": true,
+        "isAcademic": true
+    },
+    "authors": [
+        {
+            "name": "Danfei Xu",
+            "affiliation": [
+                "Stanford Vision & Learning Lab"
+            ],
+            "firstName": "Danfei",
+            "lastName": "Xu",
+            "id": "37086228189"
+        },
+        {
+            "name": "Suraj Nair",
+            "affiliation": [
+                "CS, Caltech"
+            ],
+            "firstName": "Suraj",
+            "lastName": "Nair",
+            "id": "37570908800"
+        },
+        {
+            "name": "Yuke Zhu",
+            "affiliation": [
+                "Stanford Vision & Learning Lab"
+            ],
+            "firstName": "Yuke",
+            "lastName": "Zhu",
+            "id": "37086080772"
+        },
+        {
+            "name": "Julian Gao",
+            "affiliation": [
+                "Stanford Vision & Learning Lab"
+            ],
+            "firstName": "Julian",
+            "lastName": "Gao",
+            "id": "37086454887"
+        },
+        {
+            "name": "Animesh Garg",
+            "affiliation": [
+                "Stanford Vision & Learning Lab"
+            ],
+            "firstName": "Animesh",
+            "lastName": "Garg",
+            "id": "37086330576"
+        },
+        {
+            "name": "Li Fei-Fei",
+            "affiliation": [
+                "Stanford Vision & Learning Lab"
+            ],
+            "firstName": "Li",
+            "lastName": "Fei-Fei",
+            "id": "38273560700"
+        },
+        {
+            "name": "Silvio Savarese",
+            "affiliation": [
+                "Stanford Vision & Learning Lab"
+            ],
+            "firstName": "Silvio",
+            "lastName": "Savarese",
+            "id": "37298502600"
+        }
+    ],
+    "isbn": [
+        {
+            "format": "Electronic ISBN",
+            "value": "978-1-5386-3081-5",
+            "isbnType": ""
+        },
+        {
+            "format": "USB ISBN",
+            "value": "978-1-5386-3080-8",
+            "isbnType": ""
+        },
+        {
+            "format": "Print on Demand(PoD) ISBN",
+            "value": "978-1-5386-3082-2",
+            "isbnType": ""
+        }
+    ],
+    "issn": [
+        {
+            "format": "Electronic ISSN",
+            "value": "2577-087X"
+        }
+    ],
+    "articleNumber": "8460689",
+    "dbTime": "1 ms",
+    "metrics": {
+        "citationCountPaper": 56,
+        "citationCountPatent": 0,
+        "totalDownloads": 1372
+    },
+    "purchaseOptions": {
+        "showOtherFormatPricingTab": false,
+        "showPdfFormatPricingTab": true,
+        "pdfPricingInfoAvailable": true,
+        "otherPricingInfoAvailable": false,
+        "mandatoryBundle": false,
+        "optionalBundle": false,
+        "displayTextWhenOtherFormatPricingNotAvailable": "The purchase and pricing options for this item are unavailable. Select items are only available as part of a subscription package. You may try again later or <a href='https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/xpl/contact' target='_blank'>contact us</a> for more information.",
+        "pdfPricingInfo": [
+            {
+                "memberPrice": "$14.95",
+                "nonMemberPrice": "$33.00",
+                "partNumber": "8460689",
+                "type": "PDF/HTML"
+            }
+        ],
+        "openUrlFullLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu?url_ver=Z39.88-2004&rfr_id=info:sid/IEEE.org:XPLORE&rft_id=info:doi/10.1109/ICRA.2018.8460689&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&rft.atitle=Neural Task Programming: Learning to Generalize Across Hierarchical Tasks&rft.jtitle=2018 IEEE International Conference on Robotics and Automation (ICRA)&rft.date=2018&rft.spage=3795&rft.epage=3802&rft.eissn=2577-087X&rft.au=Danfei Xu&rft.aulast=Danfei Xu&rft.isbn=978-1-5386-3081-5"
+    },
+    "getProgramTermsAccepted": false,
+    "sections": {
+        "abstract": "true",
+        "authors": "true",
+        "figures": "true",
+        "multimedia": "true",
+        "references": "true",
+        "citedby": "true",
+        "keywords": "true",
+        "definitions": "false",
+        "algorithm": "false",
+        "dataset": "false",
+        "cadmore": "false",
+        "footnotes": "false",
+        "disclaimer": "false",
+        "relatedContent": "false",
+        "metrics": "true"
+    },
+    "abstract": "In this work, we propose a novel robot learning framework called Neural Task Programming (NTP), which bridges the idea of few-shot learning from demonstration and neural program induction. NTP takes as input a task specification (e.g., video demonstration of a task) and recursively decomposes it into finer sub-task specifications. These specifications are fed to a hierarchical neural program, where bottom-level programs are callable subroutines that interact with the environment. We validate our method in three robot manipulation tasks. NTP achieves strong generalization across sequential tasks that exhibit hierarchal and compositional structures. The experimental results show that NTP learns to generalize well towards unseen tasks with increasing lengths, variable topologies, and changing objectives.stanfordvl.github.io/ntp/.",
+    "publicationYear": "2018",
+    "pdfPath": "/iel7/8449910/8460178/08460689.pdf",
+    "publicationDate": "May 2018",
+    "doi": "10.1109/ICRA.2018.8460689",
+    "formulaStrippedArticleTitle": "Neural Task Programming: Learning to Generalize Across Hierarchical Tasks",
+    "displayPublicationTitle": "2018 IEEE International Conference on Robotics and Automation (ICRA)",
+    "authorNames": "Danfei Xu;Suraj Nair;Yuke Zhu;Julian Gao;Animesh Garg;Li Fei-Fei;Silvio Savarese",
+    "publicationTitle": "2018 IEEE International Conference on Robotics and Automation (ICRA)",
+    "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=proceedings&title=Neural+Task+Programming%3A+Learning+to+Generalize+Across+Hierarchical+Tasks&isbn=978-1-5386-3081-5&publicationDate=May+2018&author=Danfei+Xu&ContentID=10.1109/ICRA.2018.8460689&orderBeanReset=true&startPage=3795&endPage=3802&proceedingName=2018+IEEE+International+Conference+on+Robotics+and+Automation+%28ICRA%29",
+    "dateOfInsertion": "13 September 2018",
+    "startPage": "3795",
+    "endPage": "3802",
+    "pdfUrl": "/stamp/stamp.jsp?tp=&arnumber=8460689",
+    "keywords": [
+        {
+            "type": "IEEE Keywords",
+            "kwd": [
+                "Task analysis",
+                "Programming",
+                "Robots",
+                "Sorting",
+                "Semantics",
+                "Topology",
+                "Data models"
+            ]
+        },
+        {
+            "type": "INSPEC: Controlled Indexing",
+            "kwd": [
+                "learning (artificial intelligence)",
+                "manipulators",
+                "neural nets"
+            ]
+        },
+        {
+            "type": "INSPEC: Non-Controlled Indexing",
+            "kwd": [
+                "neural task programming",
+                "unseen tasks",
+                "sequential tasks",
+                "robot manipulation tasks",
+                "bottom-level programs",
+                "hierarchical neural program",
+                "finer sub-task specifications",
+                "task specification",
+                "neural program induction",
+                "few-shot learning",
+                "NTP",
+                "novel robot learning framework",
+                "hierarchical tasks"
+            ]
+        }
+    ],
+    "doiLink": "https://doi-org.proxy.lib.ohio-state.edu/10.1109/ICRA.2018.8460689",
+    "displayPublicationDate": "21-25 May 2018",
+    "articleCopyRight": "2018 IEEE",
+    "issueLink": "/xpl/tocresult.jsp?isnumber=8460178&punumber=8449910",
+    "pubLink": "/xpl/conhome/8449910/proceeding",
+    "allowComments": false,
+    "isGetAddressInfoCaptured": false,
+    "isMarketingOptIn": false,
+    "pubTopics": [
+        {
+            "name": "Robotics and Control Systems"
+        }
+    ],
+    "publisher": "IEEE",
+    "displayDocTitle": "Neural Task Programming: Learning to Generalize Across Hierarchical Tasks",
+    "isStandard": false,
+    "isConference": true,
+    "isBookWithoutChapters": false,
+    "isChapter": false,
+    "isProduct": false,
+    "isEarlyAccess": false,
+    "isOpenAccess": false,
+    "isEphemera": false,
+    "xploreDocumentType": "Conference Publication",
+    "isBook": false,
+    "isJournal": false,
+    "isSpringer": false,
+    "accessionNumber": "18095920",
+    "isFreeDocument": false,
+    "isPromo": false,
+    "isDynamicHtml": true,
+    "htmlLink": "/document/8460689/",
+    "htmlAbstractLink": "/document/8460689/",
+    "isCustomDenial": false,
+    "persistentLink": "https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/servlet/opac?punumber=8449910",
+    "isNow": false,
+    "isSAE": false,
+    "isOUP": false,
+    "isSMPTE": false,
+    "openAccessFlag": "F",
+    "insertDate": "13 September 2018",
+    "ephemeraFlag": "false",
+    "title": "Neural Task Programming: Learning to Generalize Across Hierarchical Tasks",
+    "confLoc": "Brisbane, QLD, Australia",
+    "html_flag": "false",
+    "ml_html_flag": "true",
+    "sourcePdf": "1475.pdf",
+    "mlTime": "PT0.061661S",
+    "xplore-pub-id": "8449910",
+    "isNumber": "8460178",
+    "rightsLinkFlag": "1",
+    "contentType": "conferences",
+    "publicationNumber": "8449910",
+    "citationCount": "56",
+    "xplore-issue": "8460178",
+    "articleId": "8460689",
+    "contentTypeDisplay": "Conferences",
+    "subType": "IEEE Conference",
+    "_value": "IEEE",
+    "lastupdate": "2023-10-07",
+    "mediaPath": "/mediastore_new/IEEE/content/media/8449910/8460178/8460689"
+}

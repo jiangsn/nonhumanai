@@ -1,0 +1,1 @@
+Figure 7: Manual segmentation enables diverse tasks such as transferring a fireball (b) To a perfume bottle (a) To produce a fire-illuminated look (c), or switching the texture between different apples (d, e).

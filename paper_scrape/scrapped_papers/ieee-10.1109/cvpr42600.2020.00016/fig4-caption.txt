@@ -1,0 +1,1 @@
+Figure 4: Qualitative evaluation of our multi-level pixel-aligned implicit function on samples from RenderPeople and BUFF [50] datasets. We compare the results of our method with the results of other alternative designs.

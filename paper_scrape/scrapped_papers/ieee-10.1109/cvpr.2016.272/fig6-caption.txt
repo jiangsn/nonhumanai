@@ -1,0 +1,1 @@
+Figure 6: Comparison with Gatys et al. [7] for artistic synthesis. Content images credited to flickr users christopher michel and theilr.

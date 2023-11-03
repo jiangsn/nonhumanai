@@ -1,0 +1,2 @@
+Fig. 1. 
+Two representative SR3 outputs: (top) 8× face super-resolution at 16×16 → 128×128 pixels (bottom) 4× natural image super-resolution at 64×64 → 256×256 pixels.

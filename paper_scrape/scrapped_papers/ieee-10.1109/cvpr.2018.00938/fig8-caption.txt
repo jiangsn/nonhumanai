@@ -1,0 +1,1 @@
+Figure 8: PSNR at each time step when generating 31 intermediate frames on the high-frame-rate sintel dataset.

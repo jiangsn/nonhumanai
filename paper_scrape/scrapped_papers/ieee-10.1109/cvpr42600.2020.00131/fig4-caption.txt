@@ -1,0 +1,1 @@
+Figure 4. Visualizing attended memory location α: Red dots marking the center are placed to aid visualization. Note that we learn the memory shift, so the user action does not always align with how the memory is shifted. In this case, Right shifts α to the left, and Left shifts α to the right. It also learns not to shift when an invalid action is given.

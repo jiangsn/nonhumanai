@@ -1,0 +1,1 @@
+Figure 9: User study results confirming that our algorithm produces photorealistic and faithful results.

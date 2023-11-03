@@ -1,0 +1,2 @@
+Figure 3. 
+Architecture of the proposed depth-aware video frame interpolation model. Given two input frames, we first estimate the optical flows and depth maps and use the proposed depth-aware flow projection layer to generate intermediate flows. We then adopt the adaptive warping layer to warp the input frames, depth maps, and contextual features based on the flows and spatially varying interpolation kernels. Finally, we apply a frame synthesis network to generate the output frame.

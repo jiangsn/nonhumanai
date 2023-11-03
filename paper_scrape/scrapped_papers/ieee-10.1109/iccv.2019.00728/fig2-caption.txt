@@ -1,0 +1,2 @@
+Figure 2: 
+Overview of the proposed FSGAN approach. (a) The recurrent reenactment generator Gr and the segmentation generator G_{s}. G_{r}Gs.Gr estimates the reenacted face Fr and its segmentation Sr, while Gs estimates the face and hair segmentation mask St of the target image It. (b) The inpainting generator Gc inpaints the missing parts of \tilde{F}_{r}F~r based on St to estimate the complete reenacted face Fc. (c) The blending generator Gb blends Fc and Ft, using the segmentation mask St.

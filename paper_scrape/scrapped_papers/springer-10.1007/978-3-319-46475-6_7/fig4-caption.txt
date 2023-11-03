@@ -1,0 +1,1 @@
+Number of annotated pixels per class in our dataset. Note the logarithmic scale. (Color figure online)

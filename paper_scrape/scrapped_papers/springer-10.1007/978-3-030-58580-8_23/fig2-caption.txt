@@ -1,0 +1,1 @@
+Few-shot image-to-image translation. Training. The training set consists of many domains. We train a model to translate images between these domains. Deployment. We apply the trained model to perform few-shot image translation. Given a few examples from a test domain, we aim to translate a content image into an image analogous to the test class.

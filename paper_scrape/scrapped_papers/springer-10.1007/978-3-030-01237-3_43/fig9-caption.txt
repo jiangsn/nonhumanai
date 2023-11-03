@@ -1,0 +1,1 @@
+Results of our approach applied to the HD video of Eadweard Muybridge “The horse in motion” (1878). Every frame was independently processed (no smoothing or post-processing) by our model in the style of Picasso. Video resolution \(1920 \times 1280\) pix, here the original aspect ratio was changed to save space.

@@ -1,0 +1,1 @@
+Figure 3. Ablation over TV regularization. Clear artifacts are visible in the forward-facing scenes without TV on both σ and SH coefficients, although psnr does not always reflect this.

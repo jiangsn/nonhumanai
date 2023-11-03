@@ -1,0 +1,2 @@
+Table 1. 
+A comparison with the state of the art on the Helen dataset, using F1 score. As is common, scores for hair and other fine-grained categories are omitted to aid comparison to previous work. The overall score is computed by merging the nose, brows, eyes, and mouth categories. Training with our synthetic data achieves results in line with the state of the art, trained with real data.

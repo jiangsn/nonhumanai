@@ -1,0 +1,2 @@
+Figure 7: 
+Quantitative evaluation, motion prediction: We evaluate the quality of the predicted motion by comparing the pixel positions in 60 future frames to those in the ground-truth video. We compare our proposed motion representation to three alternative methods, described in Section 7.1. The shaded region shows the range of predictions produced by Endo et al. [6]. We find that our proposed motion representation is able to most reliably reproduce the true motion information for scenes with fluid motion. All comparisons are performed on images of size 1280 × 720.

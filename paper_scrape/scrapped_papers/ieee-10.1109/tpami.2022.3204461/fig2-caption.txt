@@ -1,0 +1,2 @@
+Fig. 2. 
+The forward diffusion process q (left to right) gradually adds Gaussian noise to the target image. The reverse process p (right to left) iteratively denoises the target image, conditioned on a source image x. (Source x is not shown.).

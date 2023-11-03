@@ -1,0 +1,1 @@
+Figure 1: By combining deep convolutional neural network with MRF prior, our method can transfer both photorealistic and non-photorealistic styles to new images. Images credited to flickr users mricon (A) and vidar schiefloe (B).

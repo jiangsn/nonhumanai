@@ -1,0 +1,2 @@
+Fig. 12. 
+FID score versus number of inference steps for 64×64 \rightarrow 256×256 super-resolution. Regression (red) requires one step. All SR3 results (blue) are generated from the same denoising model but different inference noise schedules.

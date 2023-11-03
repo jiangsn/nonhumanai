@@ -1,0 +1,2 @@
+Figure 1: 
+Our model allows user control over both semantic and style as synthesizing an image. The semantic (e.g., existence of a tree) is controlled via a label map (visualized in the top row), while the style is controlled via the reference style image (visualized in the leftmost column). Please visit our website for interactive image synthesis demos.

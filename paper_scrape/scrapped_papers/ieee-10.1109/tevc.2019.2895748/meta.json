@@ -1,0 +1,331 @@
+{
+    "userInfo": {
+        "customerNameRaw": "The Ohio State University",
+        "institutionName": "The Ohio State University",
+        "institute": true,
+        "member": false,
+        "individual": false,
+        "guest": false,
+        "subscribedContent": false,
+        "fileCabinetContent": false,
+        "fileCabinetUser": false,
+        "institutionalFileCabinetUser": false,
+        "products": "IEL|EBOOKS:1974:2014|JRNLARCH:1884:1994|CONFARCH:1951:1999|IBM:1872:2020|VDE|NOKIA BELL LABS|",
+        "instType": "Academic",
+        "userIds": [
+            7827
+        ],
+        "showPatentCitations": true,
+        "showGet802Link": true,
+        "openUrlImgLoc": "http://library-osu-edu.proxy.lib.ohio-state.edu/resources/serialssolutions/buttons/button75x25edit.jpg",
+        "openUrlLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu",
+        "instLogoFile": "7827_OSULHoriz.png",
+        "openUrlTxt": "Find It!",
+        "showOpenUrlLink": true,
+        "marketingInfoCaptured": false,
+        "tracked": false,
+        "ringGoldId": "2647",
+        "delegatedAdmin": false,
+        "desktop": false,
+        "isInstitutionDashboardEnabled": false,
+        "isInstitutionProfileEnabled": false,
+        "isRoamingEnabled": true,
+        "isDelegatedAdmin": false,
+        "isMdl": false,
+        "isCwg": false,
+        "isIel": true,
+        "isAcademic": true
+    },
+    "authors": [
+        {
+            "name": "Chaoyue Wang",
+            "affiliation": [
+                "UBTECH Sydney Artificial Intelligence Centre, Faculty of Engineering and Information Technologies, University of Sydney, Darlington, Australia",
+                "School of Computer Science, University of Sydney, Darlington, Australia"
+            ],
+            "bio": {
+                "graphic": "/mediastore_new/IEEE/content/freeimages/4235/8915878/8627945/wang-2895748-small.gif",
+                "p": [
+                    "Chaoyue Wang received the bachelor\u2019s degree from Tianjin University, Tianjin, China, and the Ph.D. degree from the University of Technology Sydney, Ultimo, NSW, Australia.",
+                    "He is a Research Associate of machine learning and computer vision with the School of Computer Science, University of Sydney, Darlington, NSW, Australia. His current research interests include machine learning, deep learning, and generative models.",
+                    "Dr. Wang was a recipient of the Distinguished Student Paper Award in the International Joint Conference on Artificial Intelligence in 2017."
+                ]
+            },
+            "firstName": "Chaoyue",
+            "lastName": "Wang",
+            "id": "37086381041"
+        },
+        {
+            "name": "Chang Xu",
+            "affiliation": [
+                "UBTECH Sydney Artificial Intelligence Centre, Faculty of Engineering and Information Technologies, University of Sydney, Darlington, Australia",
+                "School of Computer Science, University of Sydney, Darlington, Australia"
+            ],
+            "bio": {
+                "graphic": "/mediastore_new/IEEE/content/freeimages/4235/8915878/8627945/xu-2895748-small.gif",
+                "p": [
+                    "Chang Xu received the Bachelor of Engineering degree from Tianjin University, Tianjin, China, and the Ph.D. degree from Peking University, Beijing, China.",
+                    "He is a Lecturer of machine learning and computer vision with the School of Computer Science, University of Sydney, Darlington, NSW, Australia. He received fellowships from IBM, Armonk, NY, USA, and Baidu, Beijing. His current research interests include machine learning, data mining algorithms, and related applications in artificial intelligence and computer vision, including multiview learning, multilabel learning, visual search, and face recognition. He has published in prestigious journals and top-tier conferences in the above areas."
+                ]
+            },
+            "firstName": "Chang",
+            "lastName": "Xu",
+            "orcid": "0000-0002-4756-0609",
+            "id": "37085549540"
+        },
+        {
+            "name": "Xin Yao",
+            "affiliation": [
+                "Shenzhen Key Laboratory of Computational Intelligence, University Key Laboratory of Evolving Intelligent Systems of Guangdong Province, Department of Computer Science and Engineering, Southern University of Science and Technology, Shenzhen, China",
+                "CERCIA, School of Computer Science, University of Birmingham, Birmingham, U.K."
+            ],
+            "bio": {
+                "graphic": "/mediastore_new/IEEE/content/freeimages/4235/8915878/8627945/yao-2895748-small.gif",
+                "p": [
+                    "Xin Yao (F\u201903) received the B.Sc. degree from the University of Science and Technology of China (USTC), Hefei, China, in 1982, the M.Sc. degree from the North China Institute of Computing Technologies, Beijing, China, in 1985, and the Ph.D. degree from USTC in 1990.",
+                    "He is a Chair Professor of computer science with the Southern University of Science and Technology, Shenzhen, China, and a part-time Professor of computer science with the University of Birmingham, Birmingham, U.K. His current research interests include evolutionary computation, ensemble learning, and their applications to software engineering.",
+                    "Dr. Yao was a recipient of the prestigious Royal Society Wolfson Research Merit Award in 2012, the IEEE Computational Intelligence Society (CIS) Evolutionary Computation Pioneer Award in 2013, the 2001 IEEE Donald G. Fink Prize Paper Award for his paper on evolving artificial neural networks, the 2010, 2016, and 2017 IEEE Transactions on Evolutionary Computation Outstanding Paper Awards, the 2011 IEEE Transactions on Neural Networks Outstanding Paper Award, and many other best paper awards. He was the President of IEEE CIS from 2014 to 2015 and the Editor-in-Chief of IEEE Transactions on Evolutionary Computation from 2003 to 2008. He was a Distinguished Lecturer of IEEE CIS."
+                ]
+            },
+            "firstName": "Xin",
+            "lastName": "Yao",
+            "id": "37276074900"
+        },
+        {
+            "name": "Dacheng Tao",
+            "affiliation": [
+                "UBTECH Sydney Artificial Intelligence Centre, Faculty of Engineering and Information Technologies, University of Sydney, Darlington, Australia",
+                "School of Computer Science, University of Sydney, Darlington, Australia"
+            ],
+            "bio": {
+                "graphic": "/mediastore_new/IEEE/content/freeimages/4235/8915878/8627945/tao-2895748-small.gif",
+                "p": [
+                    "Dacheng Tao (F\u201915) received the B.Eng. degree from the University of Science and Technology of China, Hefei, China, the M.Phil. degree from the Chinese University of Hong Kong, Hong Kong, and the Ph.D. degree from Birkbeck, University of London, London, U.K.",
+                    "He is a Professor of computer science and an ARC Laureate Fellow with the School of Computer Science and the Faculty of Engineering and Information Technologies, and the Inaugural Director of the UBTECH Sydney Artificial Intelligence Centre, University of Sydney, Darlington, NSW, Australia. He mainly applies statistics and mathematics to artificial intelligence and data science. His research results have expounded in one monograph and over 200 publications in prestigious journals and prominent conferences, such as the IEEE Transactions on Pattern Analysis and Machine Intelligence, the IEEE Transactions on Image Processing, the IEEE Transactions on Neural Networks and Learning Systems, the International Journal of Computer Vision, the Journal of Machine Learning Research, Neural Information Processing Systems, International Conference on Machine Learning, IEEE Conference on Computer Vision and Pattern Recognition, IEEE International Conference on Computer Vision, European Conference on Computer Vision, IEEE International Conference on Data Mining, Association for Computing Machinery\u2019s Special Interest Group on Knowledge Discovery and Data Mining.",
+                    "Mr. Tao was a recipient of several best paper awards, such as the Best Theory/Algorithm Paper Runner Up Award in IEEE ICDM\u201907, the Best Student Paper Award in IEEE ICDM\u201913, the Distinguished Paper Award in the 2018 IJCAI, the 2014 ICDM 10-Year Highest-Impact Paper Award, and the 2017 IEEE Signal Processing Society Best Paper Award, the 2015 Australian Scopus-Eureka Prize, and the 2018 IEEE ICDM Research Contributions Award. He is a fellow of the Australian Academy of Science, American Association for the Advancement of Science, International Association for Pattern Recognition, Optical Society of America, Society of Photo-Optical Instrumentation Engineers."
+                ]
+            },
+            "firstName": "Dacheng",
+            "lastName": "Tao",
+            "id": "37269935500"
+        }
+    ],
+    "issn": [
+        {
+            "format": "Print ISSN",
+            "value": "1089-778X"
+        },
+        {
+            "format": "Print ISSN",
+            "value": "1089-778X"
+        },
+        {
+            "format": "Electronic ISSN",
+            "value": "1941-0026"
+        }
+    ],
+    "articleNumber": "8627945",
+    "dbTime": "1 ms",
+    "metrics": {
+        "citationCountPaper": 172,
+        "citationCountPatent": 0,
+        "totalDownloads": 6382
+    },
+    "purchaseOptions": {
+        "showOtherFormatPricingTab": false,
+        "showPdfFormatPricingTab": true,
+        "pdfPricingInfoAvailable": true,
+        "otherPricingInfoAvailable": false,
+        "mandatoryBundle": false,
+        "optionalBundle": false,
+        "displayTextWhenOtherFormatPricingNotAvailable": "The purchase and pricing options for this item are unavailable. Select items are only available as part of a subscription package. You may try again later or <a href='https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/xpl/contact' target='_blank'>contact us</a> for more information.",
+        "pdfPricingInfo": [
+            {
+                "memberPrice": "$14.95",
+                "nonMemberPrice": "$33.00",
+                "partNumber": "8627945",
+                "type": "PDF/HTML"
+            }
+        ],
+        "openUrlFullLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu?url_ver=Z39.88-2004&rfr_id=info:sid/IEEE.org:XPLORE&rft_id=info:doi/10.1109/TEVC.2019.2895748&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&rft.atitle=Evolutionary Generative Adversarial Networks&rft.jtitle=IEEE Transactions on Evolutionary Computation&rft.date=2019&rft.volume=23&rft.issue=6&rft.spage=921&rft.epage=934&rft.issn=1089-778X&rft.eissn=1941-0026&rft.au=Chaoyue Wang&rft.aulast=Chaoyue Wang"
+    },
+    "getProgramTermsAccepted": false,
+    "sections": {
+        "abstract": "true",
+        "authors": "true",
+        "figures": "true",
+        "multimedia": "false",
+        "references": "true",
+        "citedby": "true",
+        "keywords": "true",
+        "definitions": "false",
+        "algorithm": "false",
+        "dataset": "false",
+        "cadmore": "false",
+        "footnotes": "true",
+        "disclaimer": "false",
+        "relatedContent": "false",
+        "metrics": "true"
+    },
+    "abstract": "Generative adversarial networks (GANs) have been effective for learning generative models for real-world data. However, accompanied with the generative tasks becoming more and more challenging, existing GANs (GAN and its variants) tend to suffer from different training problems such as instability and mode collapse. In this paper, we propose a novel GAN framework called evolutionary GANs (E-GANs) for stable GAN training and improved generative performance. Unlike existing GANs, which employ a predefined adversarial objective function alternately training a generator and a discriminator, we evolve a population of generators to play the adversarial game with the discriminator. Different adversarial training objectives are employed as mutation operations and each individual (i.e., generator candidature) are updated based on these mutations. Then, we devise an evaluation mechanism to measure the quality and diversity of generated samples, such that only well-performing generator(s) are preserved and used for further training. In this way, E-GAN overcomes the limitations of an individual adversarial training objective and always preserves the well-performing offspring, contributing to progress in, and the success of GANs. Experiments on several datasets demonstrate that E-GAN achieves convincing generative performance and reduces the training problems inherent in existing GANs.",
+    "publicationYear": "2019",
+    "pdfPath": "/iel7/4235/8915878/08627945.pdf",
+    "publicationDate": "December 2019",
+    "doi": "10.1109/TEVC.2019.2895748",
+    "formulaStrippedArticleTitle": "Evolutionary Generative Adversarial Networks",
+    "displayPublicationTitle": "IEEE Transactions on Evolutionary Computation",
+    "authorNames": "Chaoyue Wang;Chang Xu;Xin Yao;Dacheng Tao",
+    "publicationTitle": "IEEE Transactions on Evolutionary Computation",
+    "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=4235&title=Evolutionary+Generative+Adversarial+Networks&isbn=&publicationDate=December+2019&author=Chaoyue+Wang&ContentID=10.1109/TEVC.2019.2895748&orderBeanReset=true&startPage=921&endPage=934&volumeNum=23&issueNum=6",
+    "dateOfInsertion": "27 January 2019",
+    "startPage": "921",
+    "endPage": "934",
+    "pdfUrl": "/stamp/stamp.jsp?tp=&arnumber=8627945",
+    "keywords": [
+        {
+            "type": "IEEE Keywords",
+            "kwd": [
+                "Gallium nitride",
+                "Training",
+                "Generators",
+                "Generative adversarial networks",
+                "Evolutionary computation",
+                "Task analysis",
+                "Computational modeling"
+            ]
+        },
+        {
+            "type": "INSPEC: Controlled Indexing",
+            "kwd": [
+                "data handling",
+                "evolutionary computation",
+                "game theory",
+                "learning (artificial intelligence)",
+                "neural net architecture"
+            ]
+        },
+        {
+            "type": "INSPEC: Non-Controlled Indexing",
+            "kwd": [
+                "predefined adversarial objective function",
+                "adversarial game",
+                "generator candidature",
+                "E-GAN",
+                "generative performance",
+                "evolutionary generative adversarial networks",
+                "generative models",
+                "generative tasks",
+                "evolutionary GANs",
+                "stable GAN training",
+                "adversarial training objectives"
+            ]
+        },
+        {
+            "type": "Author Keywords ",
+            "kwd": [
+                "Deep generative models",
+                "evolutionary computation",
+                "generative adversarial networks (GANs)"
+            ]
+        }
+    ],
+    "doiLink": "https://doi-org.proxy.lib.ohio-state.edu/10.1109/TEVC.2019.2895748",
+    "displayPublicationDate": "27 January 2019",
+    "articleCopyRight": "2019 IEEE",
+    "issueLink": "/xpl/tocresult.jsp?isnumber=8915878&punumber=4235",
+    "pubLink": "/xpl/RecentIssue.jsp?punumber=4235",
+    "allowComments": false,
+    "isGetAddressInfoCaptured": false,
+    "isMarketingOptIn": false,
+    "pubTopics": [
+        {
+            "name": "Computing and Processing"
+        }
+    ],
+    "publisher": "IEEE",
+    "displayDocTitle": "Evolutionary Generative Adversarial Networks",
+    "isStandard": false,
+    "isConference": false,
+    "volume": "23",
+    "issue": "6",
+    "isBookWithoutChapters": false,
+    "isChapter": false,
+    "isProduct": false,
+    "isEarlyAccess": false,
+    "isOpenAccess": false,
+    "isEphemera": false,
+    "xploreDocumentType": "Journals & Magazine",
+    "isBook": false,
+    "isJournal": true,
+    "isSpringer": false,
+    "accessionNumber": "19189247",
+    "isFreeDocument": false,
+    "isPromo": false,
+    "isDynamicHtml": true,
+    "htmlLink": "/document/8627945/",
+    "htmlAbstractLink": "/document/8627945/",
+    "isCustomDenial": false,
+    "persistentLink": "https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/servlet/opac?punumber=4235",
+    "isNow": false,
+    "isSAE": false,
+    "isOUP": false,
+    "isSMPTE": false,
+    "fundingAgencies": {
+        "fundingAgency": [
+            {
+                "fundingId": "10.13039/501100000923",
+                "fundingName": "Australian Research Council",
+                "grantNumber": "FL-170100117, DP-180103424, IH180100002 and DE180101438"
+            },
+            {
+                "fundingId": "10.13039/501100012166",
+                "fundingName": "National Basic Research Program of China (973 Program)",
+                "grantNumber": "2017YFC0804003"
+            },
+            {
+                "fundingId": "10.13039/501100000266",
+                "fundingName": "Engineering and Physical Sciences Research Council",
+                "grantNumber": "EP/J017515/1 and EP/P005578/1"
+            },
+            {
+                "fundingName": "Program for Guangdong Introducing Innovative and Enterpreneurial Teams",
+                "grantNumber": "2017ZT07X386"
+            },
+            {
+                "fundingId": "10.13039/501100012234",
+                "fundingName": "Shenzhen Peacock Plan",
+                "grantNumber": "KQTD2016112514355531"
+            },
+            {
+                "fundingId": "10.13039/501100010877",
+                "fundingName": "Shenzhen Science and Technology Innovation Commission",
+                "grantNumber": "ZDSYS201703031748284"
+            },
+            {
+                "fundingName": "Program for University Key Laboratory of Guangdong Province",
+                "grantNumber": "2017KSYS008"
+            }
+        ]
+    },
+    "openAccessFlag": "F",
+    "insertDate": "27 January 2019",
+    "ephemeraFlag": "false",
+    "title": "Evolutionary Generative Adversarial Networks",
+    "html_flag": "false",
+    "ml_html_flag": "true",
+    "sourcePdf": "tevc-chang-2895748-x.pdf",
+    "mlTime": "PT0.107689S",
+    "xplore-pub-id": "4235",
+    "isNumber": "8915878",
+    "rightsLinkFlag": "1",
+    "contentType": "periodicals",
+    "publicationNumber": "4235",
+    "citationCount": "172",
+    "xplore-issue": "8915878",
+    "articleId": "8627945",
+    "contentTypeDisplay": "Journals",
+    "subType": "IEEE Transaction",
+    "_value": "IEEE",
+    "lastupdate": "2023-10-13",
+    "mediaPath": "/mediastore_new/IEEE/content/media/4235/8915878/8627945"
+}

@@ -1,0 +1,1 @@
+Diverse Single Video Generation: Given an input video (red), we generate similarly looking videos (black) capturing both appearance of objects as well as their dynamics. Note the high quality of our generated videos. Please watch the full resolution videos in the supplementary material. (Color figure online)

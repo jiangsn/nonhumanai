@@ -1,0 +1,1 @@
+Figure 9: Ablation study on the task of appearance transfer. See sec. 4.4.

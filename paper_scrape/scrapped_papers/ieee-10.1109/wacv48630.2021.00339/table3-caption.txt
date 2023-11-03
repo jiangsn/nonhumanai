@@ -1,0 +1,2 @@
+Table 3. 
+Search distribution of hyper-parameters of different transformations used for our Robust White box attack. During training, we sample three functions from each of the transforms to estimate the gradient of our expectation over transforms.

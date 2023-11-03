@@ -1,0 +1,1 @@
+Figure 4. Few-shot image translation performance vs. number of object classes seen during training on the Animal Faces dataset. The performance is positively correlated with number of source object classes seen during training.

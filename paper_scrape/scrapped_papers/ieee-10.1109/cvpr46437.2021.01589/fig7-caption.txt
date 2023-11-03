@@ -1,0 +1,2 @@
+Figure 7: 
+Qualitative results for the proposed method and its closes competitor DAIN [3] on our Dual Event and Color Camera Dataset test sequences: “Fountain Schaffhauserplatz” (top-left), “Fountain Bellevue” (bottom-left) “Water bomb” (top-right) and “Umbrella” (bottom-right). For each sequence, the figure shows interpolation results on the left (the animation can be viewed in Acrobat Reader) and close-up interpolation results on the right. The close-ups, show input left and right frame and intermediate interpolated frames.

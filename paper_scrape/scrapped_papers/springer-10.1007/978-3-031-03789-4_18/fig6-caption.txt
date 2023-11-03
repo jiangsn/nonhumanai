@@ -1,0 +1,1 @@
+Evolution strategies (non-gradient method) vs. differentiable renderer (gradient based method) fitting target image with 200 triangles. The upper half shows the final results and the bottom half shows the details of optimization.

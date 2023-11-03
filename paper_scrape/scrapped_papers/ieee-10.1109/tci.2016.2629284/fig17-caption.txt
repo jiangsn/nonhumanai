@@ -1,0 +1,5 @@
+Fig. 17. Visual comparison for upscaling by a factor of 2 of 
+\mathsf{{Resolution-Chart}}, 
+\mathsf{Newspaper} and \mathsf{Painting}
+ images. (a,d,g) SRCNN, (b,e,h) A+ with 1024 atoms, and (c,f,i) RAISR. In this case, RAISR
+ filters map compressed LR images to their contrast-enhanced HR versions.

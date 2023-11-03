@@ -1,0 +1,280 @@
+{
+    "userInfo": {
+        "customerNameRaw": "The Ohio State University",
+        "institutionName": "The Ohio State University",
+        "institute": true,
+        "member": false,
+        "individual": false,
+        "guest": false,
+        "subscribedContent": false,
+        "fileCabinetContent": false,
+        "fileCabinetUser": false,
+        "institutionalFileCabinetUser": false,
+        "products": "IEL|EBOOKS:1974:2014|JRNLARCH:1884:1994|CONFARCH:1951:1999|IBM:1872:2020|VDE|NOKIA BELL LABS|",
+        "instType": "Academic",
+        "userIds": [
+            7827
+        ],
+        "showPatentCitations": true,
+        "showGet802Link": true,
+        "openUrlImgLoc": "http://library-osu-edu.proxy.lib.ohio-state.edu/resources/serialssolutions/buttons/button75x25edit.jpg",
+        "openUrlLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu",
+        "instLogoFile": "7827_OSULHoriz.png",
+        "openUrlTxt": "Find It!",
+        "showOpenUrlLink": true,
+        "marketingInfoCaptured": false,
+        "tracked": false,
+        "ringGoldId": "2647",
+        "delegatedAdmin": false,
+        "desktop": false,
+        "isInstitutionDashboardEnabled": false,
+        "isInstitutionProfileEnabled": false,
+        "isRoamingEnabled": true,
+        "isDelegatedAdmin": false,
+        "isMdl": false,
+        "isCwg": false,
+        "isIel": true,
+        "isAcademic": true
+    },
+    "authors": [
+        {
+            "name": "Josh Tobin",
+            "affiliation": [
+                "EECS, UC Berkeley"
+            ],
+            "firstName": "Josh",
+            "lastName": "Tobin",
+            "id": "37086089776"
+        },
+        {
+            "name": "Rachel Fong",
+            "affiliation": [
+                "OpenAI"
+            ],
+            "firstName": "Rachel",
+            "lastName": "Fong",
+            "id": "37086301496"
+        },
+        {
+            "name": "Alex Ray",
+            "affiliation": [
+                "OpenAI"
+            ],
+            "firstName": "Alex",
+            "lastName": "Ray",
+            "id": "37086299490"
+        },
+        {
+            "name": "Jonas Schneider",
+            "affiliation": [
+                "OpenAI"
+            ],
+            "firstName": "Jonas",
+            "lastName": "Schneider",
+            "id": "37086303612"
+        },
+        {
+            "name": "Wojciech Zaremba",
+            "affiliation": [
+                "OpenAI"
+            ],
+            "firstName": "Wojciech",
+            "lastName": "Zaremba",
+            "id": "37085797161"
+        },
+        {
+            "name": "Pieter Abbeel",
+            "affiliation": [
+                "EECS, ICSI"
+            ],
+            "firstName": "Pieter",
+            "lastName": "Abbeel",
+            "id": "37542877900"
+        }
+    ],
+    "isbn": [
+        {
+            "format": "Electronic ISBN",
+            "value": "978-1-5386-2682-5",
+            "isbnType": ""
+        },
+        {
+            "format": "USB ISBN",
+            "value": "978-1-5386-2681-8",
+            "isbnType": ""
+        },
+        {
+            "format": "Print on Demand(PoD) ISBN",
+            "value": "978-1-5386-2683-2",
+            "isbnType": ""
+        }
+    ],
+    "issn": [
+        {
+            "format": "Electronic ISSN",
+            "value": "2153-0866"
+        }
+    ],
+    "articleNumber": "8202133",
+    "dbTime": "1 ms",
+    "metrics": {
+        "citationCountPaper": 1100,
+        "citationCountPatent": 5,
+        "totalDownloads": 11165
+    },
+    "purchaseOptions": {
+        "showOtherFormatPricingTab": false,
+        "showPdfFormatPricingTab": true,
+        "pdfPricingInfoAvailable": true,
+        "otherPricingInfoAvailable": false,
+        "mandatoryBundle": false,
+        "optionalBundle": false,
+        "displayTextWhenOtherFormatPricingNotAvailable": "The purchase and pricing options for this item are unavailable. Select items are only available as part of a subscription package. You may try again later or <a href='https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/xpl/contact' target='_blank'>contact us</a> for more information.",
+        "pdfPricingInfo": [
+            {
+                "memberPrice": "$14.95",
+                "nonMemberPrice": "$33.00",
+                "partNumber": "8202133",
+                "type": "PDF/HTML"
+            }
+        ],
+        "openUrlFullLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu?url_ver=Z39.88-2004&rfr_id=info:sid/IEEE.org:XPLORE&rft_id=info:doi/10.1109/IROS.2017.8202133&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&rft.atitle=Domain randomization for transferring deep neural networks from simulation to the real world&rft.jtitle=2017 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)&rft.date=2017&rft.spage=23&rft.epage=30&rft.eissn=2153-0866&rft.au=Josh Tobin&rft.aulast=Josh Tobin&rft.isbn=978-1-5386-2682-5"
+    },
+    "getProgramTermsAccepted": false,
+    "sections": {
+        "abstract": "true",
+        "authors": "true",
+        "figures": "true",
+        "multimedia": "false",
+        "references": "true",
+        "citedby": "true",
+        "keywords": "true",
+        "definitions": "false",
+        "algorithm": "false",
+        "dataset": "false",
+        "cadmore": "false",
+        "footnotes": "true",
+        "disclaimer": "false",
+        "relatedContent": "false",
+        "metrics": "true"
+    },
+    "abstract": "Bridging the `reality gap' that separates simulated robotics from experiments on hardware could accelerate robotic research through improved data availability. This paper explores domain randomization, a simple technique for training models on simulated images that transfer to real images by randomizing rendering in the simulator. With enough variability in the simulator, the real world may appear to the model as just another variation. We focus on the task of object localization, which is a stepping stone to general robotic manipulation skills. We find that it is possible to train a real-world object detector that is accurate to 1.5 cm and robust to distractors and partial occlusions using only data from a simulator with non-realistic random textures. To demonstrate the capabilities of our detectors, we show they can be used to perform grasping in a cluttered environment. To our knowledge, this is the first successful transfer of a deep neural network trained only on simulated RGB images (without pre-training on real images) to the real world for the purpose of robotic control.",
+    "publicationYear": "2017",
+    "pdfPath": "/iel7/8119304/8202121/08202133.pdf",
+    "publicationDate": "September 2017",
+    "doi": "10.1109/IROS.2017.8202133",
+    "formulaStrippedArticleTitle": "Domain randomization for transferring deep neural networks from simulation to the real world",
+    "displayPublicationTitle": "2017 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
+    "authorNames": "Josh Tobin;Rachel Fong;Alex Ray;Jonas Schneider;Wojciech Zaremba;Pieter Abbeel",
+    "publicationTitle": "2017 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
+    "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=proceedings&title=Domain+randomization+for+transferring+deep+neural+networks+from+simulation+to+the+real+world&isbn=978-1-5386-2682-5&publicationDate=September+2017&author=Josh+Tobin&ContentID=10.1109/IROS.2017.8202133&orderBeanReset=true&startPage=23&endPage=30&proceedingName=2017+IEEE%2FRSJ+International+Conference+on+Intelligent+Robots+and+Systems+%28IROS%29",
+    "dateOfInsertion": "14 December 2017",
+    "startPage": "23",
+    "endPage": "30",
+    "pdfUrl": "/stamp/stamp.jsp?tp=&arnumber=8202133",
+    "keywords": [
+        {
+            "type": "IEEE Keywords",
+            "kwd": [
+                "Robots",
+                "Training",
+                "Adaptation models",
+                "Three-dimensional displays",
+                "Cameras",
+                "Solid modeling",
+                "Data models"
+            ]
+        },
+        {
+            "type": "INSPEC: Controlled Indexing",
+            "kwd": [
+                "image colour analysis",
+                "learning (artificial intelligence)",
+                "manipulators",
+                "neural nets",
+                "object detection",
+                "robot vision"
+            ]
+        },
+        {
+            "type": "INSPEC: Non-Controlled Indexing",
+            "kwd": [
+                "domain randomization",
+                "deep neural network",
+                "reality gap",
+                "robotic research",
+                "improved data availability",
+                "training models",
+                "simulated images",
+                "object localization",
+                "general robotic manipulation skills",
+                "real-world object detector",
+                "nonrealistic random textures",
+                "simulated RGB images",
+                "pre-training",
+                "robotic control"
+            ]
+        }
+    ],
+    "doiLink": "https://doi-org.proxy.lib.ohio-state.edu/10.1109/IROS.2017.8202133",
+    "displayPublicationDate": "24-28 September 2017",
+    "articleCopyRight": "2017 IEEE",
+    "issueLink": "/xpl/tocresult.jsp?isnumber=8202121&punumber=8119304",
+    "pubLink": "/xpl/conhome/8119304/proceeding",
+    "allowComments": false,
+    "isGetAddressInfoCaptured": false,
+    "isMarketingOptIn": false,
+    "pubTopics": [
+        {
+            "name": "Robotics and Control Systems"
+        }
+    ],
+    "publisher": "IEEE",
+    "displayDocTitle": "Domain randomization for transferring deep neural networks from simulation to the real world",
+    "isStandard": false,
+    "isConference": true,
+    "isBookWithoutChapters": false,
+    "isChapter": false,
+    "isProduct": false,
+    "isEarlyAccess": false,
+    "isOpenAccess": false,
+    "isEphemera": false,
+    "xploreDocumentType": "Conference Publication",
+    "isBook": false,
+    "isJournal": false,
+    "isSpringer": false,
+    "accessionNumber": "17428700",
+    "isFreeDocument": false,
+    "isPromo": false,
+    "isDynamicHtml": true,
+    "htmlLink": "/document/8202133/",
+    "htmlAbstractLink": "/document/8202133/",
+    "isCustomDenial": false,
+    "persistentLink": "https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/servlet/opac?punumber=8119304",
+    "isNow": false,
+    "isSAE": false,
+    "isOUP": false,
+    "isSMPTE": false,
+    "openAccessFlag": "F",
+    "insertDate": "14 December 2017",
+    "ephemeraFlag": "false",
+    "title": "Domain randomization for transferring deep neural networks from simulation to the real world",
+    "confLoc": "Vancouver, BC, Canada",
+    "html_flag": "false",
+    "ml_html_flag": "true",
+    "sourcePdf": "1839.pdf",
+    "mlTime": "PT0.093349S",
+    "xplore-pub-id": "8119304",
+    "isNumber": "8202121",
+    "rightsLinkFlag": "1",
+    "contentType": "conferences",
+    "publicationNumber": "8119304",
+    "citationCount": "1100",
+    "xplore-issue": "8202121",
+    "articleId": "8202133",
+    "contentTypeDisplay": "Conferences",
+    "subType": "IEEE Conference",
+    "_value": "IEEE",
+    "lastupdate": "2023-10-19",
+    "mediaPath": "/mediastore_new/IEEE/content/media/8119304/8202121/8202133"
+}

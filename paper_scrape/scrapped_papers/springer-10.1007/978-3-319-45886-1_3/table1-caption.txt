@@ -1,0 +1,1 @@
+Table 1. Short-term consistency benchmark results. Mean squared error of different methods on 5 video sequences, averaged over 6 styles, is shown. Pixel values in images were between 0 and 1.

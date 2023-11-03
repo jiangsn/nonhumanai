@@ -1,0 +1,1 @@
+Figure 9: Qualitative comparison between model-based single-person pose estimation of SMPLify [2] and our FCN-based result, in the absence (‘full-body images’) and presence (‘all images’) of occlusions.

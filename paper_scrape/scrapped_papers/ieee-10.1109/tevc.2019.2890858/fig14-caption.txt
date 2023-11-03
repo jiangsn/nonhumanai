@@ -1,0 +1,1 @@
+Fig. 14. Number of successful attacks (vertical axis) for a specific class acting as the original (black) and target (gray) class, for targeted attacks.

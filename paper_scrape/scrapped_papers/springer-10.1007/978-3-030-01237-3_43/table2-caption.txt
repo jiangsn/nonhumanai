@@ -1,0 +1,1 @@
+Table 2. Average inference time and GPU memory consumption, measured on a Titan X Pascal, for different methods with batch size 1 and input image of \(768\times 768\) pix.

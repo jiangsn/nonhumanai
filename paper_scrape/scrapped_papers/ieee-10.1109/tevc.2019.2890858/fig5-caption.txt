@@ -1,0 +1,1 @@
+Fig. 5. Graphs shows the percentage of natural images that were successfully perturbed to a certain number (from 0 to 9) of target classes by using one-, three-, or five-pixel perturbation. The vertical axis shows the percentage of images that can be perturbed while the horizontal axis indicates the number of target classes.

@@ -1,0 +1,2 @@
+Table 7. 
+Success Rate of Robust Black-box attack on XceptionNet and MesoNet. Acc-C denotes the accuracy of the detector on compressed adversarial videos.

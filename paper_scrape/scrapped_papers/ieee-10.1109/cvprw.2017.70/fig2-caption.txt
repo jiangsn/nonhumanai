@@ -1,0 +1,1 @@
+Figure 2: Comparing the performance of the vanilla A3C agent with no curiosity against the proposed curious A3C agent on a hard exploration task in VizDoom-fixed (c.f. Section 3) indicates that the curiosity based intrinsic reward signal helps solving the task.

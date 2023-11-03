@@ -1,0 +1,1 @@
+a, A C++ implementation of a variable sort 2 function that sorts any input sequence of up to two elements. b, The C++ implementation in a is compiled to this equivalent low-level assembly representation.

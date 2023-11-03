@@ -1,0 +1,1 @@
+Table 3 Few-Shot Classification Accuracies Averaged Over 5 Splits.

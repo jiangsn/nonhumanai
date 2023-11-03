@@ -1,0 +1,2 @@
+Figure 1: 
+Given only an internet photo collection (a), our method is able to render novel views with variable illumination (b). Photos by Flickr users dbowie78, vasnic64, punch /\color{Magenta}{\text{CC BY}}CC BY.

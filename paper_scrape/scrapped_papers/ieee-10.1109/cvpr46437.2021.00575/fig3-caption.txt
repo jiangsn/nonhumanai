@@ -1,0 +1,2 @@
+Figure 3: 
+Deep warping: Above: Naïve splatting of RGB pixels results in increasingly large unknown regions over time, shown in magenta. Below: For the same frames, our deep warping approach synthesizes realistic texture in these unknown regions.

@@ -1,0 +1,1 @@
+Table 1. The see-in-the-dark (SID) dataset contains 5094 raw short-exposure images, each with a reference long-exposure im-age. The images were collected by two cameras (top and bottom). From left to right: ratio of exposure times between input and refer-ence images, filter array, exposure time of input image, and number of images in each condition

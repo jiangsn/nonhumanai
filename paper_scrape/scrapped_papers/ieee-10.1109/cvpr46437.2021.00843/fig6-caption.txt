@@ -1,0 +1,2 @@
+Figure 6: 
+Our MPI with view-dependent modeling can replicate the rainbow reflections on the CD, while the standard MPI breaks down completely.

@@ -1,0 +1,2 @@
+Table 2. Quantitative comparison on image interpolation and manipulation between Image2StyleGAN
+[29] and our in-domain inversion. \(\downarrow \) means lower number is better.

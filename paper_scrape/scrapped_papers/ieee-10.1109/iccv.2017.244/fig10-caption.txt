@@ -1,0 +1,1 @@
+Figure 10: Photo enhancement: Mapping from a set of iPhone snaps to professional DSLR photographs, the system often learns to produce shallow focus. Here we show some of the most successful results in our test set-average performance is considerably worse. Please see our website for more comprehensive and random examples.

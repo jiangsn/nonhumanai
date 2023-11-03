@@ -1,0 +1,2 @@
+TABLE 1 
+Task Specific U-Net Architecture Parameters

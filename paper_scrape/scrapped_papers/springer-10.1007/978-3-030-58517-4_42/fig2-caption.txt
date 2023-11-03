@@ -1,0 +1,1 @@
+Pipeline of Neural Voice Puppetry. Given an audio sequence we use the DeepSpeech RNN to predict a window of character logits that are fed into a small network. This generalized network predicts coefficients that drive a person-specific expression blendshape basis. We render the target face model with the new expressions using a novel light-weight neural rendering network.

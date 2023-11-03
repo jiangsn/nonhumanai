@@ -1,0 +1,2 @@
+Figure 6. 
+In each sub-image, we display a heatmap showing which image regions changed the most (in red) and which regions changed the least (in blue) between the specified iterations.

@@ -1,0 +1,1 @@
+Figure 3: System overview: An input image (left) is processed through a series of steps to produce a scene CAD model (bottom right).

@@ -1,0 +1,358 @@
+{
+    "userInfo": {
+        "customerNameRaw": "The Ohio State University",
+        "institutionName": "The Ohio State University",
+        "institute": true,
+        "member": false,
+        "individual": false,
+        "guest": false,
+        "subscribedContent": false,
+        "fileCabinetContent": false,
+        "fileCabinetUser": false,
+        "institutionalFileCabinetUser": false,
+        "products": "IEL|EBOOKS:1974:2014|JRNLARCH:1884:1994|CONFARCH:1951:1999|IBM:1872:2020|VDE|NOKIA BELL LABS|",
+        "instType": "Academic",
+        "userIds": [
+            7827
+        ],
+        "showPatentCitations": true,
+        "showGet802Link": true,
+        "openUrlImgLoc": "http://library-osu-edu.proxy.lib.ohio-state.edu/resources/serialssolutions/buttons/button75x25edit.jpg",
+        "openUrlLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu",
+        "instLogoFile": "7827_OSULHoriz.png",
+        "openUrlTxt": "Find It!",
+        "showOpenUrlLink": true,
+        "marketingInfoCaptured": false,
+        "tracked": false,
+        "ringGoldId": "2647",
+        "delegatedAdmin": false,
+        "desktop": false,
+        "isInstitutionDashboardEnabled": false,
+        "isInstitutionProfileEnabled": false,
+        "isRoamingEnabled": true,
+        "isDelegatedAdmin": false,
+        "isMdl": false,
+        "isCwg": false,
+        "isIel": true,
+        "isAcademic": true
+    },
+    "authors": [
+        {
+            "name": "Keze Wang",
+            "affiliation": [
+                "School of Data and Computer Science, Sun Yat-sen University, Guangzhou, China",
+                "Engineering Research Center for Advanced Computing Engineering Software of Ministry of Education, China"
+            ],
+            "bio": {
+                "graphic": "/mediastore_new/IEEE/content/freeimages/34/9055268/8611195/wang-2892452-small.gif",
+                "p": [
+                    "Keze Wang received the BS degree in software engineering from Sun Yat-Sen University, Guangzhou, China, in 2012. He is currently worling towards the dual PhD degrees at Sun Yat-Sen University and Hong Kong Polytechnic University, advised by Prof. Liang Lin and Lei Zhang. His current research interests include computer vision and machine learning. More information can be found on his personal website http://kezewang.com."
+                ]
+            },
+            "firstName": "Keze",
+            "lastName": "Wang",
+            "orcid": "0000-0002-7817-8306",
+            "id": "37075653600"
+        },
+        {
+            "name": "Liang Lin",
+            "affiliation": [
+                "School of Data and Computer Science, Sun Yat-sen University, Guangzhou, China"
+            ],
+            "bio": {
+                "graphic": "/mediastore_new/IEEE/content/freeimages/34/9055268/8611195/lin-2892452-small.gif",
+                "p": [
+                    "Liang Lin is IET fellow, a full professor of Sun Yat-sen University. From 2008 to 2010, he was a post-doctoral fellow at University of California, Los Angeles. He currently leads the SenseTime R&D teams in developing cutting-edge and deliverable solutions in computer vision, data analysis and mining, and intelligent robotic systems. He has authored and co-authored more than 100 papers in top-tier academic journals and conferences. He is currently serving as an associate editor of the IEEE Trans. Human-Machine Systems. He served as area/session chairs for numerous conferences such as CVPR, ICME, ACCV, and ICMR. He was the recipient of Best Paper Runners-Up Award at ACM NPAR 2010, the Google Faculty Award in 2012, the Best Paper Diamond Award at IEEE ICME 2017, and the Hong Kong Scholars Award in 2014."
+                ]
+            },
+            "firstName": "Liang",
+            "lastName": "Lin",
+            "orcid": "0000-0003-2248-3755",
+            "id": "37406180600"
+        },
+        {
+            "name": "Chenhan Jiang",
+            "affiliation": [
+                "School of Data and Computer Science, Sun Yat-sen University, Guangzhou, China"
+            ],
+            "bio": {
+                "graphic": "/mediastore_new/IEEE/content/freeimages/34/9055268/8611195/jiang-2892452-small.gif",
+                "p": [
+                    "Chenhan Jiang received the BS degree in software engineering from XiDian University, Xi'an, China. She is currently working toward the master's degree in the School of Data and Computer Science, Sun Yat-Sen University, advised by Professor Liang Lin. Her current research interests include computer vision (e.g., 3D human pose estimation) and machine learning."
+                ]
+            },
+            "firstName": "Chenhan",
+            "lastName": "Jiang",
+            "orcid": "0000-0001-8771-3641",
+            "id": "37087235160"
+        },
+        {
+            "name": "Chen Qian",
+            "affiliation": [
+                "SenseTime Group, Hong Kong"
+            ],
+            "bio": {
+                "graphic": "/mediastore_new/IEEE/content/freeimages/34/9055268/8611195/qian-2892452-small.gif",
+                "p": [
+                    "Chen Qian received the BEng degree from the Institute for Interdisciplinary Information Science, Tsinghua University, in 2012, and the MPhil degree from the Department of Information Engineering, the Chinese University of Hong Kong, in 2014. He is currently working at SenseTime as research director. His research interests include human-related computer vision and machine learning problems."
+                ]
+            },
+            "firstName": "Chen",
+            "lastName": "Qian",
+            "id": "37086573923"
+        },
+        {
+            "name": "Pengxu Wei",
+            "affiliation": [
+                "School of Data and Computer Science, Sun Yat-sen University, Guangzhou, China"
+            ],
+            "bio": {
+                "graphic": "/mediastore_new/IEEE/content/freeimages/34/9055268/8611195/wei-2892452-small.gif",
+                "p": [
+                    "Pengxu Wei received the BS degree in computer science and technology from the China University of Mining and Technology, Beijing, China, in 2011 and the PhD degree from the School of Electronic, Electrical, and Communication Engineering, University of Chinese Academy of Sciences, in 2018. Her current research interests include computer vision and machine learning, specifically for data-driven vision and scene image recognition. She is currently a research scientist at Sun Yat-sen University."
+                ]
+            },
+            "firstName": "Pengxu",
+            "lastName": "Wei",
+            "id": "37085433705"
+        }
+    ],
+    "issn": [
+        {
+            "format": "Print ISSN",
+            "value": "0162-8828"
+        },
+        {
+            "format": "CD",
+            "value": "2160-9292"
+        },
+        {
+            "format": "Electronic ISSN",
+            "value": "1939-3539"
+        }
+    ],
+    "articleNumber": "8611195",
+    "dbTime": "1 ms",
+    "metrics": {
+        "citationCountPaper": 29,
+        "citationCountPatent": 0,
+        "totalDownloads": 2855
+    },
+    "purchaseOptions": {
+        "showOtherFormatPricingTab": false,
+        "showPdfFormatPricingTab": true,
+        "pdfPricingInfoAvailable": true,
+        "otherPricingInfoAvailable": false,
+        "mandatoryBundle": false,
+        "optionalBundle": false,
+        "displayTextWhenOtherFormatPricingNotAvailable": "The purchase and pricing options for this item are unavailable. Select items are only available as part of a subscription package. You may try again later or <a href='https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/xpl/contact' target='_blank'>contact us</a> for more information.",
+        "pdfPricingInfo": [
+            {
+                "memberPrice": "$14.95",
+                "nonMemberPrice": "$33.00",
+                "partNumber": "8611195",
+                "type": "PDF/HTML"
+            }
+        ],
+        "openUrlFullLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu?url_ver=Z39.88-2004&rfr_id=info:sid/IEEE.org:XPLORE&rft_id=info:doi/10.1109/TPAMI.2019.2892452&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&rft.atitle=3D Human Pose Machines with Self-Supervised Learning&rft.jtitle=IEEE Transactions on Pattern Analysis and Machine Intelligence&rft.date=2020&rft.volume=42&rft.issue=5&rft.spage=1069&rft.epage=1082&rft.issn=0162-8828&rft.eissn=1939-3539&rft.au=Keze Wang&rft.aulast=Keze Wang"
+    },
+    "getProgramTermsAccepted": false,
+    "sections": {
+        "abstract": "true",
+        "authors": "true",
+        "figures": "true",
+        "multimedia": "false",
+        "references": "true",
+        "citedby": "true",
+        "keywords": "true",
+        "definitions": "false",
+        "algorithm": "false",
+        "dataset": "false",
+        "cadmore": "false",
+        "footnotes": "false",
+        "disclaimer": "false",
+        "relatedContent": "false",
+        "metrics": "true"
+    },
+    "abstract": "Driven by recent computer vision and robotic applications, recovering 3D human poses has become increasingly important and attracted growing interests. In fact, completing this task is quite challenging due to the diverse appearances, viewpoints, occlusions and inherently geometric ambiguities inside monocular images. Most of the existing methods focus on designing some elaborate priors /constraints to directly regress 3D human poses based on the corresponding 2D human pose-aware features or 2D pose predictions. However, due to the insufficient 3D pose data for training and the domain gap between 2D space and 3D space, these methods have limited scalabilities for all practical scenarios (e.g., outdoor scene). Attempt to address this issue, this paper proposes a simple yet effective self-supervised correction mechanism to learn all intrinsic structures of human poses from abundant images. Specifically, the proposed mechanism involves two dual learning tasks, i.e., the 2D-to-3D pose transformation and 3D-to-2D pose projection, to serve as a bridge between 3D and 2D human poses in a type of \u201cfree\u201d self-supervision for accurate 3D human pose estimation. The 2D-to-3D pose implies to sequentially regress intermediate 3D poses by transforming the pose representation from the 2D domain to the 3D domain under the sequence-dependent temporal context, while the 3D-to-2D pose projection contributes to refining the intermediate 3D poses by maintaining geometric consistency between the 2D projections of 3D poses and the estimated 2D poses. Therefore, these two dual learning tasks enable our model to adaptively learn from 3D human pose data and external large-scale 2D human pose data. We further apply our self-supervised correction mechanism to develop a 3D human pose machine, which jointly integrates the 2D spatial relationship, temporal smoothness of predictions and 3D geometric knowledge. Extensive evaluations on the Human3.6M and HumanEva-I benchmarks demonstrate the superior performance and efficiency of our framework over all the compared competing methods.",
+    "publicationYear": "2020",
+    "pdfPath": "/iel7/34/9055268/08611195.pdf",
+    "publicationDate": "01 May 2020",
+    "doi": "10.1109/TPAMI.2019.2892452",
+    "formulaStrippedArticleTitle": "3D Human Pose Machines with Self-Supervised Learning",
+    "displayPublicationTitle": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+    "authorNames": "Keze Wang;Liang Lin;Chenhan Jiang;Chen Qian;Pengxu Wei",
+    "publicationTitle": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+    "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=34&title=3D+Human+Pose+Machines+with+Self-Supervised+Learning&isbn=&publicationDate=01+May+2020&author=Keze+Wang&ContentID=10.1109/TPAMI.2019.2892452&orderBeanReset=true&startPage=1069&endPage=1082&volumeNum=42&issueNum=5",
+    "dateOfInsertion": "13 January 2019",
+    "startPage": "1069",
+    "endPage": "1082",
+    "pdfUrl": "/stamp/stamp.jsp?tp=&arnumber=8611195",
+    "keywords": [
+        {
+            "type": "IEEE Keywords",
+            "kwd": [
+                "Three-dimensional displays",
+                "Two dimensional displays",
+                "Pose estimation",
+                "Solid modeling",
+                "Task analysis",
+                "Deep learning",
+                "Feature extraction"
+            ]
+        },
+        {
+            "type": "INSPEC: Controlled Indexing",
+            "kwd": [
+                "computer vision",
+                "image motion analysis",
+                "image representation",
+                "learning (artificial intelligence)",
+                "object tracking",
+                "pose estimation",
+                "regression analysis"
+            ]
+        },
+        {
+            "type": "INSPEC: Non-Controlled Indexing",
+            "kwd": [
+                "dual learning tasks",
+                "3D-to-2D pose projection",
+                "intermediate 3D poses",
+                "pose representation",
+                "estimated 2D poses",
+                "3D human pose machine",
+                "2D spatial relationship",
+                "3D geometric knowledge",
+                "self-supervised correction mechanism",
+                "2D human pose-aware features",
+                "3D human pose machines",
+                "large-scale 2D human pose data",
+                "Human3.6M benchmarks",
+                "HumanEva-I benchmarks",
+                "computer vision",
+                "robotic applications"
+            ]
+        },
+        {
+            "type": "Author Keywords ",
+            "kwd": [
+                "Human pose estimation",
+                "convolutional neural networks",
+                "spatio-temporal modeling",
+                "self-supervised learning",
+                "geometric deep learning"
+            ]
+        },
+        {
+            "type": "MeSH Terms",
+            "kwd": [
+                "Algorithms",
+                "Databases, Factual",
+                "Deep Learning",
+                "Humans",
+                "Imaging, Three-Dimensional",
+                "Posture",
+                "Supervised Machine Learning",
+                "Video Recording"
+            ]
+        }
+    ],
+    "doiLink": "https://doi-org.proxy.lib.ohio-state.edu/10.1109/TPAMI.2019.2892452",
+    "displayPublicationDate": "13 January 2019",
+    "articleCopyRight": "2019 IEEE",
+    "issueLink": "/xpl/tocresult.jsp?isnumber=9055268&punumber=34",
+    "pubLink": "/xpl/RecentIssue.jsp?punumber=34",
+    "allowComments": false,
+    "isGetAddressInfoCaptured": false,
+    "isMarketingOptIn": false,
+    "pubTopics": [
+        {
+            "name": "Computing and Processing"
+        },
+        {
+            "name": "Bioengineering"
+        }
+    ],
+    "publisher": "IEEE",
+    "displayDocTitle": "3D Human Pose Machines with Self-Supervised Learning",
+    "isStandard": false,
+    "isConference": false,
+    "volume": "42",
+    "issue": "5",
+    "isBookWithoutChapters": false,
+    "isChapter": false,
+    "isProduct": false,
+    "isEarlyAccess": false,
+    "isOpenAccess": false,
+    "isEphemera": false,
+    "xploreDocumentType": "Journals & Magazine",
+    "isBook": false,
+    "isJournal": true,
+    "isSpringer": false,
+    "accessionNumber": "19509554",
+    "pubMedId": "30640601",
+    "isFreeDocument": false,
+    "isPromo": false,
+    "isDynamicHtml": true,
+    "htmlLink": "/document/8611195/",
+    "htmlAbstractLink": "/document/8611195/",
+    "isCustomDenial": false,
+    "persistentLink": "https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/servlet/opac?punumber=34",
+    "isNow": false,
+    "isSAE": false,
+    "isOUP": false,
+    "isSMPTE": false,
+    "fundingAgencies": {
+        "fundingAgency": [
+            {
+                "fundingId": "10.13039/501100013290",
+                "fundingName": "National Key Research and Development Program of China Stem Cell and Translational Research",
+                "grantNumber": "2018YFC0830103"
+            },
+            {
+                "fundingName": "National High Level Talents Special Support Plan"
+            },
+            {
+                "fundingId": "10.13039/501100001809",
+                "fundingName": "National Natural Science Foundation of China",
+                "grantNumber": "61622214 and 61836012"
+            },
+            {
+                "fundingName": "Ministry of Public Security Science and Technology Police Foundation",
+                "grantNumber": "2016GABJC48"
+            },
+            {
+                "fundingName": "Guandong \u201cClimbing Program\u201d",
+                "grantNumber": "pdjh2018b0013"
+            }
+        ]
+    },
+    "openAccessFlag": "F",
+    "insertDate": "13 January 2019",
+    "ephemeraFlag": "false",
+    "title": "3D Human Pose Machines with Self-Supervised Learning",
+    "html_flag": "false",
+    "ml_html_flag": "true",
+    "sourcePdf": "tpami-lin-2892452-x.pdf",
+    "mlTime": "PT0.130431S",
+    "xplore-pub-id": "34",
+    "sponsors": [
+        {
+            "name": "IEEE Computer Society",
+            "url": "http://computer.org.proxy.lib.ohio-state.edu/"
+        }
+    ],
+    "isNumber": "9055268",
+    "rightsLinkFlag": "1",
+    "contentType": "periodicals",
+    "publicationNumber": "34",
+    "citationCount": "29",
+    "xplore-issue": "9055268",
+    "articleId": "8611195",
+    "contentTypeDisplay": "Journals",
+    "subType": "IEEE Transaction",
+    "_value": "IEEE",
+    "lastupdate": "2023-10-07",
+    "mediaPath": "/mediastore_new/IEEE/content/media/34/9055268/8611195"
+}

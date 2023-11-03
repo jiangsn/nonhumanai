@@ -1,0 +1,1 @@
+Figure 6: Appearance transfer on Market-1501. Appearance is provided by image on bottom left. \hat{y} (middle) is automatically extracted from image at the top and transferred to bottom.

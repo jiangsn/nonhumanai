@@ -1,0 +1,1 @@
+Figure 3 Visualization of the voxel block octree. The (left) part depicts the space subdivision which is induced by the octree in the (middle). The (right) side is a 2D visualization of parts of the voxel blocks with a voxel block size of b=4b=4.

@@ -1,0 +1,2 @@
+Figure 7. 
+Qualitative comparison. We show the diversity and quality of many generated results for each method on the t=15 and 30 frame generation. Competing approaches result in missing or unrealistic frames. Our approach is able to generate plausible views of the scene.

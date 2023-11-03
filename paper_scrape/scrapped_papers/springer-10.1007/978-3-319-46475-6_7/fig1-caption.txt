@@ -1,0 +1,1 @@
+Images and ground-truth semantic label maps produced by the presented approach. Left: images extracted from the game Grand Theft Auto V. Right: semantic label maps. The color coding is defined in Fig. 4. (Color figure online)

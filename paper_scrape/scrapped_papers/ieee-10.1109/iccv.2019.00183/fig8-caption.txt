@@ -1,0 +1,1 @@
+Figure 8. Our results regarding face restoration. Our system can satisfactorily restore the face if given sufficient input information even if many regions are erased.

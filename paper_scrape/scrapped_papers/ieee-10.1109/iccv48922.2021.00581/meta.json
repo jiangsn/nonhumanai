@@ -1,0 +1,265 @@
+{
+    "userInfo": {
+        "customerNameRaw": "The Ohio State University",
+        "institutionName": "The Ohio State University",
+        "institute": true,
+        "member": false,
+        "individual": false,
+        "guest": false,
+        "subscribedContent": false,
+        "fileCabinetContent": false,
+        "fileCabinetUser": false,
+        "institutionalFileCabinetUser": false,
+        "products": "IEL|EBOOKS:1974:2014|JRNLARCH:1884:1994|CONFARCH:1951:1999|IBM:1872:2020|VDE|NOKIA BELL LABS|",
+        "instType": "Academic",
+        "userIds": [
+            7827
+        ],
+        "showPatentCitations": true,
+        "showGet802Link": true,
+        "openUrlImgLoc": "http://library-osu-edu.proxy.lib.ohio-state.edu/resources/serialssolutions/buttons/button75x25edit.jpg",
+        "openUrlLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu",
+        "instLogoFile": "7827_OSULHoriz.png",
+        "openUrlTxt": "Find It!",
+        "showOpenUrlLink": true,
+        "marketingInfoCaptured": false,
+        "tracked": false,
+        "ringGoldId": "2647",
+        "delegatedAdmin": false,
+        "desktop": false,
+        "isInstitutionDashboardEnabled": false,
+        "isInstitutionProfileEnabled": false,
+        "isRoamingEnabled": true,
+        "isDelegatedAdmin": false,
+        "isMdl": false,
+        "isCwg": false,
+        "isIel": true,
+        "isAcademic": true
+    },
+    "authors": [
+        {
+            "name": "Keunhong Park",
+            "affiliation": [
+                "University of Washington"
+            ],
+            "firstName": "Keunhong",
+            "lastName": "Park",
+            "id": "37088454821"
+        },
+        {
+            "name": "Utkarsh Sinha",
+            "affiliation": [
+                "Google Research"
+            ],
+            "firstName": "Utkarsh",
+            "lastName": "Sinha",
+            "id": "37087405032"
+        },
+        {
+            "name": "Jonathan T. Barron",
+            "affiliation": [
+                "Google Research"
+            ],
+            "firstName": "Jonathan T.",
+            "lastName": "Barron",
+            "id": "37953015500"
+        },
+        {
+            "name": "Sofien Bouaziz",
+            "affiliation": [
+                "Google Research"
+            ],
+            "firstName": "Sofien",
+            "lastName": "Bouaziz",
+            "id": "37089109668"
+        },
+        {
+            "name": "Dan B Goldman",
+            "affiliation": [
+                "Google Research"
+            ],
+            "firstName": "Dan B",
+            "lastName": "Goldman",
+            "id": "37395742800"
+        },
+        {
+            "name": "Steven M. Seitz",
+            "affiliation": [
+                "University of Washington",
+                "Google Research"
+            ],
+            "firstName": "Steven M.",
+            "lastName": "Seitz",
+            "id": "37298459900"
+        },
+        {
+            "name": "Ricardo Martin-Brualla",
+            "affiliation": [
+                "Google Research"
+            ],
+            "firstName": "Ricardo",
+            "lastName": "Martin-Brualla",
+            "id": "37085739202"
+        }
+    ],
+    "isbn": [
+        {
+            "format": "Electronic ISBN",
+            "value": "978-1-6654-2812-5",
+            "isbnType": ""
+        },
+        {
+            "format": "Print on Demand(PoD) ISBN",
+            "value": "978-1-6654-2813-2",
+            "isbnType": ""
+        }
+    ],
+    "issn": [
+        {
+            "format": "Electronic ISSN",
+            "value": "2380-7504"
+        },
+        {
+            "format": "Print on Demand(PoD) ISSN",
+            "value": "1550-5499"
+        }
+    ],
+    "articleNumber": "9711476",
+    "dbTime": "1 ms",
+    "metrics": {
+        "citationCountPaper": 246,
+        "citationCountPatent": 0,
+        "totalDownloads": 240
+    },
+    "purchaseOptions": {
+        "showOtherFormatPricingTab": false,
+        "showPdfFormatPricingTab": true,
+        "pdfPricingInfoAvailable": true,
+        "otherPricingInfoAvailable": false,
+        "mandatoryBundle": false,
+        "optionalBundle": false,
+        "displayTextWhenOtherFormatPricingNotAvailable": "The purchase and pricing options for this item are unavailable. Select items are only available as part of a subscription package. You may try again later or <a href='https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/xpl/contact' target='_blank'>contact us</a> for more information.",
+        "pdfPricingInfo": [
+            {
+                "memberPrice": "$14.95",
+                "nonMemberPrice": "$33.00",
+                "partNumber": "9711476",
+                "type": "PDF/HTML"
+            }
+        ],
+        "openUrlFullLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu?url_ver=Z39.88-2004&rfr_id=info:sid/IEEE.org:XPLORE&rft_id=info:doi/10.1109/ICCV48922.2021.00581&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&rft.atitle=Nerfies: Deformable Neural Radiance Fields&rft.jtitle=2021 IEEE/CVF International Conference on Computer Vision (ICCV)&rft.date=2021&rft.spage=5845&rft.epage=5854&rft.eissn=2380-7504&rft.au=Keunhong Park&rft.aulast=Keunhong Park&rft.isbn=978-1-6654-2812-5"
+    },
+    "getProgramTermsAccepted": false,
+    "sections": {
+        "abstract": "true",
+        "authors": "true",
+        "figures": "true",
+        "multimedia": "false",
+        "references": "true",
+        "citedby": "true",
+        "keywords": "true",
+        "definitions": "false",
+        "algorithm": "false",
+        "dataset": "false",
+        "cadmore": "false",
+        "footnotes": "true",
+        "disclaimer": "false",
+        "relatedContent": "false",
+        "metrics": "true"
+    },
+    "abstract": "We present the first method capable of photorealistically reconstructing deformable scenes using photos/videos captured casually from mobile phones. Our approach augments neural radiance fields (NeRF) by optimizing an additional continuous volumetric deformation field that warps each observed point into a canonical 5D NeRF. We observe that these NeRF-like deformation fields are prone to local minima, and propose a coarse-to-fine optimization method for coordinate-based models that allows for more robust optimization. By adapting principles from geometry processing and physical simulation to NeRF-like models, we propose an elastic regularization of the deformation field that further improves robustness. We show that our method can turn casually captured selfie photos/videos into deformable NeRF models that allow for photorealistic renderings of the subject from arbitrary viewpoints, which we dub \"nerfies.\" We evaluate our method by collecting time-synchronized data using a rig with two mobile phones, yielding train/validation images of the same pose at different viewpoints. We show that our method faithfully reconstructs non-rigidly deforming scenes and reproduces unseen views with high fidelity.",
+    "publicationYear": "2021",
+    "pdfPath": "/iel7/9709627/9709628/09711476.pdf",
+    "publicationDate": "October 2021",
+    "doi": "10.1109/ICCV48922.2021.00581",
+    "formulaStrippedArticleTitle": "Nerfies: Deformable Neural Radiance Fields",
+    "displayPublicationTitle": "2021 IEEE/CVF International Conference on Computer Vision (ICCV)",
+    "authorNames": "Keunhong Park;Utkarsh Sinha;Jonathan T. Barron;Sofien Bouaziz;Dan B Goldman;Steven M. Seitz;Ricardo Martin-Brualla",
+    "publicationTitle": "2021 IEEE/CVF International Conference on Computer Vision (ICCV)",
+    "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=proceedings&title=Nerfies%3A+Deformable+Neural+Radiance+Fields&isbn=978-1-6654-2812-5&publicationDate=October+2021&author=Keunhong+Park&ContentID=10.1109/ICCV48922.2021.00581&orderBeanReset=true&startPage=5845&endPage=5854&proceedingName=2021+IEEE%2FCVF+International+Conference+on+Computer+Vision+%28ICCV%29",
+    "dateOfInsertion": "28 February 2022",
+    "startPage": "5845",
+    "endPage": "5854",
+    "pdfUrl": "/stamp/stamp.jsp?tp=&arnumber=9711476",
+    "keywords": [
+        {
+            "type": "IEEE Keywords",
+            "kwd": [
+                "Deformable models",
+                "Geometry",
+                "Adaptation models",
+                "Computer vision",
+                "Optimization methods",
+                "Rendering (computer graphics)",
+                "Mobile handsets"
+            ]
+        },
+        {
+            "type": "Author Keywords ",
+            "kwd": [
+                "Stereo",
+                "3D from multiview and other sensors"
+            ]
+        }
+    ],
+    "doiLink": "https://doi-org.proxy.lib.ohio-state.edu/10.1109/ICCV48922.2021.00581",
+    "displayPublicationDate": "10-17 October 2021",
+    "articleCopyRight": "2021 IEEE",
+    "issueLink": "/xpl/tocresult.jsp?isnumber=9709628&punumber=9709627",
+    "pubLink": "/xpl/conhome/9709627/proceeding",
+    "allowComments": false,
+    "isGetAddressInfoCaptured": false,
+    "isMarketingOptIn": false,
+    "pubTopics": [
+        {
+            "name": "Computing and Processing"
+        }
+    ],
+    "publisher": "IEEE",
+    "displayDocTitle": "Nerfies: Deformable Neural Radiance Fields",
+    "isStandard": false,
+    "isConference": true,
+    "isBookWithoutChapters": false,
+    "isChapter": false,
+    "isProduct": false,
+    "isEarlyAccess": false,
+    "isOpenAccess": false,
+    "isEphemera": false,
+    "xploreDocumentType": "Conference Publication",
+    "isBook": false,
+    "isJournal": false,
+    "isSpringer": false,
+    "isFreeDocument": false,
+    "isPromo": false,
+    "isDynamicHtml": true,
+    "htmlLink": "/document/9711476/",
+    "htmlAbstractLink": "/document/9711476/",
+    "isCustomDenial": false,
+    "persistentLink": "https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/servlet/opac?punumber=9709627",
+    "isNow": false,
+    "isSAE": false,
+    "isOUP": false,
+    "isSMPTE": false,
+    "openAccessFlag": "F",
+    "insertDate": "28 February 2022",
+    "ephemeraFlag": "false",
+    "title": "Nerfies: Deformable Neural Radiance Fields",
+    "confLoc": "Montreal, QC, Canada",
+    "html_flag": "false",
+    "ml_html_flag": "true",
+    "sourcePdf": "281200f845.pdf",
+    "mlTime": "PT0.08135S",
+    "xplore-pub-id": "9709627",
+    "isNumber": "9709628",
+    "rightsLinkFlag": "1",
+    "contentType": "conferences",
+    "publicationNumber": "9709627",
+    "citationCount": "246",
+    "xplore-issue": "9709628",
+    "articleId": "9711476",
+    "contentTypeDisplay": "Conferences",
+    "subType": "IEEE Conference",
+    "_value": "IEEE",
+    "lastupdate": "2023-10-14",
+    "mediaPath": "/mediastore_new/IEEE/content/media/9709627/9709628/9711476"
+}

@@ -1,0 +1,2 @@
+TABLE 6 
+Ablations on SR3 for Class-Conditional 256×256 ImageNet

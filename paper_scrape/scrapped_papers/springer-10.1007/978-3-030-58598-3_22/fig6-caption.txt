@@ -1,0 +1,1 @@
+Forward-backward consistency. Click on each image to see the change in output when the viewpoint is revisited. Note how drastically vid2vid results change, while ours remain almost the same (see Supplementary material). Please view with Acrobat Reader.

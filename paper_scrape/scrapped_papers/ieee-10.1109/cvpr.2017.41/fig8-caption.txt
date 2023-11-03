@@ -1,0 +1,1 @@
+Figure 8. The visual comparison results on the composition-1k testing dataset. “Ours-raw” denotes the results of our matting encoder-decoder stage while “Ours-refined” denotes the results of our matting refinement stage.

@@ -1,0 +1,2 @@
+Fig. 17. 
+How to ingest G-buffers? Enhancement of GTA images (left) using SPADE modules (middle) is highly volatile across the dataset (compare the top and bottom rows). Our RAD modules yield more consistent results (right).

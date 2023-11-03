@@ -1,0 +1,1 @@
+Semantic diffusion result using our in-domain GAN inversion. Target images (first column) are seamlessly diffused into context images (first row) while the identify remains the same as the target.

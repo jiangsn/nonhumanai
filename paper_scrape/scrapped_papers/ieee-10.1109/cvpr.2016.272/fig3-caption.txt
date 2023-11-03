@@ -1,0 +1,1 @@
+Figure 3: Comparison of patch matching at different layers of a VGG network.

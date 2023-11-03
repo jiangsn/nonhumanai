@@ -1,0 +1,1 @@
+Figure 7. Reverse of Figure 5. Examples of Unsupervised image translation from dog(cat2dog Dataset, Domain A) to human(CelebA Dataset, Domain B) using various network structures. CycleGAN, DRIT, UNIT, MUNIT are all trained to 64×64 resolution using the default settings from the official implementations.

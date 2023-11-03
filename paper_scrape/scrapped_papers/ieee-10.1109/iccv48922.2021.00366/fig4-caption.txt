@@ -1,0 +1,2 @@
+Figure 4. 
+Histograms of self-reported age and ethnicity in our scan collection, which was used to build our face model and texture library. Our collection covers a range of age and ethnicity.

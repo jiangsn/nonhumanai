@@ -1,0 +1,1 @@
+Post-processing of a single-phase wave simulation. Water–air mixtures are generated at the crest of the wave and in the impact zone of the wave. The realism of the coarse fluid simulation is significantly improved by adding multiphase effects with small-scale features

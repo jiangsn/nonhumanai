@@ -1,0 +1,2 @@
+Figure 9: 
+Qualitative results for face frontalization. Our method more realistically frontalizes the faces.

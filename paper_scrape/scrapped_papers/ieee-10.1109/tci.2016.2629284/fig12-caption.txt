@@ -1,0 +1,2 @@
+Fig. 12. CT-based DoG sharpener: Applying the DoG filters on the image, followed by blending steps that utilize the
+ outcome of the CT.

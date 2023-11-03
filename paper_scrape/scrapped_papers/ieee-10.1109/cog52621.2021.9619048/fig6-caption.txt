@@ -1,0 +1,1 @@
+Fig. 6: Visualization of trajectories leaving the exploration boundary. The agents have found multiple ways of exploiting design oversights to reach into areas which should be inaccessible. These trajectories were recorded during training and could be used to redesign the map and fix these issues.

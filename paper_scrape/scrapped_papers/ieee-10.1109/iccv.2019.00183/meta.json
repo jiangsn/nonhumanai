@@ -1,0 +1,239 @@
+{
+    "userInfo": {
+        "customerNameRaw": "The Ohio State University",
+        "institutionName": "The Ohio State University",
+        "institute": true,
+        "member": false,
+        "individual": false,
+        "guest": false,
+        "subscribedContent": false,
+        "fileCabinetContent": false,
+        "fileCabinetUser": false,
+        "institutionalFileCabinetUser": false,
+        "products": "IEL|EBOOKS:1974:2014|JRNLARCH:1884:1994|CONFARCH:1951:1999|IBM:1872:2020|VDE|NOKIA BELL LABS|",
+        "instType": "Academic",
+        "userIds": [
+            7827
+        ],
+        "showPatentCitations": true,
+        "showGet802Link": true,
+        "openUrlImgLoc": "http://library-osu-edu.proxy.lib.ohio-state.edu/resources/serialssolutions/buttons/button75x25edit.jpg",
+        "openUrlLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu",
+        "instLogoFile": "7827_OSULHoriz.png",
+        "openUrlTxt": "Find It!",
+        "showOpenUrlLink": true,
+        "marketingInfoCaptured": false,
+        "tracked": false,
+        "ringGoldId": "2647",
+        "delegatedAdmin": false,
+        "desktop": false,
+        "isInstitutionDashboardEnabled": false,
+        "isInstitutionProfileEnabled": false,
+        "isRoamingEnabled": true,
+        "isDelegatedAdmin": false,
+        "isMdl": false,
+        "isCwg": false,
+        "isIel": true,
+        "isAcademic": true
+    },
+    "authors": [
+        {
+            "name": "Youngjoo Jo",
+            "affiliation": [
+                "ETRI, South Korea"
+            ],
+            "firstName": "Youngjoo",
+            "lastName": "Jo",
+            "id": "37088221718"
+        },
+        {
+            "name": "Jongyoul Park",
+            "affiliation": [
+                "ETRI, South Korea"
+            ],
+            "firstName": "Jongyoul",
+            "lastName": "Park",
+            "id": "37836210100"
+        }
+    ],
+    "isbn": [
+        {
+            "format": "Electronic ISBN",
+            "value": "978-1-7281-4803-8",
+            "isbnType": ""
+        },
+        {
+            "format": "Print on Demand(PoD) ISBN",
+            "value": "978-1-7281-4804-5",
+            "isbnType": ""
+        }
+    ],
+    "issn": [
+        {
+            "format": "Electronic ISSN",
+            "value": "2380-7504"
+        },
+        {
+            "format": "Print on Demand(PoD) ISSN",
+            "value": "1550-5499"
+        }
+    ],
+    "articleNumber": "9010058",
+    "dbTime": "1 ms",
+    "metrics": {
+        "citationCountPaper": 161,
+        "citationCountPatent": 0,
+        "totalDownloads": 297
+    },
+    "purchaseOptions": {
+        "showOtherFormatPricingTab": false,
+        "showPdfFormatPricingTab": true,
+        "pdfPricingInfoAvailable": true,
+        "otherPricingInfoAvailable": false,
+        "mandatoryBundle": false,
+        "optionalBundle": false,
+        "displayTextWhenOtherFormatPricingNotAvailable": "The purchase and pricing options for this item are unavailable. Select items are only available as part of a subscription package. You may try again later or <a href='https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/xpl/contact' target='_blank'>contact us</a> for more information.",
+        "pdfPricingInfo": [
+            {
+                "memberPrice": "$14.95",
+                "nonMemberPrice": "$33.00",
+                "partNumber": "9010058",
+                "type": "PDF/HTML"
+            }
+        ],
+        "openUrlFullLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu?url_ver=Z39.88-2004&rfr_id=info:sid/IEEE.org:XPLORE&rft_id=info:doi/10.1109/ICCV.2019.00183&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&rft.atitle=SC-FEGAN: Face Editing Generative Adversarial Network With User\u2019s Sketch and Color&rft.jtitle=2019 IEEE/CVF International Conference on Computer Vision (ICCV)&rft.date=2019&rft.spage=1745&rft.epage=1753&rft.eissn=2380-7504&rft.au=Youngjoo Jo&rft.aulast=Youngjoo Jo&rft.isbn=978-1-7281-4803-8"
+    },
+    "getProgramTermsAccepted": false,
+    "sections": {
+        "abstract": "true",
+        "authors": "true",
+        "figures": "true",
+        "multimedia": "false",
+        "references": "true",
+        "citedby": "true",
+        "keywords": "true",
+        "definitions": "false",
+        "algorithm": "false",
+        "dataset": "false",
+        "cadmore": "false",
+        "footnotes": "true",
+        "disclaimer": "false",
+        "relatedContent": "false",
+        "metrics": "true"
+    },
+    "abstract": "We present a novel image editing system that generates images as the user provides free-form masks, sketches and color as inputs. Our system consists of an end-to-end trainable convolutional network. In contrast to the existing methods, our system utilizes entirely free-form user input in terms of color and shape. This allows the system to respond to the user's sketch and color inputs, using them as guidelines to generate an image. In this work, we trained the network with an additional style loss, which made it possible to generate realistic results despite large portions of the image being removed. Our proposed network architecture SC-FEGAN is well suited for generating high-quality synthetic images using intuitive user inputs.",
+    "publicationYear": "2019",
+    "pdfPath": "/iel7/8972782/9008105/09010058.pdf",
+    "publicationDate": "October 2019",
+    "doi": "10.1109/ICCV.2019.00183",
+    "formulaStrippedArticleTitle": "SC-FEGAN: Face Editing Generative Adversarial Network With User\u2019s Sketch and Color",
+    "displayPublicationTitle": "2019 IEEE/CVF International Conference on Computer Vision (ICCV)",
+    "authorNames": "Youngjoo Jo;Jongyoul Park",
+    "publicationTitle": "2019 IEEE/CVF International Conference on Computer Vision (ICCV)",
+    "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=proceedings&title=SC-FEGAN%3A+Face+Editing+Generative+Adversarial+Network+With+User%E2%80%99s+Sketch+and+Color&isbn=978-1-7281-4803-8&publicationDate=October+2019&author=Youngjoo+Jo&ContentID=10.1109/ICCV.2019.00183&orderBeanReset=true&startPage=1745&endPage=1753&proceedingName=2019+IEEE%2FCVF+International+Conference+on+Computer+Vision+%28ICCV%29",
+    "dateOfInsertion": "27 February 2020",
+    "startPage": "1745",
+    "endPage": "1753",
+    "pdfUrl": "/stamp/stamp.jsp?tp=&arnumber=9010058",
+    "keywords": [
+        {
+            "type": "IEEE Keywords",
+            "kwd": [
+                "Image color analysis",
+                "Face",
+                "Image restoration",
+                "Training",
+                "Image edge detection",
+                "Hair",
+                "Gallium nitride"
+            ]
+        },
+        {
+            "type": "INSPEC: Controlled Indexing",
+            "kwd": [
+                "convolutional neural nets",
+                "face recognition",
+                "image colour analysis",
+                "image enhancement",
+                "learning (artificial intelligence)"
+            ]
+        },
+        {
+            "type": "INSPEC: Non-Controlled Indexing",
+            "kwd": [
+                "face editing generative adversarial network",
+                "image editing system",
+                "free-form masks",
+                "end-to-end trainable convolutional network",
+                "free-form user input",
+                "color inputs",
+                "style loss",
+                "high-quality synthetic images",
+                "intuitive user inputs",
+                "SC-FEGAN network architecture",
+                "user sketch"
+            ]
+        }
+    ],
+    "doiLink": "https://doi-org.proxy.lib.ohio-state.edu/10.1109/ICCV.2019.00183",
+    "displayPublicationDate": "27 October 2019 - 02 November 2019",
+    "articleCopyRight": "2019 IEEE",
+    "issueLink": "/xpl/tocresult.jsp?isnumber=9008105&punumber=8972782",
+    "pubLink": "/xpl/conhome/8972782/proceeding",
+    "allowComments": false,
+    "isGetAddressInfoCaptured": false,
+    "isMarketingOptIn": false,
+    "pubTopics": [
+        {
+            "name": "Computing and Processing"
+        }
+    ],
+    "publisher": "IEEE",
+    "displayDocTitle": "SC-FEGAN: Face Editing Generative Adversarial Network With User\u2019s Sketch and Color",
+    "isStandard": false,
+    "isConference": true,
+    "isBookWithoutChapters": false,
+    "isChapter": false,
+    "isProduct": false,
+    "isEarlyAccess": false,
+    "isOpenAccess": false,
+    "isEphemera": false,
+    "xploreDocumentType": "Conference Publication",
+    "isBook": false,
+    "isJournal": false,
+    "isSpringer": false,
+    "accessionNumber": "19410332",
+    "isFreeDocument": false,
+    "isPromo": false,
+    "isDynamicHtml": true,
+    "htmlLink": "/document/9010058/",
+    "htmlAbstractLink": "/document/9010058/",
+    "isCustomDenial": false,
+    "persistentLink": "https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/servlet/opac?punumber=8972782",
+    "isNow": false,
+    "isSAE": false,
+    "isOUP": false,
+    "isSMPTE": false,
+    "openAccessFlag": "F",
+    "insertDate": "27 February 2020",
+    "ephemeraFlag": "false",
+    "title": "SC-FEGAN: Face Editing Generative Adversarial Network With User\u2019s Sketch and Color",
+    "confLoc": "Seoul, Korea (South)",
+    "html_flag": "false",
+    "ml_html_flag": "true",
+    "sourcePdf": "480300b745.pdf",
+    "mlTime": "PT0.049642S",
+    "xplore-pub-id": "8972782",
+    "isNumber": "9008105",
+    "rightsLinkFlag": "1",
+    "contentType": "conferences",
+    "publicationNumber": "8972782",
+    "citationCount": "161",
+    "xplore-issue": "9008105",
+    "articleId": "9010058",
+    "contentTypeDisplay": "Conferences",
+    "subType": "IEEE Conference",
+    "_value": "IEEE",
+    "lastupdate": "2023-10-09",
+    "mediaPath": "/mediastore_new/IEEE/content/media/8972782/9008105/9010058"
+}

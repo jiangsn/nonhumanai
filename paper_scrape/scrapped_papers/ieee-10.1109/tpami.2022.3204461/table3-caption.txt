@@ -1,0 +1,2 @@
+TABLE 3 
+Performance Comparison Between SR3 and Regression Baseline on Natural Image Super-Resolution Using Standard Metrics Computed on the ImageNet Validation Set

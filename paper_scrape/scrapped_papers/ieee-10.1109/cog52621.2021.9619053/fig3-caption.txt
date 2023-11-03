@@ -1,0 +1,1 @@
+Fig. 3: Driver game. A) the generator creates segments with actions: length (red dashed arrow), turn (white solid arrow), and height (blue dotted arrow) as input. B) the solver: drives a vehicle with actions: throttle (white solid arrow) and turn (yellow solid arrow).

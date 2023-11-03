@@ -1,0 +1,1 @@
+Figure 1: Video frame interpolation. Compared to the recent convolution approach that utilizes 2D kernels [36] (b), our separable convolution methods, especially the one with perceptual loss (d), incorporate 1D kernels that allow for full-frame interpolation and produce higher-quality results.

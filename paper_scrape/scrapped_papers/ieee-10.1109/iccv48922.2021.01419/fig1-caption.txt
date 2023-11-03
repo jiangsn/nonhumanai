@@ -1,0 +1,2 @@
+Figure 1. 
+Perpetual View Generation. Using a collection of aerial videos of nature scenes for training (left), our method learns to take a single image and perpetually generate novel views for a camera trajectory covering a long distance (right). Our method can successfully generate hundreds of frames of an aerial video from a single input image (up to 500 shown here).

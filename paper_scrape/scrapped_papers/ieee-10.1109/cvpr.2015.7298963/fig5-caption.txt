@@ -1,0 +1,1 @@
+Figure 5. Left: scene confusion matrix. Right: examples of misclassification. Note that some cases are ambiguous since the room is empty and the annotator made use of the floor plan to label it.

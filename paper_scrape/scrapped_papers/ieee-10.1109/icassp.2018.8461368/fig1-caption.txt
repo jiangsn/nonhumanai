@@ -1,0 +1,1 @@
+Fig. 1. Block diagram of the tacotron 2 system architecture.

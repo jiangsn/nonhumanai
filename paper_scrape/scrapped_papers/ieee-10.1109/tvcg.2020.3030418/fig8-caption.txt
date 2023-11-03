@@ -1,0 +1,1 @@
+Fig. 8. Average ratings from 16 participants regarding the usability and usefulness of cnn explainer.top: participants thought cnn explainer was easy to use, enjoyable, and helped them learn about cnns. bottom: all features, especially animations, were rated favorably.

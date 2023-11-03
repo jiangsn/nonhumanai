@@ -1,0 +1,1 @@
+Figure 6. Failure mode: biggest apartment in dataset (16 rooms, 5 bedrooms, 88 walls). (left) our 3D recons., (right) GT recons.

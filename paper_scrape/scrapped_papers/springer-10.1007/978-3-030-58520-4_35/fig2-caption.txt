@@ -1,0 +1,5 @@
+(a) The comparison between the training of conventional encoder and domain-guided encoder for GAN inversion. Model blocks in
+
+are trainable and
+
+dashed arrows indicate the supervisions. Instead of being trained with synthesized data to recover the latent code, our domain-guided encoder is trained with the objective to recover the real images. The fixed generator is involved to make sure the codes produced by the encoder lie in the native latent space of the generator and stay semantically meaningful. (b) The comparison between the conventional optimization and our domain-regularized optimization. The well-trained domain-guided encoder is included as a regularizer to land the latent code in the semantic domain during the optimization process. (Color figure online)

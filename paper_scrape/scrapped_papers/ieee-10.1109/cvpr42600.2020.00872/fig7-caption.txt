@@ -1,0 +1,1 @@
+Figure 7: Frequency analysis on each dataset. We show the average spectra of each high-pass filtered image, for both the real and fake images, similar to zhang et al. [44]. We observe periodic patterns (dots or lines) in most of the synthetic images, while biggan and progan contains relatively few such artifacts.

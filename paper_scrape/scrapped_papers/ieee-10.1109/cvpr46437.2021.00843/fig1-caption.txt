@@ -1,0 +1,2 @@
+Figure 1: 
+(a) Each pixel in NeX multiplane image consists of an alpha transparency value, base color k0, and view-dependent reflectance coefficients k1…kn. A linear combination of these coefficients and basis functions learned from a neural network produces the final color value. (b, c) show our synthesized images that can be rendered in real time with view-dependent effects such as the reflection on the silver spoon.

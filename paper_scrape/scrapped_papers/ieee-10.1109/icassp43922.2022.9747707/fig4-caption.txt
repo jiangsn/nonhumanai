@@ -1,0 +1,2 @@
+Fig. 4: 
+L1 distance between ground truth alignments and those extracted during training for Flowtron and Tacotron 2. Both use different batch sizes and are thus plotted separately.

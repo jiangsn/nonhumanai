@@ -1,0 +1,2 @@
+TABLE 4 
+Comparison of ResNet-50 Classification Accuracy on 4× Super-Resolution Outputs of the First 1 K Images From the ImageNet Validation Set

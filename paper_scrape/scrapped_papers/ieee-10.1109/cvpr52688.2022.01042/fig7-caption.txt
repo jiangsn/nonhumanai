@@ -1,0 +1,1 @@
+Figure 7. top: Samples from our LDM for layout-to-image synthesis on COCO [4]. Quantitative evaluation in the supplement. bottom: Samples from our text-to-image LDM model for user-defined text prompts, which is trained on LAION-400M [76].

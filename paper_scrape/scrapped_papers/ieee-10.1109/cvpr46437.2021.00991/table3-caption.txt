@@ -1,0 +1,2 @@
+Table 3: 
+Face frontalization quantitative comparisons. We compute the identity loss and angle difference for each method and report the percentage where the losses are within a threshold (0.05 and 15 degrees, respectively).

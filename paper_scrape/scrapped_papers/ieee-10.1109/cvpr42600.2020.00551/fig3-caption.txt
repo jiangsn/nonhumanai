@@ -1,0 +1,1 @@
+Figure 3: An illustration of MulNet (a), GroupNet (b) and GroupDNet (c). Note the last layers of MulNet and GroupNet are fusing modules that are comprised of several normal convolutional layers to fuse results of different classes.

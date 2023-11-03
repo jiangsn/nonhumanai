@@ -1,0 +1,2 @@
+Fig. 3: 
+Converged soft alignments for Flowtron, Tacotron2. Alignment framework provides sharper, more connected alignments.

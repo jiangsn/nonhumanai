@@ -1,0 +1,1 @@
+The network from Fig. 2, with ReLU nodes split into backward- and forward-facing variables.

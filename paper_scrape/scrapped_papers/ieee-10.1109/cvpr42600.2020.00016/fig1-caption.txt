@@ -1,0 +1,1 @@
+Figure 1: Given a high-resolution single image of a person, we recover highly detailed 3D reconstructions of clothed humans at 1k resolution.

@@ -1,0 +1,2 @@
+Table 1. 
+Accuracy of Deepfake detectors on the FaceForensics++ HQ Dataset as reported in [40], The results are for the entire high-quality compressed test set generated using four manipulation techniques (DF: DeepFakes, F2F: Face2Face, FS: FaceSwap and NT: NeuralTextures).

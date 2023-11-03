@@ -1,0 +1,1 @@
+Table 2: Automatic body joint detection is applied to images of humans synthesized by our method, pix2pix, and PG2. The l2 error of joint location is presented, indicating how good shape is preserved. The error is measured in pixels based on a resolution of 256\times 256.

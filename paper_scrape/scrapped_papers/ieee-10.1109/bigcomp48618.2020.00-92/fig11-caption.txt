@@ -1,0 +1,1 @@
+Figure 11. User-study result of five image-to-image translation algorithms.

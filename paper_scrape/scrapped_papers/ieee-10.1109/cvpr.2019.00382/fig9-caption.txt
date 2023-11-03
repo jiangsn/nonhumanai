@@ -1,0 +1,2 @@
+Figure 9. 
+Visual comparisons on the HD dataset [2]. The Sep-Conv [25] method cannot align the content as the motion is larger than the size of interpolation kernels, e.g., 51 × 51. The proposed DAIN reveals more details on the hair and eyes than the state-of- the-art MEMC-Net [2].

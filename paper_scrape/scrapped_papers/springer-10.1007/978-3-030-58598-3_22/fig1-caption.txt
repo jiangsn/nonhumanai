@@ -1,0 +1,3 @@
+Imagine moving around in a world such as the one abstracted at the top. As you move from locations 1→N→1, you would expect the appearance of previously seen walls and people to remain unchanged. However, current video-to-video synthesis methods such as vid2vid 
+[77] or our improved architecture combining vid2vid with SPADE 
+[59] cannot produce such world-consistent videos (third and second rows). Only our method is able to produce videos consistent over viewpoints by adding a mechanism for world consistency (first row) (see Supplementary material). Please view with Acrobat Reader. Click any middle column image to play video.

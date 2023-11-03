@@ -1,0 +1,1 @@
+Figure 7 Evaluation on the validation set at different extraction thresholds for the class aeroplane at a resolution of 2563. For IoU higher is better and for CD lower is better.

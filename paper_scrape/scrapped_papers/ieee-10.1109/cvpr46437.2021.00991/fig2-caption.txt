@@ -1,0 +1,2 @@
+Figure 2: 
+Combining appearance information from the source image, our framework can re-create a driving video by just using the expression and head pose information from the driving video. With a user-specified head pose, it can also synthesize the head pose change in the output video.

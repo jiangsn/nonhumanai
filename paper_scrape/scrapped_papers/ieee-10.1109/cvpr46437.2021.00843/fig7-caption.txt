@@ -1,0 +1,2 @@
+Figure 7: 
+Our failure cases on a crystal candle holder in scene Food (Left) and test tubes in scene Lab (Right).

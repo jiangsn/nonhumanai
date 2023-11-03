@@ -1,0 +1,1 @@
+Comparison to baselines. Different text-guided image editing methods are applied on several images: cake image using “oreo cake” (Fig. 1); and birds using “golden birds” (Fig. 5). Manually created masks (a) are provided to the inpainting methods (b-c); the other methods are mask-free. Our results are shown in Fig. 1, and Fig. 5.

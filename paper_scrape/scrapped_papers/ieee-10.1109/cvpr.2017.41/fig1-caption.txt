@@ -1,0 +1,1 @@
+Figure 1. The comparison between our method and the closed-form matting [22]. The first image is from the alpha matting benchmark and the second image is from our 1000 testing images.

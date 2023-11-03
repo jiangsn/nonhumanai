@@ -1,0 +1,1 @@
+Figure 1. In this work, we present a data-driven local descriptor 3DMatch that establishes correspondences (green) to match geometric features in noisy and partial 3D scanning data. This figure illustrates an example of bringing two RGB-D scans into alignment using 3DMatch on depth information only. Color images are for visualization only.

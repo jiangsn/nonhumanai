@@ -1,0 +1,1 @@
+Figure 7: Segmentation visualization of the FCN-32s network on pascal VOC. The number in each column represents the change of global accuracy. The first two, middle two, and last two columns are samples with global accuracies increased, unchanged, and decreased, respectively.

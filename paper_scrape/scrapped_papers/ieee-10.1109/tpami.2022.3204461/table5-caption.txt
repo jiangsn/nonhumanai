@@ -1,0 +1,2 @@
+TABLE 5 
+FID Scores for Class-Conditional, 256×256 ImageNet Generation

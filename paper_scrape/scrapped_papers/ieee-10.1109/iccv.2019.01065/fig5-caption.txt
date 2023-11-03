@@ -1,0 +1,1 @@
+Figure 5. Limitations of the proposed framework. When the appearance of a unseen object class is dramatically different to the appearances of the source classes, (e.g. flower and animal face). The proposed FUNIT framework fails to generate meaningful translation outputs.

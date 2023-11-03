@@ -1,0 +1,1 @@
+Figure 6: Does our model's confidence correlate with visual quality? we have found that for two models, biggan and stargan, the images on the left (considered more real) tends to look better than the images on the right (considered more fake). However, this does not seem to hold for the other models. More examples on each dataset are provided in the supplemental material.

@@ -1,0 +1,1 @@
+Figure 4: Linear blending behave differently in pixel space and in neural space. Input photos credited to: Flickr user Jsome1 (cat A), flickr user MendocinoAnimalCare (cat B).

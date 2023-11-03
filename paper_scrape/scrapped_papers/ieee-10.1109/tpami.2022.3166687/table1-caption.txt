@@ -1,0 +1,2 @@
+TABLE 1 
+Comparison to Prior Work. All Methods Were Trained on the Cityscapes Dataset. Performance Reported as Kernel Inception Distance \times 1000×1000 (KID) and Semantically Aligned Kernel VGG Distance \times 1000×1000 (sKVD). Lower is Better

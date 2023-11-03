@@ -1,0 +1,2 @@
+Figure 6: 
+Qualitative comparisons on the Voxceleb2 dataset [13]. Our method better captures the driving motions.

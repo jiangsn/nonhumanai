@@ -1,0 +1,2 @@
+Figure 11. 
+Failure case due to incorrect camera registration. When the background motion cannot be accurately represented by a homography (in this case due to a significant depth variation in the scene), the predicted omnimatte may contain regions of the background to compensate for the registration inaccuracies.

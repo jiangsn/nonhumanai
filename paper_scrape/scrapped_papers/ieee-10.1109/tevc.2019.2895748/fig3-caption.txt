@@ -1,0 +1,1 @@
+Fig. 3. KDE plots of the target data and generated data from different GANs trained on mixtures of Gaussians. In the first row, a mixture of 8 Gaussians arranged in a circle. In the second row, a mixture of 25 Gaussians arranged in a grid.

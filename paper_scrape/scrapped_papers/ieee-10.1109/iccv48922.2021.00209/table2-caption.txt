@@ -1,0 +1,2 @@
+Table 2. 
+Average cosine similarity between manipulation directions obtained from mappers trained using differnt text prompts.

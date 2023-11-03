@@ -1,0 +1,1 @@
+Quantitative evaluation of the alignment and model refinement on synthetic data. The Hausdorff distance errors of the out-of-plane refinement are below 10% (mean) and below 12% (RMS). The error, however, slightly increases when deformations reach 60%. The reprojection errors are below 3 px despite the variation of the amount of deformation and the noise perturbation

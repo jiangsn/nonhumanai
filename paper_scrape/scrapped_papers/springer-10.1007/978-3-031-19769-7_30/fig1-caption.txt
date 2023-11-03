@@ -1,0 +1,1 @@
+Learning perpetual view generation from single images. Given a single RGB image input, our approach generates novel views corresponding to a continuous long camera trajectory, without ever seeing a video during training.

@@ -1,0 +1,274 @@
+{
+    "userInfo": {
+        "customerNameRaw": "The Ohio State University",
+        "institutionName": "The Ohio State University",
+        "institute": true,
+        "member": false,
+        "individual": false,
+        "guest": false,
+        "subscribedContent": false,
+        "fileCabinetContent": false,
+        "fileCabinetUser": false,
+        "institutionalFileCabinetUser": false,
+        "products": "IEL|EBOOKS:1974:2014|JRNLARCH:1884:1994|CONFARCH:1951:1999|IBM:1872:2020|VDE|NOKIA BELL LABS|",
+        "instType": "Academic",
+        "userIds": [
+            7827
+        ],
+        "showPatentCitations": true,
+        "showGet802Link": true,
+        "openUrlImgLoc": "http://library-osu-edu.proxy.lib.ohio-state.edu/resources/serialssolutions/buttons/button75x25edit.jpg",
+        "openUrlLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu",
+        "instLogoFile": "7827_OSULHoriz.png",
+        "openUrlTxt": "Find It!",
+        "showOpenUrlLink": true,
+        "marketingInfoCaptured": false,
+        "tracked": false,
+        "ringGoldId": "2647",
+        "delegatedAdmin": false,
+        "desktop": false,
+        "isInstitutionDashboardEnabled": false,
+        "isInstitutionProfileEnabled": false,
+        "isRoamingEnabled": true,
+        "isDelegatedAdmin": false,
+        "isMdl": false,
+        "isCwg": false,
+        "isIel": true,
+        "isAcademic": true
+    },
+    "authors": [
+        {
+            "name": "Linus Gissl\u00e9n",
+            "affiliation": [
+                "SEED - Electronic Arts (EA)"
+            ],
+            "firstName": "Linus",
+            "lastName": "Gissl\u00e9n",
+            "id": "37085689642"
+        },
+        {
+            "name": "Andy Eakins",
+            "affiliation": [
+                "Frostbite - Electronic Arts (EA)"
+            ],
+            "firstName": "Andy",
+            "lastName": "Eakins",
+            "id": "37089180117"
+        },
+        {
+            "name": "Camilo Gordillo",
+            "affiliation": [
+                "SEED - Electronic Arts (EA)"
+            ],
+            "firstName": "Camilo",
+            "lastName": "Gordillo",
+            "id": "38247021100"
+        },
+        {
+            "name": "Joakim Bergdahl",
+            "affiliation": [
+                "SEED - Electronic Arts (EA)"
+            ],
+            "firstName": "Joakim",
+            "lastName": "Bergdahl",
+            "id": "37086479454"
+        },
+        {
+            "name": "Konrad Tollmar",
+            "affiliation": [
+                "SEED - Electronic Arts (EA)"
+            ],
+            "firstName": "Konrad",
+            "lastName": "Tollmar",
+            "id": "37282909500"
+        }
+    ],
+    "isbn": [
+        {
+            "format": "Electronic ISBN",
+            "value": "978-1-6654-3886-5",
+            "isbnType": ""
+        },
+        {
+            "format": "Print on Demand(PoD) ISBN",
+            "value": "978-1-6654-4608-2",
+            "isbnType": ""
+        }
+    ],
+    "issn": [
+        {
+            "format": "Electronic ISSN",
+            "value": "2325-4289"
+        },
+        {
+            "format": "Print on Demand(PoD) ISSN",
+            "value": "2325-4270"
+        }
+    ],
+    "articleNumber": "9619053",
+    "dbTime": "0 ms",
+    "metrics": {
+        "citationCountPaper": 11,
+        "citationCountPatent": 0,
+        "totalDownloads": 742
+    },
+    "purchaseOptions": {
+        "showOtherFormatPricingTab": false,
+        "showPdfFormatPricingTab": true,
+        "pdfPricingInfoAvailable": true,
+        "otherPricingInfoAvailable": false,
+        "mandatoryBundle": false,
+        "optionalBundle": false,
+        "displayTextWhenOtherFormatPricingNotAvailable": "The purchase and pricing options for this item are unavailable. Select items are only available as part of a subscription package. You may try again later or <a href='https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/xpl/contact' target='_blank'>contact us</a> for more information.",
+        "pdfPricingInfo": [
+            {
+                "memberPrice": "$14.95",
+                "nonMemberPrice": "$33.00",
+                "partNumber": "9619053",
+                "type": "PDF/HTML"
+            }
+        ],
+        "openUrlFullLink": "http://nf4hr2ve4v-search-serialssolutions-com.proxy.lib.ohio-state.edu?url_ver=Z39.88-2004&rfr_id=info:sid/IEEE.org:XPLORE&rft_id=info:doi/10.1109/CoG52621.2021.9619053&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&rft.atitle=Adversarial Reinforcement Learning for Procedural Content Generation&rft.jtitle=2021 IEEE Conference on Games (CoG)&rft.date=2021&rft.spage=1&rft.epage=8&rft.eissn=2325-4289&rft.au=Linus Gissl\u00e9n&rft.aulast=Linus Gissl\u00e9n&rft.isbn=978-1-6654-3886-5"
+    },
+    "getProgramTermsAccepted": false,
+    "sections": {
+        "abstract": "true",
+        "authors": "true",
+        "figures": "true",
+        "multimedia": "false",
+        "references": "true",
+        "citedby": "true",
+        "keywords": "true",
+        "definitions": "false",
+        "algorithm": "false",
+        "dataset": "false",
+        "cadmore": "false",
+        "footnotes": "false",
+        "disclaimer": "false",
+        "relatedContent": "false",
+        "metrics": "true"
+    },
+    "abstract": "Training RL agents to solve novel environments is a notoriously difficult task. Here we present a new approach ARLPCG: Adversarial Reinforcement Learning for Procedural Content Generation, which procedurally generates and tests previously unseen environments with an auxiliary input as a control variable. The procedurally generated environments induces state diversity which increases the generalizability of the trained agents. ARLPCG deploys an adversarial model with one PCG RL agent (called Generator) and one solving RL agent (called Solver). The Generator receives a reward signal based on the Solver's performance, which encourages the environment design to be challenging but not impossible. To further drive diversity and control of the environment generation, we propose using auxiliary inputs for the Generator. The benefit is two-fold: Firstly, the Solver achieves better generalization through the Generator's generated challenges. Secondly, the trained Generator can be used as a creator of novel environments that, together with the Solver, can be shown to be solvable. We create two types of 3D environments to validate our model, representing two popular game genres: a third-person platformer and a racing game. In these cases, we show that ARLPCG has a significantly better solve ratio, and that the auxiliary inputs renders the levels creation controllable to a certain degree. For a video compilation of the results please visit https://youtu.be/z7q2PtVsT0I.",
+    "publicationYear": "2021",
+    "pdfPath": "/iel7/9618888/9618891/09619053.pdf",
+    "publicationDate": "17 August 2021",
+    "doi": "10.1109/CoG52621.2021.9619053",
+    "formulaStrippedArticleTitle": "Adversarial Reinforcement Learning for Procedural Content Generation",
+    "displayPublicationTitle": "2021 IEEE Conference on Games (CoG)",
+    "authorNames": "Linus Gissl\u00e9n;Andy Eakins;Camilo Gordillo;Joakim Bergdahl;Konrad Tollmar",
+    "publicationTitle": "2021 IEEE Conference on Games (CoG)",
+    "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=proceedings&title=Adversarial+Reinforcement+Learning+for+Procedural+Content+Generation&isbn=978-1-6654-3886-5&publicationDate=17+August+2021&author=Linus+Gissl%C3%A9n&ContentID=10.1109/CoG52621.2021.9619053&orderBeanReset=true&startPage=1&endPage=8&proceedingName=2021+IEEE+Conference+on+Games+%28CoG%29",
+    "dateOfInsertion": "07 December 2021",
+    "startPage": "1",
+    "endPage": "8",
+    "pdfUrl": "/stamp/stamp.jsp?tp=&arnumber=9619053",
+    "keywords": [
+        {
+            "type": "IEEE Keywords",
+            "kwd": [
+                "Training",
+                "Solid modeling",
+                "Three-dimensional displays",
+                "Conferences",
+                "Games",
+                "Reinforcement learning",
+                "Generators"
+            ]
+        },
+        {
+            "type": "INSPEC: Controlled Indexing",
+            "kwd": [
+                "computer games",
+                "reinforcement learning",
+                "software agents"
+            ]
+        },
+        {
+            "type": "INSPEC: Non-Controlled Indexing",
+            "kwd": [
+                "adversarial reinforcement learning",
+                "procedural content generation",
+                "RL agents",
+                "adversarial model",
+                "PCG RL agent",
+                "environment design",
+                "environment generation",
+                "Solver performance",
+                "ARLPCG approach"
+            ]
+        },
+        {
+            "type": "Author Keywords ",
+            "kwd": [
+                "machine learning",
+                "game testing",
+                "procedural content generation",
+                "automation",
+                "computer games",
+                "reinforcement learning",
+                "adversarial"
+            ]
+        }
+    ],
+    "doiLink": "https://doi-org.proxy.lib.ohio-state.edu/10.1109/CoG52621.2021.9619053",
+    "displayPublicationDate": "17-20 August 2021",
+    "articleCopyRight": "2021 IEEE",
+    "issueLink": "/xpl/tocresult.jsp?isnumber=9618891&punumber=9618888",
+    "pubLink": "/xpl/conhome/9618888/proceeding",
+    "allowComments": false,
+    "isGetAddressInfoCaptured": false,
+    "isMarketingOptIn": false,
+    "pubTopics": [
+        {
+            "name": "Computing and Processing"
+        }
+    ],
+    "publisher": "IEEE",
+    "displayDocTitle": "Adversarial Reinforcement Learning for Procedural Content Generation",
+    "isStandard": false,
+    "isConference": true,
+    "isBookWithoutChapters": false,
+    "isChapter": false,
+    "isProduct": false,
+    "isEarlyAccess": false,
+    "isOpenAccess": false,
+    "isEphemera": false,
+    "xploreDocumentType": "Conference Publication",
+    "isBook": false,
+    "isJournal": false,
+    "isSpringer": false,
+    "accessionNumber": "21482660",
+    "isFreeDocument": false,
+    "isPromo": false,
+    "isDynamicHtml": true,
+    "htmlLink": "/document/9619053/",
+    "htmlAbstractLink": "/document/9619053/",
+    "isCustomDenial": false,
+    "persistentLink": "https://ieeexplore-ieee-org.proxy.lib.ohio-state.edu/servlet/opac?punumber=9618888",
+    "isNow": false,
+    "isSAE": false,
+    "isOUP": false,
+    "isSMPTE": false,
+    "openAccessFlag": "F",
+    "insertDate": "07 December 2021",
+    "ephemeraFlag": "false",
+    "title": "Adversarial Reinforcement Learning for Procedural Content Generation",
+    "confLoc": "Copenhagen, Denmark",
+    "html_flag": "false",
+    "ml_html_flag": "true",
+    "sourcePdf": "paper_002.pdf",
+    "mlTime": "PT0.048338S",
+    "xplore-pub-id": "9618888",
+    "isNumber": "9618891",
+    "rightsLinkFlag": "1",
+    "contentType": "conferences",
+    "publicationNumber": "9618888",
+    "citationCount": "11",
+    "xplore-issue": "9618891",
+    "articleId": "9619053",
+    "contentTypeDisplay": "Conferences",
+    "subType": "IEEE Conference",
+    "_value": "IEEE",
+    "lastupdate": "2023-10-08",
+    "mediaPath": "/mediastore_new/IEEE/content/media/9618888/9618891/9619053"
+}

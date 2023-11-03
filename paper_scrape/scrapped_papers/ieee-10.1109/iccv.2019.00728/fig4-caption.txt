@@ -1,0 +1,3 @@
+Figure 4: 
+
+Qualitative face reenactment results. Row 1: The source face for reenactment. Row 2: Our reenactment results (without background removal). Row 3: The target face from which to transfer the pose and expression.

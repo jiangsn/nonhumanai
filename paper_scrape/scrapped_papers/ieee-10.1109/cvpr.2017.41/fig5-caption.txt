@@ -1,0 +1,1 @@
+Figure 5. SAD results on the alphamatting.com dataset. The top 5 methods are shown. Our method is emphasized by a red rectangle.

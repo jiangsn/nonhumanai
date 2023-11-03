@@ -1,0 +1,1 @@
+Figure 2. Our lip2wav dataset contains talking face videos of 5 speakers from chess analysis and lecture videos. Each speaker has about 20 hours of youtube video content spanning a rich vocabulary of 5000+ words.

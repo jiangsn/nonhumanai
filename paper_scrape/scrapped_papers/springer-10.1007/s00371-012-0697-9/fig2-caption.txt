@@ -1,0 +1,1 @@
+Convex and concave regions are determined using the angle between the surface normal of a fluid particle and the relative position vectors to its neighbors. Diffuse particles are created in convex regions only if the velocity of the fluid is in normal direction

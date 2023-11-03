@@ -1,0 +1,1 @@
+Table 1. Evaluation metrics for unconditional image synthesis. Celeba-hq results reproduced from [42], [61], [96], ffhq from [41], [42]. †: N-\mathrm{s} refers to N sampling steps with the DDIM [81] sampler. *: trained in KL -regularized latent space. Additional results can be found in the supplementary.

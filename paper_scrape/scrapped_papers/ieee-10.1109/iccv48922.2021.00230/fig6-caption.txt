@@ -1,0 +1,2 @@
+Figure 6: 
+Qualitative results of view synthesis.

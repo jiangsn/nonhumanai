@@ -1,0 +1,1 @@
+Figure 3: Statistics of our sequences. VGA denotes 480p, HD denotes 720p, and FHD denotes 1080p resolution of our videos. The graph (c) shows the number of sequences (y-axis) with given bounding box pixel height (x-axis).

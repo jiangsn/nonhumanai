@@ -1,0 +1,1 @@
+Fig. 6 Task semantics: simulated evaluation of the block stacking. The x-axis is the number of tasks used for training. The y-axis is the overall success rate. (A) And (b) show that NTP and its variants generalize better to novel task demonstrations and objectives as the number of training tasks increases.

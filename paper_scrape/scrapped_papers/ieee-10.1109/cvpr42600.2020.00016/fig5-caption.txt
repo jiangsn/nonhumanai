@@ -1,0 +1,1 @@
+Figure 5: Conditioning 3D inference with the predicted backside surface normal improves fidelity of the missing region.

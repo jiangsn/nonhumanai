@@ -1,0 +1,1 @@
+Table 1: Semantic segmentation scores on results by different methods on the cityscapes dataset [7]. Our result outperforms the other methods by a large margin and is very close to the accuracy on original images (i.e., the oracle).

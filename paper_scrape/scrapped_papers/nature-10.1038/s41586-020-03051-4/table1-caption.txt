@@ -1,0 +1,1 @@
+Table 1 Comparison of MuZero against previous agents in Atari

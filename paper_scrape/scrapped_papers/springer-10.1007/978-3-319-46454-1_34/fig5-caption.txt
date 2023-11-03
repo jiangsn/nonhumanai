@@ -1,0 +1,2 @@
+
+Interpenetration error term. Examples where the interpenetration term avoids unnatural poses. For each example we show, from left to right, CNN estimated joints, and the result of the optimization without and with interpenetration error term.

@@ -1,0 +1,2 @@
+Fig. 7. 
+Residual blocks. In the G-buffer encoder and RAD modules we employ residual blocks. They consist of convolutional layers (kernel size 3) with spectral normalization [94] and ReLUs. Changes in channel width or downscaling are performed in Conv 1 and Conv P. If channel width and resolution are constant, the projection via Conv P is omitted.

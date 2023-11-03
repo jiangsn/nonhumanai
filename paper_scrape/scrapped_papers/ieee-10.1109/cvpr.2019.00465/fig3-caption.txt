@@ -1,0 +1,2 @@
+Figure 3. 
+System inputs and training data. The input to our network consists of: (a) RGB image, (b) human mask, (c) masked depth computed from motion parallax w.r.t. a selected source image, and (d) masked confidence map. Low confidence regions (dark circles) in the first two rows indicate the vicinity of the camera epipole, where depth from parallax is unreliable and is removed. The network is trained to regress to MVS depth (e).

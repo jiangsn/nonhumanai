@@ -1,0 +1,2 @@
+Figure 4: 
+Output video comparison. Each row is a unique world, and each column is a different method. For a given world, all methods use the same style-conditioning image. GANcraft produces more view-consistent and more realistic outputs compared to all baselines. Click any row to play video in web browser.

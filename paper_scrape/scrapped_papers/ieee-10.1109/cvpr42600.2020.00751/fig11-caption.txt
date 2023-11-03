@@ -1,0 +1,1 @@
+Figure 11: A flower image (left) translated to several randomly sampled styles by hidt trained on oxford flowers dataset.

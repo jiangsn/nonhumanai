@@ -1,0 +1,3 @@
+Fig. 11. RAISR upscaling that allows the amplification of wide range of frequencies, enabling a contrast enhancement
+ effect. Applying the pre-leaned filters and avoiding halos and noise amplification. The blending mechanism enables
+ efficient structure and contrast enhancement, i.e., the amplification of a wide range of frequencies.

@@ -1,0 +1,1 @@
+Qualitative comparisons on the ACID test set. From left to right, we show generated views over trajectories of length 100 for three methods: GFVS [62], Liu et al.  [43] and Ours.

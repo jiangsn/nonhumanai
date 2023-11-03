@@ -1,0 +1,3 @@
+Qualitative comparison on image reconstruction with different GAN inversion methods. (a) Input image. (b) Conventional encoder
+[36]. (c) Image2StyleGAN
+[29]. (d) Our proposed domain-guided encoder. (e) Our proposed in-domain inversion.

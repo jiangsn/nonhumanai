@@ -1,0 +1,2 @@
+Figure 4: 
+The top row shows our rendered results. (a) Our method captures more accurate reflections on the table top. (b) Our method captures the reflected image of a plastic cup as well as the rainbow reflections, while NeRF produces a blurry and noisy result. (c) Our method produces a sharper image of the coil through the magnifying glass.
